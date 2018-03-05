@@ -11,8 +11,8 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 1254241,
-    "contractValue": 1254241,
+    "originalValue": 12542.41,
+    "contractValue": 12542.41,
     "comments": "This contract was sole-sourced",
     "ownerAcronym": "csa",
     "sourceYear": 2014,
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "csa\/713d98c43edfaad65a68e75b08c701e3.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=43&id=8476",
-    "vendorClean": "DUCOMMUNORPORATED"
+    "vendorClean": "DUCOMMUN"
 }

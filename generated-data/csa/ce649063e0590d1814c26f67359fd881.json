@@ -11,8 +11,8 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 2499000,
-    "contractValue": 2499000,
+    "originalValue": 24990,
+    "contractValue": 24990,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "csa",
     "sourceYear": 2008,
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "csa\/ce649063e0590d1814c26f67359fd881.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=20&id=4006",
-    "vendorClean": "6174647 CANADAORPORATED"
+    "vendorClean": "6174647 CANADA"
 }

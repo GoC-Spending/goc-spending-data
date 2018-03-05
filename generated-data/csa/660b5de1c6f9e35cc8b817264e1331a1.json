@@ -1,6 +1,6 @@
 {
     "uuid": "csa-9F00771282",
-    "vendorName": "GRAY  DR. GARY",
+    "vendorName": "GRAY DR. GARY",
     "referenceNumber": "9F00771282",
     "contractDate": "2008-08-27",
     "description": "430 - Scientific services, excluding consultants (specif",
@@ -11,8 +11,8 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 7560000,
-    "contractValue": 7560000,
+    "originalValue": 75600,
+    "contractValue": 75600,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "csa",
     "sourceYear": 2008,
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "csa\/660b5de1c6f9e35cc8b817264e1331a1.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=18&id=3761",
-    "vendorClean": "GRAY  DR GARY"
+    "vendorClean": "GRAY DR GARY"
 }

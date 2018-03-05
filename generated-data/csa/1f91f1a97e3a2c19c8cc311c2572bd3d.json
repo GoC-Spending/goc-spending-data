@@ -1,6 +1,6 @@
 {
     "uuid": "csa-9F3013745",
-    "vendorName": "CARRIER  ENTERPRISE CANADA L.P.",
+    "vendorName": "CARRIER ENTERPRISE CANADA L.P.",
     "referenceNumber": "9F3013745",
     "contractDate": "2014-01-23",
     "description": "1249 - Other equipment and parts",
@@ -11,8 +11,8 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 7750444,
-    "contractValue": 7750444,
+    "originalValue": 77504.44,
+    "contractValue": 77504.44,
     "comments": "Contract Previously not Reported -This contract was sole-sourced",
     "ownerAcronym": "csa",
     "sourceYear": 2014,
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "csa\/1f91f1a97e3a2c19c8cc311c2572bd3d.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=44&id=8591",
-    "vendorClean": "CARRIER  ENTERPRISE CANADA LP"
+    "vendorClean": "CARRIER ENTERPRISE CANADA LP"
 }

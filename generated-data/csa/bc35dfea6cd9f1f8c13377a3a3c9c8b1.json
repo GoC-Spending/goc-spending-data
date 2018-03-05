@@ -1,6 +1,6 @@
 {
     "uuid": "csa-9F03090331",
-    "vendorName": "HOSKIN SCIENTIFIC  LIMITED",
+    "vendorName": "HOSKIN SCIENTIFIC LIMITED",
     "referenceNumber": "9F03090331",
     "contractDate": "2009-07-20",
     "description": "1249 - Other equipment and parts",
@@ -11,8 +11,8 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 1329510,
-    "contractValue": 1329510,
+    "originalValue": 13295.1,
+    "contractValue": 13295.1,
     "comments": "",
     "ownerAcronym": "csa",
     "sourceYear": 2009,
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "csa\/bc35dfea6cd9f1f8c13377a3a3c9c8b1.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=22&id=9990",
-    "vendorClean": "HOSKIN SCIENTIFIC  LIMITED"
+    "vendorClean": "HOSKIN SCIENTIFIC LIMITED"
 }

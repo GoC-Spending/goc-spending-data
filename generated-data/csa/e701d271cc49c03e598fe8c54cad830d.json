@@ -11,8 +11,8 @@
     "startYear": 2010,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 157488789,
-    "contractValue": 157488789,
+    "originalValue": 1574887.89,
+    "contractValue": 1574887.89,
     "comments": "",
     "ownerAcronym": "csa",
     "sourceYear": 2010,
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "csa\/e701d271cc49c03e598fe8c54cad830d.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=26&id=10712",
-    "vendorClean": "TELEDYNE OPTECHORPORATED"
+    "vendorClean": "TELEDYNE OPTECH"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "csa-9F007F7006567",
-    "vendorName": "TREMA  GESTION CONSEIL INC.",
+    "vendorName": "TREMA GESTION CONSEIL INC.",
     "referenceNumber": "9F007F7006567",
     "contractDate": "2008-11-03",
     "description": "491 - Management consulting",
@@ -11,8 +11,8 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 2404500,
-    "contractValue": 2404500,
+    "originalValue": 24045,
+    "contractValue": 24045,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "csa",
     "sourceYear": 2008,
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "csa\/19808f85096a97140341455cc96b6354.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=19&id=4085",
-    "vendorClean": "TREMA  GESTION CONSEIL"
+    "vendorClean": "TREMA GESTION CONSEIL"
 }

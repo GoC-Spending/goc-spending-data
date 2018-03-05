@@ -11,8 +11,8 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 56825934,
-    "contractValue": 56825934,
+    "originalValue": 568259.34,
+    "contractValue": 568259.34,
     "comments": "Contract Previously not Reported - This contract was competitively sourced",
     "ownerAcronym": "csa",
     "sourceYear": 2014,
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "csa\/b7a50fd927461bc0c4800f229cfd88f6.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=44&id=8637",
-    "vendorClean": "GHGSATORPORATED"
+    "vendorClean": "GHGSAT"
 }

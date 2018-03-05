@@ -11,8 +11,8 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 2751001,
-    "contractValue": 2751001,
+    "originalValue": 27510.01,
+    "contractValue": 27510.01,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "csa",
     "sourceYear": 2008,
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "csa\/6cff7477bd4c1172d5141e4b33653327.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=17&id=3379",
-    "vendorClean": "KIFINITI SOLUTIONORPORATED"
+    "vendorClean": "KIFINITI SOLUTION"
 }

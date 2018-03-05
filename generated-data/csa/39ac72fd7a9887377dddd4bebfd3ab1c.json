@@ -11,8 +11,8 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 1837500,
-    "contractValue": 1837500,
+    "originalValue": 18375,
+    "contractValue": 18375,
     "comments": "",
     "ownerAcronym": "csa",
     "sourceYear": 2010,
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "csa\/39ac72fd7a9887377dddd4bebfd3ab1c.html",
     "sourceURL": "\/eng\/publications\/contracts-details.asp?trimestre=25&id=10530",
-    "vendorClean": "6174647 CANADAORPORATED"
+    "vendorClean": "6174647 CANADA"
 }
