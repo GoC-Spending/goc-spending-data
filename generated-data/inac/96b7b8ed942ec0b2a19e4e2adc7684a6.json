@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-07-6017\/1",
-    "vendorName": "DELPHI GROUP  THE",
+    "vendorName": "DELPHI GROUP THE",
     "referenceNumber": "20-07-6017\/1",
     "contractDate": "6\/18\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 125657.19,
+    "originalValue": 0,
     "contractValue": 125657.19,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/96b7b8ed942ec0b2a19e4e2adc7684a6.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct287-eng.asp",
-    "vendorClean": "DELPHI GROUP  THE"
+    "vendorClean": "DELPHI GROUP THE"
 }

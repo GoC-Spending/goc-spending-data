@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55908",
-    "vendorName": "Architecture49 Inc   (Winnipeg)",
+    "vendorName": "Architecture49 Inc (Winnipeg)",
     "referenceNumber": "55908",
     "contractDate": "10-4-2014",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "5-6-2014",
-    "originalValue": 27856,
+    "originalValue": 0,
     "contractValue": 27856,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "dnd\/60a42958cf0c18a048adddf9b171db44.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2014&id=id152152",
-    "vendorClean": "ARCHITECTURE49   (WINNIPEG)"
+    "vendorClean": "ARCHITECTURE49  (WINNIPEG)"
 }

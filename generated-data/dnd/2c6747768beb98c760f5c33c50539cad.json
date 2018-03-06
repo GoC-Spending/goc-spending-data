@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501231384",
-    "vendorName": "Exxonmobil  Imperial Oil",
+    "vendorName": "Exxonmobil Imperial Oil",
     "referenceNumber": "4501231384",
     "contractDate": "28-10-2014",
     "description": "Fuels, Solid",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "3-11-2014",
-    "originalValue": 254576.88,
+    "originalValue": 0,
     "contractValue": 254576.88,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/2c6747768beb98c760f5c33c50539cad.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id158618",
-    "vendorClean": "EXXONMOBIL  IMPERIAL OIL"
+    "vendorClean": "EXXONMOBIL IMPERIAL OIL"
 }

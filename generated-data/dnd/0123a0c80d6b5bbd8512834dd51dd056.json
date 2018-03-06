@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-3-2012",
-    "originalValue": 19964,
+    "originalValue": 0,
     "contractValue": 19964,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/0123a0c80d6b5bbd8512834dd51dd056.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113808",
-    "vendorClean": "ELECTRO SONICORPORATED"
+    "vendorClean": "ELECTRO SONIC"
 }

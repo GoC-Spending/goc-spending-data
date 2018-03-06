@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "30-6-2010",
-    "originalValue": 15274,
+    "originalValue": 0,
     "contractValue": 15274,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/5908486cf790af7fb4f272747ceca2fb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id71979",
-    "vendorClean": "STEEPLEORPORATED"
+    "vendorClean": "STEEPLE"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49227",
-    "vendorName": "LVM  Inc. (La Baie)",
+    "vendorName": "LVM Inc. (La Baie)",
     "referenceNumber": "49227",
     "contractDate": "29-9-2011",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "21-9-2012",
-    "originalValue": 22654,
+    "originalValue": 0,
     "contractValue": 22654,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/7003b2757b0a607c2b2c8e3e3f5e6d69.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103272",
-    "vendorClean": "LVM  (LA BAIE)"
+    "vendorClean": "LVM (LA BAIE)"
 }

@@ -1,9 +1,9 @@
 {
     "uuid": "tbs-8024530",
-    "vendorName": "ARTEMP PERSONNEL  SERVICES INC.",
+    "vendorName": "ARTEMP PERSONNEL SERVICES INC.",
     "referenceNumber": "8024530",
     "contractDate": "2009-12-17",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIE",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIE",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2009-12-17",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "tbs\/8ce43b7554b3bfc6d9fd61b741ae8f38.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=8024530&q=3&yr=2009&d=",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

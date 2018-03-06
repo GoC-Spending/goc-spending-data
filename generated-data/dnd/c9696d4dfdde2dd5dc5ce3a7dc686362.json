@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7702-145666\/001\/EDM",
-    "vendorName": "GeneFluidics Irwindale CA USA  91010",
+    "vendorName": "GeneFluidics Irwindale CA USA 91010",
     "referenceNumber": "W7702-145666\/001\/EDM",
     "contractDate": "2-1-2014",
     "description": "Electronic Instruments and Recorders",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "30-4-2014",
-    "originalValue": 26726,
+    "originalValue": 0,
     "contractValue": 26726,
     "comments": "This contract is a result of an advance contract award notice.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/c9696d4dfdde2dd5dc5ce3a7dc686362.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id146129",
-    "vendorClean": "GENEFLUIDICS IRWINDALE CA USA  91010"
+    "vendorClean": "GENEFLUIDICS IRWINDALE CA USA 91010"
 }

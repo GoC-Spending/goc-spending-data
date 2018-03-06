@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46562",
-    "vendorName": "Genivar  Inc. (Winnipeg)",
+    "vendorName": "Genivar Inc. (Winnipeg)",
     "referenceNumber": "46562",
     "contractDate": "2-3-2011",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "11-5-2012",
-    "originalValue": 70425,
+    "originalValue": 0,
     "contractValue": 70425,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/d2359ab1e40f7d5e3feea231e36cf908.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id115775",
-    "vendorClean": "GENIVAR  (WINNIPEG)"
+    "vendorClean": "GENIVAR (WINNIPEG)"
 }

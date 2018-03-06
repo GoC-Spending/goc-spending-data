@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45277585",
-    "vendorName": "Dalian  Enterprises Inc.",
+    "vendorName": "Dalian Enterprises Inc.",
     "referenceNumber": "45277585",
     "contractDate": "2010\/03\/31",
     "description": "1223 Image\/video equipment",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/03\/31",
-    "originalValue": 51573.9,
+    "originalValue": 0,
     "contractValue": 51573.9,
     "comments": "J4858C-HP Procurve gigabit mini",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/3ecd77a0bd658e4f890fd718bea9d88e.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=33678",
-    "vendorClean": "DALIAN  ENTERPRISES"
+    "vendorClean": "DALIAN ENTERPRISES"
 }

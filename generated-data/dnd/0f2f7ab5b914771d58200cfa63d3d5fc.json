@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "11-6-2011",
-    "originalValue": 14500,
+    "originalValue": 0,
     "contractValue": 14500,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/0f2f7ab5b914771d58200cfa63d3d5fc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id88368",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

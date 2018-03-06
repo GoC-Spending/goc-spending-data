@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-63182",
-    "vendorName": "Architecture49 Inc.  (Ottawa)",
+    "vendorName": "Architecture49 Inc. (Ottawa)",
     "referenceNumber": "63182",
     "contractDate": "26-8-2016",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2-12-2016",
-    "originalValue": 62960,
+    "originalValue": 0,
     "contractValue": 62960,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/6be21405968fbe861691f73d8e3c4e81.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199339",
-    "vendorClean": "ARCHITECTURE49  (OTTAWA)"
+    "vendorClean": "ARCHITECTURE49 (OTTAWA)"
 }

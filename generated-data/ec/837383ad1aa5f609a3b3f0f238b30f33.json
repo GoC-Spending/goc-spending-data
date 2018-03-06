@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "",
-    "originalValue": 88176.25,
+    "originalValue": 0,
     "contractValue": 88176.25,
     "comments": "Original Amount $0.00",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "ec\/837383ad1aa5f609a3b3f0f238b30f33.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=61746&quarter=1&fiscal=2016%2C%202017",
-    "vendorClean": "SABLE AVIATION 44 60ORPORATED"
+    "vendorClean": "SABLE AVIATION 44 60"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092246\/002\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-092246\/002\/GRK",
     "contractDate": "20-8-2008",
     "description": "Bearings, Antifriction, Unmounted",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "20-8-2008",
-    "originalValue": 38607,
+    "originalValue": 0,
     "contractValue": 38607,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/08275a4220e183c63e02d128cac2345f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43827",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

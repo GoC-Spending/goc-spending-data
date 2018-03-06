@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47220",
-    "vendorName": "LVM  Inc. (Boucherville)",
+    "vendorName": "LVM Inc. (Boucherville)",
     "referenceNumber": "47220",
     "contractDate": "10-5-2011",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "15-6-2012",
-    "originalValue": 35251.5,
+    "originalValue": 0,
     "contractValue": 35251.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/562708fa4b88a7be9091a9cb60c88b4a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id98111",
-    "vendorClean": "LVM  (BOUCHERVILLE)"
+    "vendorClean": "LVM (BOUCHERVILLE)"
 }

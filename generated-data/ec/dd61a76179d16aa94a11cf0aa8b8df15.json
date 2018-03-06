@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 64300.39,
+    "originalValue": 0,
     "contractValue": 64300.39,
     "comments": "Original Amount $0.00",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "ec\/dd61a76179d16aa94a11cf0aa8b8df15.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=60259&quarter=4&fiscal=2015%2C%202016",
-    "vendorClean": "BIO CHAMBERSORPORATED"
+    "vendorClean": "BIO CHAMBERS"
 }

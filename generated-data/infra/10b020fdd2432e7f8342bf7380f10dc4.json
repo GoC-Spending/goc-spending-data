@@ -1,6 +1,6 @@
 {
     "uuid": "infra-4506717",
-    "vendorName": "CORADIX TECHNOLOGY  CONSULTING INC.",
+    "vendorName": "CORADIX TECHNOLOGY CONSULTING INC.",
     "referenceNumber": "4506717",
     "contractDate": "2012-09-04",
     "description": "Information technology consultants",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 105437.48,
+    "originalValue": 0,
     "contractValue": 105437.48,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "infra",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "infra\/10b020fdd2432e7f8342bf7380f10dc4.html",
     "sourceURL": "\/pd-dp\/pdc-dpm\/reports-rapports-eng.html?year=2012&quarter=2&contractId=873",
-    "vendorClean": "CORADIX TECHNOLOGY  CONSULTING"
+    "vendorClean": "CORADIX TECHNOLOGY CONSULTING"
 }

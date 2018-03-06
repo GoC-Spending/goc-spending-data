@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45318358",
-    "vendorName": "CHRIS TOSSELL,  ARCHITECT",
+    "vendorName": "CHRIS TOSSELL, ARCHITECT",
     "referenceNumber": "45318358",
     "contractDate": "2012\/07\/19",
     "description": "421 Architectural services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "2014\/03\/31",
-    "originalValue": 74399.2,
+    "originalValue": 0,
     "contractValue": 74399.2,
     "comments": "Interior Fit-Up SSMC Admin Bldg -PHASE I",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "pc\/9887027a971a834ba28037bda22efdf2.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=1&oqCONTRACT_ID=40996",
-    "vendorClean": "CHRIS TOSSELL  ARCHITECT"
+    "vendorClean": "CHRIS TOSSELL ARCHITECT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-088554\/002\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-088554\/002\/GRK",
     "contractDate": "10-10-2007",
     "description": "Vehicular Cab, Body and Frame Structural Components",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "10-10-2008",
-    "originalValue": 20042,
+    "originalValue": 0,
     "contractValue": 20042,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/74e4ffbeea5c7d4285aa9079f7378c36.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id27241",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

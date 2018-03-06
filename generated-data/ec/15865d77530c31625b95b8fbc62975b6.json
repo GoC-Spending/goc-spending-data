@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "2010-01-11",
-    "originalValue": 60952.2,
+    "originalValue": 0,
     "contractValue": 60952.2,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "ec\/15865d77530c31625b95b8fbc62975b6.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=27201&quarter=3&fiscal=2009%2C%202010",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

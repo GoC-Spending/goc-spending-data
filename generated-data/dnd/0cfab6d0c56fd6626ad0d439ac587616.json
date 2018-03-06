@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2015,
     "deliveryDate": "30-9-2015",
-    "originalValue": 164450,
+    "originalValue": 0,
     "contractValue": 164450,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/0cfab6d0c56fd6626ad0d439ac587616.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123233",
-    "vendorClean": "LANTEC MARINEORPORATED"
+    "vendorClean": "LANTEC MARINE"
 }

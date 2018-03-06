@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3554-055261\/001\/HAL",
-    "vendorName": "IMP Group Ltd.  Industrail Marine Products Division",
+    "vendorName": "IMP Group Ltd. Industrail Marine Products Division",
     "referenceNumber": "W3554-055261\/001\/HAL",
     "contractDate": "7-1-2005",
     "description": "Chain and Wire Rope",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "28-1-2005",
-    "originalValue": 12580,
+    "originalValue": 0,
     "contractValue": 12580,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/969ae8645cca8b83fdb01e6f194d5704.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9793",
-    "vendorClean": "IMP GROUP  INDUSTRAIL MARINE PRODUCTS DIVISION"
+    "vendorClean": "IMP GROUP INDUSTRAIL MARINE PRODUCTS DIVISION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-62637",
-    "vendorName": "Bouthillette Parizeau inc.  (Montreal)",
+    "vendorName": "Bouthillette Parizeau inc. (Montreal)",
     "referenceNumber": "62637",
     "contractDate": "16-5-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2018,
     "deliveryDate": "26-9-2018",
-    "originalValue": 15663,
+    "originalValue": 0,
     "contractValue": 15663,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/88f26515f7888764afbcb7fce28ea20c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id195478",
-    "vendorClean": "BOUTHILLETTE PARIZEAU  (MONTREAL)"
+    "vendorClean": "BOUTHILLETTE PARIZEAU (MONTREAL)"
 }

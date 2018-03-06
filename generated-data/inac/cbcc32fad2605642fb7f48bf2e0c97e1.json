@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/20",
-    "vendorName": "JACOBI  SANDRA E.",
+    "vendorName": "JACOBI SANDRA E.",
     "referenceNumber": "09-12-6001\/20",
     "contractDate": "5\/16\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 19215,
+    "originalValue": 0,
     "contractValue": 19215,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/cbcc32fad2605642fb7f48bf2e0c97e1.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct173-eng.asp",
-    "vendorClean": "JACOBI  SANDRA E"
+    "vendorClean": "JACOBI SANDRA E"
 }

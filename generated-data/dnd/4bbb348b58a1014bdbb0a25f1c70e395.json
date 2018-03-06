@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501373582",
-    "vendorName": "BARGREEN  ELLINGSON FOODSERVICE",
+    "vendorName": "BARGREEN ELLINGSON FOODSERVICE",
     "referenceNumber": "4501373582",
     "contractDate": "1-12-2015",
     "description": "Kitchen Equipment and Appliances",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "26-1-2016",
-    "originalValue": 128028.25,
+    "originalValue": 0,
     "contractValue": 128028.25,
     "comments": "This item was not reported previously. This contract was competitively sourced. This contract is a call-up against a Public Services and Procurement Canada procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/4bbb348b58a1014bdbb0a25f1c70e395.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id208310",
-    "vendorClean": "BARGREEN  ELLINGSON FOODSERVICE"
+    "vendorClean": "BARGREEN ELLINGSON FOODSERVICE"
 }

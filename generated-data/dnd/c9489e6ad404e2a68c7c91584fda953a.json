@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 37842,
+    "originalValue": 0,
     "contractValue": 37842,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/c9489e6ad404e2a68c7c91584fda953a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9875",
-    "vendorClean": "CARLETON PRODUCTIONS INTERNATIONALORPORATED"
+    "vendorClean": "CARLETON PRODUCTIONS INTERNATIONAL"
 }

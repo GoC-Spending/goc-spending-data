@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "13-3-2013",
-    "originalValue": 14701.96,
+    "originalValue": 0,
     "contractValue": 14701.96,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/3319e94ff36da7b729c2d947e86ed61e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id135812",
-    "vendorClean": "DSS MARINEORPORATED"
+    "vendorClean": "DSS MARINE"
 }

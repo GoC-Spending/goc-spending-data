@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-114754\/001\/GRK",
-    "vendorName": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A",
+    "vendorName": "FABRIQUE NATIONAL NOUVELLE HERSTAL FNNH S A",
     "referenceNumber": "W8485-114754\/001\/GRK",
     "contractDate": "23-5-2011",
     "description": "Guns, through 30 mm",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "23-5-2012",
-    "originalValue": 24874,
+    "originalValue": 0,
     "contractValue": 24874,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/109d1741b52361626f8e820a12bea60b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id95603",
-    "vendorClean": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A"
+    "vendorClean": "FABRIQUE NATIONAL NOUVELLE  HERSTAL FNNH S A"
 }

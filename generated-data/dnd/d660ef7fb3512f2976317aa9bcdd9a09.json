@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53967",
-    "vendorName": "Exp Services Inc.  (Fredericton)",
+    "vendorName": "Exp Services Inc. (Fredericton)",
     "referenceNumber": "53967",
     "contractDate": "13-5-2013",
     "description": "Equipment & Materials Testing",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "15-11-2014",
-    "originalValue": 20000,
+    "originalValue": 0,
     "contractValue": 20000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/d660ef7fb3512f2976317aa9bcdd9a09.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id137428",
-    "vendorClean": "EXP SERVICES  (FREDERICTON)"
+    "vendorClean": "EXP SERVICES (FREDERICTON)"
 }

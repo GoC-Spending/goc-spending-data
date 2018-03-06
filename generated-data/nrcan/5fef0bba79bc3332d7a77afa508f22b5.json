@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 0,
     "contractValue": 0,
-    "comments": "Call-up against a PWGSC procurement tool.  This contract was competitively sourced.  Original contract value of $85,428.00 was modified for a revised value of $678.00.",
+    "comments": "Call-up against a PWGSC procurement tool. This contract was competitively sourced. Original contract value of $85,428.00 was modified for a revised value of $678.00.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2011,
     "sourceQuarter": 4,
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "nrcan\/5fef0bba79bc3332d7a77afa508f22b5.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2011-2012&qrt=04&id=30190",
-    "vendorClean": "PROEXORPORATED"
+    "vendorClean": "PROEX"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0184",
-    "vendorName": "GOUGH  MEAGAN",
+    "vendorName": "GOUGH MEAGAN",
     "referenceNumber": "20-13-0184",
     "contractDate": "1\/23\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24576.37,
+    "originalValue": 0,
     "contractValue": 24576.37,
     "comments": "External IAP outreach information and awareness project effectiveness of outreach April 2010-September 2012\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/38482b352f3ebed62fe7da0901860100.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct71-eng.asp",
-    "vendorClean": "GOUGH  MEAGAN"
+    "vendorClean": "GOUGH MEAGAN"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50494",
-    "vendorName": "EHS Partnership Ltd   (Burnaby)",
+    "vendorName": "EHS Partnership Ltd (Burnaby)",
     "referenceNumber": "50494",
     "contractDate": "15-3-2012",
     "description": "Environmental Studies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "14-5-2012",
-    "originalValue": 19410,
+    "originalValue": 0,
     "contractValue": 19410,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/1512e3dffbc862acd45878cdd9a936fd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114715",
-    "vendorClean": "EHS PARTNERSHIP   (BURNABY)"
+    "vendorClean": "EHS PARTNERSHIP  (BURNABY)"
 }

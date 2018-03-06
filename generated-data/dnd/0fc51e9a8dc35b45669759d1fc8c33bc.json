@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-57829",
-    "vendorName": "Architecture49 Inc   (Winnipeg)",
+    "vendorName": "Architecture49 Inc (Winnipeg)",
     "referenceNumber": "57829",
     "contractDate": "22-12-2014",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "20-4-2015",
-    "originalValue": 54366.93,
+    "originalValue": 0,
     "contractValue": 54366.93,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/0fc51e9a8dc35b45669759d1fc8c33bc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id160809",
-    "vendorClean": "ARCHITECTURE49   (WINNIPEG)"
+    "vendorClean": "ARCHITECTURE49  (WINNIPEG)"
 }

@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2007,
     "deliveryDate": "",
-    "originalValue": 24804,
+    "originalValue": 0,
     "contractValue": 24804,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q3",
     "sourceFilename": "ic\/8e49207b1ff65eb33fe192344c167676.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=6172",
-    "vendorClean": "NRNSORPORATED"
+    "vendorClean": "NRNS"
 }

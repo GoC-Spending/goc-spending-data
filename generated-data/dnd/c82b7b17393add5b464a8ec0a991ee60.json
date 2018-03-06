@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 194985,
+    "originalValue": 0,
     "contractValue": 194985,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/c82b7b17393add5b464a8ec0a991ee60.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id92465",
-    "vendorClean": "HUMANSYSTEMSORPORATED"
+    "vendorClean": "HUMANSYSTEMS"
 }

@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "1-8-2017",
-    "originalValue": 41955,
+    "originalValue": 0,
     "contractValue": 41955,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/53772acb3155885d22e0ecfc3aa7e5c7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id198098",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

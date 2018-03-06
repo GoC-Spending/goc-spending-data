@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-63736",
-    "vendorName": "152610 Canada Inc.  o\/a Laurin & Co.",
+    "vendorName": "152610 Canada Inc. o\/a Laurin & Co.",
     "referenceNumber": "63736",
     "contractDate": "20-9-2016",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "19-9-2017",
-    "originalValue": 3941954,
+    "originalValue": 0,
     "contractValue": 3941954,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/9e59dbcd5e74afc8973ccd095605af4d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199874",
-    "vendorClean": "152610 CANADA  O\/A LAURIN & CO"
+    "vendorClean": "152610 CANADA O\/A LAURIN & CO"
 }

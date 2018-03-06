@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 55745.06,
+    "originalValue": 0,
     "contractValue": 55745.06,
     "comments": "Contract awarded by PWGSC. This contract is a result of an advanced contract award notice.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "nrcan\/88f7d795a39608d5cc3abc4185b1c2e7.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2012-2013&qrt=03&id=31356",
-    "vendorClean": "HORIBA INSTRUMENTORPORATED"
+    "vendorClean": "HORIBA INSTRUMENT"
 }

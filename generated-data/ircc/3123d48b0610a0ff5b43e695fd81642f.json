@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012-08-05",
-    "originalValue": 82882.8,
+    "originalValue": 0,
     "contractValue": 82882.8,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/3123d48b0610a0ff5b43e695fd81642f.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=89",
-    "vendorClean": "ITEXORPORATED"
+    "vendorClean": "ITEX"
 }

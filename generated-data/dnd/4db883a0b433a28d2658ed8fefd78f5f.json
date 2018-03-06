@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8482-085936\/001\/PY",
-    "vendorName": "\"The Good Rope Company, Inc.                                           \"",
+    "vendorName": "\"The Good Rope Company, Inc.           \"",
     "referenceNumber": "W8482-085936\/001\/PY",
     "contractDate": "30-1-2008",
-    "description": "\"Fibre Rope, Cordage and Twine                                   \"",
+    "description": "\"Fibre Rope, Cordage and Twine         \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-5-2008",
-    "originalValue": 27309,
+    "originalValue": 0,
     "contractValue": 27309,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/4db883a0b433a28d2658ed8fefd78f5f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39229",
-    "vendorClean": "\"THE GOOD ROPE COMPANY                                           \""
+    "vendorClean": "\"THE GOOD ROPE COMPANY                      \""
 }

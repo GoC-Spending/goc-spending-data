@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "2006-03-29",
-    "originalValue": 30087.33,
+    "originalValue": 0,
     "contractValue": 30087.33,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "sc\/f62017f97565fa2cacefc969e0c73721.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=3938&employeepositionid=null&site=3&startdate=2006-01-01&enddate=2006-03-31&quarterid=21#place189",
-    "vendorClean": "SUBARU CANADAORPORATED"
+    "vendorClean": "SUBARU CANADA"
 }

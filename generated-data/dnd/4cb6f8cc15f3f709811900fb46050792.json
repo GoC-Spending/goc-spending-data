@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501374113",
-    "vendorName": "Redden Marine  Supply Inc",
+    "vendorName": "Redden Marine Supply Inc",
     "referenceNumber": "4501374113",
     "contractDate": "2-12-2015",
     "description": "Operation Training Devices",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "29-1-2016",
-    "originalValue": 11374.44,
+    "originalValue": 0,
     "contractValue": 11374.44,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/4cb6f8cc15f3f709811900fb46050792.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id207066",
-    "vendorClean": "REDDEN MARINE  SUPPLY"
+    "vendorClean": "REDDEN MARINE SUPPLY"
 }

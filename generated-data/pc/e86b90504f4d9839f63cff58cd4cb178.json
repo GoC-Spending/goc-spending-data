@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "2010\/03\/31",
-    "originalValue": 12216.24,
+    "originalValue": 0,
     "contractValue": 12216.24,
     "comments": "Security Surveillance Services",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "pc\/e86b90504f4d9839f63cff58cd4cb178.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=1&oqCONTRACT_ID=32061",
-    "vendorClean": "ALERT PROTECTIONORPORATED"
+    "vendorClean": "ALERT PROTECTION"
 }

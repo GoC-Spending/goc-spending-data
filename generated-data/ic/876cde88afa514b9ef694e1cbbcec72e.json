@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 21692,
+    "originalValue": 0,
     "contractValue": 21692,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "ic\/876cde88afa514b9ef694e1cbbcec72e.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=6574",
-    "vendorClean": "ENERGETICSORPORATED"
+    "vendorClean": "ENERGETICS"
 }

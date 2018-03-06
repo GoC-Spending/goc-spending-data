@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-63592",
-    "vendorName": "WSP Canada Inc.   (Montreal)",
+    "vendorName": "WSP Canada Inc. (Montreal)",
     "referenceNumber": "63592",
     "contractDate": "2-9-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "4-11-2016",
-    "originalValue": 30210,
+    "originalValue": 0,
     "contractValue": 30210,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/653f38a6e85bf8339100b6f34f724407.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199515",
-    "vendorClean": "WSP CANADA   (MONTREAL)"
+    "vendorClean": "WSP CANADA  (MONTREAL)"
 }

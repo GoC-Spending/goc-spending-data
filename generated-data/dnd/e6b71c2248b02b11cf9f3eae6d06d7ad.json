@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52514",
-    "vendorName": "D.F.S. INC.   (MONTREAL)",
+    "vendorName": "D.F.S. INC. (MONTREAL)",
     "referenceNumber": "52514",
     "contractDate": "22-1-2013",
     "description": "A&E SERVICES RELATED TO CONST.",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "21-5-2015",
-    "originalValue": 20601,
+    "originalValue": 0,
     "contractValue": 20601,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/e6b71c2248b02b11cf9f3eae6d06d7ad.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id133765",
-    "vendorClean": "DFS   (MONTREAL)"
+    "vendorClean": "DFS  (MONTREAL)"
 }

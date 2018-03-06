@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-ad4da355934a102304e18fda9fa3afc3",
-    "vendorName": "SMICO  FURNISHINGS",
+    "vendorName": "SMICO FURNISHINGS",
     "referenceNumber": "ad4da355934a102304e18fda9fa3afc3",
     "contractDate": "16-7-2013",
     "description": "Household Furniture",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "31-10-2013",
-    "originalValue": 27857.55,
+    "originalValue": 0,
     "contractValue": 27857.55,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/ad4da355934a102304e18fda9fa3afc3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id145549",
-    "vendorClean": "SMICO  FURNISHINGS"
+    "vendorClean": "SMICO FURNISHINGS"
 }

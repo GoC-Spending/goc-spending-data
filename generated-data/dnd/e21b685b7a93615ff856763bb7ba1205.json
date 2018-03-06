@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52323",
-    "vendorName": "Exp Services Inc.  (Fredericton)",
+    "vendorName": "Exp Services Inc. (Fredericton)",
     "referenceNumber": "52323",
     "contractDate": "31-8-2012",
     "description": "Other QC & Testing Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "29-11-2012",
-    "originalValue": 15000,
+    "originalValue": 0,
     "contractValue": 15000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/e21b685b7a93615ff856763bb7ba1205.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id124465",
-    "vendorClean": "EXP SERVICES  (FREDERICTON)"
+    "vendorClean": "EXP SERVICES (FREDERICTON)"
 }

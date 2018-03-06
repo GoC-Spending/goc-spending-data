@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8472-155561\/005\/USW",
-    "vendorName": "NATO SEASPARROW SURFACE       MISSILE SYSTEM PROJECT",
+    "vendorName": "NATO SEASPARROW SURFACE  MISSILE SYSTEM PROJECT",
     "referenceNumber": "W8472-155561\/005\/USW",
     "contractDate": "2-11-2015",
     "description": "Guided Missiles",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2022,
     "deliveryDate": "31-12-2022",
-    "originalValue": 514348,
+    "originalValue": 0,
     "contractValue": 514348,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/064b5cf887fa123df4bbff69ee16df72.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id205894",
-    "vendorClean": "NATO SEASPARROW SURFACE       MISSILE SYSTEM PROJECT"
+    "vendorClean": "NATO SEASPARROW SURFACE    MISSILE SYSTEM PROJECT"
 }

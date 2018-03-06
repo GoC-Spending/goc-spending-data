@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8475-07AJ05\/001\/AIM",
-    "vendorName": "\"MacDonald, Dettwiler and Associates Ltd.                              \"",
+    "vendorName": "\"MacDonald, Dettwiler and Associates Ltd.        \"",
     "referenceNumber": "W8475-07AJ05\/001\/AIM",
     "contractDate": "31-3-2008",
-    "description": "\"Radar Equipment, Airborne                                       \"",
+    "description": "\"Radar Equipment, Airborne          \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 4700000,
+    "originalValue": 0,
     "contractValue": 4700000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/b53dba0fc5795010ef507fde7e325bcb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40459",
-    "vendorClean": "\"MACDONALD DETTWILER AND ASSOCIATES                              \""
+    "vendorClean": "\"MACDONALD DETTWILER AND ASSOCIATES               \""
 }

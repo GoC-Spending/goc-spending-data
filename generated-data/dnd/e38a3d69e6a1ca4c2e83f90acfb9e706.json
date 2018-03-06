@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-44880",
-    "vendorName": "COMMISSIONAIRES  (OTTAWA)",
+    "vendorName": "COMMISSIONAIRES (OTTAWA)",
     "referenceNumber": "44880",
     "contractDate": "6-8-2010",
     "description": "Custodial Services",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "17-2-2011",
-    "originalValue": 52407,
+    "originalValue": 0,
     "contractValue": 52407,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/e38a3d69e6a1ca4c2e83f90acfb9e706.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id78037",
-    "vendorClean": "COMMISSIONAIRES  (OTTAWA)"
+    "vendorClean": "COMMISSIONAIRES (OTTAWA)"
 }

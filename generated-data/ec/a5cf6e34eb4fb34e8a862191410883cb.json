@@ -1,6 +1,6 @@
 {
     "uuid": "ec-3000629890",
-    "vendorName": "AMERICAN SOCIETY FOR TESTING  AND MATERIALS",
+    "vendorName": "AMERICAN SOCIETY FOR TESTING AND MATERIALS",
     "referenceNumber": "3000629890",
     "contractDate": "2016-12-19",
     "description": "1143 Printed Matter, Including Books, Newspapers, Pictures",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2018,
     "deliveryDate": "",
-    "originalValue": 11952.73,
+    "originalValue": 0,
     "contractValue": 11952.73,
     "comments": "Original Amount $0.00",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "ec\/a5cf6e34eb4fb34e8a862191410883cb.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=62766&quarter=3&fiscal=2016%2C%202017",
-    "vendorClean": "AMERICAN SOCIETY FOR TESTING  AND MATERIALS"
+    "vendorClean": "AMERICAN SOCIETY FOR TESTING AND MATERIALS"
 }

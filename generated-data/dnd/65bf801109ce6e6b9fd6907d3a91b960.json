@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7701-073592\/001\/QCV",
-    "vendorName": "\"MacDonald, Dettwiler and Associates Ltd.                              \"",
+    "vendorName": "\"MacDonald, Dettwiler and Associates Ltd.        \"",
     "referenceNumber": "W7701-073592\/001\/QCV",
     "contractDate": "14-2-2008",
     "description": "Military (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2010,
     "deliveryDate": "30-4-2010",
-    "originalValue": 338800,
+    "originalValue": 0,
     "contractValue": 338800,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/65bf801109ce6e6b9fd6907d3a91b960.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40294",
-    "vendorClean": "\"MACDONALD DETTWILER AND ASSOCIATES                              \""
+    "vendorClean": "\"MACDONALD DETTWILER AND ASSOCIATES               \""
 }

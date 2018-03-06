@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4500877917",
-    "vendorName": "INDUSPAC PACKAGING  GROUP",
+    "vendorName": "INDUSPAC PACKAGING GROUP",
     "referenceNumber": "4500877917",
     "contractDate": "13-10-2011",
     "description": "Boxes, Cartons, and Crates",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "28-10-2011",
-    "originalValue": 26296,
+    "originalValue": 0,
     "contractValue": 26296,
     "comments": "This contract was competitvely sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/d6ad930228d35e709a177bc9b7b9e19a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106726",
-    "vendorClean": "INDUSPAC PACKAGING  GROUP"
+    "vendorClean": "INDUSPAC PACKAGING GROUP"
 }

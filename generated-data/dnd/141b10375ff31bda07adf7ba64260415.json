@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-141b10375ff31bda07adf7ba64260415",
-    "vendorName": "HAT MILLWRIGHT  & MECHANICAL SERVICES LTD.",
+    "vendorName": "HAT MILLWRIGHT & MECHANICAL SERVICES LTD.",
     "referenceNumber": "141b10375ff31bda07adf7ba64260415",
     "contractDate": "8-7-2015",
     "description": "Power and Hand Pumps",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "4-11-2015",
-    "originalValue": 11557.93,
+    "originalValue": 0,
     "contractValue": 11557.93,
     "comments": "This item was not reported previously. This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/141b10375ff31bda07adf7ba64260415.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id203766",
-    "vendorClean": "HAT MILLWRIGHT  & MECHANICAL SERVICES"
+    "vendorClean": "HAT MILLWRIGHT & MECHANICAL SERVICES"
 }

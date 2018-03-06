@@ -1,9 +1,9 @@
 {
     "uuid": "acoa-CP12015",
-    "vendorName": "CNW  Group",
+    "vendorName": "CNW Group",
     "referenceNumber": "CP12015",
     "contractDate": "2008-02-13",
-    "description": "0491  Management Consulting",
+    "description": "0491 Management Consulting",
     "extraDescription": "",
     "objectCode": "0491",
     "contractPeriodStart": "2008-02-14",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 10136.1,
+    "originalValue": 0,
     "contractValue": 10136.1,
     "comments": "",
     "ownerAcronym": "acoa",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "acoa\/ebf93b046729977a5f801ada87f5f622.html",
     "sourceURL": "http:\/\/www.acoa-apeca.gc.ca\/eng\/Accountability\/ProactiveDisclosure\/Contracts\/Pages\/Details.aspx?cid=1473&rty=2008&rtp=4",
-    "vendorClean": "CNW  GROUP"
+    "vendorClean": "CNW GROUP"
 }

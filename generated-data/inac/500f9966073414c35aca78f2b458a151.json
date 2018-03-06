@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-8024\/A",
-    "vendorName": "DOERING  RONALD L",
+    "vendorName": "DOERING RONALD L",
     "referenceNumber": "20-13-8024\/A",
     "contractDate": "3\/31\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 16837,
+    "originalValue": 0,
     "contractValue": 16837,
     "comments": "Chief Federal Negotiator\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/500f9966073414c35aca78f2b458a151.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct360-eng.asp",
-    "vendorClean": "DOERING  RONALD L"
+    "vendorClean": "DOERING RONALD L"
 }

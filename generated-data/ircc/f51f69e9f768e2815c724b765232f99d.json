@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "",
-    "originalValue": 22435.57,
+    "originalValue": 0,
     "contractValue": 22435.57,
     "comments": "Sole-sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "ircc\/f51f69e9f768e2815c724b765232f99d.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=48&c=2618",
-    "vendorClean": "ATALASOFTORPORATED"
+    "vendorClean": "ATALASOFT"
 }

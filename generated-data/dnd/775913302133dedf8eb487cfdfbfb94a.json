@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61874",
-    "vendorName": "Architecture49 Inc.  (Ottawa)",
+    "vendorName": "Architecture49 Inc. (Ottawa)",
     "referenceNumber": "61874",
     "contractDate": "3-2-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-3-2016",
-    "originalValue": 152700,
+    "originalValue": 0,
     "contractValue": 152700,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/775913302133dedf8eb487cfdfbfb94a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id186960",
-    "vendorClean": "ARCHITECTURE49  (OTTAWA)"
+    "vendorClean": "ARCHITECTURE49 (OTTAWA)"
 }

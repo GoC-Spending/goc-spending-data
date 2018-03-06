@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-07QT02\/001\/BF",
-    "vendorName": "ROCKWELL INTERNATIONAL CORP   COLLINS GOVT AVIONICS DIV",
+    "vendorName": "ROCKWELL INTERNATIONAL CORP COLLINS GOVT AVIONICS DIV",
     "referenceNumber": "W8485-07QT02\/001\/BF",
     "contractDate": "15-1-2009",
     "description": "Engineering and Technical Services - Aerospace Related, Military",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-12-2009",
-    "originalValue": 1498039,
+    "originalValue": 0,
     "contractValue": 1498039,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/2957a1084265dc06199e02ee14d06613.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id52533",
-    "vendorClean": "ROCKWELL INTERNATIONAL CORP   COLLINS GOVT AVIONICS DIV"
+    "vendorClean": "ROCKWELL INTERNATIONAL CORP  COLLINS GOVT AVIONICS DIV"
 }

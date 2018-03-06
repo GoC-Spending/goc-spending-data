@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-10-2009",
-    "originalValue": 14856,
+    "originalValue": 0,
     "contractValue": 14856,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/0d1831db202c126e47d49c4df973a5d6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id61288",
-    "vendorClean": "STEEPLEORPORATED"
+    "vendorClean": "STEEPLE"
 }

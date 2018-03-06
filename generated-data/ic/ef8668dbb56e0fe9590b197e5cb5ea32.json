@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "",
-    "originalValue": 12508,
+    "originalValue": 0,
     "contractValue": 12508,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "ic\/ef8668dbb56e0fe9590b197e5cb5ea32.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=5162",
-    "vendorClean": "MELILLO ARCHITECTSORPORATED"
+    "vendorClean": "MELILLO ARCHITECTS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7707-125519\/001\/HAL",
-    "vendorName": "Plasmionique  Plasmionic Inc",
+    "vendorName": "Plasmionique Plasmionic Inc",
     "referenceNumber": "W7707-125519\/001\/HAL",
     "contractDate": "17-1-2012",
     "description": "Laboratory Equipment and Supplies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "15-4-2012",
-    "originalValue": 12708,
+    "originalValue": 0,
     "contractValue": 12708,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/96a8a9f5ecb0fa24b390a5fee21f37a8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id111173",
-    "vendorClean": "PLASMIONIQUE  PLASMIONIC"
+    "vendorClean": "PLASMIONIQUE PLASMIONIC"
 }

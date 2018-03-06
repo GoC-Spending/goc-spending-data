@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-084236\/001\/PY",
-    "vendorName": "DURALINE                     DIV OF JB NOTTINGHAM & CO INC",
+    "vendorName": "DURALINE      DIV OF JB NOTTINGHAM & CO INC",
     "referenceNumber": "W8482-084236\/001\/PY",
     "contractDate": "31-5-2007",
     "description": "Connectors, Electrical",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "31-10-2007",
-    "originalValue": 12740,
+    "originalValue": 0,
     "contractValue": 12740,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "dnd\/6ff10522492ef7acfbbba49bf152d882.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2007&id=id24453",
-    "vendorClean": "DURALINE                     DIV OF JB NOTTINGHAM & CO"
+    "vendorClean": "DURALINE           DIV OF JB NOTTINGHAM & CO"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45287235",
-    "vendorName": "Distributions J.R.V. -  Havre-St-Pi",
+    "vendorName": "Distributions J.R.V. - Havre-St-Pi",
     "referenceNumber": "45287235",
     "contractDate": "2010\/10\/06",
     "description": "1160 Ferrous metals",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/10\/22",
-    "originalValue": 13211.1,
+    "originalValue": 0,
     "contractValue": 13211.1,
     "comments": "129532 - chaA(R)ne mooring 5\/8\"",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "pc\/c4006697523f2035e5c432cc3bebfcce.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=3&oqCONTRACT_ID=35561",
-    "vendorClean": "DISTRIBUTIONS JRV  HAVRE-ST-PI"
+    "vendorClean": "DISTRIBUTIONS JRV HAVRE-ST-PI"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-101080\/004\/GRK",
-    "vendorName": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT",
+    "vendorName": "GLENSBURGER SCHIFFSBAU  GESELLSCHAFT",
     "referenceNumber": "W8486-101080\/004\/GRK",
     "contractDate": "6-1-2010",
     "description": "Hose and Flexible Tubing",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "6-1-2011",
-    "originalValue": 10504,
+    "originalValue": 0,
     "contractValue": 10504,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/d9f0e658ddca22d3f6912f7f0d6b2ed5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id72501",
-    "vendorClean": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT"
+    "vendorClean": "GLENSBURGER SCHIFFSBAU    GESELLSCHAFT"
 }

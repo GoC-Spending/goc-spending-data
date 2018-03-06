@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-085746\/001\/BY",
-    "vendorName": "\"SENSOR SYSTEMS, LLC                                                   \"",
+    "vendorName": "\"SENSOR SYSTEMS, LLC             \"",
     "referenceNumber": "W8485-085746\/001\/BY",
     "contractDate": "19-2-2008",
     "description": "Miscellaneous Communications Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "30-11-2009",
-    "originalValue": 37953,
+    "originalValue": 0,
     "contractValue": 37953,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/0ddcfe3dc286f22556855b8aa4811282.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39439",
-    "vendorClean": "\"SENSOR SYSTEMS LLC                                                   \""
+    "vendorClean": "\"SENSOR SYSTEMS LLC                          \""
 }

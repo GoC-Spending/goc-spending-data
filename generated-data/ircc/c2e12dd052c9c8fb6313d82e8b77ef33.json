@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 21131,
+    "originalValue": 0,
     "contractValue": 21131,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/c2e12dd052c9c8fb6313d82e8b77ef33.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=32",
-    "vendorClean": "CHARRON HUMAN RESOURCESORPORATED"
+    "vendorClean": "CHARRON HUMAN RESOURCES"
 }

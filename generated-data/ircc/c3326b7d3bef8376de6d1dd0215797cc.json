@@ -1,6 +1,6 @@
 {
     "uuid": "ircc-8834120211",
-    "vendorName": "AUTONOMY:  an HP Company",
+    "vendorName": "AUTONOMY: an HP Company",
     "referenceNumber": "8834120211",
     "contractDate": "2013-01-16",
     "description": "1284 - Client Software",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "2014-01-15",
-    "originalValue": 100005,
+    "originalValue": 0,
     "contractValue": 100005,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "ircc\/c3326b7d3bef8376de6d1dd0215797cc.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=36&c=441",
-    "vendorClean": "AUTONOMY:  AN HP COMPANY"
+    "vendorClean": "AUTONOMY: AN HP COMPANY"
 }

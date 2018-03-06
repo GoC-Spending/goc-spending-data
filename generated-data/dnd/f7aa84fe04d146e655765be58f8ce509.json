@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51334",
-    "vendorName": "Genivar Inc.  (Longuiel)",
+    "vendorName": "Genivar Inc. (Longuiel)",
     "referenceNumber": "51334",
     "contractDate": "25-9-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "27-8-2014",
-    "originalValue": 154000,
+    "originalValue": 0,
     "contractValue": 154000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/f7aa84fe04d146e655765be58f8ce509.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125201",
-    "vendorClean": "GENIVAR  (LONGUIEL)"
+    "vendorClean": "GENIVAR (LONGUIEL)"
 }

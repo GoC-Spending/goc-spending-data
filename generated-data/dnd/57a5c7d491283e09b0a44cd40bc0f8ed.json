@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52296",
-    "vendorName": "LVM Inc.   (Toronto)",
+    "vendorName": "LVM Inc. (Toronto)",
     "referenceNumber": "52296",
     "contractDate": "21-9-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "24-1-2013",
-    "originalValue": 18534,
+    "originalValue": 0,
     "contractValue": 18534,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/57a5c7d491283e09b0a44cd40bc0f8ed.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125115",
-    "vendorClean": "LVM   (TORONTO)"
+    "vendorClean": "LVM  (TORONTO)"
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "14-2-2012",
-    "originalValue": 183750,
+    "originalValue": 0,
     "contractValue": 183750,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/6d93972bbcc19af5861b0bc7acb3186a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90322",
-    "vendorClean": "AMCAN TECHNOLOGIESORPORATED"
+    "vendorClean": "AMCAN TECHNOLOGIES"
 }

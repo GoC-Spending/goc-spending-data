@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-dd1c39291ee25488da3ccb960b912b8b",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "dd1c39291ee25488da3ccb960b912b8b",
     "contractDate": "15-12-2011",
     "description": "Hose, Pipe, Tube, Lubrication, and Railing Fittings",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "15-12-2012",
-    "originalValue": 123686,
+    "originalValue": 0,
     "contractValue": 123686,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/dd1c39291ee25488da3ccb960b912b8b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107092",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

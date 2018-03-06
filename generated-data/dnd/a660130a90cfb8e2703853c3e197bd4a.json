@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7701-072145\/001\/QCN",
-    "vendorName": "ANALYTICAL SPECTRAL DEVICES  INC (ASD)",
+    "vendorName": "ANALYTICAL SPECTRAL DEVICES INC (ASD)",
     "referenceNumber": "W7701-072145\/001\/QCN",
     "contractDate": "17-7-2007",
     "description": "SPECTROMETER",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "31-8-2007",
-    "originalValue": 78861,
+    "originalValue": 0,
     "contractValue": 78861,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/a660130a90cfb8e2703853c3e197bd4a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id25781",
-    "vendorClean": "ANALYTICAL SPECTRAL DEVICES  (ASD)"
+    "vendorClean": "ANALYTICAL SPECTRAL DEVICES (ASD)"
 }

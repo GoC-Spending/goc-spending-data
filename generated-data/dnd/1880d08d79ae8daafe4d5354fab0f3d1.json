@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-57851",
-    "vendorName": "Exp Services Inc.  (Fredericton)",
+    "vendorName": "Exp Services Inc. (Fredericton)",
     "referenceNumber": "57851",
     "contractDate": "2-12-2014",
     "description": "Topography, Topo Svy",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "31-3-2015",
-    "originalValue": 33671,
+    "originalValue": 0,
     "contractValue": 33671,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/1880d08d79ae8daafe4d5354fab0f3d1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id160034",
-    "vendorClean": "EXP SERVICES  (FREDERICTON)"
+    "vendorClean": "EXP SERVICES (FREDERICTON)"
 }

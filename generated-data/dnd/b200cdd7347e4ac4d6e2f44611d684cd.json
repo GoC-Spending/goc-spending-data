@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52219",
-    "vendorName": "BPR inc.    (Rimouski)",
+    "vendorName": "BPR inc. (Rimouski)",
     "referenceNumber": "52219",
     "contractDate": "7-9-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "22-10-2014",
-    "originalValue": 17238.76,
+    "originalValue": 0,
     "contractValue": 17238.76,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/b200cdd7347e4ac4d6e2f44611d684cd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id124662",
-    "vendorClean": "BPR    (RIMOUSKI)"
+    "vendorClean": "BPR  (RIMOUSKI)"
 }

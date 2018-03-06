@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2010,
     "deliveryDate": "22-11-2010",
-    "originalValue": 13800,
+    "originalValue": 0,
     "contractValue": 13800,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/c9d95d0fffaa52ef959bfea9d3e30aab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90210",
-    "vendorClean": "LENGKEEK VESSEL ENGINEERINGORPORATED"
+    "vendorClean": "LENGKEEK VESSEL ENGINEERING"
 }

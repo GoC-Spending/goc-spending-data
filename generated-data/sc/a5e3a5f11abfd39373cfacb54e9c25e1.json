@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "N\/A",
-    "originalValue": 12204,
+    "originalValue": 0,
     "contractValue": 12204,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "sc\/a5e3a5f11abfd39373cfacb54e9c25e1.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=14245&employeepositionid=null&site=3&startdate=2011-07-01&enddate=2011-09-30&quarterid=35#place107",
-    "vendorClean": "PHIL CHARKO & ASSOCIATES CONSULTINGORPORATED"
+    "vendorClean": "PHIL CHARKO & ASSOCIATES CONSULTING"
 }

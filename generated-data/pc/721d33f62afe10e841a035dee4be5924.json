@@ -1,6 +1,6 @@
 {
     "uuid": "pc-168130",
-    "vendorName": "Khaled  Ibrahim",
+    "vendorName": "Khaled Ibrahim",
     "referenceNumber": "168130",
     "contractDate": "2004\/07\/08",
     "description": "422 Engineering consultants - construction",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "2004\/11\/30",
-    "originalValue": 19991.88,
+    "originalValue": 0,
     "contractValue": 19991.88,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "pc\/721d33f62afe10e841a035dee4be5924.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=2&oqCONTRACT_ID=12225",
-    "vendorClean": "KHALED  IBRAHIM"
+    "vendorClean": "KHALED IBRAHIM"
 }

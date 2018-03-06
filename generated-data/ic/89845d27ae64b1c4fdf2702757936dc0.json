@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 20894,
+    "originalValue": 0,
     "contractValue": 20894,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "ic\/89845d27ae64b1c4fdf2702757936dc0.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=10747",
-    "vendorClean": "HUMANSYSTEMSA?(R)ORPORATED"
+    "vendorClean": "HUMANSYSTEMSA?(R)"
 }

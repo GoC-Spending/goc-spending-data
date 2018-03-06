@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0133-07J038\/001\/VIC",
-    "vendorName": "\"MHD International Aviation Parts, Inc.                                \"",
+    "vendorName": "\"MHD International Aviation Parts, Inc.        \"",
     "referenceNumber": "W0133-07J038\/001\/VIC",
     "contractDate": "8-1-2008",
     "description": "Aircraft Ground Servicing Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "9-1-2008",
-    "originalValue": 293832,
+    "originalValue": 0,
     "contractValue": 293832,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/151489896acaa7695e5e0d5a76a09882.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40267",
-    "vendorClean": "\"MHD INTERNATIONAL AVIATION PARTS                                \""
+    "vendorClean": "\"MHD INTERNATIONAL AVIATION PARTS                \""
 }

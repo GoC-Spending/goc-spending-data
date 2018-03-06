@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-2010-0462",
-    "vendorName": "ORACLE  CANADA ULC",
+    "vendorName": "ORACLE CANADA ULC",
     "referenceNumber": "2010-0462",
     "contractDate": "2011-03-26",
     "description": "670 Computer Equipment - Hardware and Software",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 56519.49,
+    "originalValue": 0,
     "contractValue": 56519.49,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool This contract is a multi-year contract This contract was sole-sourced",
     "ownerAcronym": "irccpc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "irccpc\/b7cdc323a1f313246f7b9f7acf4b16f0.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2010-2011-4&ref=2010-0462",
-    "vendorClean": "ORACLE  CANADA ULC"
+    "vendorClean": "ORACLE CANADA"
 }

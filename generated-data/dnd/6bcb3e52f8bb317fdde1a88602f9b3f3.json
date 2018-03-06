@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "31-3-2006",
-    "originalValue": 12090,
+    "originalValue": 0,
     "contractValue": 12090,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/6bcb3e52f8bb317fdde1a88602f9b3f3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12369",
-    "vendorClean": "TRIDENT SYSTEMSORPORATED"
+    "vendorClean": "TRIDENT SYSTEMS"
 }

@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "2014-03-31",
-    "originalValue": 16010,
+    "originalValue": 0,
     "contractValue": 16010,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "ec\/dff490f8706a692df1fdcf9a65444948.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=51325&quarter=4&fiscal=2013%2C%202014",
-    "vendorClean": "RED SASHORPORATED"
+    "vendorClean": "RED SASH"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45338836",
-    "vendorName": "PORALU  Marine Inc.",
+    "vendorName": "PORALU Marine Inc.",
     "referenceNumber": "45338836",
     "contractDate": "2014\/02\/27",
     "description": "1257 Ships and boats parts",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "2014\/03\/31",
-    "originalValue": 24846.1,
+    "originalValue": 0,
     "contractValue": 24846.1,
     "comments": "Quai Pont 4 - CCHM",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "pc\/2c2e9440886b9eeca459bdf202618c2d.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=4&oqCONTRACT_ID=43366",
-    "vendorClean": "PORALU  MARINE"
+    "vendorClean": "PORALU MARINE"
 }

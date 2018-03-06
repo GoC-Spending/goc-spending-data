@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55374",
-    "vendorName": "WSP Canada Inc.   (Ottawa)",
+    "vendorName": "WSP Canada Inc. (Ottawa)",
     "referenceNumber": "55374",
     "contractDate": "12-2-2014",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2016,
     "deliveryDate": "12-2-2016",
-    "originalValue": 125000,
+    "originalValue": 0,
     "contractValue": 125000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/d3e073c2f0628b6fad7eb5ffbdeafdf0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id147800",
-    "vendorClean": "WSP CANADA   (OTTAWA)"
+    "vendorClean": "WSP CANADA  (OTTAWA)"
 }

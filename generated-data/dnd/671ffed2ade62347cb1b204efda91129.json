@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4500914532",
-    "vendorName": "GRAND  TOY",
+    "vendorName": "GRAND TOY",
     "referenceNumber": "4500914532",
     "contractDate": "23-2-2012",
     "description": "ADPE System Configuration",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-3-2012",
-    "originalValue": 20877.92,
+    "originalValue": 0,
     "contractValue": 20877.92,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/671ffed2ade62347cb1b204efda91129.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113452",
-    "vendorClean": "GRAND  TOY"
+    "vendorClean": "GRAND TOY"
 }

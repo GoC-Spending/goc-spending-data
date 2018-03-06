@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-60395",
-    "vendorName": "Bouthillette Parizeau inc.  (Montreal)",
+    "vendorName": "Bouthillette Parizeau inc. (Montreal)",
     "referenceNumber": "60395",
     "contractDate": "16-10-2015",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2020,
     "deliveryDate": "2-12-2020",
-    "originalValue": 30189,
+    "originalValue": 0,
     "contractValue": 30189,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/6c5554d901261544abf94836faa5d110.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id205220",
-    "vendorClean": "BOUTHILLETTE PARIZEAU  (MONTREAL)"
+    "vendorClean": "BOUTHILLETTE PARIZEAU (MONTREAL)"
 }

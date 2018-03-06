@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45138033",
-    "vendorName": "REMORQUE  GERMAIN",
+    "vendorName": "REMORQUE GERMAIN",
     "referenceNumber": "45138033",
     "contractDate": "2004\/09\/17",
     "description": "1267 Miscellaneous vehicles parts, including tire and tubes",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "2004\/10\/29",
-    "originalValue": 17976,
+    "originalValue": 0,
     "contractValue": 17976,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "pc\/02c474b88194d65eb06f6ed07e5e6443.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=2&oqCONTRACT_ID=12149",
-    "vendorClean": "REMORQUE  GERMAIN"
+    "vendorClean": "REMORQUE GERMAIN"
 }

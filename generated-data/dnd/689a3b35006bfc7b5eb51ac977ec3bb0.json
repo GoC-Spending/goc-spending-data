@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "26-6-2007",
-    "originalValue": 10629,
+    "originalValue": 0,
     "contractValue": 10629,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "dnd\/689a3b35006bfc7b5eb51ac977ec3bb0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2006&id=id23103",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

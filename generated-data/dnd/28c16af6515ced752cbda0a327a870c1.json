@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "14-1-2014",
-    "originalValue": 71524,
+    "originalValue": 0,
     "contractValue": 71524,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENTS.THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/28c16af6515ced752cbda0a327a870c1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id132454",
-    "vendorClean": "ENVIROSYSTEMSORPORATED"
+    "vendorClean": "ENVIROSYSTEMS"
 }

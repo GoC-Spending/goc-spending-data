@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-085619\/001\/BY",
-    "vendorName": "\"TEAC Aerospace Technologies, Inc                                      \"",
+    "vendorName": "\"TEAC Aerospace Technologies, Inc          \"",
     "referenceNumber": "W8485-085619\/001\/BY",
     "contractDate": "13-2-2008",
     "description": "Video Recording and Reproduction Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-6-2008",
-    "originalValue": 123997,
+    "originalValue": 0,
     "contractValue": 123997,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/f8e405490924337208e6cc2b975054e8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40023",
-    "vendorClean": "\"TEAC AEROSPACE TECHNOLOGIES                                      \""
+    "vendorClean": "\"TEAC AEROSPACE TECHNOLOGIES                   \""
 }

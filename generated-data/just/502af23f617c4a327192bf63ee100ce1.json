@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "",
-    "originalValue": 30819.85,
+    "originalValue": 0,
     "contractValue": 30819.85,
     "comments": "",
     "ownerAcronym": "just",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "just\/502af23f617c4a327192bf63ee100ce1.html",
     "sourceURL": "http:\/\/www.justice.gc.ca\/eng\/trans\/pd-dp\/contra\/details.asp?yr=2004&q=1&c=135",
-    "vendorClean": "IMS HEALTHORPORATED"
+    "vendorClean": "IMS HEALTH"
 }

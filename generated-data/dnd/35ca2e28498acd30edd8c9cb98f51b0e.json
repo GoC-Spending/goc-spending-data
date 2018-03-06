@@ -3,7 +3,7 @@
     "vendorName": "ENVIROSYSTEMS INCORPORATED",
     "referenceNumber": "W010X-09N065\/001\/HAL",
     "contractDate": "20-5-2008",
-    "description": "Ships and Vessels, Bilge and Tank Pumping and Disposal of  Waste Water and Oil Products",
+    "description": "Ships and Vessels, Bilge and Tank Pumping and Disposal of Waste Water and Oil Products",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "23-5-2008",
-    "originalValue": 11074,
+    "originalValue": 0,
     "contractValue": 11074,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "dnd\/35ca2e28498acd30edd8c9cb98f51b0e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2008&id=id41746",
-    "vendorClean": "ENVIROSYSTEMSORPORATED"
+    "vendorClean": "ENVIROSYSTEMS"
 }

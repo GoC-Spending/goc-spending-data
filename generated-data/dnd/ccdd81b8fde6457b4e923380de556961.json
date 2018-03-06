@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-56879",
-    "vendorName": "NSW Controle inc.    (St-Bruno)",
+    "vendorName": "NSW Controle inc. (St-Bruno)",
     "referenceNumber": "56879",
     "contractDate": "15-7-2014",
     "description": "Utilities",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "29-8-2014",
-    "originalValue": 12935,
+    "originalValue": 0,
     "contractValue": 12935,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/ccdd81b8fde6457b4e923380de556961.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id154770",
-    "vendorClean": "NSW CONTROLE    (ST-BRUNO)"
+    "vendorClean": "NSW CONTROLE  (ST-BRUNO)"
 }

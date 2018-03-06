@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45312557",
-    "vendorName": "101150212  SASKATCHEWAN",
+    "vendorName": "101150212 SASKATCHEWAN",
     "referenceNumber": "45312557",
     "contractDate": "2012\/02\/28",
     "description": "499 Other professional services not otherwise specifie",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/03\/31",
-    "originalValue": 25000,
+    "originalValue": 0,
     "contractValue": 25000,
     "comments": "2012 FOUNDING PARTNERS CONTRIBUTION",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "pc\/8e377f04b7f47d49fb5b73a87c923040.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=4&oqCONTRACT_ID=38612",
-    "vendorClean": "101150212  SASKATCHEWAN"
+    "vendorClean": "101150212 SASKATCHEWAN"
 }

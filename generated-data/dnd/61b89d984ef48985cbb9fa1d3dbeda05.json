@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-63934",
-    "vendorName": "SNC-Lavalin Inc.  (Victoria)",
+    "vendorName": "SNC-Lavalin Inc. (Victoria)",
     "referenceNumber": "63934",
     "contractDate": "26-10-2016",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "18-1-2017",
-    "originalValue": 167774,
+    "originalValue": 0,
     "contractValue": 167774,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/61b89d984ef48985cbb9fa1d3dbeda05.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id191846",
-    "vendorClean": "SNC-LAVALIN  (VICTORIA)"
+    "vendorClean": "SNC-LAVALIN (VICTORIA)"
 }

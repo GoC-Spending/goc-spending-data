@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-41686",
-    "vendorName": "Thermal  Mechanical Systems",
+    "vendorName": "Thermal Mechanical Systems",
     "referenceNumber": "41686",
     "contractDate": "8-7-2009",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "8-9-2009",
-    "originalValue": 67750,
+    "originalValue": 0,
     "contractValue": 67750,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/c1a268295d8e942e96362634b6d4f94d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id62492",
-    "vendorClean": "THERMAL  MECHANICAL SYSTEMS"
+    "vendorClean": "THERMAL MECHANICAL SYSTEMS"
 }

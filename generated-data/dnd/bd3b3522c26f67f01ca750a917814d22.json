@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "31-5-2013",
-    "originalValue": 1196580,
+    "originalValue": 0,
     "contractValue": 1196580,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/bd3b3522c26f67f01ca750a917814d22.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id131410",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

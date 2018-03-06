@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8482-086240\/001\/GRK",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "W8482-086240\/001\/GRK",
     "contractDate": "5-2-2008",
-    "description": "\"Cable, Cord, and Wire Assemblies, Communication Equipment       \"",
+    "description": "\"Cable, Cord, and Wire Assemblies, Communication Equipment  \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "5-2-2009",
-    "originalValue": 114649,
+    "originalValue": 0,
     "contractValue": 114649,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/23673fb6b7e487ccd1d3377f4bd8e90e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40001",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

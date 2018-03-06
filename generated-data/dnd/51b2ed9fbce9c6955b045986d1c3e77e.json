@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-60120",
-    "vendorName": "J. Chabot Inc.  Les Entreprises",
+    "vendorName": "J. Chabot Inc. Les Entreprises",
     "referenceNumber": "60120",
     "contractDate": "26-8-2015",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "25-9-2015",
-    "originalValue": 49000,
+    "originalValue": 0,
     "contractValue": 49000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/51b2ed9fbce9c6955b045986d1c3e77e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id201068",
-    "vendorClean": "J CHABOT  LES ENTREPRISES"
+    "vendorClean": "J CHABOT LES ENTREPRISES"
 }

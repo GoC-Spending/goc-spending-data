@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "1-3-2016",
-    "originalValue": 43932,
+    "originalValue": 0,
     "contractValue": 43932,
     "comments": "This item was not reported previously. This item contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/0e83951fa6bdfd77d14a2fc783ac2442.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id203981",
-    "vendorClean": "OMNITECH ELECTRONICSORPORATED"
+    "vendorClean": "OMNITECH ELECTRONICS"
 }

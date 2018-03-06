@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55624",
-    "vendorName": "Ricardo Roofing Limited  (Kingston)",
+    "vendorName": "Ricardo Roofing Limited (Kingston)",
     "referenceNumber": "55624",
     "contractDate": "6-1-2014",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 1900,
     "deliveryDate": "1-1-1900",
-    "originalValue": 25000,
+    "originalValue": 0,
     "contractValue": 25000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/63331df57af08ab2226eb7a88e203dba.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id146170",
-    "vendorClean": "RICARDO ROOFING LIMITED  (KINGSTON)"
+    "vendorClean": "RICARDO ROOFING LIMITED (KINGSTON)"
 }

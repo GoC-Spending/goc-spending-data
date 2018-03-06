@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "31-3-2017",
-    "originalValue": 39139,
+    "originalValue": 0,
     "contractValue": 39139,
     "comments": "This contract contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/3ea4a48990bb3d0e1036073e23762c31.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id195528",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

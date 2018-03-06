@@ -1,6 +1,6 @@
 {
     "uuid": "ic-3017344",
-    "vendorName": "APEX  AUDIO VISUAL SYSTEMS",
+    "vendorName": "APEX AUDIO VISUAL SYSTEMS",
     "referenceNumber": "3017344",
     "contractDate": "2006-02-21",
     "description": "Data (message\/text, and computer) communications equipment",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 46586,
+    "originalValue": 0,
     "contractValue": 46586,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "ic\/67c677254560d0d233b0a8b360094e32.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=5857",
-    "vendorClean": "APEX  AUDIO VISUAL SYSTEMS"
+    "vendorClean": "APEX AUDIO VISUAL SYSTEMS"
 }

@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2016\/11\/30",
-    "originalValue": 10588.44,
+    "originalValue": 0,
     "contractValue": 10588.44,
     "comments": "Cylinder Assembly, 5 inch bore x 67 in stroke",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "pc\/4b94300bf92f7677bf97b902623278ff.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2016-2017&oqQUARTER=3&oqCONTRACT_ID=53142",
-    "vendorClean": "M&C HYDRAULICORPORATED"
+    "vendorClean": "M&C HYDRAULIC"
 }

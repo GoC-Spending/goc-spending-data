@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "5-10-2016",
-    "originalValue": 13685,
+    "originalValue": 0,
     "contractValue": 13685,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/1d611e220a215115b5ca7f87e2bc215f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199886",
-    "vendorClean": "DRIVE PRODUCTSORPORATED"
+    "vendorClean": "DRIVE PRODUCTS"
 }

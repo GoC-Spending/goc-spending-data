@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-091492\/001\/PR",
-    "vendorName": "THE BILTRITE CORPORATION      SPECIALTY PRODUCTS DIVISION",
+    "vendorName": "THE BILTRITE CORPORATION  SPECIALTY PRODUCTS DIVISION",
     "referenceNumber": "W8482-091492\/001\/PR",
     "contractDate": "21-4-2009",
     "description": "Floor Coverings",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "21-10-2009",
-    "originalValue": 10833,
+    "originalValue": 0,
     "contractValue": 10833,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/597befa930a400c2516751d7d968d5d5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id58602",
-    "vendorClean": "THE BILTRITE CORPORATION      SPECIALTY PRODUCTS DIVISION"
+    "vendorClean": "THE BILTRITE CORPORATION   SPECIALTY PRODUCTS DIVISION"
 }

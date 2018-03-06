@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2100181034",
-    "vendorName": "TRANS-SOL AVIATION  SERVICE INC.",
+    "vendorName": "TRANS-SOL AVIATION SERVICE INC.",
     "referenceNumber": "2100181034",
     "contractDate": "19-7-2010",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "19-7-2010",
-    "originalValue": 17613.92,
+    "originalValue": 0,
     "contractValue": 17613.92,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/74bb59373c247543d8688c337edb4216.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id77341",
-    "vendorClean": "TRANS-SOL AVIATION  SERVICE"
+    "vendorClean": "TRANS-SOL AVIATION SERVICE"
 }

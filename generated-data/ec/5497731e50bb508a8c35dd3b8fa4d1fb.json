@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 23400,
+    "originalValue": 0,
     "contractValue": 23400,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "ec\/5497731e50bb508a8c35dd3b8fa4d1fb.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=15443&quarter=3&fiscal=2007%2C%202008",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

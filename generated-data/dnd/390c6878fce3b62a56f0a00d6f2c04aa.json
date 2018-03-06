@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-64464",
-    "vendorName": "Schneider Electric   (Mississauga)",
+    "vendorName": "Schneider Electric (Mississauga)",
     "referenceNumber": "64464",
     "contractDate": "14-12-2016",
     "description": "Utilities",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "20-3-2017",
-    "originalValue": 20500,
+    "originalValue": 0,
     "contractValue": 20500,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/390c6878fce3b62a56f0a00d6f2c04aa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id193093",
-    "vendorClean": "SCHNEIDER ELECTRIC   (MISSISSAUGA)"
+    "vendorClean": "SCHNEIDER ELECTRIC  (MISSISSAUGA)"
 }

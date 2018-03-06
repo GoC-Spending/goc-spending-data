@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 22000,
+    "originalValue": 0,
     "contractValue": 22000,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "ec\/e93b9a70dcc0876b6699ec033ad78265.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=44197&quarter=2&fiscal=2012%2C%202013",
-    "vendorClean": "JESADOORPORATED"
+    "vendorClean": "JESADO"
 }

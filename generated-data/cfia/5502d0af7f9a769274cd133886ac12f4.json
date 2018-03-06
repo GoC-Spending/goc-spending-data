@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000473236",
-    "vendorName": "TEKNION FURNITURE  SYSTEMS",
+    "vendorName": "TEKNION FURNITURE SYSTEMS",
     "referenceNumber": "3000473236",
     "contractDate": "2012-03-02",
-    "description": "Acquisition of Office Equipment and Furniture Including Parts                                                                                                                                123 - Office Furniture and Furnishings, Including Parts",
+    "description": "Acquisition of Office Equipment and Furniture Including Parts                                123 - Office Furniture and Furnishings, Including Parts",
     "extraDescription": "",
     "objectCode": "0123",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 24930,
+    "originalValue": 0,
     "contractValue": 24930,
     "comments": "This contract is a call-up against a standing offer.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "cfia\/5502d0af7f9a769274cd133886ac12f4.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2011-2012&q=4&contraID=11418&yid=8",
-    "vendorClean": "TEKNION FURNITURE  SYSTEMS"
+    "vendorClean": "TEKNION FURNITURE SYSTEMS"
 }

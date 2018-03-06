@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000479758",
-    "vendorName": "TRM  TECHNOLOGIES INC.",
+    "vendorName": "TRM TECHNOLOGIES INC.",
     "referenceNumber": "3000479758",
     "contractDate": "2012-05-01",
-    "description": "Other Professional Services                                                                                                                                                                                           499 - Other Professional Services not Elsewhere Specified",
+    "description": "Other Professional Services                                               499 - Other Professional Services not Elsewhere Specified",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 23100,
+    "originalValue": 0,
     "contractValue": 23100,
     "comments": "This contract is a cll-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "cfia\/b1f90904cd6f05b02972117e8e0d321f.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=1&contraID=11540&yid=9",
-    "vendorClean": "TRM  TECHNOLOGIES"
+    "vendorClean": "TRM TECHNOLOGIES"
 }

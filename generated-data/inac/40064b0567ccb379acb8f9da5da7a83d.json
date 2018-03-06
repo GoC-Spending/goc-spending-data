@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-8016",
-    "vendorName": "NAVIGANT ECONOMICS  LLC",
+    "vendorName": "NAVIGANT ECONOMICS LLC",
     "referenceNumber": "20-13-8016",
     "contractDate": "11\/7\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 280080,
+    "originalValue": 0,
     "contractValue": 280080,
     "comments": "Expert Witness\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/40064b0567ccb379acb8f9da5da7a83d.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct91-eng.asp",
-    "vendorClean": "NAVIGANT ECONOMICS  LLC"
+    "vendorClean": "NAVIGANT ECONOMICS LLC"
 }

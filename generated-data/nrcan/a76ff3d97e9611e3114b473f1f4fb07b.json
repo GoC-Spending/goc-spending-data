@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 11017.5,
+    "originalValue": 0,
     "contractValue": 11017.5,
     "comments": "Service Contract awarded by NRCAN. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "nrcan\/a76ff3d97e9611e3114b473f1f4fb07b.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2012-2013&qrt=02&id=30754",
-    "vendorClean": "ARMADA ENVIRONMENTALORPORATED"
+    "vendorClean": "ARMADA ENVIRONMENTAL"
 }

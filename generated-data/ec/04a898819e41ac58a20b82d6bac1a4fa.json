@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 9000,
+    "originalValue": 0,
     "contractValue": 9000,
     "comments": "Provide facilitation services towards developing effective workplace interaction, based on mutual understanding of roles & responsibilities",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "ec\/04a898819e41ac58a20b82d6bac1a4fa.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=52484&quarter=1&fiscal=2014%2C%202015",
-    "vendorClean": "AGREEORPORATED"
+    "vendorClean": "AGREE"
 }

@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8484-085720\/001\/QD",
-    "vendorName": "\"Harris Corporation, RF Communications Division                        \"",
+    "vendorName": "\"Harris Corporation, RF Communications Division      \"",
     "referenceNumber": "W8484-085720\/001\/QD",
     "contractDate": "29-2-2008",
-    "description": "\"Radio and Television Communications Equipment, Except Airborne  \"",
+    "description": "\"Radio and Television Communications Equipment, Except Airborne \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "28-2-2009",
-    "originalValue": 70884,
+    "originalValue": 0,
     "contractValue": 70884,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/9824414369921d8548aee6bbfd9a7c1d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39777",
-    "vendorClean": "\"HARRIS CORPORATION RF COMMUNICATIONS DIVISION                        \""
+    "vendorClean": "\"HARRIS CORPORATION RF COMMUNICATIONS DIVISION            \""
 }

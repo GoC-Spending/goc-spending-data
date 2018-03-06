@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0105-08V007\/001\/MCT",
-    "vendorName": "\"Inpho USA, Inc                                                        \"",
+    "vendorName": "\"Inpho USA, Inc              \"",
     "referenceNumber": "W0105-08V007\/001\/MCT",
     "contractDate": "4-3-2008",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 13441,
+    "originalValue": 0,
     "contractValue": 13441,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/e9887f65754b4fd34ededcdfecea038a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38220",
-    "vendorClean": "\"INPHO USA                                                        \""
+    "vendorClean": "\"INPHO USA                            \""
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-11-2011",
-    "originalValue": 563800,
+    "originalValue": 0,
     "contractValue": 563800,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/75c45e00a208a250e8f4b3b6eee8594e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103239",
-    "vendorClean": "MYVIEW CONSTRUCTIONORPORATED"
+    "vendorClean": "MYVIEW CONSTRUCTION"
 }

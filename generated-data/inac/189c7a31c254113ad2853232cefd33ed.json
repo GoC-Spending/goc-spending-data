@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-12-6005\/1",
-    "vendorName": "OUTCOME-MERIT  A JOINT VENTURE",
+    "vendorName": "OUTCOME-MERIT A JOINT VENTURE",
     "referenceNumber": "20-12-6005\/1",
     "contractDate": "8\/7\/2013",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 563073,
+    "originalValue": 0,
     "contractValue": 563073,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/189c7a31c254113ad2853232cefd33ed.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct127-eng.asp",
-    "vendorClean": "OUTCOME-MERIT  A JOINT VENTURE"
+    "vendorClean": "OUTCOME-MERIT A JOINT VENTURE"
 }

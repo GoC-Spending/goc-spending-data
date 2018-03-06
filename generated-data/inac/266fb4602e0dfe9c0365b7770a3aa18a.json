@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-10-6001\/7",
-    "vendorName": "TRADUCTIONS HOULE INC.  LES",
+    "vendorName": "TRADUCTIONS HOULE INC. LES",
     "referenceNumber": "20-10-6001\/7",
     "contractDate": "2\/20\/2014",
     "description": "0494 - TRANSLATION SERVICES",
@@ -11,14 +11,14 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 21797.75,
+    "originalValue": 0,
     "contractValue": 21797.75,
-    "comments": "Translation  Proofreading  Editing and Revision Services\/This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
+    "comments": "Translation Proofreading Editing and Revision Services\/This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
     "sourceYear": 2013,
     "sourceQuarter": 4,
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/266fb4602e0dfe9c0365b7770a3aa18a.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct190-eng.asp",
-    "vendorClean": "TRADUCTIONS HOULE  LES"
+    "vendorClean": "TRADUCTIONS HOULE LES"
 }

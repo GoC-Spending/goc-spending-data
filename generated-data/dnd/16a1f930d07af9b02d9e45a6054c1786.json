@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2007,
     "deliveryDate": "31-12-2007",
-    "originalValue": 136946,
+    "originalValue": 0,
     "contractValue": 136946,
     "comments": "This item contains one or more amendment. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/16a1f930d07af9b02d9e45a6054c1786.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id77179",
-    "vendorClean": "NRNSORPORATED"
+    "vendorClean": "NRNS"
 }

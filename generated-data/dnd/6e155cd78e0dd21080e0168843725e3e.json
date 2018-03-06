@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61242",
-    "vendorName": "Tervita Corporation   (Richmond B.C)",
+    "vendorName": "Tervita Corporation (Richmond B.C)",
     "referenceNumber": "61242",
     "contractDate": "23-12-2015",
     "description": "Pre-Erection Work at CN Site",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "23-3-2016",
-    "originalValue": 1989833.52,
+    "originalValue": 0,
     "contractValue": 1989833.52,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/6e155cd78e0dd21080e0168843725e3e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id207767",
-    "vendorClean": "TERVITA CORPORATION   (RICHMOND BC)"
+    "vendorClean": "TERVITA CORPORATION  (RICHMOND BC)"
 }

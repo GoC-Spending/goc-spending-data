@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-aec2dbe6d0d13017766270709b6a1e0f",
-    "vendorName": "SOFTWARE ENGINEERING          OF AMERICA",
+    "vendorName": "SOFTWARE ENGINEERING   OF AMERICA",
     "referenceNumber": "aec2dbe6d0d13017766270709b6a1e0f",
     "contractDate": "28-11-2011",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-11-2011",
-    "originalValue": 15723,
+    "originalValue": 0,
     "contractValue": 15723,
     "comments": "This item contains one or more amendments.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/aec2dbe6d0d13017766270709b6a1e0f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id108303",
-    "vendorClean": "SOFTWARE ENGINEERING          OF AMERICA"
+    "vendorClean": "SOFTWARE ENGINEERING     OF AMERICA"
 }

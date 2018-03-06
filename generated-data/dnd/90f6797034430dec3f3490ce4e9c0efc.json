@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-9-2009",
-    "originalValue": 44856,
+    "originalValue": 0,
     "contractValue": 44856,
     "comments": "This contract was sole sourced.This contract is a call-up against Public Works and Government Services procurement tool",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/90f6797034430dec3f3490ce4e9c0efc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id60889",
-    "vendorClean": "OMNITECH ELECTRONICSORPORATED"
+    "vendorClean": "OMNITECH ELECTRONICS"
 }

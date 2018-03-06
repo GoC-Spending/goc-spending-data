@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "4-3-2015",
-    "originalValue": 11097.73,
+    "originalValue": 0,
     "contractValue": 11097.73,
     "comments": "This contract is a call-up against a Public Works and Government Services procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/1faca1a47d6e3cba3bc97e475613ee8b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id164007",
-    "vendorClean": "ENVIOSYSTEMSORPORATED"
+    "vendorClean": "ENVIOSYSTEMS"
 }

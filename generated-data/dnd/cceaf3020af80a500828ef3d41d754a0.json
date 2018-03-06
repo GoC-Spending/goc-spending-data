@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0113-07Q354\/001\/BOR",
-    "vendorName": "\"Extreme Fitness, Inc.                                                 \"",
+    "vendorName": "\"Extreme Fitness, Inc.             \"",
     "referenceNumber": "W0113-07Q354\/001\/BOR",
     "contractDate": "19-3-2008",
     "description": "Corporate Membership Subscription Fees",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "1-5-2009",
-    "originalValue": 15498,
+    "originalValue": 0,
     "contractValue": 15498,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/cceaf3020af80a500828ef3d41d754a0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38414",
-    "vendorClean": "\"EXTREME FITNESS                                                 \""
+    "vendorClean": "\"EXTREME FITNESS                         \""
 }

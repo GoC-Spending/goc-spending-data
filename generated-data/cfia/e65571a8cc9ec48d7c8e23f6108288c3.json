@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000498370",
-    "vendorName": "STONCOR GROUP  RPM CANADA",
+    "vendorName": "STONCOR GROUP RPM CANADA",
     "referenceNumber": "3000498370",
     "contractDate": "2012-12-03",
-    "description": "Repair of Buildings                                                                                                                                                                                                               645 - Other Buildings",
+    "description": "Repair of Buildings                                                    645 - Other Buildings",
     "extraDescription": "",
     "objectCode": "0645",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 39516,
+    "originalValue": 0,
     "contractValue": 39516,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "cfia\/e65571a8cc9ec48d7c8e23f6108288c3.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=3&contraID=12030&yid=9",
-    "vendorClean": "STONCOR GROUP  RPM CANADA"
+    "vendorClean": "STONCOR GROUP RPM CANADA"
 }

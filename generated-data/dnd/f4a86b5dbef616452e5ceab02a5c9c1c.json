@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-102420\/003\/GRK",
-    "vendorName": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA       FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "W8486-102420\/003\/GRK",
     "contractDate": "26-2-2010",
     "description": "Vehicular Cab, Body and Frame Structural Components",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "26-2-2011",
-    "originalValue": 14618,
+    "originalValue": 0,
     "contractValue": 14618,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/f4a86b5dbef616452e5ceab02a5c9c1c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id72052",
-    "vendorClean": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA             FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

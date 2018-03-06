@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "8-12-2010",
-    "originalValue": 23382,
+    "originalValue": 0,
     "contractValue": 23382,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/6c117f0fe64e0493d4c92b756e70e05c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id86039",
-    "vendorClean": "KAYCOMORPORATED"
+    "vendorClean": "KAYCOM"
 }

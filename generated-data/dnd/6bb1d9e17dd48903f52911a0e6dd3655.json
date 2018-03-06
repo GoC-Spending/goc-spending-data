@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "26-10-2011",
-    "originalValue": 21357,
+    "originalValue": 0,
     "contractValue": 21357,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/6bb1d9e17dd48903f52911a0e6dd3655.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id101327",
-    "vendorClean": "JOINT VENTURESORPORATED"
+    "vendorClean": "JOINT VENTURES"
 }

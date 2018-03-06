@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000518751",
-    "vendorName": "INTEGRA  NETWORKS CORPORATION",
+    "vendorName": "INTEGRA NETWORKS CORPORATION",
     "referenceNumber": "3000518751",
     "contractDate": "2013-05-16",
-    "description": "Informatics Services - 0473  Information Technology and Telecommunications Consultants",
+    "description": "Informatics Services - 0473 Information Technology and Telecommunications Consultants",
     "extraDescription": "",
     "objectCode": "0473",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 293506.2,
+    "originalValue": 0,
     "contractValue": 293506.2,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.A?",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "cfia\/b0b75c5514d615d5c9e83efab46dc9d1.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=1&contraID=13126&yid=10",
-    "vendorClean": "INTEGRA  NETWORKS CORPORATION"
+    "vendorClean": "INTEGRA NETWORKS CORPORATION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/6",
-    "vendorName": "BUNTON  ANDREA",
+    "vendorName": "BUNTON ANDREA",
     "referenceNumber": "09-12-6001\/6",
     "contractDate": "7\/10\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 23782.5,
+    "originalValue": 0,
     "contractValue": 23782.5,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/0667fe1665b0d703762357cd33cbb6e5.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct33-eng.asp",
-    "vendorClean": "BUNTON  ANDREA"
+    "vendorClean": "BUNTON ANDREA"
 }

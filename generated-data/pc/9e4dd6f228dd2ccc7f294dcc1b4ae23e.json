@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45307476",
-    "vendorName": "Koncrete  Construction Group",
+    "vendorName": "Koncrete Construction Group",
     "referenceNumber": "45307476",
     "contractDate": "2011\/10\/31",
     "description": "1121 Salt, sulphur, ores, earth and stone",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "2011\/11\/10",
-    "originalValue": 10867.5,
+    "originalValue": 0,
     "contractValue": 10867.5,
     "comments": "Supply & delivery of 300 yards of gravel",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "pc\/9e4dd6f228dd2ccc7f294dcc1b4ae23e.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=3&oqCONTRACT_ID=37962",
-    "vendorClean": "KONCRETE  CONSTRUCTION GROUP"
+    "vendorClean": "KONCRETE CONSTRUCTION GROUP"
 }

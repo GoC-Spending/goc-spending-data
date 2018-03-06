@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-60657",
-    "vendorName": "WSP Canada Inc.   (Ottawa)",
+    "vendorName": "WSP Canada Inc. (Ottawa)",
     "referenceNumber": "60657",
     "contractDate": "20-11-2015",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "7-7-2016",
-    "originalValue": 139260.42,
+    "originalValue": 0,
     "contractValue": 139260.42,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/8e2b0d9423a2df75257a5b434bf22a04.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id206621",
-    "vendorClean": "WSP CANADA   (OTTAWA)"
+    "vendorClean": "WSP CANADA  (OTTAWA)"
 }

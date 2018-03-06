@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2016\/08\/28",
-    "originalValue": 42822.82,
+    "originalValue": 0,
     "contractValue": 42822.82,
     "comments": "Yellow highway Traffic Paint 205 L Drums",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "pc\/c549264949c5b8aee6cb975db6010764.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2016-2017&oqQUARTER=2&oqCONTRACT_ID=52438",
-    "vendorClean": "ENNIS PAINTORPORATED"
+    "vendorClean": "ENNIS PAINT"
 }

@@ -3,7 +3,7 @@
     "vendorName": "Tdv Global Incorporated",
     "referenceNumber": "7079280",
     "contractDate": "2011\u00e2\u0080\u009101\u00e2\u0080\u009112",
-    "description": "341 Communications    Research Services",
+    "description": "341 Communications Research Services",
     "extraDescription": "",
     "objectCode": "0341",
     "contractPeriodStart": "2011-01-12",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 38985,
+    "originalValue": 0,
     "contractValue": 38985,
-    "comments": "This    contract was competitively sourced",
+    "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
     "sourceYear": 2011,
     "sourceQuarter": 0,
     "sourceFiscal": "",
     "sourceFilename": "ircc\/7d9206e0cd4304109c20bde9f7fe9f5c.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=831&qid=2011-Q1",
-    "vendorClean": "TDV GLOBALORPORATED"
+    "vendorClean": "TDV GLOBAL"
 }

@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 22000,
+    "originalValue": 0,
     "contractValue": 22000,
     "comments": "Provide services to develop processes for Finance Branch",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "ec\/547ed37280a32adeabb0e5318705bd53.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=50948&quarter=4&fiscal=2013%2C%202014",
-    "vendorClean": "QMR STAFFING SOLUTIONSORPORATED"
+    "vendorClean": "QMR STAFFING SOLUTIONS"
 }

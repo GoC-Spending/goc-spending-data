@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-12-8019",
-    "vendorName": "WICKEN  WILLIAM",
+    "vendorName": "WICKEN WILLIAM",
     "referenceNumber": "20-12-8019",
     "contractDate": "5\/29\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 49100,
+    "originalValue": 0,
     "contractValue": 49100,
     "comments": "This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/05fb98b6332da18eba46c3a8b8c9a697.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct224-eng.asp",
-    "vendorClean": "WICKEN  WILLIAM"
+    "vendorClean": "WICKEN WILLIAM"
 }

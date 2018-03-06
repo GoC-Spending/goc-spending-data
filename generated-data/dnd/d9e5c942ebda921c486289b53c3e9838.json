@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58919",
-    "vendorName": "Aquafor Beech Limited  (Guelph)",
+    "vendorName": "Aquafor Beech Limited (Guelph)",
     "referenceNumber": "58919",
     "contractDate": "21-5-2015",
     "description": "Natural Resources Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "16-1-2016",
-    "originalValue": 21852.36,
+    "originalValue": 0,
     "contractValue": 21852.36,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/d9e5c942ebda921c486289b53c3e9838.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id168463",
-    "vendorClean": "AQUAFOR BEECH LIMITED  (GUELPH)"
+    "vendorClean": "AQUAFOR BEECH LIMITED (GUELPH)"
 }

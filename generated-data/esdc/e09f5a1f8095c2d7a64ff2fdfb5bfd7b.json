@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2016-03-31",
-    "originalValue": 123310.69,
+    "originalValue": 0,
     "contractValue": 123310.69,
     "comments": "For a contract with task authorizations, the realized amount of the contract is contingent on the number of task authorizations issued and may be less than the amount proactively disclosed, dependent on the operational requirements of the department",
     "ownerAcronym": "esdc",

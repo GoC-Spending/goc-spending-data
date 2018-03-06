@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61713",
-    "vendorName": "AMEC Foster Wheeler  (Winnipeg)",
+    "vendorName": "AMEC Foster Wheeler (Winnipeg)",
     "referenceNumber": "61713",
     "contractDate": "5-2-2016",
     "description": "Environmental Studies",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "18-3-2016",
-    "originalValue": 31008.25,
+    "originalValue": 0,
     "contractValue": 31008.25,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/796757b81bb4ab8f4c8be73afe7e6fca.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id186997",
-    "vendorClean": "AMEC FOSTER WHEELER  (WINNIPEG)"
+    "vendorClean": "AMEC FOSTER WHEELER (WINNIPEG)"
 }

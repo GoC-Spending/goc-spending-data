@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0249",
-    "vendorName": "QUIROUETTE  JUSTIN",
+    "vendorName": "QUIROUETTE JUSTIN",
     "referenceNumber": "20-13-0249",
     "contractDate": "3\/11\/2014",
     "description": "0431 - SCIENTIFIC CONSULTANTS",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 10500,
+    "originalValue": 0,
     "contractValue": 10500,
     "comments": "Determining the Location of CHARS Field Stations - Terrestrial Monitoring Cabin: Ecosystem Modelling\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/da4e1ae4c101ce9c7ab4196f7af3990d.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct293-eng.asp",
-    "vendorClean": "QUIROUETTE  JUSTIN"
+    "vendorClean": "QUIROUETTE JUSTIN"
 }

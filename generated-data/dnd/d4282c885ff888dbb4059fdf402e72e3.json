@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501383452",
-    "vendorName": "FIREFOX  SOLUTIONS",
+    "vendorName": "FIREFOX SOLUTIONS",
     "referenceNumber": "4501383452",
     "contractDate": "6-1-2016",
     "description": "Fire Fighting Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "6-1-2016",
-    "originalValue": 12384.75,
+    "originalValue": 0,
     "contractValue": 12384.75,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/d4282c885ff888dbb4059fdf402e72e3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id178807",
-    "vendorClean": "FIREFOX  SOLUTIONS"
+    "vendorClean": "FIREFOX SOLUTIONS"
 }

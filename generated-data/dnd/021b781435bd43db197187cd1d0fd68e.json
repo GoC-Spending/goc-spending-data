@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55368",
-    "vendorName": "Quantum Murray LP  (Sherwood Park)",
+    "vendorName": "Quantum Murray LP (Sherwood Park)",
     "referenceNumber": "55368",
     "contractDate": "16-12-2013",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "4-7-2014",
-    "originalValue": 309731,
+    "originalValue": 0,
     "contractValue": 309731,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "dnd\/021b781435bd43db197187cd1d0fd68e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2013&id=id145184",
-    "vendorClean": "QUANTUM MURRAY LP  (SHERWOOD PARK)"
+    "vendorClean": "QUANTUM MURRAY LP (SHERWOOD PARK)"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "inac-A0132-13-0057",
-    "vendorName": "PHILIPS HEALTHCARE  DIVISION OF PHILIPS ELECTRONICS LTD.",
+    "vendorName": "PHILIPS HEALTHCARE DIVISION OF PHILIPS ELECTRONICS LTD.",
     "referenceNumber": "A0132-13-0057",
     "contractDate": "12\/6\/2013",
     "description": "1219 - OTHER MACHINERY AND PARTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 36229.78,
+    "originalValue": 0,
     "contractValue": 36229.78,
     "comments": "Defibrillators\/This contract was competitively sourced.\/This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/2161d4a5ae7b19dacee7c942081a3133.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct195-eng.asp",
-    "vendorClean": "PHILIPS HEALTHCARE  DIVISION OF PHILIPS ELECTRONICS"
+    "vendorClean": "PHILIPS HEALTHCARE DIVISION OF PHILIPS ELECTRONICS"
 }

@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000523239",
-    "vendorName": "FUJITSU CONSULTING  CANADA INC",
+    "vendorName": "FUJITSU CONSULTING CANADA INC",
     "referenceNumber": "3000523239",
     "contractDate": "2014-01-02",
-    "description": "Informatics Services                                                                                                                                                                                                                            473 - Information Technology Consultants $ 61,461",
+    "description": "Informatics Services                                                       473 - Information Technology Consultants $ 61,461",
     "extraDescription": "",
     "objectCode": "0473",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 51494,
+    "originalValue": 0,
     "contractValue": 51494,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "cfia\/a9bd6d3702a49bfd567775a3d0484f8a.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=4&contraID=14126&yid=10",
-    "vendorClean": "FUJITSU CONSULTING  CANADA"
+    "vendorClean": "FUJITSU CONSULTING CANADA"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-10GT02\/001\/GRK",
-    "vendorName": "BUNDESAMT FUER WEHRTECHNIK    UND BESCHAFFUNG ABT LG III-6",
+    "vendorName": "BUNDESAMT FUER WEHRTECHNIK UND BESCHAFFUNG ABT LG III-6",
     "referenceNumber": "W8486-10GT02\/001\/GRK",
     "contractDate": "7-4-2009",
     "description": "Ammunition, 75mm through 125mm",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-6-2009",
-    "originalValue": 647181,
+    "originalValue": 0,
     "contractValue": 647181,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/51abe64b9bb903358302fea1775a21ec.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id58146",
-    "vendorClean": "BUNDESAMT FUER WEHRTECHNIK    UND BESCHAFFUNG ABT LG III-6"
+    "vendorClean": "BUNDESAMT FUER WEHRTECHNIK  UND BESCHAFFUNG ABT LG III-6"
 }

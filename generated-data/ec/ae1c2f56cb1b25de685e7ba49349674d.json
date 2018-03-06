@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 64002,
+    "originalValue": 0,
     "contractValue": 64002,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "ec\/ae1c2f56cb1b25de685e7ba49349674d.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=36227&quarter=3&fiscal=2010%2C%202011",
-    "vendorClean": "QMR STAFFING SOLUTIONSORPORATED"
+    "vendorClean": "QMR STAFFING SOLUTIONS"
 }

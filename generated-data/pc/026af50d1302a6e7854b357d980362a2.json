@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2016\/08\/17",
-    "originalValue": 11235,
+    "originalValue": 0,
     "contractValue": 11235,
     "comments": "Helijet, Aug 16 Moresby,Barry,Rose Repea",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "pc\/026af50d1302a6e7854b357d980362a2.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2016-2017&oqQUARTER=2&oqCONTRACT_ID=52114",
-    "vendorClean": "HELIJET INTERNATIONALORPORATED"
+    "vendorClean": "HELIJET INTERNATIONAL"
 }

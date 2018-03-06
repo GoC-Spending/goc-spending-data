@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501258727",
-    "vendorName": "PITNEY  BOWES",
+    "vendorName": "PITNEY BOWES",
     "referenceNumber": "4501258727",
     "contractDate": "26-1-2015",
     "description": "Office Furniture",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "11-3-2015",
-    "originalValue": 10948.27,
+    "originalValue": 0,
     "contractValue": 10948.27,
     "comments": "This contract is a call-up against a Public Works and Government Services procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/0a848eba42cb018326b750c4cdf44c4a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id162600",
-    "vendorClean": "PITNEY  BOWES"
+    "vendorClean": "PITNEY BOWES"
 }

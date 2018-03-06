@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-56142",
-    "vendorName": "Exova Canada Inc.  (Ottawa)",
+    "vendorName": "Exova Canada Inc. (Ottawa)",
     "referenceNumber": "56142",
     "contractDate": "22-5-2014",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "31-3-2015",
-    "originalValue": 25000,
+    "originalValue": 0,
     "contractValue": 25000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "dnd\/09af736432b0713780c2c113c4e9156a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2014&id=id153326",
-    "vendorClean": "EXOVA CANADA  (OTTAWA)"
+    "vendorClean": "EXOVA CANADA (OTTAWA)"
 }

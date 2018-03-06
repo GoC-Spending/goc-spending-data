@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "2-1-2015",
-    "originalValue": 55891.5,
+    "originalValue": 0,
     "contractValue": 55891.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/30528839b16de185059cbbe61838c74c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id156936",
-    "vendorClean": "TETRA TECH WEIORPORATED"
+    "vendorClean": "TETRA TECH WEI"
 }

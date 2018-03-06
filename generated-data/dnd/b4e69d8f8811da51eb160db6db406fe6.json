@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 62791,
+    "originalValue": 0,
     "contractValue": 62791,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/b4e69d8f8811da51eb160db6db406fe6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id28985",
-    "vendorClean": "OMNITECH ELECTRONICSORPORATED"
+    "vendorClean": "OMNITECH ELECTRONICS"
 }

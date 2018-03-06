@@ -1,6 +1,6 @@
 {
     "uuid": "inac-4500356664",
-    "vendorName": "FILE HILLS QU'APPELLE  T.C. INC.",
+    "vendorName": "FILE HILLS QU'APPELLE T.C. INC.",
     "referenceNumber": "4500356664",
     "contractDate": "12\/02\/2016",
     "description": "499 - Other professional services; Facilitator\/Presenter",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "",
-    "originalValue": 23000,
+    "originalValue": 0,
     "contractValue": 23000,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "inac\/965d8cca08359091960575da0484fd9b.html",
     "sourceURL": "\/prodis\/cntrcts\/16-17-q3\/ct98-eng.asp",
-    "vendorClean": "FILE HILLS QUAPPELLE  TC"
+    "vendorClean": "FILE HILLS QUAPPELLE TC"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "7-10-2005",
-    "originalValue": 14228,
+    "originalValue": 0,
     "contractValue": 14228,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/8dfc1bc4e480f1aadd91f88908519d42.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id13764",
-    "vendorClean": "KAYCOMORPORATED"
+    "vendorClean": "KAYCOM"
 }

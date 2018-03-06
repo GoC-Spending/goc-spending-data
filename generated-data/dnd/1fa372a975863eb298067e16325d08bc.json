@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2013,
     "deliveryDate": "31-5-2013",
-    "originalValue": 1363718,
+    "originalValue": 0,
     "contractValue": 1363718,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/1fa372a975863eb298067e16325d08bc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id75704",
-    "vendorClean": "MANAGEMENT SYSTEMS RESOURCESORPORATED"
+    "vendorClean": "MANAGEMENT SYSTEMS RESOURCES"
 }

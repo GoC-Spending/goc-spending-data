@@ -11,14 +11,14 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 24408.01,
+    "originalValue": 0,
     "contractValue": 24408.01,
-    "comments": "Original Amount $0.00  Investigative Services \/ Employee Relation Consultant",
+    "comments": "Original Amount $0.00 Investigative Services \/ Employee Relation Consultant",
     "ownerAcronym": "ec",
     "sourceYear": 2015,
     "sourceQuarter": 4,
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "ec\/cef9cb325f23bb7d4ec2935b99331576.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=60739&quarter=4&fiscal=2015%2C%202016",
-    "vendorClean": "QMR STAFFING SOLUTIONSORPORATED"
+    "vendorClean": "QMR STAFFING SOLUTIONS"
 }

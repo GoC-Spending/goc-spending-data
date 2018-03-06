@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50284",
-    "vendorName": "CIMA+         (Gatineau)",
+    "vendorName": "CIMA+   (Gatineau)",
     "referenceNumber": "50284",
     "contractDate": "9-2-2012",
     "description": "Utilities",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "10-3-2012",
-    "originalValue": 16550,
+    "originalValue": 0,
     "contractValue": 16550,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/d84919eba46c40519844d50914078cad.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id112692",
-    "vendorClean": "CIMA+         (GATINEAU)"
+    "vendorClean": "CIMA+     (GATINEAU)"
 }

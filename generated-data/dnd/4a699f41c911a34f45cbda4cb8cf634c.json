@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "28-7-2011",
-    "originalValue": 26000,
+    "originalValue": 0,
     "contractValue": 26000,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/4a699f41c911a34f45cbda4cb8cf634c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id77742",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

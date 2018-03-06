@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45267220",
-    "vendorName": "Rightline  Consulting",
+    "vendorName": "Rightline Consulting",
     "referenceNumber": "45267220",
     "contractDate": "2009\/10\/22",
     "description": "351 Communications professional services not elsewhere",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "2010\/03\/31",
-    "originalValue": 29266.13,
+    "originalValue": 0,
     "contractValue": 29266.13,
     "comments": "Backcountry Print Media. This contract contains one or more amendments.",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/d7ae6109c99d9a3f88b037031e6d01f0.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=34113",
-    "vendorClean": "RIGHTLINE  CONSULTING"
+    "vendorClean": "RIGHTLINE CONSULTING"
 }

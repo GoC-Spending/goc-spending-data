@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 14828.8,
+    "originalValue": 0,
     "contractValue": 14828.8,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/4120dda44dc7be098326db4c73e29f69.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=76",
-    "vendorClean": "FLASH COURIER SERVICESORPORATED"
+    "vendorClean": "FLASH COURIER SERVICES"
 }

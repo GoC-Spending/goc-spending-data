@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-12-6010\/2",
-    "vendorName": "DELPHI GROUP  THE",
+    "vendorName": "DELPHI GROUP THE",
     "referenceNumber": "20-12-6010\/2",
     "contractDate": "1\/30\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 64630.13,
+    "originalValue": 0,
     "contractValue": 64630.13,
     "comments": "ECOENERGY STRATEGIC ADVISORY SERVICES SOA\/This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/1a70c8a5a38eb9725820bc22ee61c70e.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct108-eng.asp",
-    "vendorClean": "DELPHI GROUP  THE"
+    "vendorClean": "DELPHI GROUP THE"
 }

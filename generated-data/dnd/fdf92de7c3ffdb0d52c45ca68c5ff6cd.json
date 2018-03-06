@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2018,
     "deliveryDate": "31-3-2018",
-    "originalValue": 814040,
+    "originalValue": 0,
     "contractValue": 814040,
     "comments": "This item contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/fdf92de7c3ffdb0d52c45ca68c5ff6cd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id159113",
-    "vendorClean": "MEAL KIT SUPPLY CANADAORPORATED"
+    "vendorClean": "MEAL KIT SUPPLY CANADA"
 }

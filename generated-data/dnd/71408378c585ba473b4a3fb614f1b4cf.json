@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61978",
-    "vendorName": "J.G. Fitzgerald & Son's Ltd  (Pembroke)",
+    "vendorName": "J.G. Fitzgerald & Son's Ltd (Pembroke)",
     "referenceNumber": "61978",
     "contractDate": "16-2-2016",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "29-3-2016",
-    "originalValue": 10750,
+    "originalValue": 0,
     "contractValue": 10750,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/71408378c585ba473b4a3fb614f1b4cf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id187139",
-    "vendorClean": "JG FITZGERALD & SONS  (PEMBROKE)"
+    "vendorClean": "JG FITZGERALD & SONS (PEMBROKE)"
 }

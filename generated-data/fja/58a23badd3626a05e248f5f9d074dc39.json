@@ -13,7 +13,7 @@
     "deliveryDate": "",
     "originalValue": 22053,
     "contractValue": 22527.14,
-    "comments": "Call-up.  This call-up  includes one or more amendments.",
+    "comments": "Call-up. This call-up includes one or more amendments.",
     "ownerAcronym": "fja",
     "sourceYear": 2016,
     "sourceQuarter": 2,
@@ -21,5 +21,5 @@
     "sourceFilename": "fja\/58a23badd3626a05e248f5f9d074dc39.html",
     "sourceURL": "http:\/\/www.fja-cmf.gc.ca\/pd-dp\/contracts-contrats\/details-eng.aspx?refno=4F001-16-231",
     "formerPublicServant": false,
-    "vendorClean": "ITEXORPORATED"
+    "vendorClean": "ITEX"
 }

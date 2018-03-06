@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-57391",
-    "vendorName": "Commissionaires  (Ottawa)",
+    "vendorName": "Commissionaires (Ottawa)",
     "referenceNumber": "57391",
     "contractDate": "25-2-2015",
     "description": "Custodial Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "13-9-2015",
-    "originalValue": 16135.92,
+    "originalValue": 0,
     "contractValue": 16135.92,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/7f6be7aa1b58742d98c0685ae2bb419d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id164234",
-    "vendorClean": "COMMISSIONAIRES  (OTTAWA)"
+    "vendorClean": "COMMISSIONAIRES (OTTAWA)"
 }

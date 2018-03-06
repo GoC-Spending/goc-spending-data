@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "N\/A",
-    "originalValue": 1010303.66,
+    "originalValue": 0,
     "contractValue": 1010303.66,
     "comments": "This contract includes one or more amendments. This contract was awarded by Public Works and Government Services Canada.",
     "ownerAcronym": "tc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "tc\/865f596117bc05bd8f36d4ba348ded43.html",
     "sourceURL": "http:\/\/wwwapps.tc.gc.ca\/Corp-Serv-Gen\/2\/PDC-DPC\/contract\/detail.aspx?Contract_ID=534927&year=2015&Quarter=2",
-    "vendorClean": "SYNERGETIC ENGINEERING ASSOCIATESORPORATED"
+    "vendorClean": "SYNERGETIC ENGINEERING ASSOCIATES"
 }

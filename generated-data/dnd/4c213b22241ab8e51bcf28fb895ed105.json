@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 12657,
+    "originalValue": 0,
     "contractValue": 12657,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/4c213b22241ab8e51bcf28fb895ed105.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10326",
-    "vendorClean": "AMCAN TECHNOLOGIESORPORATED"
+    "vendorClean": "AMCAN TECHNOLOGIES"
 }

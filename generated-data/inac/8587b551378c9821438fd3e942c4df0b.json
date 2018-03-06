@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0198",
-    "vendorName": "GAUTHIER  YVON",
+    "vendorName": "GAUTHIER YVON",
     "referenceNumber": "20-13-0198",
     "contractDate": "2\/11\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24170.95,
+    "originalValue": 0,
     "contractValue": 24170.95,
     "comments": "RISK ASSESSMENT SERVICES\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/8587b551378c9821438fd3e942c4df0b.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct155-eng.asp",
-    "vendorClean": "GAUTHIER  YVON"
+    "vendorClean": "GAUTHIER YVON"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "25-1-2006",
-    "originalValue": 25894,
+    "originalValue": 0,
     "contractValue": 25894,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/7a310961c2ed639f1f5bc1ff2c9ff5f7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10205",
-    "vendorClean": "SATLANTICORPORATED"
+    "vendorClean": "SATLANTIC"
 }

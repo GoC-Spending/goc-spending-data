@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/03\/31",
-    "originalValue": 10583.82,
+    "originalValue": 0,
     "contractValue": 10583.82,
     "comments": "YURT#5-20' GREY WALLS\/FOREST GR.ROOF",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "pc\/66838ed9fcc329201460e6bc35468652.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=4&oqCONTRACT_ID=38590",
-    "vendorClean": "YURTZBY DESIGNORPORATED"
+    "vendorClean": "YURTZBY DESIGN"
 }

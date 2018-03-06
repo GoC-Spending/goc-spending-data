@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-072476\/223\/ML",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "W8482-072476\/223\/ML",
     "contractDate": "31-7-2008",
     "description": "Ship and Marine Miscellaneous Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-9-2008",
-    "originalValue": 50655,
+    "originalValue": 0,
     "contractValue": 50655,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/022bb53487cf2310fcc7a920ded29d03.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43412",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

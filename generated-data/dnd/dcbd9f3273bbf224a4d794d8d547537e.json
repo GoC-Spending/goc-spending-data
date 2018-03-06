@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "30-9-2011",
-    "originalValue": 11619517,
+    "originalValue": 0,
     "contractValue": 11619517,
     "comments": "This is an amendment.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/dcbd9f3273bbf224a4d794d8d547537e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id60105",
-    "vendorClean": "DRS EW & NETWORK SYSTEMSORPORATED"
+    "vendorClean": "DRS EW & NETWORK SYSTEMS"
 }

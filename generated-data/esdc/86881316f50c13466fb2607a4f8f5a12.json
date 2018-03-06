@@ -1,6 +1,6 @@
 {
     "uuid": "esdc-8011-10-0013",
-    "vendorName": "KING DAVID B  DR",
+    "vendorName": "KING DAVID B DR",
     "referenceNumber": "8011-10-0013",
     "contractDate": "2010-04-30",
     "description": "202 Travel - Non-Public Servants",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "N\/A",
-    "originalValue": 10963.22,
+    "originalValue": 0,
     "contractValue": 10963.22,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "esdc\/86881316f50c13466fb2607a4f8f5a12.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=11668&employeepositionid=null&site=1&startdate=2010-04-01&enddate=2010-06-30&quarterid=20#place72",
-    "vendorClean": "KING DAVID B  DR"
+    "vendorClean": "KING DAVID B DR"
 }

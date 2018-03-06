@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-052406\/001\/GBL",
-    "vendorName": "GEC MARCONI NAVAL SYSTEMS LTD.  COMBAT SYSTEMS DIVISION",
+    "vendorName": "GEC MARCONI NAVAL SYSTEMS LTD. COMBAT SYSTEMS DIVISION",
     "referenceNumber": "W8482-052406\/001\/GBL",
     "contractDate": "17-2-2005",
     "description": "Piezoelectric Crystals",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "17-2-2006",
-    "originalValue": 1054229,
+    "originalValue": 0,
     "contractValue": 1054229,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/51514abfac37f4080e237043f381c551.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10476",
-    "vendorClean": "GEC MARCONI NAVAL SYSTEMS  COMBAT SYSTEMS DIVISION"
+    "vendorClean": "GEC MARCONI NAVAL SYSTEMS COMBAT SYSTEMS DIVISION"
 }

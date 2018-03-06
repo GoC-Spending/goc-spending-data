@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-7254988",
-    "vendorName": "Interface Strategies Inc.  (ISI)",
+    "vendorName": "Interface Strategies Inc. (ISI)",
     "referenceNumber": "7254988",
     "contractDate": "2011-06-17",
     "description": "499 Other Professional Services not Elsewhere Specified",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 37800,
+    "originalValue": 0,
     "contractValue": 37800,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "irccpc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "irccpc\/aeb541063814e8819b50b9bf4bf2c44a.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2011-2012-1&ref=7254988",
-    "vendorClean": "INTERFACE STRATEGIES  (ISI)"
+    "vendorClean": "INTERFACE STRATEGIES (ISI)"
 }

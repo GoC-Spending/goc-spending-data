@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "5-1-2015",
-    "originalValue": 158697,
+    "originalValue": 0,
     "contractValue": 158697,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/b43f02a0d789673db03280d3683ac983.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id160541",
-    "vendorClean": "AMCAN TECHNOLOGIESORPORATED"
+    "vendorClean": "AMCAN TECHNOLOGIES"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-117069\/001\/PY",
-    "vendorName": "173301 CANADA INC. \/ACCUSPRAY  CANADA",
+    "vendorName": "173301 CANADA INC. \/ACCUSPRAY CANADA",
     "referenceNumber": "W8486-117069\/001\/PY",
     "contractDate": "27-1-2011",
     "description": "MAINTENANCE AND REPAIR SHOP SPECIALIZED EQUIPMENT, MISCELLANEOUS",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "18-4-2011",
-    "originalValue": 22757,
+    "originalValue": 0,
     "contractValue": 22757,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/05e06af793141a4c4d6cf449b682117e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89310",
-    "vendorClean": "173301 CANADAACCUSPRAY  CANADA"
+    "vendorClean": "173301 CANADAACCUSPRAY CANADA"
 }

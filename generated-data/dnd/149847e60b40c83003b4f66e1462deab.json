@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52410",
-    "vendorName": "SNC-Lavalin Environment Inc.  (Victoria)",
+    "vendorName": "SNC-Lavalin Environment Inc. (Victoria)",
     "referenceNumber": "52410",
     "contractDate": "24-9-2012",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "17-12-2012",
-    "originalValue": 71765,
+    "originalValue": 0,
     "contractValue": 71765,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/149847e60b40c83003b4f66e1462deab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125168",
-    "vendorClean": "SNC-LAVALIN ENVIRONMENT  (VICTORIA)"
+    "vendorClean": "SNC-LAVALIN ENVIRONMENT (VICTORIA)"
 }

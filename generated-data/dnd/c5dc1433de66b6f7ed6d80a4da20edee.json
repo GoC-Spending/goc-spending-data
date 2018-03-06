@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58810",
-    "vendorName": "Bouthillette Parizeau inc.  (Montreal)",
+    "vendorName": "Bouthillette Parizeau inc. (Montreal)",
     "referenceNumber": "58810",
     "contractDate": "20-5-2015",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "4-7-2015",
-    "originalValue": 20738,
+    "originalValue": 0,
     "contractValue": 20738,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/c5dc1433de66b6f7ed6d80a4da20edee.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id168432",
-    "vendorClean": "BOUTHILLETTE PARIZEAU  (MONTREAL)"
+    "vendorClean": "BOUTHILLETTE PARIZEAU (MONTREAL)"
 }

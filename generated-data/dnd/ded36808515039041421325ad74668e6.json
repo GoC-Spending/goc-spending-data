@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-096417\/002\/BLB",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-096417\/002\/BLB",
     "contractDate": "30-7-2009",
     "description": "Vehicular Components, Miscellaneous",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-9-2009",
-    "originalValue": 15240,
+    "originalValue": 0,
     "contractValue": 15240,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/ded36808515039041421325ad74668e6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id63562",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

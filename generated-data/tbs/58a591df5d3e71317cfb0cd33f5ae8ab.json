@@ -3,7 +3,7 @@
     "vendorName": "Burntedge Incorporated",
     "referenceNumber": "4000041",
     "contractDate": "2009-09-23",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2009-09-23",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "tbs\/58a591df5d3e71317cfb0cd33f5ae8ab.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=4000041&q=4&yr=2010&d=",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

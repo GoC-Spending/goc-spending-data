@@ -1,6 +1,6 @@
 {
     "uuid": "pspc-EO207-05-4563",
-    "vendorName": "Laurentide Controls Ltd.  \/  Les ContrA'les Laurentide",
+    "vendorName": "Laurentide Controls Ltd. \/ Les ContrA'les Laurentide",
     "referenceNumber": "EO207-05-4563",
     "contractDate": "2006-02-15",
     "description": "0635 - Industrial Buildings",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "pspc\/b80e3188c5c9aa83a965e1881746a8d0.html",
     "sourceURL": "http:\/\/www.tpsgc-pwgsc.gc.ca\/cgi-bin\/proactive\/cl.pl?lang=eng;SCR=D;Sort=0;PF=CL200506Q4.txt;LN=1046",
-    "vendorClean": "LAURENTIDE CONTROLS   LES CONTRALES LAURENTIDE"
+    "vendorClean": "LAURENTIDE CONTROLS LES CONTRALES LAURENTIDE"
 }

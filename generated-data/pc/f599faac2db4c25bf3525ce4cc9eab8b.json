@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45270692",
-    "vendorName": "CHRYSLER  CANADA INC",
+    "vendorName": "CHRYSLER CANADA INC",
     "referenceNumber": "45270692",
     "contractDate": "2010\/01\/04",
     "description": "1261 Road motor vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/03\/31",
-    "originalValue": 20875.05,
+    "originalValue": 0,
     "contractValue": 20875.05,
     "comments": "Dodge Caravan 7 passagers",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/f599faac2db4c25bf3525ce4cc9eab8b.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=34338",
-    "vendorClean": "CHRYSLER  CANADA"
+    "vendorClean": "CHRYSLER CANADA"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3132-05CE54\/001\/GRK",
-    "vendorName": "JANSEN ALBERT                 D-ELEKTRO-RADIO-INSTALLATION O",
+    "vendorName": "JANSEN ALBERT     D-ELEKTRO-RADIO-INSTALLATION O",
     "referenceNumber": "W3132-05CE54\/001\/GRK",
     "contractDate": "10-10-2008",
     "description": "Miscellaneous Household and Commercial Appliances, Electrical - Repair",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "10-10-2009",
-    "originalValue": 100000,
+    "originalValue": 0,
     "contractValue": 100000,
     "comments": "This is an amendment. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/895975a4dabcf12b01dc8d54fc9fd52b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id49830",
-    "vendorClean": "JANSEN ALBERT                 D-ELEKTRO-RADIO-INSTALLATION O"
+    "vendorClean": "JANSEN ALBERT         D-ELEKTRO-RADIO-INSTALLATION O"
 }

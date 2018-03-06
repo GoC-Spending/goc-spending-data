@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "15-3-2005",
-    "originalValue": 27530,
+    "originalValue": 0,
     "contractValue": 27530,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q3",
     "sourceFilename": "dnd\/c8e9283ce55b9d6bdd754ce8214a1857.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2004&id=id6812",
-    "vendorClean": "FACTS ENGINEERINGORPORATED"
+    "vendorClean": "FACTS ENGINEERING"
 }

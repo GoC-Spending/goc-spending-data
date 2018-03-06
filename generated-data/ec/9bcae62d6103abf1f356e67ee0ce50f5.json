@@ -11,14 +11,14 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 49001.4,
+    "originalValue": 0,
     "contractValue": 49001.4,
-    "comments": "Original Amount $19250.55  This contract includes one or more amendments.",
+    "comments": "Original Amount $19250.55 This contract includes one or more amendments.",
     "ownerAcronym": "ec",
     "sourceYear": 2009,
     "sourceQuarter": 2,
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "ec\/9bcae62d6103abf1f356e67ee0ce50f5.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=26398&quarter=2&fiscal=2009%2C%202010",
-    "vendorClean": "QMR STAFFING SOLUTIONSORPORATED"
+    "vendorClean": "QMR STAFFING SOLUTIONS"
 }

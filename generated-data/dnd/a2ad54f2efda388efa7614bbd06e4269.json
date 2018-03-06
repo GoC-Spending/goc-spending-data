@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-138636\/001\/HN",
-    "vendorName": "ITT DEFENCE  GILCRON CORPORATION",
+    "vendorName": "ITT DEFENCE GILCRON CORPORATION",
     "referenceNumber": "W8485-138636\/001\/HN",
     "contractDate": "25-9-2012",
     "description": "Antennas, Waveguides and Related Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "30-9-2013",
-    "originalValue": 435643,
+    "originalValue": 0,
     "contractValue": 435643,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/a2ad54f2efda388efa7614bbd06e4269.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125241",
-    "vendorClean": "ITT DEFENCE  GILCRON CORPORATION"
+    "vendorClean": "ITT DEFENCE GILCRON CORPORATION"
 }

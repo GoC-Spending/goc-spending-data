@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "21-8-2006",
-    "originalValue": 35493,
+    "originalValue": 0,
     "contractValue": 35493,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "dnd\/a062fa02912f8dee76896a229b691b60.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2005&id=id17691",
-    "vendorClean": "DEPRO GVBORPORATED"
+    "vendorClean": "DEPRO GVB"
 }

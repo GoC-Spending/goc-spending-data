@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49787",
-    "vendorName": "LVM Inc.    (Kitchener)",
+    "vendorName": "LVM Inc. (Kitchener)",
     "referenceNumber": "49787",
     "contractDate": "2-2-2012",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "2-2-2013",
-    "originalValue": 34336,
+    "originalValue": 0,
     "contractValue": 34336,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/d84622dc07ee40dad7ff244187649057.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id112287",
-    "vendorClean": "LVM    (KITCHENER)"
+    "vendorClean": "LVM  (KITCHENER)"
 }

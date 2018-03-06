@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "24-2-2013",
-    "originalValue": 12219,
+    "originalValue": 0,
     "contractValue": 12219,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/c6ded3a6a1cae490d0e85fa4b32b590a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113570",
-    "vendorClean": "ENVIROSYSTEMSORPORATED"
+    "vendorClean": "ENVIROSYSTEMS"
 }

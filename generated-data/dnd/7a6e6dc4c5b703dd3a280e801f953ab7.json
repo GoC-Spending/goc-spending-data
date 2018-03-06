@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-7a6e6dc4c5b703dd3a280e801f953ab7",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "7a6e6dc4c5b703dd3a280e801f953ab7",
     "contractDate": "20-12-2011",
     "description": "Power Transmission Equipment, Miscellaneous",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "20-12-2012",
-    "originalValue": 15006,
+    "originalValue": 0,
     "contractValue": 15006,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/7a6e6dc4c5b703dd3a280e801f953ab7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107095",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

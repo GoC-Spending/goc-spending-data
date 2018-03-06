@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W010S-08H019\/001\/HAL",
-    "vendorName": "\"L-3 Communication, Klein Associates, Inc.                             \"",
+    "vendorName": "\"L-3 Communication, Klein Associates, Inc.        \"",
     "referenceNumber": "W010S-08H019\/001\/HAL",
     "contractDate": "1-2-2008",
     "description": "Underwater Sound Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 16186,
+    "originalValue": 0,
     "contractValue": 16186,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/abf7d3b63d1a3a6bcce236e5755feacf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38473",
-    "vendorClean": "\"L-3 COMMUNICATION KLEIN ASSOCIATES                             \""
+    "vendorClean": "\"L-3 COMMUNICATION KLEIN ASSOCIATES               \""
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W1568-4501362117",
-    "vendorName": "Outcrop  Communications Ltd",
+    "vendorName": "Outcrop Communications Ltd",
     "referenceNumber": "W1568-4501362117",
     "contractDate": "2-11-2015",
     "description": "Copying Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "1-12-2015",
-    "originalValue": 10671.68,
+    "originalValue": 0,
     "contractValue": 10671.68,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/8e339b3c32365c58b7e4b8dbff71bb84.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id205874",
-    "vendorClean": "OUTCROP  COMMUNICATIONS"
+    "vendorClean": "OUTCROP COMMUNICATIONS"
 }

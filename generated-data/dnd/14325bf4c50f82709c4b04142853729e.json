@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8483-106832\/001\/PY",
-    "vendorName": "FKI  Industries  Canada Ltd",
+    "vendorName": "FKI Industries Canada Ltd",
     "referenceNumber": "W8483-106832\/001\/PY",
     "contractDate": "10-8-2009",
     "description": "Blocks, Tackle, Rigging and Slings",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "10-9-2009",
-    "originalValue": 11913,
+    "originalValue": 0,
     "contractValue": 11913,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/14325bf4c50f82709c4b04142853729e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id63888",
-    "vendorClean": "FKI  INDUSTRIES  CANADA"
+    "vendorClean": "FKI INDUSTRIES CANADA"
 }

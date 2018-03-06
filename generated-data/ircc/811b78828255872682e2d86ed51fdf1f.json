@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 36499,
+    "originalValue": 0,
     "contractValue": 36499,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/811b78828255872682e2d86ed51fdf1f.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=94",
-    "vendorClean": "LOEM CONSULTATIONORPORATED"
+    "vendorClean": "LOEM CONSULTATION"
 }

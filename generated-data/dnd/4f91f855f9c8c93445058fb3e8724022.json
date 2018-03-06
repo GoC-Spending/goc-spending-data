@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-64092",
-    "vendorName": "AMEC Foster Wheeler  (Winnipeg)",
+    "vendorName": "AMEC Foster Wheeler (Winnipeg)",
     "referenceNumber": "64092",
     "contractDate": "19-10-2016",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "28-12-2016",
-    "originalValue": 13329,
+    "originalValue": 0,
     "contractValue": 13329,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/4f91f855f9c8c93445058fb3e8724022.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id191637",
-    "vendorClean": "AMEC FOSTER WHEELER  (WINNIPEG)"
+    "vendorClean": "AMEC FOSTER WHEELER (WINNIPEG)"
 }

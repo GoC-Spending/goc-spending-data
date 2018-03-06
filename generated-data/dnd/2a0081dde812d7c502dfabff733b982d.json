@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "26-6-2015",
-    "originalValue": 10269.21,
+    "originalValue": 0,
     "contractValue": 10269.21,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/2a0081dde812d7c502dfabff733b982d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id168324",
-    "vendorClean": "1947 LLC REPRESENTING BROOKWOOD COMPORPORATED"
+    "vendorClean": "1947 LLC REPRESENTING BROOKWOOD COMP"
 }

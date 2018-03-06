@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8484-085718\/001\/HN",
-    "vendorName": "\"Harris Corporation, RF Communications Division                        \"",
+    "vendorName": "\"Harris Corporation, RF Communications Division      \"",
     "referenceNumber": "W8484-085718\/001\/HN",
     "contractDate": "13-3-2008",
-    "description": "\"Cable, Cord, and Wire Assemblies, Communication Equipment       \"",
+    "description": "\"Cable, Cord, and Wire Assemblies, Communication Equipment  \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "13-7-2008",
-    "originalValue": 30750,
+    "originalValue": 0,
     "contractValue": 30750,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/786427d8c187e1aa62bd74d150c39f11.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39295",
-    "vendorClean": "\"HARRIS CORPORATION RF COMMUNICATIONS DIVISION                        \""
+    "vendorClean": "\"HARRIS CORPORATION RF COMMUNICATIONS DIVISION            \""
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": false,
     "deliveryDate": "--",
-    "originalValue": 16050,
+    "originalValue": 0,
     "contractValue": 16050,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/1b52226b2b2f2700f7e59e251c31e8df.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11428",
-    "vendorClean": "BRIDLE PARK CONSULTINGORPORATED"
+    "vendorClean": "BRIDLE PARK CONSULTING"
 }

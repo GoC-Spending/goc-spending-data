@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0107-08MC01\/001\/PET",
-    "vendorName": "\"St. John Council for Ontario,Pembroke                                 \"",
+    "vendorName": "\"St. John Council for Ontario,Pembroke         \"",
     "referenceNumber": "W0107-08MC01\/001\/PET",
     "contractDate": "28-2-2008",
     "description": "Seminars",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 12285,
+    "originalValue": 0,
     "contractValue": 12285,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/abb7c9ccbdb3f94b5c93bd787aee1fc6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38102",
-    "vendorClean": "\"ST JOHN COUNCIL FOR ONTARIOPEMBROKE                                 \""
+    "vendorClean": "\"ST JOHN COUNCIL FOR ONTARIOPEMBROKE                 \""
 }

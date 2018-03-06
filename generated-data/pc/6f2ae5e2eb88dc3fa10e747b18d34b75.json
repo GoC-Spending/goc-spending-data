@@ -1,6 +1,6 @@
 {
     "uuid": "pc-2011004200",
-    "vendorName": "CHRYSLER  CANADA INC",
+    "vendorName": "CHRYSLER CANADA INC",
     "referenceNumber": "2011004200",
     "contractDate": "2011\/08\/11",
     "description": "1261 Road motor vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "2011\/08\/11",
-    "originalValue": 24685.08,
+    "originalValue": 0,
     "contractValue": 24685.08,
     "comments": "DODGE GRAND CARAVAN",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "pc\/6f2ae5e2eb88dc3fa10e747b18d34b75.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=2&oqCONTRACT_ID=37741",
-    "vendorClean": "CHRYSLER  CANADA"
+    "vendorClean": "CHRYSLER CANADA"
 }

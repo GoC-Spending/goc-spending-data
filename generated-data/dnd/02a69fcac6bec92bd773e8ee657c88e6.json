@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 22559.25,
+    "originalValue": 0,
     "contractValue": 22559.25,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/02a69fcac6bec92bd773e8ee657c88e6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id148534",
-    "vendorClean": "ARMAMENT TECHNOLOGYORPORATED"
+    "vendorClean": "ARMAMENT TECHNOLOGY"
 }

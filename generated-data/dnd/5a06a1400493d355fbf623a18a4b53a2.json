@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-081220\/005\/GRK",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-081220\/005\/GRK",
     "contractDate": "23-4-2008",
     "description": "Engine Air and Oil Filters, Strainers and Cleaners, Non-Aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "23-4-2009",
-    "originalValue": 11741,
+    "originalValue": 0,
     "contractValue": 11741,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "dnd\/5a06a1400493d355fbf623a18a4b53a2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2008&id=id41322",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

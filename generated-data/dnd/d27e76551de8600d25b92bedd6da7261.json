@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-63911",
-    "vendorName": "Architecture49 Inc   (Winnipeg)",
+    "vendorName": "Architecture49 Inc (Winnipeg)",
     "referenceNumber": "63911",
     "contractDate": "22-9-2016",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "27-10-2016",
-    "originalValue": 35240,
+    "originalValue": 0,
     "contractValue": 35240,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/d27e76551de8600d25b92bedd6da7261.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199920",
-    "vendorClean": "ARCHITECTURE49   (WINNIPEG)"
+    "vendorClean": "ARCHITECTURE49  (WINNIPEG)"
 }

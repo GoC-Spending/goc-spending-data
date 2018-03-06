@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "31-1-2008",
-    "originalValue": 45675,
+    "originalValue": 0,
     "contractValue": 45675,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/83e494306df08e5ca47bdf568705644d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id28550",
-    "vendorClean": "SONICORORPORATED"
+    "vendorClean": "SONICOR"
 }

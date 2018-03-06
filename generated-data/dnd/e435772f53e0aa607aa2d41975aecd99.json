@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "30-12-2010",
-    "originalValue": 85428,
+    "originalValue": 0,
     "contractValue": 85428,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/e435772f53e0aa607aa2d41975aecd99.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id84949",
-    "vendorClean": "ANSULORPORATED"
+    "vendorClean": "ANSUL"
 }

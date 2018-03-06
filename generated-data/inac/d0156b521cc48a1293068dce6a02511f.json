@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-13-0001\/1",
-    "vendorName": "ASPELL  ANDREW JAMES",
+    "vendorName": "ASPELL ANDREW JAMES",
     "referenceNumber": "09-13-0001\/1",
     "contractDate": "6\/3\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 68250,
+    "originalValue": 0,
     "contractValue": 68250,
     "comments": "This contract was competitively sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/d0156b521cc48a1293068dce6a02511f.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct238-eng.asp",
-    "vendorClean": "ASPELL  ANDREW JAMES"
+    "vendorClean": "ASPELL ANDREW JAMES"
 }

@@ -1,9 +1,9 @@
 {
     "uuid": "fin-6012916",
-    "vendorName": "PLAYBOOK  COMMUNICATIONS INC.",
+    "vendorName": "PLAYBOOK COMMUNICATIONS INC.",
     "referenceNumber": "6012916",
     "contractDate": "2008-12-30",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "2008-12-30",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 24999,
+    "originalValue": 0,
     "contractValue": 24999,
     "comments": "",
     "ownerAcronym": "fin",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "fin\/d931ce06d7217cd722c3697cd93719cf.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=6012916&q=3&yr=2008",
-    "vendorClean": "PLAYBOOK  COMMUNICATIONS"
+    "vendorClean": "PLAYBOOK COMMUNICATIONS"
 }

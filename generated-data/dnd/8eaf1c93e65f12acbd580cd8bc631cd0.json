@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "9-4-2014",
-    "originalValue": 34500,
+    "originalValue": 0,
     "contractValue": 34500,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/8eaf1c93e65f12acbd580cd8bc631cd0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id154749",
-    "vendorClean": "OMNITECH ELECTRONICSORPORATED"
+    "vendorClean": "OMNITECH ELECTRONICS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55916",
-    "vendorName": "Architecture49 inc.  (Montreal)",
+    "vendorName": "Architecture49 inc. (Montreal)",
     "referenceNumber": "55916",
     "contractDate": "10-6-2014",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "23-12-2014",
-    "originalValue": 354680,
+    "originalValue": 0,
     "contractValue": 354680,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "dnd\/7dbafec54917fca71e151281d7a2e164.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2014&id=id153853",
-    "vendorClean": "ARCHITECTURE49  (MONTREAL)"
+    "vendorClean": "ARCHITECTURE49 (MONTREAL)"
 }

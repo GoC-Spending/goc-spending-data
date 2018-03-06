@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45366289",
-    "vendorName": "G.L.  Caissie LtA(C)e\/Ltd.",
+    "vendorName": "G.L. Caissie LtA(C)e\/Ltd.",
     "referenceNumber": "45366289",
     "contractDate": "2015\/12\/14",
     "description": "656 Heating, air-conditioning, and refrigeration equip",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "2015\/12\/14",
-    "originalValue": 10572.28,
+    "originalValue": 0,
     "contractValue": 10572.28,
     "comments": "Supply & install 2 section in boiler",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "pc\/8904c8c1fc881b26c9cbb0ee623db7c1.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2015-2016&oqQUARTER=3&oqCONTRACT_ID=48537",
-    "vendorClean": "GL  CAISSIE LTA(C)E\/LTD"
+    "vendorClean": "GL CAISSIE LTA(C)E\/LTD"
 }

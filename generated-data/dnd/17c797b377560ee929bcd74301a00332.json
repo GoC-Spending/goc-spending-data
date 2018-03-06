@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-122767\/001\/GRK",
-    "vendorName": "IVECO-MAGIRUS AG              ABT FCVE",
+    "vendorName": "IVECO-MAGIRUS AG    ABT FCVE",
     "referenceNumber": "W8486-122767\/001\/GRK",
     "contractDate": "20-3-2012",
     "description": "Vehicular Power Transmission Components",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "20-3-2013",
-    "originalValue": 31786,
+    "originalValue": 0,
     "contractValue": 31786,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/17c797b377560ee929bcd74301a00332.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114863",
-    "vendorClean": "IVECO-MAGIRUS AG              ABT FCVE"
+    "vendorClean": "IVECO-MAGIRUS AG       ABT FCVE"
 }

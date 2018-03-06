@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/09\/23",
-    "originalValue": 17678.68,
+    "originalValue": 0,
     "contractValue": 17678.68,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "pc\/4e6fa969762e8cb7455d9fca4d069764.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=1&oqCONTRACT_ID=26098",
-    "vendorClean": "15042 YUKONORPORATED"
+    "vendorClean": "15042 YUKON"
 }

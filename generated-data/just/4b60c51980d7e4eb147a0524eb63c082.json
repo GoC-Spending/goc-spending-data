@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 19451.25,
+    "originalValue": 0,
     "contractValue": 19451.25,
     "comments": "",
     "ownerAcronym": "just",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "just\/4b60c51980d7e4eb147a0524eb63c082.html",
     "sourceURL": "http:\/\/www.justice.gc.ca\/eng\/trans\/pd-dp\/contra\/details.asp?yr=2007&q=4&c=3800",
-    "vendorClean": "COMPETITIVE INSIGHTSORPORATED"
+    "vendorClean": "COMPETITIVE INSIGHTS"
 }

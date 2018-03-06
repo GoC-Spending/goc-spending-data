@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-44370",
-    "vendorName": "Dessau Inc.   (Longueuil)",
+    "vendorName": "Dessau Inc. (Longueuil)",
     "referenceNumber": "44370",
     "contractDate": "3-5-2011",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "29-1-2012",
-    "originalValue": 46901.16,
+    "originalValue": 0,
     "contractValue": 46901.16,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/15fc3fdae1a47d957574c9e01dadd7d0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id96421",
-    "vendorClean": "DESSAU   (LONGUEUIL)"
+    "vendorClean": "DESSAU  (LONGUEUIL)"
 }

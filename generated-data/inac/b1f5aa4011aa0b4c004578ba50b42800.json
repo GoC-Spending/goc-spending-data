@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0175",
-    "vendorName": "CAMPBELL  BETH",
+    "vendorName": "CAMPBELL BETH",
     "referenceNumber": "20-13-0175",
     "contractDate": "1\/14\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 13560,
+    "originalValue": 0,
     "contractValue": 13560,
     "comments": "DENESULINE OUT-OF COURT NEGOTIATIONS\/This contract was sole-sourced. This contract is with a former public servant in receipt of a pension under the Public Service Superannuation Act.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/b1f5aa4011aa0b4c004578ba50b42800.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct38-eng.asp",
-    "vendorClean": "CAMPBELL  BETH"
+    "vendorClean": "CAMPBELL BETH"
 }

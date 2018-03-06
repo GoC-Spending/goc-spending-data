@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-20104ad065fa6c4b1a852aaa73c66831",
-    "vendorName": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA       FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "20104ad065fa6c4b1a852aaa73c66831",
     "contractDate": "6-10-2011",
     "description": "Vehicular Brake, Steering, Axle, Wheel and Track Components",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "6-10-2012",
-    "originalValue": 41380,
+    "originalValue": 0,
     "contractValue": 41380,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/20104ad065fa6c4b1a852aaa73c66831.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106967",
-    "vendorClean": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA             FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

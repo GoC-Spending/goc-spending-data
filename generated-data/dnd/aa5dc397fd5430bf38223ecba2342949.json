@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-aa5dc397fd5430bf38223ecba2342949",
-    "vendorName": "Maxsys Staffing  and Consulting",
+    "vendorName": "Maxsys Staffing and Consulting",
     "referenceNumber": "aa5dc397fd5430bf38223ecba2342949",
     "contractDate": "15-11-2011",
     "description": "Business Systems",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "3-2-2012",
-    "originalValue": 48536.33,
+    "originalValue": 0,
     "contractValue": 48536.33,
     "comments": "This item contains one or more amendments.This contract was competitvely sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/aa5dc397fd5430bf38223ecba2342949.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107252",
-    "vendorClean": "MAXSYS STAFFING  AND CONSULTING"
+    "vendorClean": "MAXSYS STAFFING AND CONSULTING"
 }

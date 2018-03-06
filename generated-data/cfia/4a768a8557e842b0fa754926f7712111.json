@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-20110072A",
-    "vendorName": "EDMONDS  SINCE 1965",
+    "vendorName": "EDMONDS SINCE 1965",
     "referenceNumber": "20110072A",
     "contractDate": "2014-01-02",
-    "description": "Other Professional Services                                                                                                                                                                                           499 - Other Professional Services not Elsewhere Specified $ 27,609",
+    "description": "Other Professional Services                                               499 - Other Professional Services not Elsewhere Specified $ 27,609",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 12650.23,
+    "originalValue": 0,
     "contractValue": 12650.23,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "cfia\/4a768a8557e842b0fa754926f7712111.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=4&contraID=14150&yid=10",
-    "vendorClean": "EDMONDS  SINCE 1965"
+    "vendorClean": "EDMONDS SINCE 1965"
 }

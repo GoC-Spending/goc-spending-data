@@ -1,6 +1,6 @@
 {
     "uuid": "inac-06-13-0003\/1",
-    "vendorName": "STRIHA  JOSH",
+    "vendorName": "STRIHA JOSH",
     "referenceNumber": "06-13-0003\/1",
     "contractDate": "10\/21\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 77490,
+    "originalValue": 0,
     "contractValue": 77490,
     "comments": "ANNUAL WATER AND WASTEWATER PLANT INSPECTIONS\/This contract was competitively sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/c9e284c0b1441532f0137a60772faadc.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct37-eng.asp",
-    "vendorClean": "STRIHA  JOSH"
+    "vendorClean": "STRIHA JOSH"
 }

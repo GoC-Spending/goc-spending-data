@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 37290,
     "contractValue": 48477,
-    "comments": "Contract issued against a PSPC supply arrangement. This contract was competitively sourced.  This contract is a multi-year contract.",
+    "comments": "Contract issued against a PSPC supply arrangement. This contract was competitively sourced. This contract is a multi-year contract.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2016,
     "sourceQuarter": 1,
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "nrcan\/18d055ed2df9e878536e53aaf794433b.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2016-2017&qrt=01&id=46156",
-    "vendorClean": "PRECISIONITORPORATED"
+    "vendorClean": "PRECISIONIT"
 }

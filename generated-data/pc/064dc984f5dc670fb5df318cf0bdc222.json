@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2016\/04\/30",
-    "originalValue": 2466513.15,
+    "originalValue": 0,
     "contractValue": 2466513.15,
     "comments": "Lock 23 and Lock 24 repairs",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "pc\/064dc984f5dc670fb5df318cf0bdc222.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2015-2016&oqQUARTER=2&oqCONTRACT_ID=47987",
-    "vendorClean": "ALL SERVICESORPORATED"
+    "vendorClean": "ALL SERVICES"
 }

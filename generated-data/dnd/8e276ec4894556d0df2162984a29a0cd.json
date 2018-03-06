@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0106-16-J702",
-    "vendorName": "Walter Nirschl  B&M symphonic",
+    "vendorName": "Walter Nirschl B&M symphonic",
     "referenceNumber": "W0106-16-J702",
     "contractDate": "17-5-2016",
     "description": "Musical Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "15-11-2016",
-    "originalValue": 23372.8,
+    "originalValue": 0,
     "contractValue": 23372.8,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/8e276ec4894556d0df2162984a29a0cd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id195569",
-    "vendorClean": "WALTER NIRSCHL  B&M SYMPHONIC"
+    "vendorClean": "WALTER NIRSCHL B&M SYMPHONIC"
 }

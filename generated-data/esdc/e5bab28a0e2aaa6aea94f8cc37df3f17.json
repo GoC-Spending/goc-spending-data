@@ -1,6 +1,6 @@
 {
     "uuid": "esdc-1738-05-0031",
-    "vendorName": "SNC-LAVALIN  PROFAC PROJECT MANAGEMENT UNIT",
+    "vendorName": "SNC-LAVALIN PROFAC PROJECT MANAGEMENT UNIT",
     "referenceNumber": "1738-05-0031",
     "contractDate": "2005-08-16",
     "description": "630 Office Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "N\/A",
-    "originalValue": 23667,
+    "originalValue": 0,
     "contractValue": 23667,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "esdc\/e5bab28a0e2aaa6aea94f8cc37df3f17.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=1117&employeepositionid=null&site=1&startdate=2005-07-01&enddate=2005-09-30&quarterid=23#place7",
-    "vendorClean": "SNC-LAVALIN  PROFAC PROJECT MANAGEMENT UNIT"
+    "vendorClean": "SNC-LAVALIN PROFAC PROJECT MANAGEMENT UNIT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58566",
-    "vendorName": "Exp Services Inc.  (Fredericton)",
+    "vendorName": "Exp Services Inc. (Fredericton)",
     "referenceNumber": "58566",
     "contractDate": "25-3-2015",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "5-6-2015",
-    "originalValue": 27782,
+    "originalValue": 0,
     "contractValue": 27782,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/7f5d3d443264055ba7f1cbe5c2aff3ec.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id165491",
-    "vendorClean": "EXP SERVICES  (FREDERICTON)"
+    "vendorClean": "EXP SERVICES (FREDERICTON)"
 }

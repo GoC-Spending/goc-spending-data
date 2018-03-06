@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2008,
     "deliveryDate": "15-1-2008",
-    "originalValue": 227852,
+    "originalValue": 0,
     "contractValue": 227852,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q3",
     "sourceFilename": "dnd\/84f64ea8395a78b5efdbb5d65c7ea813.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2006&id=id21245",
-    "vendorClean": "METTLER-TOLEDOORPORATED"
+    "vendorClean": "METTLER-TOLEDO"
 }

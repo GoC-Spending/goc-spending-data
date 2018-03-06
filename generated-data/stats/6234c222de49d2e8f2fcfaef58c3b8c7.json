@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "January 23, 2009",
-    "originalValue": 147264.6,
+    "originalValue": 0,
     "contractValue": 147264.6,
     "comments": "Conversion of Application from Powerbuilder to .Net.",
     "ownerAcronym": "stats",

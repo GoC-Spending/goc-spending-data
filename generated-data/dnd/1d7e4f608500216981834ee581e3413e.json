@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W0046-06Q472\/001\/KIN",
-    "vendorName": "\"Sarnicola Simulation Systems, Inc.                                    \"",
+    "vendorName": "\"Sarnicola Simulation Systems, Inc.         \"",
     "referenceNumber": "W0046-06Q472\/001\/KIN",
     "contractDate": "28-3-2008",
-    "description": "\"LABORATORY, AUTOMATION AND ROBOTICS DEVICES                     \"",
+    "description": "\"LABORATORY, AUTOMATION AND ROBOTICS DEVICES      \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-6-2008",
-    "originalValue": 163065,
+    "originalValue": 0,
     "contractValue": 163065,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/1d7e4f608500216981834ee581e3413e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40122",
-    "vendorClean": "\"SARNICOLA SIMULATION SYSTEMS                                    \""
+    "vendorClean": "\"SARNICOLA SIMULATION SYSTEMS                  \""
 }

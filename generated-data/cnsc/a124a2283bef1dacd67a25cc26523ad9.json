@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 15537,
+    "originalValue": 0,
     "contractValue": 15537,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "cnsc\/a124a2283bef1dacd67a25cc26523ad9.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=2967",
-    "vendorClean": "ITEK RESOURCINGORPORATED"
+    "vendorClean": "ITEK RESOURCING"
 }

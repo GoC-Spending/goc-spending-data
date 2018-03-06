@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-088853\/001\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-088853\/001\/GRK",
     "contractDate": "13-11-2007",
     "description": "Vehicular Power Transmission Components",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "13-11-2007",
-    "originalValue": 15791,
+    "originalValue": 0,
     "contractValue": 15791,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/87b560bcfcf0489c8dced0988bceddec.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id27928",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0207-066067\/001\/EEM",
-    "vendorName": "\"Guidance Software, Inc.                                               \"",
+    "vendorName": "\"Guidance Software, Inc.            \"",
     "referenceNumber": "W0207-066067\/001\/EEM",
     "contractDate": "27-3-2008",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 15881,
+    "originalValue": 0,
     "contractValue": 15881,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/0004f8c58ef0f80c03f32b80effe6755.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38455",
-    "vendorClean": "\"GUIDANCE SOFTWARE                                               \""
+    "vendorClean": "\"GUIDANCE SOFTWARE                        \""
 }

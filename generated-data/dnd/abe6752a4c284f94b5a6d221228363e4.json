@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-115812\/001\/GRK",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "W8482-115812\/001\/GRK",
     "contractDate": "15-11-2010",
     "description": "CENTRIFUGALS, SEPARATORS, AND PRESSURE AND VACUUM FILTERS",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "15-11-2011",
-    "originalValue": 55016,
+    "originalValue": 0,
     "contractValue": 55016,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/abe6752a4c284f94b5a6d221228363e4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85254",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

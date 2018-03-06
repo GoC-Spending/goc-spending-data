@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0125-01A019\/001\/KIN",
-    "vendorName": "JEPPESEN SANDERSON INC.  JEPPESEN DATAPLAN SUB.",
+    "vendorName": "JEPPESEN SANDERSON INC. JEPPESEN DATAPLAN SUB.",
     "referenceNumber": "W0125-01A019\/001\/KIN",
     "contractDate": "1-8-2004",
     "description": "Data Conversion Services",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 278200,
+    "originalValue": 0,
     "contractValue": 278200,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "dnd\/9a1adfd6654949fb1b11125fcc23eab1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2004&id=id4510",
-    "vendorClean": "JEPPESEN SANDERSON  JEPPESEN DATAPLAN SUB"
+    "vendorClean": "JEPPESEN SANDERSON JEPPESEN DATAPLAN SUB"
 }

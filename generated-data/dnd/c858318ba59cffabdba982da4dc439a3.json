@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-5500013539",
-    "vendorName": "Texcel  Industries Inc.",
+    "vendorName": "Texcel Industries Inc.",
     "referenceNumber": "5500013539",
     "contractDate": "10-11-2015",
     "description": "Books and Pamphlets",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "31-12-2015",
-    "originalValue": 14905.25,
+    "originalValue": 0,
     "contractValue": 14905.25,
     "comments": "This item was not reported previously. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/c858318ba59cffabdba982da4dc439a3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id208702",
-    "vendorClean": "TEXCEL  INDUSTRIES"
+    "vendorClean": "TEXCEL INDUSTRIES"
 }

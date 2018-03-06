@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5022379",
-    "vendorName": "FOUR SEASO   HOTEL LTD.",
+    "vendorName": "FOUR SEASO HOTEL LTD.",
     "referenceNumber": "5022379",
     "contractDate": "2009-04-24",
     "description": "Rental - other",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 13325,
+    "originalValue": 0,
     "contractValue": 13325,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "ic\/6d92d85ac9fd6e38771e85aad66e99f4.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=10896",
-    "vendorClean": "FOUR SEASO   HOTEL"
+    "vendorClean": "FOUR SEASO  HOTEL"
 }

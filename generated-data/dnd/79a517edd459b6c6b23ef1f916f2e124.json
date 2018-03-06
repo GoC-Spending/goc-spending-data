@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "9-5-2016",
-    "originalValue": 16590,
+    "originalValue": 0,
     "contractValue": 16590,
     "comments": "This item contains one or more amendments. This contract was competitively sourced. This contract is a call-up against a Public Services and Procurement Canada procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/79a517edd459b6c6b23ef1f916f2e124.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id194370",
-    "vendorClean": "ATLANTIS MERCANTILEORPORATED KORI MANAGEMENT"
+    "vendorClean": "ATLANTIS MERCANTILE KORI MANAGEMENT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45272462",
-    "vendorName": "CHRYSLER  CANADA INC",
+    "vendorName": "CHRYSLER CANADA INC",
     "referenceNumber": "45272462",
     "contractDate": "2010\/01\/31",
     "description": "1261 Road motor vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/01\/31",
-    "originalValue": 21067.73,
+    "originalValue": 0,
     "contractValue": 21067.73,
     "comments": "2010 DODGE CARAVAN SE FWD",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/555b08c4ca6fb532013c799f9427d36f.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=33937",
-    "vendorClean": "CHRYSLER  CANADA"
+    "vendorClean": "CHRYSLER CANADA"
 }

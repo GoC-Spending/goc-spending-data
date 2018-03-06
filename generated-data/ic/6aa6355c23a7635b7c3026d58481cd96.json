@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5017094",
-    "vendorName": "ACTON WHITE  ASSOCIATES INC.",
+    "vendorName": "ACTON WHITE ASSOCIATES INC.",
     "referenceNumber": "5017094",
     "contractDate": "2006-02-22",
     "description": "Non-professional personal service contracts not elsewhere specified",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 24075,
+    "originalValue": 0,
     "contractValue": 24075,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "ic\/6aa6355c23a7635b7c3026d58481cd96.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=3643",
-    "vendorClean": "ACTON WHITE  ASSOCIATES"
+    "vendorClean": "ACTON WHITE ASSOCIATES"
 }

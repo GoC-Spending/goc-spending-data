@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-049032\/001\/HN",
-    "vendorName": "Jerome & Francis  Co. Ltd",
+    "vendorName": "Jerome & Francis Co. Ltd",
     "referenceNumber": "W8482-049032\/001\/HN",
     "contractDate": "7-1-2005",
     "description": "Miscellaneous Electrical and Electronic Components",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "8-4-2005",
-    "originalValue": 11707,
+    "originalValue": 0,
     "contractValue": 11707,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/deaa0f2aa17eadf419dc25e91c38e7a8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10462",
-    "vendorClean": "JEROME & FRANCIS  CO"
+    "vendorClean": "JEROME & FRANCIS CO"
 }

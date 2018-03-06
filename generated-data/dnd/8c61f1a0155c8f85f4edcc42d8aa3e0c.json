@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "30-4-2017",
-    "originalValue": 89010,
+    "originalValue": 0,
     "contractValue": 89010,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/8c61f1a0155c8f85f4edcc42d8aa3e0c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id191345",
-    "vendorClean": "BROADBENTORPORATED"
+    "vendorClean": "BROADBENT"
 }

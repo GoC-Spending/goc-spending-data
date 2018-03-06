@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-43250.00",
-    "vendorName": "TRI-ED LTD.  (ST.LAURENT)",
+    "vendorName": "TRI-ED LTD. (ST.LAURENT)",
     "referenceNumber": "43250.00",
     "contractDate": "6-4-2010",
     "description": "Alarm & Signal Systems",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "31-7-2010",
-    "originalValue": 122887,
+    "originalValue": 0,
     "contractValue": 122887,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/7c2704855a8dffba8d20a7898647264c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id73708",
-    "vendorClean": "TRI-ED  (STLAURENT)"
+    "vendorClean": "TRI-ED (STLAURENT)"
 }

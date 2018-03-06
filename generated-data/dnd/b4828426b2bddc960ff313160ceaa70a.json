@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-117435\/001\/GRK",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "W8482-117435\/001\/GRK",
     "contractDate": "10-5-2011",
     "description": "Electrical and Electronic Assemblies, Boards, Cards and Associated Hardware",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "10-5-2012",
-    "originalValue": 11495,
+    "originalValue": 0,
     "contractValue": 11495,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/b4828426b2bddc960ff313160ceaa70a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id95401",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

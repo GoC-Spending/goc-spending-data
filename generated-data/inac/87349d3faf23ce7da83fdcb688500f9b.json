@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/12",
-    "vendorName": "DEJONG  MELISSA JOY",
+    "vendorName": "DEJONG MELISSA JOY",
     "referenceNumber": "09-12-6001\/12",
     "contractDate": "5\/2\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 11487,
+    "originalValue": 0,
     "contractValue": 11487,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/87349d3faf23ce7da83fdcb688500f9b.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct112-eng.asp",
-    "vendorClean": "DEJONG  MELISSA JOY"
+    "vendorClean": "DEJONG MELISSA JOY"
 }

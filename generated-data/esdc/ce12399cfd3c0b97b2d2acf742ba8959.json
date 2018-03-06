@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "N\/A",
-    "originalValue": 16050,
+    "originalValue": 0,
     "contractValue": 16050,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "esdc\/ce12399cfd3c0b97b2d2acf742ba8959.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=118&employeepositionid=null&site=1&startdate=2004-04-01&enddate=2004-06-30&quarterid=28#place42",
-    "vendorClean": "GGA MANAGEMENT CONSULTANTS GRANXORPORATED"
+    "vendorClean": "GGA MANAGEMENT CONSULTANTS GRANX"
 }

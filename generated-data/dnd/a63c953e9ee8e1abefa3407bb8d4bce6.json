@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-a63c953e9ee8e1abefa3407bb8d4bce6",
-    "vendorName": "EM  Software & Systems (USA), INC.",
+    "vendorName": "EM Software & Systems (USA), INC.",
     "referenceNumber": "a63c953e9ee8e1abefa3407bb8d4bce6",
     "contractDate": "28-1-2015",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "31-12-2015",
-    "originalValue": 34970,
+    "originalValue": 0,
     "contractValue": 34970,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/a63c953e9ee8e1abefa3407bb8d4bce6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id162789",
-    "vendorClean": "EM  SOFTWARE & SYSTEMS (USA)"
+    "vendorClean": "EM SOFTWARE & SYSTEMS (USA)"
 }

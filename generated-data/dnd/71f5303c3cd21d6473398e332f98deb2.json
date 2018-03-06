@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51308",
-    "vendorName": "CIMA+         (Gatineau)",
+    "vendorName": "CIMA+   (Gatineau)",
     "referenceNumber": "51308",
     "contractDate": "3-8-2012",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "8-2-2013",
-    "originalValue": 20868,
+    "originalValue": 0,
     "contractValue": 20868,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/71f5303c3cd21d6473398e332f98deb2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123523",
-    "vendorClean": "CIMA+         (GATINEAU)"
+    "vendorClean": "CIMA+     (GATINEAU)"
 }

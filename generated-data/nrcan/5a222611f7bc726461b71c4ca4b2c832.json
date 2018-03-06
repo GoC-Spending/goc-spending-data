@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000518783",
-    "vendorName": "TEKNION  FURNITURE SYSTEMS LTD.",
+    "vendorName": "TEKNION FURNITURE SYSTEMS LTD.",
     "referenceNumber": "3000518783",
     "contractDate": "2013-05-17",
     "description": "Office Furniture and Furnishings_ Including Parts",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 17678.68,
+    "originalValue": 0,
     "contractValue": 17678.68,
     "comments": "Call-up against a PWGSC procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "nrcan\/5a222611f7bc726461b71c4ca4b2c832.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=01&id=39015",
-    "vendorClean": "TEKNION  FURNITURE SYSTEMS"
+    "vendorClean": "TEKNION FURNITURE SYSTEMS"
 }

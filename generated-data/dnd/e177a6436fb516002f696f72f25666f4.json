@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-088368\/001\/GRK",
-    "vendorName": "NATO MAINTENANCE AND SUPPLY   AGENCY NAMSA",
+    "vendorName": "NATO MAINTENANCE AND SUPPLY AGENCY NAMSA",
     "referenceNumber": "W8484-088368\/001\/GRK",
     "contractDate": "27-3-2008",
     "description": "Storage and Warehousing",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "27-3-2008",
-    "originalValue": 220000,
+    "originalValue": 0,
     "contractValue": 220000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/e177a6436fb516002f696f72f25666f4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40220",
-    "vendorClean": "NATO MAINTENANCE AND SUPPLY   AGENCY NAMSA"
+    "vendorClean": "NATO MAINTENANCE AND SUPPLY  AGENCY NAMSA"
 }

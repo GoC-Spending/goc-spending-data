@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45322461",
-    "vendorName": "Groupe DubA(C) &  AssociA(C)s Inc.",
+    "vendorName": "Groupe DubA(C) & AssociA(C)s Inc.",
     "referenceNumber": "45322461",
     "contractDate": "2012\/11\/28",
     "description": "611 Waterworks and sewage systems",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/12\/14",
-    "originalValue": 107761.5,
+    "originalValue": 0,
     "contractValue": 107761.5,
     "comments": "12-1008 Poutrelles C.Lachine",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "pc\/835e6cb9fef4b6589d3979b1d56c0cad.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2012-2013&oqQUARTER=3&oqCONTRACT_ID=39905",
-    "vendorClean": "GROUPE DUBA(C) &  ASSOCIA(C)S"
+    "vendorClean": "GROUPE DUBA(C) & ASSOCIA(C)S"
 }

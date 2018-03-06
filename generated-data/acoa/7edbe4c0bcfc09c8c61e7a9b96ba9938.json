@@ -1,9 +1,9 @@
 {
     "uuid": "acoa-CP12913",
-    "vendorName": "Datarite   (St. John's)",
+    "vendorName": "Datarite (St. John's)",
     "referenceNumber": "CP12913",
     "contractDate": "2008-04-29",
-    "description": "1172  Office and Stationers Supplies",
+    "description": "1172 Office and Stationers Supplies",
     "extraDescription": "",
     "objectCode": "1172",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "2008-04-29",
-    "originalValue": 14690,
+    "originalValue": 0,
     "contractValue": 14690,
     "comments": "",
     "ownerAcronym": "acoa",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "acoa\/7edbe4c0bcfc09c8c61e7a9b96ba9938.html",
     "sourceURL": "http:\/\/www.acoa-apeca.gc.ca\/eng\/Accountability\/ProactiveDisclosure\/Contracts\/Pages\/Details.aspx?cid=1512&rty=2009&rtp=1",
-    "vendorClean": "DATARITE   (ST JOHNS)"
+    "vendorClean": "DATARITE  (ST JOHNS)"
 }

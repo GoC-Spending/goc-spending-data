@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-085113\/001\/BY",
-    "vendorName": "H R TEXTRON APCO PRODUCTS  HR TEXTRON INC. SUB TEXTRON INC.",
+    "vendorName": "H R TEXTRON APCO PRODUCTS HR TEXTRON INC. SUB TEXTRON INC.",
     "referenceNumber": "W8485-085113\/001\/BY",
     "contractDate": "6-6-2007",
     "description": "Valves, Nonpowered",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "15-5-2008",
-    "originalValue": 46540,
+    "originalValue": 0,
     "contractValue": 46540,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "dnd\/170287a911132f201fc4030feac08e0d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2007&id=id24549",
-    "vendorClean": "H R TEXTRON APCO PRODUCTS  HR TEXTRON SUB TEXTRON"
+    "vendorClean": "H R TEXTRON APCO PRODUCTS HR TEXTRON SUB TEXTRON"
 }

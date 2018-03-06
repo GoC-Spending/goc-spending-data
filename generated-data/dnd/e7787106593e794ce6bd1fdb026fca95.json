@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46275",
-    "vendorName": "1190312 ONTARIO LIMITED  O\/A WINMAR REST",
+    "vendorName": "1190312 ONTARIO LIMITED O\/A WINMAR REST",
     "referenceNumber": "46275",
     "contractDate": "8-3-2011",
     "description": "CONSTRUCTION WORKS - BUILDINGS",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "15-6-2011",
-    "originalValue": 184000,
+    "originalValue": 0,
     "contractValue": 184000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/e7787106593e794ce6bd1fdb026fca95.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91768",
-    "vendorClean": "1190312 ONTARIO LIMITED  O\/A WINMAR REST"
+    "vendorClean": "1190312 ONTARIO LIMITED O\/A WINMAR REST"
 }

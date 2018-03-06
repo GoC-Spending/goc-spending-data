@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52186",
-    "vendorName": "LVM  Inc. (Quebec)",
+    "vendorName": "LVM Inc. (Quebec)",
     "referenceNumber": "52186",
     "contractDate": "5-9-2012",
     "description": "Equipment & Materials Testing",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2-11-2012",
-    "originalValue": 29971.45,
+    "originalValue": 0,
     "contractValue": 29971.45,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/6706fd811eaaaa387e960c0750c8154f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id124575",
-    "vendorClean": "LVM  (QUEBEC)"
+    "vendorClean": "LVM (QUEBEC)"
 }

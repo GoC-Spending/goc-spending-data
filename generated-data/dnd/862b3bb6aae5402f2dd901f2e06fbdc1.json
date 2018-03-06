@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7701-125335\/001\/QCW",
-    "vendorName": "Plasmionique  Plasmionic Inc",
+    "vendorName": "Plasmionique Plasmionic Inc",
     "referenceNumber": "W7701-125335\/001\/QCW",
     "contractDate": "8-3-2012",
     "description": "Laboratory Equipment and Supplies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-4-2012",
-    "originalValue": 253208,
+    "originalValue": 0,
     "contractValue": 253208,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/862b3bb6aae5402f2dd901f2e06fbdc1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114332",
-    "vendorClean": "PLASMIONIQUE  PLASMIONIC"
+    "vendorClean": "PLASMIONIQUE PLASMIONIC"
 }

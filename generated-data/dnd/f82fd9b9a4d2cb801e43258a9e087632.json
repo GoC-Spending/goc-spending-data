@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-f82fd9b9a4d2cb801e43258a9e087632",
-    "vendorName": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA       FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "f82fd9b9a4d2cb801e43258a9e087632",
     "contractDate": "10-2-2015",
     "description": "Engine Accessories, Miscellaneous, Non-Aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "31-12-2016",
-    "originalValue": 49751,
+    "originalValue": 0,
     "contractValue": 49751,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/f82fd9b9a4d2cb801e43258a9e087632.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id163477",
-    "vendorClean": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA             FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 13696,
+    "originalValue": 0,
     "contractValue": 13696,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "ic\/b562d4eaf32c1555bb775070b03502ba.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=1816",
-    "vendorClean": "HR ASSOCIATESORPORATED"
+    "vendorClean": "HR ASSOCIATES"
 }

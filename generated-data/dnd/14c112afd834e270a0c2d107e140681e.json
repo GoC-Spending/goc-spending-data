@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W636A-10PTMU\/001\/USW",
-    "vendorName": "Commander Pacific Fleet  (COMPACFLT)",
+    "vendorName": "Commander Pacific Fleet (COMPACFLT)",
     "referenceNumber": "W636A-10PTMU\/001\/USW",
     "contractDate": "10-4-2013",
     "description": "Electronic Countermeasures, Counter-Countermeasures and Quick Reaction Capability Equipment - Repair",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "11-4-2013",
-    "originalValue": 10362903,
+    "originalValue": 0,
     "contractValue": 10362903,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/14c112afd834e270a0c2d107e140681e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id136410",
-    "vendorClean": "COMMANDER PACIFIC FLEET  (COMPACFLT)"
+    "vendorClean": "COMMANDER PACIFIC FLEET (COMPACFLT)"
 }

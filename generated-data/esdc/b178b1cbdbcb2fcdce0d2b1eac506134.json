@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "N\/A",
-    "originalValue": 24990,
+    "originalValue": 0,
     "contractValue": 24990,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "esdc\/b178b1cbdbcb2fcdce0d2b1eac506134.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=10843&employeepositionid=null&site=1&startdate=2010-01-01&enddate=2010-03-31&quarterid=29#place186",
-    "vendorClean": "HARA ASSOCIATESORPORATED"
+    "vendorClean": "HARA ASSOCIATES"
 }

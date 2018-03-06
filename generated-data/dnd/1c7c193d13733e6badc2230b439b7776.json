@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-07XA30\/001\/GRK",
-    "vendorName": "NICO-PYROTECHNIK  HANNS-JURGEN DIEDERICHS GMBH & CO.KG",
+    "vendorName": "NICO-PYROTECHNIK HANNS-JURGEN DIEDERICHS GMBH & CO.KG",
     "referenceNumber": "W8484-07XA30\/001\/GRK",
     "contractDate": "27-9-2007",
     "description": "Grenades",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2009,
     "deliveryDate": "27-9-2009",
-    "originalValue": 174218,
+    "originalValue": 0,
     "contractValue": 174218,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/1c7c193d13733e6badc2230b439b7776.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id29260",
-    "vendorClean": "NICO-PYROTECHNIK  HANNS-JURGEN DIEDERICHS GMBH & COKG"
+    "vendorClean": "NICO-PYROTECHNIK HANNS-JURGEN DIEDERICHS GMBH & COKG"
 }

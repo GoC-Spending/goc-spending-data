@@ -1,6 +1,6 @@
 {
     "uuid": "ec-KE613-4-5357",
-    "vendorName": "B. C.  CONSERVATION FOUNDATION",
+    "vendorName": "B. C. CONSERVATION FOUNDATION",
     "referenceNumber": "KE613-4-5357",
     "contractDate": "2004-04-01",
     "description": "0813 Temporary help services",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "",
-    "originalValue": 16850.51,
+    "originalValue": 0,
     "contractValue": 16850.51,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "ec\/38e95c337550b7e6b796605be922c2a2.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=2408&quarter=1&fiscal=2004%2C%202005",
-    "vendorClean": "B C  CONSERVATION FOUNDATION"
+    "vendorClean": "B C CONSERVATION FOUNDATION"
 }

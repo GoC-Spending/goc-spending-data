@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K4A31-08-2003",
-    "vendorName": "ANDREW MAZEIKIS,  ANDREW LEE",
+    "vendorName": "ANDREW MAZEIKIS, ANDREW LEE",
     "referenceNumber": "K4A31-08-2003",
     "contractDate": "2008-04-01",
     "description": "0491 Other Prof. Serv. - Management consulting - OGD or programs",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 48495,
+    "originalValue": 0,
     "contractValue": 48495,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "ec\/a8cc1c72ab3038e3bd61020e91bf08d9.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=20049&quarter=1&fiscal=2008%2C%202009",
-    "vendorClean": "ANDREW MAZEIKIS  ANDREW LEE"
+    "vendorClean": "ANDREW MAZEIKIS ANDREW LEE"
 }

@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "19-2-2014",
-    "originalValue": 13275.62,
+    "originalValue": 0,
     "contractValue": 13275.62,
     "comments": "This item was not reported previously. This item was sole-sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/df13fb96b582bae7528d4ff748022526.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id151089",
-    "vendorClean": "AIRORPORATED"
+    "vendorClean": "AIR"
 }

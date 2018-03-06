@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "15-1-2014",
-    "originalValue": 11731,
+    "originalValue": 0,
     "contractValue": 11731,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENTS.THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/9428e2ba4802801f4b9dfd2ee3fad897.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id134612",
-    "vendorClean": "STEEPLEORPORATED"
+    "vendorClean": "STEEPLE"
 }

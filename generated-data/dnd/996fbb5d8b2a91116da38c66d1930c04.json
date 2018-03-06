@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2101792102",
-    "vendorName": "SHELL  CANADA PRODUCTS",
+    "vendorName": "SHELL CANADA PRODUCTS",
     "referenceNumber": "2101792102",
     "contractDate": "8-4-2013",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "8-4-2013",
-    "originalValue": 13431.29,
+    "originalValue": 0,
     "contractValue": 13431.29,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/996fbb5d8b2a91116da38c66d1930c04.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id142157",
-    "vendorClean": "SHELL  CANADA PRODUCTS"
+    "vendorClean": "SHELL CANADA PRODUCTS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092923\/005\/GRK",
-    "vendorName": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT",
+    "vendorName": "GLENSBURGER SCHIFFSBAU  GESELLSCHAFT",
     "referenceNumber": "W8486-092923\/005\/GRK",
     "contractDate": "20-10-2008",
     "description": "Block, Tackle, Lock, Tackle, Rigging and Slings",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "20-10-2009",
-    "originalValue": 19636,
+    "originalValue": 0,
     "contractValue": 19636,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/303cf62cc0b1a525cce7bcb9c5be2ca0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id49539",
-    "vendorClean": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT"
+    "vendorClean": "GLENSBURGER SCHIFFSBAU    GESELLSCHAFT"
 }

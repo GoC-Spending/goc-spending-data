@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2019,
     "deliveryDate": "",
-    "originalValue": 103477.5,
+    "originalValue": 0,
     "contractValue": 103477.5,
     "comments": "PSPC procurement tool.\/Competitively sourced.\/Multi-year contract.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "ircc\/2481ee123d4cd4aca6491b01471937ad.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=49&c=2834",
-    "vendorClean": "PRECISIONERPORPORATED"
+    "vendorClean": "PRECISIONERP"
 }

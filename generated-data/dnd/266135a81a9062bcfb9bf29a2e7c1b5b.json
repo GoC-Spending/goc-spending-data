@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-62142",
-    "vendorName": "AECOM Canada Ltd.  (Whitby)",
+    "vendorName": "AECOM Canada Ltd. (Whitby)",
     "referenceNumber": "62142",
     "contractDate": "8-3-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "5-8-2016",
-    "originalValue": 35000,
+    "originalValue": 0,
     "contractValue": 35000,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/266135a81a9062bcfb9bf29a2e7c1b5b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id187468",
-    "vendorClean": "AECOM CANADA  (WHITBY)"
+    "vendorClean": "AECOM CANADA (WHITBY)"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-45873",
-    "vendorName": "LVM Inc.  (Longueuil)",
+    "vendorName": "LVM Inc. (Longueuil)",
     "referenceNumber": "45873",
     "contractDate": "25-1-2011",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "25-1-2012",
-    "originalValue": 31225.92,
+    "originalValue": 0,
     "contractValue": 31225.92,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/3b56d9f85aad32d33c61e5d268187c9b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id104587",
-    "vendorClean": "LVM  (LONGUEUIL)"
+    "vendorClean": "LVM (LONGUEUIL)"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61364",
-    "vendorName": "WSP Canada Inc.   (Ottawa)",
+    "vendorName": "WSP Canada Inc. (Ottawa)",
     "referenceNumber": "61364",
     "contractDate": "21-12-2015",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "12-2-2016",
-    "originalValue": 16055,
+    "originalValue": 0,
     "contractValue": 16055,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/25f922b999927e4a03ae29cb0c75ff32.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id207691",
-    "vendorClean": "WSP CANADA   (OTTAWA)"
+    "vendorClean": "WSP CANADA  (OTTAWA)"
 }

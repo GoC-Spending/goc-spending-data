@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-11T019",
-    "vendorName": "SHELL CANADA PRODUCTS  - GHL TRANSPORT",
+    "vendorName": "SHELL CANADA PRODUCTS - GHL TRANSPORT",
     "referenceNumber": "11T019",
     "contractDate": "11-2-2011",
     "description": "LIQUID PROPELLANTS AND FUELS, PETROLEUM BASE",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "15-2-2011",
-    "originalValue": 308903.69,
+    "originalValue": 0,
     "contractValue": 308903.69,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/73be2fdacb142ede9c3beafd3747d99e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90243",
-    "vendorClean": "SHELL CANADA PRODUCTS  GHL TRANSPORT"
+    "vendorClean": "SHELL CANADA PRODUCTS GHL TRANSPORT"
 }

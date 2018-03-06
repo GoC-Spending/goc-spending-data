@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "March 31, 2009",
-    "originalValue": 31500,
+    "originalValue": 0,
     "contractValue": 31500,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "cnsc\/a004f1780ebdb1026ad54114b42c70fe.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=1689",
-    "vendorClean": "ECOMETRIXORPORATED"
+    "vendorClean": "ECOMETRIX"
 }

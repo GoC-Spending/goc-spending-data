@@ -1,6 +1,6 @@
 {
     "uuid": "ps-7134696",
-    "vendorName": "WILTSHIRE  CONSULTING INC.",
+    "vendorName": "WILTSHIRE CONSULTING INC.",
     "referenceNumber": "7134696",
     "contractDate": "2008-10-01",
     "description": "Management Consultants (non-government)",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "N\/A",
-    "originalValue": 24675,
+    "originalValue": 0,
     "contractValue": 24675,
     "comments": "N\/A",
     "ownerAcronym": "ps",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "ps\/257ea25f83d60210e64b5a97276554e5.html",
     "sourceURL": "https:\/\/www.publicsafety.gc.ca\/cnt\/trnsprnc\/cntrcts\/dtls-en.aspx?id=1798",
-    "vendorClean": "WILTSHIRE  CONSULTING"
+    "vendorClean": "WILTSHIRE CONSULTING"
 }

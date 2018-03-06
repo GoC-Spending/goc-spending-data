@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-086341\/004\/BY",
-    "vendorName": "\"Aviall Services, Inc. Government Contracts                            \"",
+    "vendorName": "\"Aviall Services, Inc. Government Contracts       \"",
     "referenceNumber": "W8485-086341\/004\/BY",
     "contractDate": "9-1-2008",
     "description": "Bolts",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "9-1-2009",
-    "originalValue": 101104,
+    "originalValue": 0,
     "contractValue": 101104,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/40ec8601753a484880265943c984b928.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39954",
-    "vendorClean": "\"AVIALL SERVICES GOVERNMENT CONTRACTS                            \""
+    "vendorClean": "\"AVIALL SERVICES GOVERNMENT CONTRACTS              \""
 }

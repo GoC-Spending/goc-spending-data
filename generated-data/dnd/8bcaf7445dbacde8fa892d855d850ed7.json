@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0114-05X888\/001\/KIN",
-    "vendorName": "McGraw-Hill  Ryerson Ltd.",
+    "vendorName": "McGraw-Hill Ryerson Ltd.",
     "referenceNumber": "W0114-05X888\/001\/KIN",
     "contractDate": "4-3-2005",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "4-3-2006",
-    "originalValue": 15105,
+    "originalValue": 0,
     "contractValue": 15105,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/8bcaf7445dbacde8fa892d855d850ed7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9071",
-    "vendorClean": "MCGRAW-HILL  RYERSON"
+    "vendorClean": "MCGRAW-HILL RYERSON"
 }

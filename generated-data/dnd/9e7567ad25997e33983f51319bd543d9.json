@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-8-2008",
-    "originalValue": 24806,
+    "originalValue": 0,
     "contractValue": 24806,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "dnd\/9e7567ad25997e33983f51319bd543d9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2008&id=id41476",
-    "vendorClean": "ARMAMENT TECHNOLOGYORPORATED"
+    "vendorClean": "ARMAMENT TECHNOLOGY"
 }

@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "28-2-2017",
-    "originalValue": 102000,
+    "originalValue": 0,
     "contractValue": 102000,
     "comments": "This item contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/e2d535e74e8c5f5ba182ba8111c4d352.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id181076",
-    "vendorClean": "SERVICELAB CLEANING SYSTEMSORPORATED"
+    "vendorClean": "SERVICELAB CLEANING SYSTEMS"
 }

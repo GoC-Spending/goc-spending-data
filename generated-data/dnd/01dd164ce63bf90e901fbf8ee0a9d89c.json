@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46913",
-    "vendorName": "LVM Inc.  (Longueuil)",
+    "vendorName": "LVM Inc. (Longueuil)",
     "referenceNumber": "46913",
     "contractDate": "28-4-2011",
     "description": "VC 53 Materials Testing Training Accommodations 3 Radar Street",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-10-2012",
-    "originalValue": 10000,
+    "originalValue": 0,
     "contractValue": 10000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/01dd164ce63bf90e901fbf8ee0a9d89c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id115940",
-    "vendorClean": "LVM  (LONGUEUIL)"
+    "vendorClean": "LVM (LONGUEUIL)"
 }

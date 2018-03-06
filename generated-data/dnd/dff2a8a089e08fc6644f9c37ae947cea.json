@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-43172",
-    "vendorName": "Cegertec Inc.  DO NOT USE",
+    "vendorName": "Cegertec Inc. DO NOT USE",
     "referenceNumber": "43172",
     "contractDate": "15-4-2010",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "1-12-2011",
-    "originalValue": 15526,
+    "originalValue": 0,
     "contractValue": 15526,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/dff2a8a089e08fc6644f9c37ae947cea.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id104482",
-    "vendorClean": "CEGERTEC  DO NOT USE"
+    "vendorClean": "CEGERTEC DO NOT USE"
 }

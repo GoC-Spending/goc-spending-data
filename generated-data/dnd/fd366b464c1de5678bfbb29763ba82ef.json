@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "14-2-2012",
-    "originalValue": 10860,
+    "originalValue": 0,
     "contractValue": 10860,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/fd366b464c1de5678bfbb29763ba82ef.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id108054",
-    "vendorClean": "SCOTIA EMERGENCY VEHICLE SYSTEMSORPORATED"
+    "vendorClean": "SCOTIA EMERGENCY VEHICLE SYSTEMS"
 }

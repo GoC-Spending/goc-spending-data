@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3537-09E010\/001\/CAL",
-    "vendorName": "kayzar warehouse maintenance  services",
+    "vendorName": "kayzar warehouse maintenance services",
     "referenceNumber": "W3537-09E010\/001\/CAL",
     "contractDate": "29-10-2008",
     "description": "Doors Metal Overhead, Installation and Repair",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2011,
     "deliveryDate": "30-9-2011",
-    "originalValue": 10500,
+    "originalValue": 0,
     "contractValue": 10500,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/cdfce9674a1079ea83a789c5ee525882.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id49872",
-    "vendorClean": "KAYZAR WAREHOUSE MAINTENANCE  SERVICES"
+    "vendorClean": "KAYZAR WAREHOUSE MAINTENANCE SERVICES"
 }

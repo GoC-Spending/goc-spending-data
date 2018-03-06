@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-06BA01\/001\/GRK",
-    "vendorName": "MINISTRY OF DEFENCE           NAVY\/HYDROGRAPHIC SUPP",
+    "vendorName": "MINISTRY OF DEFENCE   NAVY\/HYDROGRAPHIC SUPP",
     "referenceNumber": "W8484-06BA01\/001\/GRK",
     "contractDate": "29-7-2009",
     "description": "Maps, Atlases, Charts and Globes",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "31-7-2010",
-    "originalValue": 200000,
+    "originalValue": 0,
     "contractValue": 200000,
     "comments": "This item contains one or more amendment. This contract is a result of an advance contract award notice. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/5a140b5fe79d7c8771d382758d61d290.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id63473",
-    "vendorClean": "MINISTRY OF DEFENCE           NAVY\/HYDROGRAPHIC SUPP"
+    "vendorClean": "MINISTRY OF DEFENCE      NAVY\/HYDROGRAPHIC SUPP"
 }

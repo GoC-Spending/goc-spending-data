@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2012,
     "deliveryDate": "14-1-2012",
-    "originalValue": 30870,
+    "originalValue": 0,
     "contractValue": 30870,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/5c5a62ae2d9137ab6abce4814b2e2385.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85737",
-    "vendorClean": "EAGLE INTEGRATED SOLUTIONSORPORATED"
+    "vendorClean": "EAGLE INTEGRATED SOLUTIONS"
 }

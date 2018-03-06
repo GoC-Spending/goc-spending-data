@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3078-08C081\/001\/HAL",
-    "vendorName": "\"Advanced Simulation Technology, inc.                                  \"",
+    "vendorName": "\"Advanced Simulation Technology, inc.         \"",
     "referenceNumber": "W3078-08C081\/001\/HAL",
     "contractDate": "20-3-2008",
     "description": "\"Communication Systems, Radio, Except Armoured Fighting Vehicles and Aircraft \"",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 188996,
+    "originalValue": 0,
     "contractValue": 188996,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/cb2cf28de19885c3fdc0addc3eaf8148.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40168",
-    "vendorClean": "\"ADVANCED SIMULATION TECHNOLOGY                                  \""
+    "vendorClean": "\"ADVANCED SIMULATION TECHNOLOGY                 \""
 }

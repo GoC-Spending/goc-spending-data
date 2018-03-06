@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-54154",
-    "vendorName": "LVM  Inc. (Laval)",
+    "vendorName": "LVM Inc. (Laval)",
     "referenceNumber": "54154",
     "contractDate": "15-7-2013",
     "description": "Environmental Studies",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/79d3dc84eddecae4715cef8a4add2cea.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139270",
-    "vendorClean": "LVM  (LAVAL)"
+    "vendorClean": "LVM (LAVAL)"
 }

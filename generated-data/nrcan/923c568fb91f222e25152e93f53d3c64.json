@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000515614",
-    "vendorName": "VWR  INTERNATIONAL LTD.",
+    "vendorName": "VWR INTERNATIONAL LTD.",
     "referenceNumber": "3000515614",
     "contractDate": "2013-04-16",
     "description": "Other Equipment and Parts",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 16981,
+    "originalValue": 0,
     "contractValue": 16981,
     "comments": "Call-up against a PWGSC procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "nrcan\/923c568fb91f222e25152e93f53d3c64.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=01&id=38909",
-    "vendorClean": "VWR  INTERNATIONAL"
+    "vendorClean": "VWR INTERNATIONAL"
 }

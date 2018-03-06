@@ -1,9 +1,9 @@
 {
     "uuid": "fin-4000035",
-    "vendorName": "ARTEMP PERSONNEL  SERVICES INC.",
+    "vendorName": "ARTEMP PERSONNEL SERVICES INC.",
     "referenceNumber": "4000035",
     "contractDate": "2009-09-10",
-    "description": "813  TEMPORARY HELP SERVICES",
+    "description": "813 TEMPORARY HELP SERVICES",
     "extraDescription": "",
     "objectCode": "0813",
     "contractPeriodStart": "2009-09-10",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "fin\/cf5684c60c689f39c55ccbda26ea24f9.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=4000035&q=2&yr=2009",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

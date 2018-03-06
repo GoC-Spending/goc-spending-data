@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-REGINA 06\/08",
-    "vendorName": "Glenn Defence  Marine Group",
+    "vendorName": "Glenn Defence Marine Group",
     "referenceNumber": "REGINA 06\/08",
     "contractDate": "27-3-2008",
     "description": "Ship Repairs-Deck Replanking",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "2-6-2008",
-    "originalValue": 202880,
+    "originalValue": 0,
     "contractValue": 202880,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/3d9ff0ff9ef36230a3a1160b94d5ab73.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id44649",
-    "vendorClean": "GLENN DEFENCE  MARINE GROUP"
+    "vendorClean": "GLENN DEFENCE MARINE GROUP"
 }

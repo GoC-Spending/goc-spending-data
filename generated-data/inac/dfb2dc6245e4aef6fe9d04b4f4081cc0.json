@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0134A",
-    "vendorName": "CARTWRIGHT  JENNIFER",
+    "vendorName": "CARTWRIGHT JENNIFER",
     "referenceNumber": "20-13-0134A",
     "contractDate": "11\/13\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24251.33,
+    "originalValue": 0,
     "contractValue": 24251.33,
     "comments": "Appraisal Services\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/dfb2dc6245e4aef6fe9d04b4f4081cc0.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct111-eng.asp",
-    "vendorClean": "CARTWRIGHT  JENNIFER"
+    "vendorClean": "CARTWRIGHT JENNIFER"
 }

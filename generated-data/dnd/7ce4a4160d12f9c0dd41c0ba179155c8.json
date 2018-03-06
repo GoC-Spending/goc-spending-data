@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "11-2-2008",
-    "originalValue": 22306,
+    "originalValue": 0,
     "contractValue": 22306,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/7ce4a4160d12f9c0dd41c0ba179155c8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38936",
-    "vendorClean": "TESTSOURCEORPORATED"
+    "vendorClean": "TESTSOURCE"
 }

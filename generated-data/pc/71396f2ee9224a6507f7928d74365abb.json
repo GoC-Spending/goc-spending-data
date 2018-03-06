@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/12\/14",
-    "originalValue": 24012.58,
+    "originalValue": 0,
     "contractValue": 24012.58,
     "comments": "Hydraulics 8 Station Manifold",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "pc\/71396f2ee9224a6507f7928d74365abb.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2012-2013&oqQUARTER=3&oqCONTRACT_ID=39934",
-    "vendorClean": "M & C HYDRAULICORPORATED"
+    "vendorClean": "M & C HYDRAULIC"
 }

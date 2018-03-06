@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-45452",
-    "vendorName": "WHEAT CITY ROOFING LTD  (BRANDON)",
+    "vendorName": "WHEAT CITY ROOFING LTD (BRANDON)",
     "referenceNumber": "45452",
     "contractDate": "1-11-2010",
     "description": "CONSTRUCTION WORKS - BUILDINGS",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "13-12-2010",
-    "originalValue": 121428,
+    "originalValue": 0,
     "contractValue": 121428,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/b4650a83f314b33c4c945bb038ead247.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id84761",
-    "vendorClean": "WHEAT CITY ROOFING  (BRANDON)"
+    "vendorClean": "WHEAT CITY ROOFING (BRANDON)"
 }

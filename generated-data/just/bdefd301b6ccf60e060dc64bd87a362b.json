@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 15941.48,
+    "originalValue": 0,
     "contractValue": 15941.48,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "just",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "just\/bdefd301b6ccf60e060dc64bd87a362b.html",
     "sourceURL": "http:\/\/www.justice.gc.ca\/eng\/trans\/pd-dp\/contra\/details.asp?yr=2015&q=1&c=8421",
-    "vendorClean": "HR ASSOCIATESORPORATED"
+    "vendorClean": "HR ASSOCIATES"
 }

@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-6-2009",
-    "originalValue": 75750,
+    "originalValue": 0,
     "contractValue": 75750,
     "comments": "This is an amendment.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/68c36109624325ffdd4ada1c5483b7dc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id56103",
-    "vendorClean": "MORRIS CHEMICALSORPORATED"
+    "vendorClean": "MORRIS CHEMICALS"
 }

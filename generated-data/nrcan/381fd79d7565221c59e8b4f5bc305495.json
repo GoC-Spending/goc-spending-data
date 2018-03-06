@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000530396",
-    "vendorName": "M & L TESTING EQUIPMENT  1995 INC",
+    "vendorName": "M & L TESTING EQUIPMENT 1995 INC",
     "referenceNumber": "3000530396",
     "contractDate": "2013-10-24",
     "description": "Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24600.1,
+    "originalValue": 0,
     "contractValue": 24600.1,
     "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "nrcan\/381fd79d7565221c59e8b4f5bc305495.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=03&id=34711",
-    "vendorClean": "M & L TESTING EQUIPMENT  1995"
+    "vendorClean": "M & L TESTING EQUIPMENT 1995"
 }

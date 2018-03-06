@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 31993,
+    "originalValue": 0,
     "contractValue": 31993,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "dnd\/a87b710e331f58293b37d57d41b87b17.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2004&id=id4795",
-    "vendorClean": "GREENLEY & ASSOCIATESORPORATED"
+    "vendorClean": "GREENLEY & ASSOCIATES"
 }

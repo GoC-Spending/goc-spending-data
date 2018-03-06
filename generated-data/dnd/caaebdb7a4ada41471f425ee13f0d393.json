@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "23-9-2016",
-    "originalValue": 133116,
+    "originalValue": 0,
     "contractValue": 133116,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/caaebdb7a4ada41471f425ee13f0d393.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199918",
-    "vendorClean": "VERNE REIMER ARCHITECTUREORPORATED"
+    "vendorClean": "VERNE REIMER ARCHITECTURE"
 }

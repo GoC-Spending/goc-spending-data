@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "10-2-2012",
-    "originalValue": 85096,
+    "originalValue": 0,
     "contractValue": 85096,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/910b789703d614a6bf4e79509c65009d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91461",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

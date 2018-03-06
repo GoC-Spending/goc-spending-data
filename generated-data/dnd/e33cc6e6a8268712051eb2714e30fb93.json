@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-54761",
-    "vendorName": "Z l A l F l M Group  (Architects in Join",
+    "vendorName": "Z l A l F l M Group (Architects in Join",
     "referenceNumber": "54761",
     "contractDate": "4-11-2013",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "27-7-2016",
-    "originalValue": 367079.86,
+    "originalValue": 0,
     "contractValue": 367079.86,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "dnd\/e33cc6e6a8268712051eb2714e30fb93.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2013&id=id144077",
-    "vendorClean": "Z L A L F L M GROUP  (ARCHITECTS IN JOIN"
+    "vendorClean": "Z L A L F L M GROUP (ARCHITECTS IN JOIN"
 }

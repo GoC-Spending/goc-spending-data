@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 94784.4,
+    "originalValue": 0,
     "contractValue": 94784.4,
     "comments": "Services of a Senior Programmer Analyst (SharePoint Developer). Competitively sourced using the Public Works and Government Services Canada Supply Arrangement for Task-Based Informatics Professional Services (TBIPS).",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "cnsc\/41d0dcd28fcf53616ad42c8038911d73.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=8096",
-    "vendorClean": "PRECISIONITORPORATED"
+    "vendorClean": "PRECISIONIT"
 }

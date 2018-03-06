@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-088645\/003\/GRK",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-088645\/003\/GRK",
     "contractDate": "8-11-2007",
     "description": "Nuts and Washers",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "8-11-2007",
-    "originalValue": 15520,
+    "originalValue": 0,
     "contractValue": 15520,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/e84bc4e2884e616ab196cd2bfca186f2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id27885",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

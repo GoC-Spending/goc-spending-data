@@ -1,6 +1,6 @@
 {
     "uuid": "inac-00-13-0024",
-    "vendorName": "WILDROSE CONSULTING  LCC",
+    "vendorName": "WILDROSE CONSULTING LCC",
     "referenceNumber": "00-13-0024",
     "contractDate": "10\/30\/2013",
     "description": "0473 - INFORMATION TECHNOLOGY AND TELECOMMUNICATIONS CONSULTANTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 25000,
+    "originalValue": 0,
     "contractValue": 25000,
     "comments": "LODESTAR V2 SUPPORT: AIM\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/1ef9a2343a5088e164c264a43343926d.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct65-eng.asp",
-    "vendorClean": "WILDROSE CONSULTING  LCC"
+    "vendorClean": "WILDROSE CONSULTING LCC"
 }

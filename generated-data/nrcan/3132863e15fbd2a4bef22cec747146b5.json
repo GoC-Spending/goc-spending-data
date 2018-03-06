@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000522499",
-    "vendorName": "WABANO  CENTRE FOR ABORIGINAL",
+    "vendorName": "WABANO CENTRE FOR ABORIGINAL",
     "referenceNumber": "3000522499",
     "contractDate": "2013-07-29",
     "description": "Tuition Fees for Courses Where Employees Take Training on Their Own Time Note",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 21018,
+    "originalValue": 0,
     "contractValue": 21018,
     "comments": "Service Contract awarded by NRCAN.This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "nrcan\/3132863e15fbd2a4bef22cec747146b5.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=02&id=35276",
-    "vendorClean": "WABANO  CENTRE FOR ABORIGINAL"
+    "vendorClean": "WABANO CENTRE FOR ABORIGINAL"
 }

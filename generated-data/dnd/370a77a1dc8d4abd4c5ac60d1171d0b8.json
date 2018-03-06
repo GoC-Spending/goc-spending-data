@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-085797\/001\/GRK",
-    "vendorName": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A",
+    "vendorName": "FABRIQUE NATIONAL NOUVELLE HERSTAL FNNH S A",
     "referenceNumber": "W8485-085797\/001\/GRK",
     "contractDate": "14-8-2007",
     "description": "Hardware, Commercial",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "14-8-2008",
-    "originalValue": 35304,
+    "originalValue": 0,
     "contractValue": 35304,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/370a77a1dc8d4abd4c5ac60d1171d0b8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id26247",
-    "vendorClean": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A"
+    "vendorClean": "FABRIQUE NATIONAL NOUVELLE  HERSTAL FNNH S A"
 }

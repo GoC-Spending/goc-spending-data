@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-48716",
-    "vendorName": "BPR Inc.    (Chicoutimi)",
+    "vendorName": "BPR Inc. (Chicoutimi)",
     "referenceNumber": "48716",
     "contractDate": "28-9-2011",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "27-11-2011",
-    "originalValue": 47467.73,
+    "originalValue": 0,
     "contractValue": 47467.73,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/06b6bdbf63809168bcdbfd6ed7edcbb7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103260",
-    "vendorClean": "BPR    (CHICOUTIMI)"
+    "vendorClean": "BPR  (CHICOUTIMI)"
 }

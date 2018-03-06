@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "2-5-2006",
-    "originalValue": 311691,
+    "originalValue": 0,
     "contractValue": 311691,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/33f3c68754a4c302c5bb1ad8034f3940.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id11862",
-    "vendorClean": "DESIRE2LEARN COMORPORATED"
+    "vendorClean": "DESIRE2LEARN COM"
 }

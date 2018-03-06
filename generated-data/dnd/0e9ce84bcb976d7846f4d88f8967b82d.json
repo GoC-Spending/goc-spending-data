@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "3-9-2009",
-    "originalValue": 15865.2,
+    "originalValue": 0,
     "contractValue": 15865.2,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/0e9ce84bcb976d7846f4d88f8967b82d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id64169",
-    "vendorClean": "DSS MARINEORPORATED"
+    "vendorClean": "DSS MARINE"
 }

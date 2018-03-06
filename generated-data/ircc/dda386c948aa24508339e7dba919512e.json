@@ -3,7 +3,7 @@
     "vendorName": "Power Analysis Incorporated",
     "referenceNumber": "7080532",
     "contractDate": "2011\u00e2\u0080\u009103\u00e2\u0080\u009121",
-    "description": "491 Management    consulting",
+    "description": "491 Management consulting",
     "extraDescription": "",
     "objectCode": "0491",
     "contractPeriodStart": "2011-03-21",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 90400,
+    "originalValue": 0,
     "contractValue": 90400,
-    "comments": "This    contract was competitively sourced",
+    "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
     "sourceYear": 2011,
     "sourceQuarter": 0,
     "sourceFiscal": "",
     "sourceFilename": "ircc\/dda386c948aa24508339e7dba919512e.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=783&qid=2011-Q1",
-    "vendorClean": "POWER ANALYSISORPORATED"
+    "vendorClean": "POWER ANALYSIS"
 }

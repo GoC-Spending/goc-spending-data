@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000518081",
-    "vendorName": "PROMOMEDIA  GROUP",
+    "vendorName": "PROMOMEDIA GROUP",
     "referenceNumber": "3000518081",
     "contractDate": "2013-05-09",
-    "description": "Other Services -  0499 Other Professional Services not Elsewhere Specified",
+    "description": "Other Services - 0499 Other Professional Services not Elsewhere Specified",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 11718.41,
+    "originalValue": 0,
     "contractValue": 11718.41,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "cfia\/898e32a9635eceb760e42cce8eee6a8e.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=1&contraID=13114&yid=10",
-    "vendorClean": "PROMOMEDIA  GROUP"
+    "vendorClean": "PROMOMEDIA GROUP"
 }

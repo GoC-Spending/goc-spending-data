@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2007,
     "deliveryDate": "15-12-2007",
-    "originalValue": 79780,
+    "originalValue": 0,
     "contractValue": 79780,
     "comments": "This is an amendment. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/51e989542dd89a821e4e49abd9e8a554.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id48743",
-    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONALORPORATED"
+    "vendorClean": "CHANNEL MANAGEMENT INTERNATIONAL"
 }

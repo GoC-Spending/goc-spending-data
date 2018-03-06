@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2016-03-12",
-    "originalValue": 1539024.46,
+    "originalValue": 0,
     "contractValue": 1539024.46,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "sc\/4c57dfdb6d93cd47d5671e40ac211f55.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=18981&employeepositionid=null&site=3&startdate=2015-01-01&enddate=2015-03-31&quarterid=45#place84",
-    "vendorClean": "ADOBE SYSTEMS CANADAORPORATED"
+    "vendorClean": "ADOBE SYSTEMS CANADA"
 }

@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 24824,
+    "originalValue": 0,
     "contractValue": 24824,
     "comments": "",
     "ownerAcronym": "just",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q4",
     "sourceFilename": "just\/5ca250e2c04ca3e2170a00c14b99f6a0.html",
     "sourceURL": "http:\/\/www.justice.gc.ca\/eng\/trans\/pd-dp\/contra\/details.asp?yr=2005&q=4&c=2648",
-    "vendorClean": "ONXORPORATED"
+    "vendorClean": "ONX"
 }

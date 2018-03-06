@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K3A40-13-9031",
-    "vendorName": "ANDREW MAZEIKIS,  ANDREW LEE",
+    "vendorName": "ANDREW MAZEIKIS, ANDREW LEE",
     "referenceNumber": "K3A40-13-9031",
     "contractDate": "2014-02-17",
     "description": "0473 Information Technology and Telecommunications Consultants",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 54325,
+    "originalValue": 0,
     "contractValue": 54325,
     "comments": "Task Based Informatics Professional Services - provide Informatic Technology professional services for Meteorlogical Services Canada",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "ec\/6ebfadc255e6315a176d803cd67d3bed.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=51057&quarter=4&fiscal=2013%2C%202014",
-    "vendorClean": "ANDREW MAZEIKIS  ANDREW LEE"
+    "vendorClean": "ANDREW MAZEIKIS ANDREW LEE"
 }

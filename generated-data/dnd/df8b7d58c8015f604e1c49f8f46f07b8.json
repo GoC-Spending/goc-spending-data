@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7702-125663\/001\/EDM",
-    "vendorName": "Banyan Biomarkers Alachua FL  32615",
+    "vendorName": "Banyan Biomarkers Alachua FL 32615",
     "referenceNumber": "W7702-125663\/001\/EDM",
     "contractDate": "16-1-2014",
     "description": "Military (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "31-12-2014",
-    "originalValue": 65810,
+    "originalValue": 0,
     "contractValue": 65810,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/df8b7d58c8015f604e1c49f8f46f07b8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id146662",
-    "vendorClean": "BANYAN BIOMARKERS ALACHUA FL  32615"
+    "vendorClean": "BANYAN BIOMARKERS ALACHUA FL 32615"
 }

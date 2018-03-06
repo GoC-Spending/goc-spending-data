@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-122138\/001\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-122138\/001\/GRK",
     "contractDate": "20-1-2012",
     "description": "Power Transmission Equipment, Miscellaneous",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "20-1-2013",
-    "originalValue": 14217,
+    "originalValue": 0,
     "contractValue": 14217,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/370859d71bdacf12af493b841550ae53.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id111427",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

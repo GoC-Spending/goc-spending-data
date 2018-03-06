@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-ad0de9b1d65e9c7a320c26226ec00c91",
-    "vendorName": "Imperial  Oil",
+    "vendorName": "Imperial Oil",
     "referenceNumber": "ad0de9b1d65e9c7a320c26226ec00c91",
     "contractDate": "16-2-2015",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "17-2-2015",
-    "originalValue": 22506.02,
+    "originalValue": 0,
     "contractValue": 22506.02,
     "comments": "This contract is a call-up against a Public Works and Government Services procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/ad0de9b1d65e9c7a320c26226ec00c91.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id163755",
-    "vendorClean": "IMPERIAL  OIL"
+    "vendorClean": "IMPERIAL OIL"
 }

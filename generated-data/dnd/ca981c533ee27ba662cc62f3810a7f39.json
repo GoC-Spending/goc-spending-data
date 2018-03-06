@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-44461",
-    "vendorName": "SIEMENS CANADA LIMITED  (BRAMPTON)",
+    "vendorName": "SIEMENS CANADA LIMITED (BRAMPTON)",
     "referenceNumber": "44461",
     "contractDate": "18-10-2010",
     "description": "CUSTODIAL SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "18-10-2011",
-    "originalValue": 35000,
+    "originalValue": 0,
     "contractValue": 35000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/ca981c533ee27ba662cc62f3810a7f39.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85609",
-    "vendorClean": "SIEMENS CANADA LIMITED  (BRAMPTON)"
+    "vendorClean": "SIEMENS CANADA LIMITED (BRAMPTON)"
 }

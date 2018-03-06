@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45251384",
-    "vendorName": "TELUS  (Geomatics)",
+    "vendorName": "TELUS (Geomatics)",
     "referenceNumber": "45251384",
     "contractDate": "2009\/02\/25",
     "description": "1243 Measuring, controlling, laboratory, medical and op",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "2009\/02\/25",
-    "originalValue": 20412,
+    "originalValue": 0,
     "contractValue": 20412,
     "comments": "SPOT5 5m Pan & 10m MSDigital Ortho-image",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "pc\/3ca3e699e9ff223ff01c363f5e052cc0.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2008-2009&oqQUARTER=4&oqCONTRACT_ID=31223",
-    "vendorClean": "TELUS  (GEOMATICS)"
+    "vendorClean": "TELUS (GEOMATICS)"
 }

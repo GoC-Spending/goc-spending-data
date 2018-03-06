@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-096402\/001\/BLB",
-    "vendorName": "JOWA     FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA  FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "W8486-096402\/001\/BLB",
     "contractDate": "6-11-2009",
     "description": "Miscellaneous Electric Power and Distribution Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "6-1-2010",
-    "originalValue": 22759,
+    "originalValue": 0,
     "contractValue": 22759,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/ea607734bdc0898fb7b33159b5340143.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67467",
-    "vendorClean": "JOWA     FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA   FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

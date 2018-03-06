@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-094748\/001\/BLB",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-094748\/001\/BLB",
     "contractDate": "22-1-2009",
     "description": "Guns, 75 mm through 125 mm",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-12-2009",
-    "originalValue": 88700,
+    "originalValue": 0,
     "contractValue": 88700,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/cdd7e4eff5a90cd81088a6be32365bf8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id57037",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

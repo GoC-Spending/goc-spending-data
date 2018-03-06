@@ -1,9 +1,9 @@
 {
     "uuid": "fin-7003616",
-    "vendorName": "ARTEMP PERSONNEL  SERVICES INC.",
+    "vendorName": "ARTEMP PERSONNEL SERVICES INC.",
     "referenceNumber": "7003616",
     "contractDate": "2008-01-02",
-    "description": "813  TEMPORARY HELP SERVICES",
+    "description": "813 TEMPORARY HELP SERVICES",
     "extraDescription": "",
     "objectCode": "0813",
     "contractPeriodStart": "2008-01-02",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 29192.4,
+    "originalValue": 0,
     "contractValue": 29192.4,
     "comments": "",
     "ownerAcronym": "fin",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "fin\/d608e1a050b3b9e18d1ccbd55d32c613.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=7003616&q=4&yr=2007",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

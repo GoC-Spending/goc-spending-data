@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45299531",
-    "vendorName": "PBK  ARCHITECTS INC.",
+    "vendorName": "PBK ARCHITECTS INC.",
     "referenceNumber": "45299531",
     "contractDate": "2011\/04\/20",
     "description": "630 Office buildings",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "2012\/05\/30",
-    "originalValue": 70540.25,
+    "originalValue": 0,
     "contractValue": 70540.25,
     "comments": "Roof Assessment & Remedial Recommend",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "pc\/4c6fd07efc1b814f4e97f2a6577fa459.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=1&oqCONTRACT_ID=36934",
-    "vendorClean": "PBK  ARCHITECTS"
+    "vendorClean": "PBK ARCHITECTS"
 }

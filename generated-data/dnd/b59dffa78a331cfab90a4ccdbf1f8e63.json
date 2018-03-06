@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-095821\/001\/BLB",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-095821\/001\/BLB",
     "contractDate": "9-4-2009",
     "description": "Synchros and Resolvers",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "9-6-2009",
-    "originalValue": 86869,
+    "originalValue": 0,
     "contractValue": 86869,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/b59dffa78a331cfab90a4ccdbf1f8e63.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id58278",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

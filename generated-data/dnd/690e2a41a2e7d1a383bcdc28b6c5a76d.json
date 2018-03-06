@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-115982\/004\/GRK",
-    "vendorName": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT",
+    "vendorName": "GLENSBURGER SCHIFFSBAU  GESELLSCHAFT",
     "referenceNumber": "W8486-115982\/004\/GRK",
     "contractDate": "3-12-2010",
     "description": "VEHICULAR FURNITURE AND ACCESSORIES",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "3-12-2011",
-    "originalValue": 68462,
+    "originalValue": 0,
     "contractValue": 68462,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/690e2a41a2e7d1a383bcdc28b6c5a76d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85092",
-    "vendorClean": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT"
+    "vendorClean": "GLENSBURGER SCHIFFSBAU    GESELLSCHAFT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0113-080814",
-    "vendorName": "PROFESSIONAL  CONTRUCTION SERVICES PLUS INC",
+    "vendorName": "PROFESSIONAL CONTRUCTION SERVICES PLUS INC",
     "referenceNumber": "W0113-080814",
     "contractDate": "17-12-2008",
     "description": "Miscellaneous Items (includes only those items of Goods which cannot conceivably be classified in any existing Classes).",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "6-2-2009",
-    "originalValue": 22092,
+    "originalValue": 0,
     "contractValue": 22092,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/c69b161305c96343f4774d97e9230362.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id56895",
-    "vendorClean": "PROFESSIONAL  CONTRUCTION SERVICES PLUS"
+    "vendorClean": "PROFESSIONAL CONTRUCTION SERVICES PLUS"
 }

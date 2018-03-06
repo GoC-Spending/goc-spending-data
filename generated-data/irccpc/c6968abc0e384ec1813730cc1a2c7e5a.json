@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-7276700",
-    "vendorName": "TEKNION FURNITURE SYSTEMS CO.  LIMIT",
+    "vendorName": "TEKNION FURNITURE SYSTEMS CO. LIMIT",
     "referenceNumber": "7276700",
     "contractDate": "2012-03-23",
     "description": "97000 Office Furniture and Furnishings, Including Parts",
@@ -11,14 +11,14 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 35200.53,
+    "originalValue": 0,
     "contractValue": 35200.53,
-    "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.  \/ This contract was sole-sourced.",
+    "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool. \/ This contract was sole-sourced.",
     "ownerAcronym": "irccpc",
     "sourceYear": 2012,
     "sourceQuarter": 4,
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "irccpc\/c6968abc0e384ec1813730cc1a2c7e5a.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2011-2012-4&ref=7276700",
-    "vendorClean": "TEKNION FURNITURE SYSTEMS CO  LIMIT"
+    "vendorClean": "TEKNION FURNITURE SYSTEMS CO LIMIT"
 }

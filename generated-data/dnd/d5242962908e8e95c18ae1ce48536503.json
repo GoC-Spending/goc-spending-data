@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-59506",
-    "vendorName": "WSP Canada Inc.   (Montreal)",
+    "vendorName": "WSP Canada Inc. (Montreal)",
     "referenceNumber": "59506",
     "contractDate": "11-6-2015",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "9-9-2015",
-    "originalValue": 12650.8,
+    "originalValue": 0,
     "contractValue": 12650.8,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/d5242962908e8e95c18ae1ce48536503.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id169225",
-    "vendorClean": "WSP CANADA   (MONTREAL)"
+    "vendorClean": "WSP CANADA  (MONTREAL)"
 }

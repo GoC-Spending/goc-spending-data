@@ -1,6 +1,6 @@
 {
     "uuid": "ircc-7083986",
-    "vendorName": "Commissionaires  (Great Lakes)",
+    "vendorName": "Commissionaires (Great Lakes)",
     "referenceNumber": "7083986",
     "contractDate": "2012-04-01",
     "description": "0460 - Protection services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 57279.25,
+    "originalValue": 0,
     "contractValue": 57279.25,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/1a0902f7360f40db33adb5deaad1173d.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=38",
-    "vendorClean": "COMMISSIONAIRES  (GREAT LAKES)"
+    "vendorClean": "CANADIAN CORPS OF COMMISSIONAIRES"
 }

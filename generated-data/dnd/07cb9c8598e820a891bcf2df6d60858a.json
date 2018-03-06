@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-3-2016",
-    "originalValue": 11887.3,
+    "originalValue": 0,
     "contractValue": 11887.3,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/07cb9c8598e820a891bcf2df6d60858a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id187449",
-    "vendorClean": "AGREEORPORATED"
+    "vendorClean": "AGREE"
 }

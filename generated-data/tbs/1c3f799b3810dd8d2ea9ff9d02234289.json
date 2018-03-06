@@ -1,9 +1,9 @@
 {
     "uuid": "tbs-7004283",
-    "vendorName": "ARTEMP PERSONNEL  SERVICES INC.",
+    "vendorName": "ARTEMP PERSONNEL SERVICES INC.",
     "referenceNumber": "7004283",
     "contractDate": "2009-01-19",
-    "description": "813  TEMPORARY HELP SERVICES",
+    "description": "813 TEMPORARY HELP SERVICES",
     "extraDescription": "N\/A",
     "objectCode": "0813",
     "contractPeriodStart": "2009-01-19",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 13083.53,
+    "originalValue": 0,
     "contractValue": 13083.53,
     "comments": "",
     "ownerAcronym": "tbs",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "tbs\/1c3f799b3810dd8d2ea9ff9d02234289.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=7004283&q=4&yr=2008&d=",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

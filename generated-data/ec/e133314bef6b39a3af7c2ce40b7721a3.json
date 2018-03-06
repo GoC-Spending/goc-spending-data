@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "2008-01-05",
-    "originalValue": 20012.78,
+    "originalValue": 0,
     "contractValue": 20012.78,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "ec\/e133314bef6b39a3af7c2ce40b7721a3.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=15689&quarter=3&fiscal=2007%2C%202008",
-    "vendorClean": "HORIBA INSTRUMENTSORPORATED"
+    "vendorClean": "HORIBA INSTRUMENTS"
 }

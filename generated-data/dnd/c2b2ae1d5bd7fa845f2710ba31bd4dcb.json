@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-084039\/002\/GRK",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "W8482-084039\/002\/GRK",
     "contractDate": "18-4-2008",
     "description": "Aircraft Hydraulic, Vacuum and De-Icing System Components",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "18-4-2009",
-    "originalValue": 13843,
+    "originalValue": 0,
     "contractValue": 13843,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "dnd\/c2b2ae1d5bd7fa845f2710ba31bd4dcb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2008&id=id41259",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

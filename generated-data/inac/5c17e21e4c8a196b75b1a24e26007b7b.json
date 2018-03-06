@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/1",
-    "vendorName": "RICHMOND  LAURA",
+    "vendorName": "RICHMOND LAURA",
     "referenceNumber": "20-09-6088\/1",
     "contractDate": "4\/16\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 41661.9,
+    "originalValue": 0,
     "contractValue": 41661.9,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/5c17e21e4c8a196b75b1a24e26007b7b.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct60-eng.asp",
-    "vendorClean": "RICHMOND  LAURA"
+    "vendorClean": "RICHMOND LAURA"
 }

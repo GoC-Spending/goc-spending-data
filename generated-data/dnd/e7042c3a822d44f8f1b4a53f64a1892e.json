@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2007,
     "deliveryDate": "30-9-2007",
-    "originalValue": 271000,
+    "originalValue": 0,
     "contractValue": 271000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q3",
     "sourceFilename": "dnd\/e7042c3a822d44f8f1b4a53f64a1892e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2006&id=id22399",
-    "vendorClean": "ROYAL VICTORIA HOSPITAL OF BARRIEORPORATED"
+    "vendorClean": "ROYAL VICTORIA HOSPITAL OF BARRIE"
 }

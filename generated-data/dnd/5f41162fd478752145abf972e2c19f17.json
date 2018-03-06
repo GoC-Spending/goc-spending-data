@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "13-9-2012",
-    "originalValue": 81960,
+    "originalValue": 0,
     "contractValue": 81960,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "dnd\/5f41162fd478752145abf972e2c19f17.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2012&id=id120221",
-    "vendorClean": "Q-DRILLING & REMEDIATIONORPORATED"
+    "vendorClean": "Q-DRILLING & REMEDIATION"
 }

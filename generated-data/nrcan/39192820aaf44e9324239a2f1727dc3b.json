@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 122040,
+    "originalValue": 0,
     "contractValue": 122040,
     "comments": "Service Contract awarded by NRCAN. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "nrcan\/39192820aaf44e9324239a2f1727dc3b.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2012-2013&qrt=04&id=32079",
-    "vendorClean": "PROEXORPORATED"
+    "vendorClean": "PROEX"
 }

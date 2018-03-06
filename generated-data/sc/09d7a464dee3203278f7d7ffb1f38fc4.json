@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2016,
     "deliveryDate": "2016-12-30",
-    "originalValue": 18037.3,
+    "originalValue": 0,
     "contractValue": 18037.3,
     "comments": "This is a notice of the restatement of Contract 100002896 dated October 02, 2014. The contract was not captured by our financial system and the issue has been corrected since then. This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "sc\/09d7a464dee3203278f7d7ffb1f38fc4.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=22432&employeepositionid=null&site=3&startdate=2015-04-01&enddate=2015-06-30&quarterid=52#place7",
-    "vendorClean": "INDEPENDENCEORPORATED"
+    "vendorClean": "INDEPENDENCE"
 }

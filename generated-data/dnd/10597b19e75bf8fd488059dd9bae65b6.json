@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501402337",
-    "vendorName": "BREWER'S  LEDGE  INC",
+    "vendorName": "BREWER'S LEDGE INC",
     "referenceNumber": "4501402337",
     "contractDate": "18-2-2016",
     "description": "Recreational and Gymnastic Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "18-2-2016",
-    "originalValue": 13641,
+    "originalValue": 0,
     "contractValue": 13641,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/10597b19e75bf8fd488059dd9bae65b6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id180610",
-    "vendorClean": "BREWERS  LEDGE"
+    "vendorClean": "BREWERS LEDGE"
 }

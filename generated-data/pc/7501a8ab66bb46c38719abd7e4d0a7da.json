@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2016\/09\/23",
-    "originalValue": 11944.44,
+    "originalValue": 0,
     "contractValue": 11944.44,
     "comments": "432 Garlock Style Vee set",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "pc\/7501a8ab66bb46c38719abd7e4d0a7da.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2016-2017&oqQUARTER=2&oqCONTRACT_ID=52157",
-    "vendorClean": "M&C HYDRAULICORPORATED"
+    "vendorClean": "M&C HYDRAULIC"
 }

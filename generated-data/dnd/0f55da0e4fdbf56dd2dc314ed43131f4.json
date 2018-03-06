@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58187",
-    "vendorName": "Bouthillette Parizeau inc.  (Montreal)",
+    "vendorName": "Bouthillette Parizeau inc. (Montreal)",
     "referenceNumber": "58187",
     "contractDate": "20-2-2015",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2017,
     "deliveryDate": "18-6-2017",
-    "originalValue": 83541,
+    "originalValue": 0,
     "contractValue": 83541,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/0f55da0e4fdbf56dd2dc314ed43131f4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id163993",
-    "vendorClean": "BOUTHILLETTE PARIZEAU  (MONTREAL)"
+    "vendorClean": "BOUTHILLETTE PARIZEAU (MONTREAL)"
 }

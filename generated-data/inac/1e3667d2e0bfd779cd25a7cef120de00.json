@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-8015",
-    "vendorName": "MCCALLA  DR. DOUGLAS",
+    "vendorName": "MCCALLA DR. DOUGLAS",
     "referenceNumber": "20-13-8015",
     "contractDate": "10\/30\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 87010,
+    "originalValue": 0,
     "contractValue": 87010,
     "comments": "Expert Witness \/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/1e3667d2e0bfd779cd25a7cef120de00.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct67-eng.asp",
-    "vendorClean": "MCCALLA  DR DOUGLAS"
+    "vendorClean": "MCCALLA DR DOUGLAS"
 }

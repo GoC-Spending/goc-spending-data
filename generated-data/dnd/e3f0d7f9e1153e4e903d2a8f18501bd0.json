@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "6-2-2009",
-    "originalValue": 430000,
+    "originalValue": 0,
     "contractValue": 430000,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/e3f0d7f9e1153e4e903d2a8f18501bd0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id49681",
-    "vendorClean": "ITS CONSTRUCTIONORPORATED"
+    "vendorClean": "ITS CONSTRUCTION"
 }

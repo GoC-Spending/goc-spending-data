@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000535684",
-    "vendorName": "VWR  INTERNATIONAL LTD.",
+    "vendorName": "VWR INTERNATIONAL LTD.",
     "referenceNumber": "3000535684",
     "contractDate": "2013-12-31",
     "description": "Laboratories",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 12537.45,
+    "originalValue": 0,
     "contractValue": 12537.45,
     "comments": "Call-up against a PWGSC procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "nrcan\/c764cf9cd8f171fe009d247c8c4415f4.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=04&id=35641",
-    "vendorClean": "VWR  INTERNATIONAL"
+    "vendorClean": "VWR INTERNATIONAL"
 }

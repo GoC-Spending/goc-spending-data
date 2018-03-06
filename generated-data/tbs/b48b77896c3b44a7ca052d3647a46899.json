@@ -3,7 +3,7 @@
     "vendorName": "NRNS Incorporated",
     "referenceNumber": "6014674",
     "contractDate": "2011-02-09",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2011-02-09",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "tbs\/b48b77896c3b44a7ca052d3647a46899.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=6014674&q=4&yr=2010&d=",
-    "vendorClean": "NRNSORPORATED"
+    "vendorClean": "NRNS"
 }

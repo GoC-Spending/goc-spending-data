@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000461251",
-    "vendorName": "GENERAL ASSEMBLY  PRODUCTION",
+    "vendorName": "GENERAL ASSEMBLY PRODUCTION",
     "referenceNumber": "3000461251",
     "contractDate": "2011-12-16",
-    "description": "Advertising Services                                                                                                                                                                                                      301 - Advertising Services",
+    "description": "Advertising Services                                                  301 - Advertising Services",
     "extraDescription": "",
     "objectCode": "0301",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 12426.75,
+    "originalValue": 0,
     "contractValue": 12426.75,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "cfia\/ad48079d180a9754e5338a406c57adef.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2011-2012&q=3&contraID=11113&yid=8",
-    "vendorClean": "GENERAL ASSEMBLY  PRODUCTION"
+    "vendorClean": "GENERAL ASSEMBLY PRODUCTION"
 }

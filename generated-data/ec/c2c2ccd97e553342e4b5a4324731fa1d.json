@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "2013-10-31",
-    "originalValue": 23298.46,
+    "originalValue": 0,
     "contractValue": 23298.46,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "ec\/c2c2ccd97e553342e4b5a4324731fa1d.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=48453&quarter=1&fiscal=2013%2C%202014",
-    "vendorClean": "MATERION PRECISION OPTICS AND THIN FILM COATINGSORPORATED"
+    "vendorClean": "MATERION PRECISION OPTICS AND THIN FILM COATINGS"
 }

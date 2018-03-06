@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0046-06Q756\/001\/KIN",
-    "vendorName": "\"A.R. Jordan, Consultant                                               \"",
+    "vendorName": "\"A.R. Jordan, Consultant            \"",
     "referenceNumber": "W0046-06Q756\/001\/KIN",
     "contractDate": "28-1-2008",
     "description": "Program Review Services",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-1-2009",
-    "originalValue": 13781,
+    "originalValue": 0,
     "contractValue": 13781,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/215742efa6aae58306b6a0a14663aabc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38261",
-    "vendorClean": "\"AR JORDAN CONSULTANT                                               \""
+    "vendorClean": "\"AR JORDAN CONSULTANT                        \""
 }

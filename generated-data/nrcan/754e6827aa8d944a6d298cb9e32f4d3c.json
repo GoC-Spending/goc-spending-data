@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000520220",
-    "vendorName": "KJARSGAARD       INGRID",
+    "vendorName": "KJARSGAARD  INGRID",
     "referenceNumber": "3000520220",
     "contractDate": "2013-06-05",
     "description": "Scientific Services",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 12493.28,
+    "originalValue": 0,
     "contractValue": 12493.28,
     "comments": "Purchase Order. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "nrcan\/754e6827aa8d944a6d298cb9e32f4d3c.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=01&id=39071",
-    "vendorClean": "KJARSGAARD       INGRID"
+    "vendorClean": "KJARSGAARD    INGRID"
 }

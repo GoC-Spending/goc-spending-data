@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "N\/A",
-    "originalValue": 291908.05,
+    "originalValue": 0,
     "contractValue": 291908.05,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "esdc\/5a43c59e9162c91da6b40516a4148f3e.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=15405&employeepositionid=null&site=1&startdate=2012-04-01&enddate=2012-06-30&quarterid=16#place127",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

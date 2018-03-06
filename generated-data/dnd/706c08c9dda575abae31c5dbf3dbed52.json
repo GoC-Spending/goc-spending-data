@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3555-092439\/001\/XLV",
-    "vendorName": "TECHNOLOGY DYNAMICS INC.    NOVA ELECTRIC DIV.",
+    "vendorName": "TECHNOLOGY DYNAMICS INC. NOVA ELECTRIC DIV.",
     "referenceNumber": "W3555-092439\/001\/XLV",
     "contractDate": "28-11-2008",
     "description": "Uninterruptible Power Supply (U.P.S.) - Three Phase 10KVA and Above",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "20-1-2009",
-    "originalValue": 116811,
+    "originalValue": 0,
     "contractValue": 116811,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/706c08c9dda575abae31c5dbf3dbed52.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id51031",
-    "vendorClean": "TECHNOLOGY DYNAMICS    NOVA ELECTRIC DIV"
+    "vendorClean": "TECHNOLOGY DYNAMICS  NOVA ELECTRIC DIV"
 }

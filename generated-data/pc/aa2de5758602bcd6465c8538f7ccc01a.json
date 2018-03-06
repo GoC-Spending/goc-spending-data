@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/08\/11",
-    "originalValue": 30780,
+    "originalValue": 0,
     "contractValue": 30780,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "pc\/aa2de5758602bcd6465c8538f7ccc01a.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=1&oqCONTRACT_ID=26139",
-    "vendorClean": "CJWEBBORPORATED"
+    "vendorClean": "CJWEBB"
 }

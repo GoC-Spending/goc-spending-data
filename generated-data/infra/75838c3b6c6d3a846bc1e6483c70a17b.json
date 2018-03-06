@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 20000,
+    "originalValue": 0,
     "contractValue": 20000,
     "comments": "Disconnect & Reconnect of workstations",
     "ownerAcronym": "infra",

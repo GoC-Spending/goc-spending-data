@@ -3,7 +3,7 @@
     "vendorName": "SERVA INCORPORATED",
     "referenceNumber": "8015604",
     "contractDate": "2007-01-18",
-    "description": "491  MANAGEMENT CONSULTING",
+    "description": "491 MANAGEMENT CONSULTING",
     "extraDescription": "N\/A",
     "objectCode": "0491",
     "contractPeriodStart": "2007-01-18",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "",
-    "originalValue": 13356,
+    "originalValue": 0,
     "contractValue": 13356,
     "comments": "",
     "ownerAcronym": "tbs",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "tbs\/9b7df7a745200b9f58f14f46249ad932.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=8015604&q=4&yr=2006&d=",
-    "vendorClean": "SERVAORPORATED"
+    "vendorClean": "SERVA"
 }

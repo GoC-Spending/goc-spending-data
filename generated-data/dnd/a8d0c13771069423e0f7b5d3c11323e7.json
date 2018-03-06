@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3555-082137\/001\/XLV",
-    "vendorName": "\"Johnson Controls, Inc.                                                \"",
+    "vendorName": "\"Johnson Controls, Inc.            \"",
     "referenceNumber": "W3555-082137\/001\/XLV",
     "contractDate": "28-3-2008",
     "description": "Ships and Vessels Refrigeration and Air Conditioning Equipment - Repair and Overhaul",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "4-4-2009",
-    "originalValue": 27653,
+    "originalValue": 0,
     "contractValue": 27653,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/a8d0c13771069423e0f7b5d3c11323e7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39236",
-    "vendorClean": "\"JOHNSON CONTROLS                                                \""
+    "vendorClean": "\"JOHNSON CONTROLS                        \""
 }

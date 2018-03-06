@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-088333\/001\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-088333\/001\/GRK",
     "contractDate": "14-9-2007",
     "description": "Engine Cooling System Components, Non-Aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "14-9-2008",
-    "originalValue": 23088,
+    "originalValue": 0,
     "contractValue": 23088,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/f03bda6845057c615067555f44646b7d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id26491",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

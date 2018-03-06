@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-45970",
-    "vendorName": "GENIVAR INC.   (GATINEAU)",
+    "vendorName": "GENIVAR INC. (GATINEAU)",
     "referenceNumber": "45970",
     "contractDate": "26-1-2011",
     "description": "ENGINEERING STUDIES",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "23-3-2011",
-    "originalValue": 38289,
+    "originalValue": 0,
     "contractValue": 38289,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/7eb1f352b70c1c9bad7c52167c6f1e34.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89203",
-    "vendorClean": "GENIVAR   (GATINEAU)"
+    "vendorClean": "GENIVAR  (GATINEAU)"
 }

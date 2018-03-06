@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-08-6013\/9",
-    "vendorName": "MELLEMA  CHRISTINE",
+    "vendorName": "MELLEMA CHRISTINE",
     "referenceNumber": "20-08-6013\/9",
     "contractDate": "6\/5\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 27279,
+    "originalValue": 0,
     "contractValue": 27279,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/7c31644c612df947585bf9efb0ad4fd8.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct250-eng.asp",
-    "vendorClean": "MELLEMA  CHRISTINE"
+    "vendorClean": "MELLEMA CHRISTINE"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-7291604",
-    "vendorName": "TAG HR IT  - The Associates Group",
+    "vendorName": "TAG HR IT - The Associates Group",
     "referenceNumber": "7291604",
     "contractDate": "2012-12-10",
     "description": "813 Temporary help services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 348629.94,
+    "originalValue": 0,
     "contractValue": 348629.94,
     "comments": "This contract includes one or more amendments to a previously disclosed contract \/ This contract is issued against a Public Works and Government Services Canada procurement tool \/ This contract was competitively sourced",
     "ownerAcronym": "irccpc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "irccpc\/16d07c84504f7b762b6e30331a4b3589.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2012-2013-4&ref=7291604",
-    "vendorClean": "TAG HR IT  THE ASSOCIATES GROUP"
+    "vendorClean": "TAG HR IT THE ASSOCIATES GROUP"
 }

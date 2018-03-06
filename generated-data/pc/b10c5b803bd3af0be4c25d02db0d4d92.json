@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45344661",
-    "vendorName": "SASKATCHEWAN  RIVER  BUNGALOWS",
+    "vendorName": "SASKATCHEWAN RIVER BUNGALOWS",
     "referenceNumber": "45344661",
     "contractDate": "2014\/07\/09",
     "description": "1115 Miscellaneous food, food materials and food prepar",
@@ -11,14 +11,14 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "2014\/09\/08",
-    "originalValue": 23855.95,
+    "originalValue": 0,
     "contractValue": 23855.95,
-    "comments": "fire fighting meal INV  76484",
+    "comments": "fire fighting meal INV 76484",
     "ownerAcronym": "pc",
     "sourceYear": 2014,
     "sourceQuarter": 2,
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "pc\/b10c5b803bd3af0be4c25d02db0d4d92.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2014-2015&oqQUARTER=2&oqCONTRACT_ID=44411",
-    "vendorClean": "SASKATCHEWAN  RIVER  BUNGALOWS"
+    "vendorClean": "SASKATCHEWAN RIVER BUNGALOWS"
 }

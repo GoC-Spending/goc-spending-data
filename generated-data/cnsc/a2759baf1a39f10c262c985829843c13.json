@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "May 30, 2004",
-    "originalValue": 18160.9,
+    "originalValue": 0,
     "contractValue": 18160.9,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "cnsc\/a2759baf1a39f10c262c985829843c13.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=17",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

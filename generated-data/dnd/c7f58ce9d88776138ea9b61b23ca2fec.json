@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51978",
-    "vendorName": "Garland Canada Inc.   (Vancouver)",
+    "vendorName": "Garland Canada Inc. (Vancouver)",
     "referenceNumber": "51978",
     "contractDate": "9-8-2012",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "28-12-2012",
-    "originalValue": 16000,
+    "originalValue": 0,
     "contractValue": 16000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/c7f58ce9d88776138ea9b61b23ca2fec.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123660",
-    "vendorClean": "GARLAND CANADA   (VANCOUVER)"
+    "vendorClean": "GARLAND CANADA  (VANCOUVER)"
 }

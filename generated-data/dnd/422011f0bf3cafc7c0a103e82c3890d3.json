@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50486",
-    "vendorName": "CIMA +      (St-Romuald)",
+    "vendorName": "CIMA +  (St-Romuald)",
     "referenceNumber": "50486",
     "contractDate": "3-7-2012",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "3-7-2013",
-    "originalValue": 57752.44,
+    "originalValue": 0,
     "contractValue": 57752.44,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/422011f0bf3cafc7c0a103e82c3890d3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id122177",
-    "vendorClean": "CIMA +      (ST-ROMUALD)"
+    "vendorClean": "CIMA +   (ST-ROMUALD)"
 }

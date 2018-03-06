@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "30-10-2015",
-    "originalValue": 117800,
+    "originalValue": 0,
     "contractValue": 117800,
     "comments": "The contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool This contract is a call-up against a Public Works and Government Services procurement tool",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/bd6851793a515e846c7fdc6e20dd39fc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id203537",
-    "vendorClean": "DAVTAIR INDUSTRIESORPORATED"
+    "vendorClean": "DAVTAIR INDUSTRIES"
 }

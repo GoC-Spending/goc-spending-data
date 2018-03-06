@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W010X-08N351\/001\/HAL",
-    "vendorName": "Camosun College  Finance",
+    "vendorName": "Camosun College Finance",
     "referenceNumber": "W010X-08N351\/001\/HAL",
     "contractDate": "27-4-2011",
     "description": "Technical \/ Vocational Training",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "21-9-2011",
-    "originalValue": 53394,
+    "originalValue": 0,
     "contractValue": 53394,
     "comments": "This item contains one or more amendments. This contract is a result of an advance contract award notice.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/42dbefe123f958de373256932bfbecc9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id96938",
-    "vendorClean": "CAMOSUN COLLEGE  FINANCE"
+    "vendorClean": "CAMOSUN COLLEGE FINANCE"
 }

@@ -11,14 +11,14 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012-03-31",
-    "originalValue": 160093.49,
+    "originalValue": 0,
     "contractValue": 160093.49,
-    "comments": "Original Amount $80046.75  This contract includes one or more amendments.",
+    "comments": "Original Amount $80046.75 This contract includes one or more amendments.",
     "ownerAcronym": "ec",
     "sourceYear": 2011,
     "sourceQuarter": 4,
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "ec\/e0beeeafad923e0254001fcdd7daa3a9.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=42192&quarter=4&fiscal=2011%2C%202012",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

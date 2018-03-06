@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3999-10M603\/001\/WPG",
-    "vendorName": "GILCRON CORPORATION           A SUBSIDIARY OF ITT",
+    "vendorName": "GILCRON CORPORATION   A SUBSIDIARY OF ITT",
     "referenceNumber": "W3999-10M603\/001\/WPG",
     "contractDate": "9-4-2010",
     "description": "Pilot Training Services, Aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "1-11-2010",
-    "originalValue": 72700,
+    "originalValue": 0,
     "contractValue": 72700,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/f35c75f9a1d8b72aa3fd6e9228feadb6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id73801",
-    "vendorClean": "GILCRON CORPORATION           A SUBSIDIARY OF ITT"
+    "vendorClean": "GILCRON CORPORATION      A SUBSIDIARY OF ITT"
 }

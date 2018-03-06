@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000531926",
-    "vendorName": "UNIVAR  CANADA LTD.",
+    "vendorName": "UNIVAR CANADA LTD.",
     "referenceNumber": "3000531926",
     "contractDate": "2013-11-13",
     "description": "Inorganic and Organic Chemicals, Including Plastic",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 23909.9,
+    "originalValue": 0,
     "contractValue": 23909.9,
     "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "nrcan\/83a856597fe3bbb5cfcbc8b2aa3fdb11.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=03&id=34667",
-    "vendorClean": "UNIVAR  CANADA"
+    "vendorClean": "UNIVAR CANADA"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092274\/007\/GRK",
-    "vendorName": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT",
+    "vendorName": "GLENSBURGER SCHIFFSBAU  GESELLSCHAFT",
     "referenceNumber": "W8486-092274\/007\/GRK",
     "contractDate": "25-7-2008",
     "description": "Power and Hand Pumps",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "25-7-2008",
-    "originalValue": 24066,
+    "originalValue": 0,
     "contractValue": 24066,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/8c6a9dcb85c338b81c6b7c486cac6378.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43284",
-    "vendorClean": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT"
+    "vendorClean": "GLENSBURGER SCHIFFSBAU    GESELLSCHAFT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-059208\/003\/BY",
-    "vendorName": "ROCKWELL INTERNATIONAL CORP.  COLLINS GOVT AVIONICS DIV.",
+    "vendorName": "ROCKWELL INTERNATIONAL CORP. COLLINS GOVT AVIONICS DIV.",
     "referenceNumber": "W8485-059208\/003\/BY",
     "contractDate": "21-4-2005",
     "description": "Antennas, Waveguides and Related Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "30-11-2005",
-    "originalValue": 151164,
+    "originalValue": 0,
     "contractValue": 151164,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/eaceeea6abbe13c499d4885d87ccf0fa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12700",
-    "vendorClean": "ROCKWELL INTERNATIONAL CORP  COLLINS GOVT AVIONICS DIV"
+    "vendorClean": "ROCKWELL INTERNATIONAL CORP COLLINS GOVT AVIONICS DIV"
 }

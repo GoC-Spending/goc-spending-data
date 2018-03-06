@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "15-7-2005",
-    "originalValue": 76000,
+    "originalValue": 0,
     "contractValue": 76000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/fab0805ee62c62b7a34302431094c58e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id11775",
-    "vendorClean": "PRAIRIE ARCHITECTSORPORATED"
+    "vendorClean": "PRAIRIE ARCHITECTS"
 }

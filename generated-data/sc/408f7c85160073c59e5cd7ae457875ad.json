@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2016-12-31",
-    "originalValue": 14472.47,
+    "originalValue": 0,
     "contractValue": 14472.47,
     "comments": "This contract includes one or more amendments",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "sc\/408f7c85160073c59e5cd7ae457875ad.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=22185&employeepositionid=null&site=3&startdate=2016-04-01&enddate=2016-06-30&quarterid=56#place7",
-    "vendorClean": "INDEPENDENCEORPORATED"
+    "vendorClean": "INDEPENDENCE"
 }

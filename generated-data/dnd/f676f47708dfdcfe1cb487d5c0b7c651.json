@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53567",
-    "vendorName": "J.G. FITZGERALD & SON'S LTD  (PEMBROKE)",
+    "vendorName": "J.G. FITZGERALD & SON'S LTD (PEMBROKE)",
     "referenceNumber": "53567",
     "contractDate": "13-3-2013",
     "description": "SPECIAL TRADE CONSTRUCTION WRK",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "1-5-2013",
-    "originalValue": 124970,
+    "originalValue": 0,
     "contractValue": 124970,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/f676f47708dfdcfe1cb487d5c0b7c651.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id132122",
-    "vendorClean": "JG FITZGERALD & SONS  (PEMBROKE)"
+    "vendorClean": "JG FITZGERALD & SONS (PEMBROKE)"
 }

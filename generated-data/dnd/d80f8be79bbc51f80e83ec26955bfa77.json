@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-41345",
-    "vendorName": "Exp Services Inc.  (Fredericton)",
+    "vendorName": "Exp Services Inc. (Fredericton)",
     "referenceNumber": "41345",
     "contractDate": "15-5-2009",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2013,
     "deliveryDate": "31-3-2013",
-    "originalValue": 29020.51,
+    "originalValue": 0,
     "contractValue": 29020.51,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/d80f8be79bbc51f80e83ec26955bfa77.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id115528",
-    "vendorClean": "EXP SERVICES  (FREDERICTON)"
+    "vendorClean": "EXP SERVICES (FREDERICTON)"
 }

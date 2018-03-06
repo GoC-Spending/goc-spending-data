@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3048-16-JZ93",
-    "vendorName": "S.O.S.  Medical Group Ltd",
+    "vendorName": "S.O.S. Medical Group Ltd",
     "referenceNumber": "W3048-16-JZ93",
     "contractDate": "30-5-2016",
     "description": "Technical \/ Vocational Training",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "30-9-2016",
-    "originalValue": 18340,
+    "originalValue": 0,
     "contractValue": 18340,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/8667e2fae3fc0b9680f601ee696dc8d6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id195959",
-    "vendorClean": "SOS  MEDICAL GROUP"
+    "vendorClean": "SOS MEDICAL GROUP"
 }

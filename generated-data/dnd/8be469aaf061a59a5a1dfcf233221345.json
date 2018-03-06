@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-127473\/001\/EE",
-    "vendorName": "APPLE COMPUTER INC            SOFTWARE LICENSING DEPARTMENT",
+    "vendorName": "APPLE COMPUTER INC   SOFTWARE LICENSING DEPARTMENT",
     "referenceNumber": "W8484-127473\/001\/EE",
     "contractDate": "20-3-2012",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "19-3-2013",
-    "originalValue": 10176,
+    "originalValue": 0,
     "contractValue": 10176,
     "comments": "This contract is a result of an advance contract award notice.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/8be469aaf061a59a5a1dfcf233221345.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114846",
-    "vendorClean": "APPLE COMPUTER            SOFTWARE LICENSING DEPARTMENT"
+    "vendorClean": "APPLE COMPUTER      SOFTWARE LICENSING DEPARTMENT"
 }

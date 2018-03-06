@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-097884\/001\/BY",
-    "vendorName": "GENTEX CORPORATION  ELECTRO ACOUSTICS GROUP",
+    "vendorName": "GENTEX CORPORATION ELECTRO ACOUSTICS GROUP",
     "referenceNumber": "W8485-097884\/001\/BY",
     "contractDate": "18-7-2008",
     "description": "Other Cryptologic Equipment and Components",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "10-10-2008",
-    "originalValue": 125012,
+    "originalValue": 0,
     "contractValue": 125012,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/c8dcb97c2f77e1349534a33029708925.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43100",
-    "vendorClean": "GENTEX CORPORATION  ELECTRO ACOUSTICS GROUP"
+    "vendorClean": "GENTEX CORPORATION ELECTRO ACOUSTICS GROUP"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47231",
-    "vendorName": "Dessau Inc.   (Longueuil)",
+    "vendorName": "Dessau Inc. (Longueuil)",
     "referenceNumber": "47231",
     "contractDate": "24-5-2011",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2013,
     "deliveryDate": "2-8-2013",
-    "originalValue": 29267.54,
+    "originalValue": 0,
     "contractValue": 29267.54,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/9624eb0d75e90bb120e42a4ef2c83b5d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id115973",
-    "vendorClean": "DESSAU   (LONGUEUIL)"
+    "vendorClean": "DESSAU  (LONGUEUIL)"
 }

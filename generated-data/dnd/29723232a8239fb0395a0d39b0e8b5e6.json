@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "1-5-2005",
-    "originalValue": 79899,
+    "originalValue": 0,
     "contractValue": 79899,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/29723232a8239fb0395a0d39b0e8b5e6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id8098",
-    "vendorClean": "ITS CONSTRUCTIONORPORATED"
+    "vendorClean": "ITS CONSTRUCTION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "ircc-7084818",
-    "vendorName": "JB  Beauchamps",
+    "vendorName": "JB Beauchamps",
     "referenceNumber": "7084818",
     "contractDate": "2012-10-09",
     "description": "0321 - Printing services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 16272,
+    "originalValue": 0,
     "contractValue": 16272,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "ircc\/ee38827315a318423fbc90c0fafe3c27.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=35&c=340",
-    "vendorClean": "JB  BEAUCHAMPS"
+    "vendorClean": "JB BEAUCHAMPS"
 }

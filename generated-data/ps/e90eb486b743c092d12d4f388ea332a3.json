@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "N\/A",
-    "originalValue": 23100,
+    "originalValue": 0,
     "contractValue": 23100,
     "comments": "External Advisor for Strategic Review. This contract was sole-sourced.",
     "ownerAcronym": "ps",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "ps\/e90eb486b743c092d12d4f388ea332a3.html",
     "sourceURL": "https:\/\/www.publicsafety.gc.ca\/cnt\/trnsprnc\/cntrcts\/dtls-en.aspx?id=2013",
-    "vendorClean": "INKSTERORPORATED"
+    "vendorClean": "INKSTER"
 }

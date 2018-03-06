@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-11-2011",
-    "originalValue": 69800,
+    "originalValue": 0,
     "contractValue": 69800,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/e58ddf402c4af135ec2613927b3c6275.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id101979",
-    "vendorClean": "WALKERS HOLDINGSORPORATED"
+    "vendorClean": "WALKERS HOLDINGS"
 }

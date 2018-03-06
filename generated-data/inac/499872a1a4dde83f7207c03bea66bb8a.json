@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/32",
-    "vendorName": "LANE  SIOBHAN",
+    "vendorName": "LANE SIOBHAN",
     "referenceNumber": "09-12-6001\/32",
     "contractDate": "11\/27\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,14 +11,14 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 17724,
+    "originalValue": 0,
     "contractValue": 17724,
-    "comments": "Research Services  Database Coordination\/This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
+    "comments": "Research Services Database Coordination\/This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
     "sourceYear": 2013,
     "sourceQuarter": 3,
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/499872a1a4dde83f7207c03bea66bb8a.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct164-eng.asp",
-    "vendorClean": "LANE  SIOBHAN"
+    "vendorClean": "LANE SIOBHAN"
 }

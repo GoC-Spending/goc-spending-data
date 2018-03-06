@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-07GB09\/001\/RA",
-    "vendorName": "ROCKWELL COLLINS, INC.   COLLINS AVIATION SERVICES",
+    "vendorName": "ROCKWELL COLLINS, INC. COLLINS AVIATION SERVICES",
     "referenceNumber": "W8484-07GB09\/001\/RA",
     "contractDate": "31-5-2007",
     "description": "Radio and Television Communications Equipment, Airborne",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "31-12-2007",
-    "originalValue": 762300,
+    "originalValue": 0,
     "contractValue": 762300,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "dnd\/830b30da69d3feca4ad4b123f9a26361.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2007&id=id24454",
-    "vendorClean": "ROCKWELL COLLINS   COLLINS AVIATION SERVICES"
+    "vendorClean": "ROCKWELL COLLINS  COLLINS AVIATION SERVICES"
 }

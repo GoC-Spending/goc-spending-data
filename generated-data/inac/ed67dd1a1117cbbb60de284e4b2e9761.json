@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0205",
-    "vendorName": "MCKINNON  PETER",
+    "vendorName": "MCKINNON PETER",
     "referenceNumber": "20-13-0205",
     "contractDate": "2\/25\/2014",
     "description": "0351 - COMMUNICATIONS PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,14 +11,14 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 11025,
+    "originalValue": 0,
     "contractValue": 11025,
-    "comments": "ABORIGINAL PEOLPLE IN CANADA: A RICH HISTORY  A BRIGHT FUTURE.\/This contract was sole-sourced.",
+    "comments": "ABORIGINAL PEOLPLE IN CANADA: A RICH HISTORY A BRIGHT FUTURE.\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
     "sourceYear": 2013,
     "sourceQuarter": 4,
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/ed67dd1a1117cbbb60de284e4b2e9761.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct209-eng.asp",
-    "vendorClean": "MCKINNON  PETER"
+    "vendorClean": "MCKINNON PETER"
 }

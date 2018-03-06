@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46562",
-    "vendorName": "GENIVAR  INC. (WINNIPEG)",
+    "vendorName": "GENIVAR INC. (WINNIPEG)",
     "referenceNumber": "46562",
     "contractDate": "2-3-2011",
     "description": "A&E SERVICES RELATED TO CONST.",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "27-4-2011",
-    "originalValue": 20070,
+    "originalValue": 0,
     "contractValue": 20070,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/f6d2f4e215b030840008d9caf71427a2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91484",
-    "vendorClean": "GENIVAR  (WINNIPEG)"
+    "vendorClean": "GENIVAR (WINNIPEG)"
 }

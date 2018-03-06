@@ -1,6 +1,6 @@
 {
     "uuid": "ec-3000597242",
-    "vendorName": "REBECCA JEPPESEN  (NOVASILA WILDLIFE)",
+    "vendorName": "REBECCA JEPPESEN (NOVASILA WILDLIFE)",
     "referenceNumber": "3000597242",
     "contractDate": "2015-11-26",
     "description": "0499 Other Professional Services not Elsewhere Specified",
@@ -11,14 +11,14 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 10459.14,
+    "originalValue": 0,
     "contractValue": 10459.14,
-    "comments": "Original Amount $0.00  Technical Writing Services",
+    "comments": "Original Amount $0.00 Technical Writing Services",
     "ownerAcronym": "ec",
     "sourceYear": 2015,
     "sourceQuarter": 3,
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "ec\/228a016024f40b21da9d0f84c4fdab5a.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=59971&quarter=3&fiscal=2015%2C%202016",
-    "vendorClean": "REBECCA JEPPESEN  (NOVASILA WILDLIFE)"
+    "vendorClean": "REBECCA JEPPESEN (NOVASILA WILDLIFE)"
 }

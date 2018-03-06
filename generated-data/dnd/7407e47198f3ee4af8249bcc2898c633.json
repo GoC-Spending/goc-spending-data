@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 15593,
+    "originalValue": 0,
     "contractValue": 15593,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/7407e47198f3ee4af8249bcc2898c633.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id71957",
-    "vendorClean": "UNIVERSITY OF TORONTO PRESSORPORATED"
+    "vendorClean": "UNIVERSITY OF TORONTO PRESS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "ps-7142373",
-    "vendorName": "GORDON  GROUP MARKETING AND COMMUNICATIONS",
+    "vendorName": "GORDON GROUP MARKETING AND COMMUNICATIONS",
     "referenceNumber": "7142373",
     "contractDate": "2009-03-19",
     "description": "Other Professional Services not elsewhere specified",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "N\/A",
-    "originalValue": 20370,
+    "originalValue": 0,
     "contractValue": 20370,
     "comments": "Public Safety Corporate Identity design. This contract was sole-sourced.",
     "ownerAcronym": "ps",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "ps\/2e41df31c234f89653fabc01f9f2b394.html",
     "sourceURL": "https:\/\/www.publicsafety.gc.ca\/cnt\/trnsprnc\/cntrcts\/dtls-en.aspx?id=1941",
-    "vendorClean": "GORDON  GROUP MARKETING AND COMMUNICATIONS"
+    "vendorClean": "GORDON GROUP MARKETING AND COMMUNICATIONS"
 }

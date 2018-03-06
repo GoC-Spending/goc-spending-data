@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-087531\/001\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-087531\/001\/GRK",
     "contractDate": "20-7-2007",
     "description": "Vehicular Brake, Steering, Axle, Wheel and Track Components",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "20-7-2008",
-    "originalValue": 10644,
+    "originalValue": 0,
     "contractValue": 10644,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/0873e39da5daa481a8bf0f8e4db63e87.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id26406",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

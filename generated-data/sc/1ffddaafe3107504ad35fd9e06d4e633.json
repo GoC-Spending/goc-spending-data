@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2017,
     "deliveryDate": "2017-03-11",
-    "originalValue": 6886921.5,
+    "originalValue": 0,
     "contractValue": 6886921.5,
     "comments": "This contract includes one or more amendments",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "sc\/1ffddaafe3107504ad35fd9e06d4e633.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=22191&employeepositionid=null&site=3&startdate=2016-04-01&enddate=2016-06-30&quarterid=56#place2",
-    "vendorClean": "ADOBE SYSTEMS CANADAORPORATED"
+    "vendorClean": "ADOBE SYSTEMS CANADA"
 }

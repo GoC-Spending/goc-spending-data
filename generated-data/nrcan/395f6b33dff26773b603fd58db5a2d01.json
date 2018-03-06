@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000466425",
-    "vendorName": "AECOM            CONSULTANTINC",
+    "vendorName": "AECOM   CONSULTANTINC",
     "referenceNumber": "3000466425",
     "contractDate": "2012-01-31",
     "description": "430 Scientific Services",
@@ -11,14 +11,14 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 38902.5,
+    "originalValue": 0,
     "contractValue": 38902.5,
-    "comments": "Service Contract awarded by NRCAN.  This contract was competitively sourced.",
+    "comments": "Service Contract awarded by NRCAN. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2011,
     "sourceQuarter": 4,
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "nrcan\/395f6b33dff26773b603fd58db5a2d01.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2011-2012&qrt=04&id=29631",
-    "vendorClean": "AECOM            CONSULTANTINC"
+    "vendorClean": "AECOM      CONSULTANTINC"
 }

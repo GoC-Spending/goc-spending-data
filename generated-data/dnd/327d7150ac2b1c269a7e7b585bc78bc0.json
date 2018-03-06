@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "25-5-2015",
-    "originalValue": 55030.5,
+    "originalValue": 0,
     "contractValue": 55030.5,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/327d7150ac2b1c269a7e7b585bc78bc0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id167438",
-    "vendorClean": "SEA BOXORPORATED"
+    "vendorClean": "SEA BOX"
 }

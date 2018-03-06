@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45177075",
-    "vendorName": "TELUS  (Geomatics)",
+    "vendorName": "TELUS (Geomatics)",
     "referenceNumber": "45177075",
     "contractDate": "2006\/04\/21",
     "description": "1243 Measuring controlling, laboratory, medical and optical equipment and parts",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "2006\/04\/28",
-    "originalValue": 18537.75,
+    "originalValue": 0,
     "contractValue": 18537.75,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q1",
     "sourceFilename": "pc\/a9a896d43ae29e23d9764bed28a4a59e.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2006-2007&oqQUARTER=1&oqCONTRACT_ID=18525",
-    "vendorClean": "TELUS  (GEOMATICS)"
+    "vendorClean": "TELUS (GEOMATICS)"
 }

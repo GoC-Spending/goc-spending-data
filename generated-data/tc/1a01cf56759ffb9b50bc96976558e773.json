@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "2014\/3\/31",
-    "originalValue": 26957.56,
+    "originalValue": 0,
     "contractValue": 26957.56,
     "comments": "This contract includes one or more amendments. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "tc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "tc\/1a01cf56759ffb9b50bc96976558e773.html",
     "sourceURL": "http:\/\/wwwapps.tc.gc.ca\/Corp-Serv-Gen\/2\/PDC-DPC\/contract\/detail.aspx?Contract_ID=538066&year=2013&Quarter=2",
-    "vendorClean": "RED SASHORPORATED"
+    "vendorClean": "RED SASH"
 }

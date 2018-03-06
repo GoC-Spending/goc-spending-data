@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55102",
-    "vendorName": "WSP Canada Inc.   (Montreal)",
+    "vendorName": "WSP Canada Inc. (Montreal)",
     "referenceNumber": "55102",
     "contractDate": "17-3-2014",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2017,
     "deliveryDate": "31-3-2017",
-    "originalValue": 303600,
+    "originalValue": 0,
     "contractValue": 303600,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/4374858dadc0e6de5cc8cf8066dba0cc.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id149186",
-    "vendorClean": "WSP CANADA   (MONTREAL)"
+    "vendorClean": "WSP CANADA  (MONTREAL)"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "ircc-7096808",
-    "vendorName": "2946271 CANADA INC    (TEXTUEL)",
+    "vendorName": "2946271 CANADA INC (TEXTUEL)",
     "referenceNumber": "7096808",
     "contractDate": "2016-06-28",
     "description": "0494 - Translation services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "",
-    "originalValue": 11300,
+    "originalValue": 0,
     "contractValue": 11300,
     "comments": "Competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "ircc\/5b2f102c3424754394299ff19458c59e.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=49&c=2916",
-    "vendorClean": "2946271 CANADA    (TEXTUEL)"
+    "vendorClean": "2946271 CANADA  (TEXTUEL)"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0046-09Q981\/001\/KIN",
-    "vendorName": "CPE - DIVISION L\" INC                                                \"",
+    "vendorName": "CPE - DIVISION L\" INC            \"",
     "referenceNumber": "W0046-09Q981\/001\/KIN",
     "contractDate": "29-1-2009",
     "description": "Uninterruptible Power Supply (U.P.S.) - Three Phase 10KVA and Above",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 22982,
+    "originalValue": 0,
     "contractValue": 22982,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/a2d4cb529228c70bf2064a5ad92dc26d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id53368",
-    "vendorClean": "CPE DIVISION L\"                                                \""
+    "vendorClean": "CPE DIVISION L\"                        \""
 }

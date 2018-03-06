@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-CN01ZL",
-    "vendorName": "GMA COVER CORP.           001752",
+    "vendorName": "GMA COVER CORP.   001752",
     "referenceNumber": "CN01ZL",
     "contractDate": "1-2-2005",
     "description": "SPSS PART (3 CSG)",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 10083.69,
+    "originalValue": 0,
     "contractValue": 10083.69,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/beb67d25b55d30e062483635c95c3190.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11300",
-    "vendorClean": "GMA COVER CORP           001752"
+    "vendorClean": "GMA COVER CORP      001752"
 }

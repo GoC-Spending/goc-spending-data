@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "N\/A",
-    "originalValue": 16240.76,
+    "originalValue": 0,
     "contractValue": 16240.76,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "esdc\/db46d2b97b5772053577136e1705899d.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=11767&employeepositionid=null&site=1&startdate=2010-04-01&enddate=2010-06-30&quarterid=20#place170",
-    "vendorClean": "SYNCSORTORPORATED"
+    "vendorClean": "SYNCSORT"
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 11865,
+    "originalValue": 0,
     "contractValue": 11865,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "cnsc\/7929c3d719a5756069321dd92e34c76f.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=3911",
-    "vendorClean": "WREN GROUPORPORATED THE"
+    "vendorClean": "WREN GROUP THE"
 }

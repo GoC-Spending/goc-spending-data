@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/14",
-    "vendorName": "ENNS  RON",
+    "vendorName": "ENNS RON",
     "referenceNumber": "09-12-6001\/14",
     "contractDate": "7\/10\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 13258.88,
+    "originalValue": 0,
     "contractValue": 13258.88,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/dc611d2cfd2ebbda757f5c27b07b1023.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct32-eng.asp",
-    "vendorClean": "ENNS  RON"
+    "vendorClean": "ENNS RON"
 }

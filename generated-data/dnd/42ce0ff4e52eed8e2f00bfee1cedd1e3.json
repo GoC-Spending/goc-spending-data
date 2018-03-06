@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8485-086936\/001\/BY",
-    "vendorName": "\"TEAC Aerospace Technologies, Inc                                      \"",
+    "vendorName": "\"TEAC Aerospace Technologies, Inc          \"",
     "referenceNumber": "W8485-086936\/001\/BY",
     "contractDate": "19-2-2008",
-    "description": "\"Electrical and Electronic Assemblies, Boards, Cards and Associated Hardware       \"",
+    "description": "\"Electrical and Electronic Assemblies, Boards, Cards and Associated Hardware  \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-6-2008",
-    "originalValue": 21854,
+    "originalValue": 0,
     "contractValue": 21854,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/42ce0ff4e52eed8e2f00bfee1cedd1e3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38903",
-    "vendorClean": "\"TEAC AEROSPACE TECHNOLOGIES                                      \""
+    "vendorClean": "\"TEAC AEROSPACE TECHNOLOGIES                   \""
 }

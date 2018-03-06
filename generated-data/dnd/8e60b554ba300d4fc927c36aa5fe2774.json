@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2019,
     "deliveryDate": "31-3-2019",
-    "originalValue": 1954575,
+    "originalValue": 0,
     "contractValue": 1954575,
     "comments": "This contract contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/8e60b554ba300d4fc927c36aa5fe2774.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id196420",
-    "vendorClean": "HUMANSYSTEMSORPORATED"
+    "vendorClean": "HUMANSYSTEMS"
 }

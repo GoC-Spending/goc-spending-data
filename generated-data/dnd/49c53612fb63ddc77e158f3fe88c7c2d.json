@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "14-7-2015",
-    "originalValue": 44466.84,
+    "originalValue": 0,
     "contractValue": 44466.84,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/49c53612fb63ddc77e158f3fe88c7c2d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id159497",
-    "vendorClean": "REPUBLIC ARCHITECTUREORPORATED"
+    "vendorClean": "REPUBLIC ARCHITECTURE"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53361",
-    "vendorName": "LVM  Inc. (Quebec)",
+    "vendorName": "LVM Inc. (Quebec)",
     "referenceNumber": "53361",
     "contractDate": "22-7-2013",
     "description": "Environmental Services",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/02a3a6465b634dda6bfca3076db90430.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139196",
-    "vendorClean": "LVM  (QUEBEC)"
+    "vendorClean": "LVM (QUEBEC)"
 }

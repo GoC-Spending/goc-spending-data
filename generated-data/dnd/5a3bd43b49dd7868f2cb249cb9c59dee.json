@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2006,
     "deliveryDate": "21-6-2006",
-    "originalValue": 444050,
+    "originalValue": 0,
     "contractValue": 444050,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/5a3bd43b49dd7868f2cb249cb9c59dee.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3767",
-    "vendorClean": "TECSERV & ASSOCIATESORPORATED"
+    "vendorClean": "TECSERV & ASSOCIATES"
 }

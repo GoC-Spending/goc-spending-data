@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61899",
-    "vendorName": "Number Ten Architectural  (Victoria)",
+    "vendorName": "Number Ten Architectural (Victoria)",
     "referenceNumber": "61899",
     "contractDate": "23-2-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "13-5-2016",
-    "originalValue": 22953.35,
+    "originalValue": 0,
     "contractValue": 22953.35,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/6581885d726333b8aa822ac0b688018c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id187245",
-    "vendorClean": "NUMBER TEN ARCHITECTURAL  (VICTORIA)"
+    "vendorClean": "NUMBER TEN ARCHITECTURAL (VICTORIA)"
 }

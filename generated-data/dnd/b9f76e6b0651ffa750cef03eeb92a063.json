@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8482-084042\/001\/GRK",
-    "vendorName": "HALE HAMILTON-VALVES-LTD      FRAYS MILL WKS",
+    "vendorName": "HALE HAMILTON-VALVES-LTD  FRAYS MILL WKS",
     "referenceNumber": "W8482-084042\/001\/GRK",
     "contractDate": "26-3-2008",
-    "description": "\"Valves, Nonpowered                                              \"",
+    "description": "\"Valves, Nonpowered            \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "26-3-2008",
-    "originalValue": 76039,
+    "originalValue": 0,
     "contractValue": 76039,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/b9f76e6b0651ffa750cef03eeb92a063.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39813",
-    "vendorClean": "HALE HAMILTON-VALVES-LTD      FRAYS MILL WKS"
+    "vendorClean": "HALE HAMILTON-VALVES-LTD   FRAYS MILL WKS"
 }

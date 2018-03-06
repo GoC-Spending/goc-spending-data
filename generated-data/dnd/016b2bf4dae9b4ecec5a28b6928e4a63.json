@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-59206",
-    "vendorName": "Bay Construction +  Management Inc.",
+    "vendorName": "Bay Construction + Management Inc.",
     "referenceNumber": "59206",
     "contractDate": "18-6-2015",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "24-3-2016",
-    "originalValue": 2724000,
+    "originalValue": 0,
     "contractValue": 2724000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/016b2bf4dae9b4ecec5a28b6928e4a63.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id169425",
-    "vendorClean": "BAY CONSTRUCTION +  MANAGEMENT"
+    "vendorClean": "BAY CONSTRUCTION + MANAGEMENT"
 }

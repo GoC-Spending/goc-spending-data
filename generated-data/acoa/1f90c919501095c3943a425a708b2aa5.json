@@ -1,9 +1,9 @@
 {
     "uuid": "acoa-CP15646",
-    "vendorName": "Manpower  Services Canada Ltd.",
+    "vendorName": "Manpower Services Canada Ltd.",
     "referenceNumber": "CP15646",
     "contractDate": "2009-05-21",
-    "description": "0813  Temporary Help Services",
+    "description": "0813 Temporary Help Services",
     "extraDescription": "",
     "objectCode": "0813",
     "contractPeriodStart": "2009-05-04",
@@ -11,14 +11,14 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 10936.8,
+    "originalValue": 0,
     "contractValue": 10936.8,
-    "comments": "AMENDMENT   Original Contract Value: $2,734.20",
+    "comments": "AMENDMENT Original Contract Value: $2,734.20",
     "ownerAcronym": "acoa",
     "sourceYear": 2009,
     "sourceQuarter": 1,
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "acoa\/1f90c919501095c3943a425a708b2aa5.html",
     "sourceURL": "http:\/\/www.acoa-apeca.gc.ca\/eng\/Accountability\/ProactiveDisclosure\/Contracts\/Pages\/Details.aspx?cid=1865&rty=2010&rtp=1",
-    "vendorClean": "MANPOWER  SERVICES CANADA"
+    "vendorClean": "MANPOWER SERVICES CANADA"
 }

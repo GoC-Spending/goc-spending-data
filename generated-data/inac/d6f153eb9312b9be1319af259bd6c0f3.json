@@ -1,6 +1,6 @@
 {
     "uuid": "inac-A7148-13-0005",
-    "vendorName": "CROSSMAN  CHRISTINE",
+    "vendorName": "CROSSMAN CHRISTINE",
     "referenceNumber": "A7148-13-0005",
     "contractDate": "6\/25\/2013",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 12204,
+    "originalValue": 0,
     "contractValue": 12204,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/d6f153eb9312b9be1319af259bd6c0f3.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct316-eng.asp",
-    "vendorClean": "CROSSMAN  CHRISTINE"
+    "vendorClean": "CROSSMAN CHRISTINE"
 }

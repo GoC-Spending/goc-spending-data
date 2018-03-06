@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-56576",
-    "vendorName": "Groupe  AllaireGince infrastructures inc",
+    "vendorName": "Groupe AllaireGince infrastructures inc",
     "referenceNumber": "56576",
     "contractDate": "27-6-2014",
     "description": "Construction Work - Civil Eng",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "31-10-2014",
-    "originalValue": 390000,
+    "originalValue": 0,
     "contractValue": 390000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "dnd\/7908d1b4857f4393a56fa7425b49a945.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2014&id=id154310",
-    "vendorClean": "GROUPE  ALLAIREGINCE INFRASTRUCTURES"
+    "vendorClean": "GROUPE ALLAIREGINCE INFRASTRUCTURES"
 }

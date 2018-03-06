@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-116767\/001\/GRK",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-116767\/001\/GRK",
     "contractDate": "25-1-2011",
     "description": "DIESEL ENGINES AND COMPONENTS",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "25-1-2012",
-    "originalValue": 11528,
+    "originalValue": 0,
     "contractValue": 11528,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/9f9b38e2ad10a3a5d466a0000b34be18.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89155",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

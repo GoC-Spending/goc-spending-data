@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 49720,
+    "originalValue": 0,
     "contractValue": 49720,
     "comments": "This contract was competitively sourced. This contract includes one or more amendments.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/9c91c83ca28f51ce6b504d2c242a04c2.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=111",
-    "vendorClean": "POWER ANALYSISORPORATED"
+    "vendorClean": "POWER ANALYSIS"
 }

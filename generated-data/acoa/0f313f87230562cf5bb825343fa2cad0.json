@@ -3,7 +3,7 @@
     "vendorName": "Orangutech Incorporated",
     "referenceNumber": "CP16912",
     "contractDate": "2009-12-01",
-    "description": "0472  Information technology consultants",
+    "description": "0472 Information technology consultants",
     "extraDescription": "",
     "objectCode": "0472",
     "contractPeriodStart": "2009-12-07",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 13025,
+    "originalValue": 0,
     "contractValue": 13025,
     "comments": "",
     "ownerAcronym": "acoa",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "acoa\/0f313f87230562cf5bb825343fa2cad0.html",
     "sourceURL": "http:\/\/www.acoa-apeca.gc.ca\/eng\/Accountability\/ProactiveDisclosure\/Contracts\/Pages\/Details.aspx?cid=1950&rty=2010&rtp=3",
-    "vendorClean": "ORANGUTECHORPORATED"
+    "vendorClean": "ORANGUTECH"
 }

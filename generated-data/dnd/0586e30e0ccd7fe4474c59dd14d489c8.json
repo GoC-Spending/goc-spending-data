@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-61119",
-    "vendorName": "152610 Canada Inc.  o\/a Laurin & Co.",
+    "vendorName": "152610 Canada Inc. o\/a Laurin & Co.",
     "referenceNumber": "61119",
     "contractDate": "3-2-2016",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "9-11-2016",
-    "originalValue": 1416000,
+    "originalValue": 0,
     "contractValue": 1416000,
     "comments": "This item was not reported previously.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/0586e30e0ccd7fe4474c59dd14d489c8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id186958",
-    "vendorClean": "152610 CANADA  O\/A LAURIN & CO"
+    "vendorClean": "152610 CANADA O\/A LAURIN & CO"
 }

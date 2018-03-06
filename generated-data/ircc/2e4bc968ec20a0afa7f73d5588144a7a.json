@@ -1,9 +1,9 @@
 {
     "uuid": "ircc-7077820",
-    "vendorName": "3178935    Canada Inc.",
+    "vendorName": "3178935 Canada Inc.",
     "referenceNumber": "7077820",
     "contractDate": "2010\u00e2\u0080\u009109\u00e2\u0080\u009110",
-    "description": "813 Temporary help    services",
+    "description": "813 Temporary help services",
     "extraDescription": "",
     "objectCode": "0813",
     "contractPeriodStart": "2010-09-10",
@@ -11,14 +11,14 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 81576.12,
+    "originalValue": 0,
     "contractValue": 81576.12,
-    "comments": "This contract    was competitively sourced. This contract is a call-up against a Public Works    and Goverment Services Canada procurement tool. This contract includes one or    more amendments.",
+    "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Goverment Services Canada procurement tool. This contract includes one or more amendments.",
     "ownerAcronym": "ircc",
     "sourceYear": 2011,
     "sourceQuarter": 0,
     "sourceFiscal": "",
     "sourceFilename": "ircc\/2e4bc968ec20a0afa7f73d5588144a7a.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=588&qid=2011-Q1",
-    "vendorClean": "3178935    CANADA"
+    "vendorClean": "3178935  CANADA"
 }

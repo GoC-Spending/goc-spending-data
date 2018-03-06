@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49069",
-    "vendorName": "LVM  Inc. (Boucherville)",
+    "vendorName": "LVM Inc. (Boucherville)",
     "referenceNumber": "49069",
     "contractDate": "13-9-2011",
     "description": "Quality Control Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2013,
     "deliveryDate": "12-9-2013",
-    "originalValue": 39800.5,
+    "originalValue": 0,
     "contractValue": 39800.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/e9fa2725f4e99a64782cf1aa70a118d4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103150",
-    "vendorClean": "LVM  (BOUCHERVILLE)"
+    "vendorClean": "LVM (BOUCHERVILLE)"
 }

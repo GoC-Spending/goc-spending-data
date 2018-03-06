@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49047",
-    "vendorName": "Bugere Inc.  Construction",
+    "vendorName": "Bugere Inc. Construction",
     "referenceNumber": "49047",
     "contractDate": "18-10-2011",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "23-5-2012",
-    "originalValue": 16164.2,
+    "originalValue": 0,
     "contractValue": 16164.2,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/e647cb91152e6024ee8c9b04962e3be1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id116486",
-    "vendorClean": "BUGERE  CONSTRUCTION"
+    "vendorClean": "BUGERE CONSTRUCTION"
 }

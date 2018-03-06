@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-09PETN\/001\/UA",
-    "vendorName": "DYNAMIT NOBEL AG VA M EXPORT  II",
+    "vendorName": "DYNAMIT NOBEL AG VA M EXPORT II",
     "referenceNumber": "W8486-09PETN\/001\/UA",
     "contractDate": "20-11-2009",
     "description": "Demolition Materials",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 10117,
+    "originalValue": 0,
     "contractValue": 10117,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/b23abe16e1c1337d613b5b97594aa665.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id68267",
-    "vendorClean": "DYNAMIT NOBEL AG VA M EXPORT  II"
+    "vendorClean": "DYNAMIT NOBEL AG VA M EXPORT II"
 }

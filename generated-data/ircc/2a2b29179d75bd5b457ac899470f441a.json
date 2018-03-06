@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 19469.9,
+    "originalValue": 0,
     "contractValue": 19469.9,
     "comments": "This contract was sole-sourced",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/2a2b29179d75bd5b457ac899470f441a.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=985&qid=2010-Q4",
-    "vendorClean": "MISHKUMI TECHNOLOGIESORPORATED"
+    "vendorClean": "MISHKUMI TECHNOLOGIES"
 }

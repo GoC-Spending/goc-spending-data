@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0127-07PW98\/001\/EDM",
-    "vendorName": "\"Sourcetec Industries, Inc.                                            \"",
+    "vendorName": "\"Sourcetec Industries, Inc.           \"",
     "referenceNumber": "W0127-07PW98\/001\/EDM",
     "contractDate": "26-2-2008",
     "description": "Motor Vehicle Maintenance and Repair Shop Specialized Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "18-3-2008",
-    "originalValue": 14343,
+    "originalValue": 0,
     "contractValue": 14343,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/37b70bddb0d5b3adf06b9757e31fae0e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38307",
-    "vendorClean": "\"SOURCETEC INDUSTRIES                                            \""
+    "vendorClean": "\"SOURCETEC INDUSTRIES                      \""
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 23352,
+    "originalValue": 0,
     "contractValue": 23352,
     "comments": "THIS CONTRACT WAS SOLE SOURCED. THIS CONTRACT IS A CALL-UP AGAINST A PUBLIC WORKS AND GOVERNMENT SERVICES PROCUREMENT TOOL.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/102834a6d904bb56e9c814cc2b63b443.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91799",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

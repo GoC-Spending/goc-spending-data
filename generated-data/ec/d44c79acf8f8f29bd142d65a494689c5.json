@@ -11,14 +11,14 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 35475,
+    "originalValue": 0,
     "contractValue": 35475,
-    "comments": "Original Amount $23650.00  Amendment to previously disclosed contract.",
+    "comments": "Original Amount $23650.00 Amendment to previously disclosed contract.",
     "ownerAcronym": "ec",
     "sourceYear": 2009,
     "sourceQuarter": 3,
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "ec\/d44c79acf8f8f29bd142d65a494689c5.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=27375&quarter=3&fiscal=2009%2C%202010",
-    "vendorClean": "INTERCEDE COMMUNICATIONORPORATED"
+    "vendorClean": "INTERCEDE COMMUNICATION"
 }

@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "14-12-2007",
-    "originalValue": 38030,
+    "originalValue": 0,
     "contractValue": 38030,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/aaabebb235cba2470f0ef251f771c7ce.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id27191",
-    "vendorClean": "BRAGG COMMUNICATIONSORPORATED"
+    "vendorClean": "BRAGG COMMUNICATIONS"
 }

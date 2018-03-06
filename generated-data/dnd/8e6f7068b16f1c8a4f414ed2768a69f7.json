@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3537-09E010\/001\/CAL",
-    "vendorName": "KAYZAR WAREHOUSE MAINTENANCE  SERVICES",
+    "vendorName": "KAYZAR WAREHOUSE MAINTENANCE SERVICES",
     "referenceNumber": "W3537-09E010\/001\/CAL",
     "contractDate": "3-3-2011",
     "description": "DOORS METAL OVERHEAD, INSTALLATION AND REPAIR",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-9-2011",
-    "originalValue": 15000,
+    "originalValue": 0,
     "contractValue": 15000,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/8e6f7068b16f1c8a4f414ed2768a69f7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91590",
-    "vendorClean": "KAYZAR WAREHOUSE MAINTENANCE  SERVICES"
+    "vendorClean": "KAYZAR WAREHOUSE MAINTENANCE SERVICES"
 }

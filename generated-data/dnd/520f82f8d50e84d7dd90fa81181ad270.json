@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "26-1-2011",
-    "originalValue": 51730,
+    "originalValue": 0,
     "contractValue": 51730,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/520f82f8d50e84d7dd90fa81181ad270.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id79058",
-    "vendorClean": "PHILIP METHERELL ARCHITECTORPORATED"
+    "vendorClean": "PHILIP METHERELL ARCHITECT"
 }

@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "2008-03-31",
-    "originalValue": 21920.91,
+    "originalValue": 0,
     "contractValue": 21920.91,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "ec\/6c27392908bf2a009f39c48623fb31e8.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=19784&quarter=4&fiscal=2007%2C%202008",
-    "vendorClean": "ENVIRONMENTAL MODELLING SYSTEMSORPORATED"
+    "vendorClean": "ENVIRONMENTAL MODELLING SYSTEMS"
 }

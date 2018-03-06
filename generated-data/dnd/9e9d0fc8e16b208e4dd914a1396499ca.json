@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-140487\/001\/BL",
-    "vendorName": "ISRAEL AIRCRAFT INDUSTRIES    RAMTA STRUCTURES & SYS DIV",
+    "vendorName": "ISRAEL AIRCRAFT INDUSTRIES RAMTA STRUCTURES & SYS DIV",
     "referenceNumber": "W8486-140487\/001\/BL",
     "contractDate": "15-7-2014",
     "description": "Vehicular Components, Miscellaneous",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "16-11-2015",
-    "originalValue": 413138,
+    "originalValue": 0,
     "contractValue": 413138,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/9e9d0fc8e16b208e4dd914a1396499ca.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id154759",
-    "vendorClean": "ISRAEL AIRCRAFT INDUSTRIES    RAMTA STRUCTURES & SYS DIV"
+    "vendorClean": "ISRAEL AIRCRAFT INDUSTRIES  RAMTA STRUCTURES & SYS DIV"
 }

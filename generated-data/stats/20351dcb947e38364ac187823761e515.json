@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "August 31, 2006",
-    "originalValue": 24036.48,
+    "originalValue": 0,
     "contractValue": 24036.48,
     "comments": "Modify the TPL Tables software to support one additional Quantile calculation and one Median calculation.",
     "ownerAcronym": "stats",

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0113-101001\/001\/BOR",
-    "vendorName": "BARRIE  HOLIDAY INN",
+    "vendorName": "BARRIE HOLIDAY INN",
     "referenceNumber": "W0113-101001\/001\/BOR",
     "contractDate": "19-4-2010",
     "description": "Hotels, Motels and Commercial Accommodation",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 71814,
+    "originalValue": 0,
     "contractValue": 71814,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/ed41257493aeaffbf79eb09de9694ee2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id74006",
-    "vendorClean": "BARRIE  HOLIDAY INN"
+    "vendorClean": "BARRIE HOLIDAY INN"
 }

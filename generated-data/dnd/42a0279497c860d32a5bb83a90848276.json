@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46698",
-    "vendorName": "MMM GROUP LIMITED  (CALGARY)",
+    "vendorName": "MMM GROUP LIMITED (CALGARY)",
     "referenceNumber": "46698",
     "contractDate": "2-3-2011",
     "description": "ENVIRONMENTAL SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "28-3-2011",
-    "originalValue": 26740,
+    "originalValue": 0,
     "contractValue": 26740,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/42a0279497c860d32a5bb83a90848276.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91477",
-    "vendorClean": "MMM GROUP LIMITED  (CALGARY)"
+    "vendorClean": "MMM GROUP LIMITED (CALGARY)"
 }

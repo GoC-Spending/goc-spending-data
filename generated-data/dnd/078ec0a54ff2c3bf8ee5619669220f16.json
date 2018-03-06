@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "28-2-2011",
-    "originalValue": 12430,
+    "originalValue": 0,
     "contractValue": 12430,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/078ec0a54ff2c3bf8ee5619669220f16.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89077",
-    "vendorClean": "D J MANUFACTURINGORPORATED"
+    "vendorClean": "D J MANUFACTURING"
 }

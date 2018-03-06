@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-CN024Z",
-    "vendorName": "CRONOS CONSULTING  091265",
+    "vendorName": "CRONOS CONSULTING 091265",
     "referenceNumber": "CN024Z",
     "contractDate": "11-3-2005",
-    "description": "R & D PROFESSIONAL AND TECHNICAL SERVICES  (3 CSG)",
+    "description": "R & D PROFESSIONAL AND TECHNICAL SERVICES (3 CSG)",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "11-3-2005",
-    "originalValue": 12422.58,
+    "originalValue": 0,
     "contractValue": 12422.58,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/00b11138059c85e664364a7880af7707.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11304",
-    "vendorClean": "CRONOS CONSULTING  091265"
+    "vendorClean": "CRONOS CONSULTING 091265"
 }

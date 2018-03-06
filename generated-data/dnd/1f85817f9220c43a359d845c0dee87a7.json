@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52460",
-    "vendorName": "Maritime Fence Ltd  (Grand Falls)",
+    "vendorName": "Maritime Fence Ltd (Grand Falls)",
     "referenceNumber": "52460",
     "contractDate": "2-10-2012",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "21-11-2012",
-    "originalValue": 215820,
+    "originalValue": 0,
     "contractValue": 215820,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/1f85817f9220c43a359d845c0dee87a7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id129886",
-    "vendorClean": "MARITIME FENCE  (GRAND FALLS)"
+    "vendorClean": "MARITIME FENCE (GRAND FALLS)"
 }

@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 9000,
+    "originalValue": 0,
     "contractValue": 9000,
     "comments": "Programming Support: Conversion of legacy statistical C++ code to C#",
     "ownerAcronym": "ec",

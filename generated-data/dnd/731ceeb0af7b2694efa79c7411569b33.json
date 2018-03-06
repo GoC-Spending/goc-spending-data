@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 177496,
+    "originalValue": 0,
     "contractValue": 177496,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/731ceeb0af7b2694efa79c7411569b33.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id52465",
-    "vendorClean": "RED SASHORPORATED"
+    "vendorClean": "RED SASH"
 }

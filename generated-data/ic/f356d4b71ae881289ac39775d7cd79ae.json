@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5012859",
-    "vendorName": "CCI  LEADERSHIP",
+    "vendorName": "CCI LEADERSHIP",
     "referenceNumber": "5012859",
     "contractDate": "2004-06-09",
     "description": "Management consulting",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "",
-    "originalValue": 24878,
+    "originalValue": 0,
     "contractValue": 24878,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "ic\/f356d4b71ae881289ac39775d7cd79ae.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=376",
-    "vendorClean": "CCI  LEADERSHIP"
+    "vendorClean": "CCI LEADERSHIP"
 }

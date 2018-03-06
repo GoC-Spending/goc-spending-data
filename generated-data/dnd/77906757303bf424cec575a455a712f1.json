@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-055657\/001\/HN",
-    "vendorName": "Jerome & Francis  Co. Ltd",
+    "vendorName": "Jerome & Francis Co. Ltd",
     "referenceNumber": "W8486-055657\/001\/HN",
     "contractDate": "9-3-2005",
     "description": "Antennas, Waveguides and Related Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "8-7-2005",
-    "originalValue": 91201,
+    "originalValue": 0,
     "contractValue": 91201,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/77906757303bf424cec575a455a712f1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11115",
-    "vendorClean": "JEROME & FRANCIS  CO"
+    "vendorClean": "JEROME & FRANCIS CO"
 }

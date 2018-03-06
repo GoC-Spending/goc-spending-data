@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-096918\/006\/BLB",
-    "vendorName": "JOWA     FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA  FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "W8486-096918\/006\/BLB",
     "contractDate": "19-10-2009",
     "description": "Vehicular Furniture and Accessories",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-12-2009",
-    "originalValue": 35528,
+    "originalValue": 0,
     "contractValue": 35528,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/2cf4169b04a94eebc1d1264a8e1ce496.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67077",
-    "vendorClean": "JOWA     FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA   FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

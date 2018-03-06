@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0046-06Q902\/001\/KIN",
-    "vendorName": "\"Tripwire, Inc                                                         \"",
+    "vendorName": "\"Tripwire, Inc               \"",
     "referenceNumber": "W0046-06Q902\/001\/KIN",
     "contractDate": "11-3-2008",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 10710,
+    "originalValue": 0,
     "contractValue": 10710,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/c5924e4051874180586489df7e9aede7.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id37908",
-    "vendorClean": "\"TRIPWIRE                                                         \""
+    "vendorClean": "\"TRIPWIRE                             \""
 }

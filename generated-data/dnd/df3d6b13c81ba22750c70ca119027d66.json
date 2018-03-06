@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7701-073767\/001\/QCV",
-    "vendorName": "\"Atlantis Cyberspace, Inc.                                             \"",
+    "vendorName": "\"Atlantis Cyberspace, Inc.            \"",
     "referenceNumber": "W7701-073767\/001\/QCV",
     "contractDate": "15-2-2008",
     "description": "Military (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 34750,
+    "originalValue": 0,
     "contractValue": 34750,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/df3d6b13c81ba22750c70ca119027d66.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39387",
-    "vendorClean": "\"ATLANTIS CYBERSPACE                                             \""
+    "vendorClean": "\"ATLANTIS CYBERSPACE                       \""
 }

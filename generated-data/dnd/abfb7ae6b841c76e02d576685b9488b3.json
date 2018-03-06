@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8475-00AC01\/008\/BB",
-    "vendorName": "ESSEX INDUSTRIES INC.  MANUFACTURING DIV.",
+    "vendorName": "ESSEX INDUSTRIES INC. MANUFACTURING DIV.",
     "referenceNumber": "W8475-00AC01\/008\/BB",
     "contractDate": "5-5-2004",
     "description": "Miscellaneous Aircraft Accessories and Components",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "31-12-2004",
-    "originalValue": 48600,
+    "originalValue": 0,
     "contractValue": 48600,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/abfb7ae6b841c76e02d576685b9488b3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3175",
-    "vendorClean": "ESSEX INDUSTRIES  MANUFACTURING DIV"
+    "vendorClean": "ESSEX INDUSTRIES MANUFACTURING DIV"
 }

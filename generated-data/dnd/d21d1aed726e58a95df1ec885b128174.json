@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8476-08EP28\/010\/GRK",
-    "vendorName": "MOTOREN UND TURBINEN UNION    FRIEDRICHSHAFEN GMBH",
+    "vendorName": "MOTOREN UND TURBINEN UNION FRIEDRICHSHAFEN GMBH",
     "referenceNumber": "W8476-08EP28\/010\/GRK",
     "contractDate": "9-8-2007",
     "description": "Power and Hand Pumps",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "9-8-2007",
-    "originalValue": 229680,
+    "originalValue": 0,
     "contractValue": 229680,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/d21d1aed726e58a95df1ec885b128174.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id29221",
-    "vendorClean": "MOTOREN UND TURBINEN UNION    FRIEDRICHSHAFEN GMBH"
+    "vendorClean": "MOTOREN UND TURBINEN UNION  FRIEDRICHSHAFEN GMBH"
 }

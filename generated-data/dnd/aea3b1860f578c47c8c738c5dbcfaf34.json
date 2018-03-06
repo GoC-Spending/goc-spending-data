@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3078-10F129\/001\/HAL",
-    "vendorName": "BUILDING INDUSTRY CONSULTING  SERVICE INTERNATIONAL INC",
+    "vendorName": "BUILDING INDUSTRY CONSULTING SERVICE INTERNATIONAL INC",
     "referenceNumber": "W3078-10F129\/001\/HAL",
     "contractDate": "5-3-2010",
     "description": "Technical \/ Vocational Training",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "18-4-2010",
-    "originalValue": 19705,
+    "originalValue": 0,
     "contractValue": 19705,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/aea3b1860f578c47c8c738c5dbcfaf34.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id71637",
-    "vendorClean": "BUILDING INDUSTRY CONSULTING  SERVICE INTERNATIONAL"
+    "vendorClean": "BUILDING INDUSTRY CONSULTING SERVICE INTERNATIONAL"
 }

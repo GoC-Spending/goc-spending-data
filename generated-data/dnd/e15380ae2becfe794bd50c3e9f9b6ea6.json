@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8474-08MA37\/001\/QE",
-    "vendorName": "\"MYKOTRONX, INC.                                                       \"",
+    "vendorName": "\"MYKOTRONX, INC.              \"",
     "referenceNumber": "W8474-08MA37\/001\/QE",
     "contractDate": "10-3-2008",
     "description": "Other Cryptologic Equipment and Components",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 25936,
+    "originalValue": 0,
     "contractValue": 25936,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/e15380ae2becfe794bd50c3e9f9b6ea6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39182",
-    "vendorClean": "\"MYKOTRONX                                                       \""
+    "vendorClean": "\"MYKOTRONX                            \""
 }

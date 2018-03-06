@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-084146\/001\/GRK",
-    "vendorName": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A",
+    "vendorName": "FABRIQUE NATIONAL NOUVELLE HERSTAL FNNH S A",
     "referenceNumber": "W8482-084146\/001\/GRK",
     "contractDate": "3-12-2007",
     "description": "Nails, Keys and Pins",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "3-12-2007",
-    "originalValue": 13359,
+    "originalValue": 0,
     "contractValue": 13359,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "dnd\/31c333cb76801b30a22966563166a547.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2007&id=id28389",
-    "vendorClean": "FABRIQUE NATIONAL NOUVELLE    HERSTAL FNNH S A"
+    "vendorClean": "FABRIQUE NATIONAL NOUVELLE  HERSTAL FNNH S A"
 }

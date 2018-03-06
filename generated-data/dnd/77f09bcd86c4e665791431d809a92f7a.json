@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "16-5-2016",
-    "originalValue": 45871,
+    "originalValue": 0,
     "contractValue": 45871,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/77f09bcd86c4e665791431d809a92f7a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id179203",
-    "vendorClean": "INSTRUMENTSORPORATED"
+    "vendorClean": "INSTRUMENTS"
 }

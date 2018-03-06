@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45202352",
-    "vendorName": "ARTOPI A  ADAPTIVE  DISPLAY",
+    "vendorName": "ARTOPI A ADAPTIVE DISPLAY",
     "referenceNumber": "45202352",
     "contractDate": "2007\/03\/30",
     "description": "499 Other professional services not otherwise specified",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/08\/31",
-    "originalValue": 10640.28,
+    "originalValue": 0,
     "contractValue": 10640.28,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "pc\/c7a28a94f58bae667ee42897d738c18b.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2006-2007&oqQUARTER=4&oqCONTRACT_ID=25392",
-    "vendorClean": "ARTOPI A  ADAPTIVE  DISPLAY"
+    "vendorClean": "ARTOPI A ADAPTIVE DISPLAY"
 }

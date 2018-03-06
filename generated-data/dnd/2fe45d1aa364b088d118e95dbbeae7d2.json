@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "30-10-2013",
-    "originalValue": 13450,
+    "originalValue": 0,
     "contractValue": 13450,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "dnd\/2fe45d1aa364b088d118e95dbbeae7d2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2013&id=id143473",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

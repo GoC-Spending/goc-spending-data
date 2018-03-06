@@ -11,14 +11,14 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 72759,
+    "originalValue": 0,
     "contractValue": 72759,
-    "comments": "Original Amount $35342.50  Amendment to previously disclosed contract.",
+    "comments": "Original Amount $35342.50 Amendment to previously disclosed contract.",
     "ownerAcronym": "ec",
     "sourceYear": 2013,
     "sourceQuarter": 1,
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "ec\/2f02fa29efaac81caa87c07ddd61f2e7.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=47282&quarter=1&fiscal=2013%2C%202014",
-    "vendorClean": "WEATHER INNOVATIONSORPORATED"
+    "vendorClean": "WEATHER INNOVATIONS"
 }

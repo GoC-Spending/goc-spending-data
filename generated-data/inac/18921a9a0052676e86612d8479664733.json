@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0132",
-    "vendorName": "DAVIS  DR CLINTON J",
+    "vendorName": "DAVIS DR CLINTON J",
     "referenceNumber": "20-13-0132",
     "contractDate": "12\/12\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24800,
+    "originalValue": 0,
     "contractValue": 24800,
     "comments": "Psycho-Educational Assessments\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/18921a9a0052676e86612d8479664733.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct207-eng.asp",
-    "vendorClean": "DAVIS  DR CLINTON J"
+    "vendorClean": "DAVIS DR CLINTON J"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58579",
-    "vendorName": "UTC Fire & Security Canada  (Moncton)",
+    "vendorName": "UTC Fire & Security Canada (Moncton)",
     "referenceNumber": "58579",
     "contractDate": "19-3-2015",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "7-6-2015",
-    "originalValue": 11687,
+    "originalValue": 0,
     "contractValue": 11687,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/7325d504195061687abc7760371f9aed.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id165285",
-    "vendorClean": "UTC FIRE & SECURITY CANADA  (MONCTON)"
+    "vendorClean": "UTC FIRE & SECURITY CANADA (MONCTON)"
 }

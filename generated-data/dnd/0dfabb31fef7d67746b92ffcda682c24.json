@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50874",
-    "vendorName": "D.F.S. Inc.   (Montreal)",
+    "vendorName": "D.F.S. Inc. (Montreal)",
     "referenceNumber": "50874",
     "contractDate": "2-10-2012",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "27-2-2013",
-    "originalValue": 71006.2,
+    "originalValue": 0,
     "contractValue": 71006.2,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/0dfabb31fef7d67746b92ffcda682c24.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id129884",
-    "vendorClean": "DFS   (MONTREAL)"
+    "vendorClean": "DFS  (MONTREAL)"
 }

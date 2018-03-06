@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "17-6-2016",
-    "originalValue": 25074,
+    "originalValue": 0,
     "contractValue": 25074,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Services and Procurement Canada procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/bc8b73694194cf2a1caa0de8ffde7de6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id181991",
-    "vendorClean": "ATLANTIS MERCANTILEORPORATED KORIE MANAGEMENT"
+    "vendorClean": "ATLANTIS MERCANTILE KORIE MANAGEMENT"
 }

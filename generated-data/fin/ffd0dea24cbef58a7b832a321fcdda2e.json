@@ -1,9 +1,9 @@
 {
     "uuid": "fin-8028376",
-    "vendorName": "4 Office  Automation Ltd.",
+    "vendorName": "4 Office Automation Ltd.",
     "referenceNumber": "8028376",
     "contractDate": "2014-07-31",
-    "description": "533  RENTAL OF MACHINERY OFFICE FURNITURE AND FIXTURES",
+    "description": "533 RENTAL OF MACHINERY OFFICE FURNITURE AND FIXTURES",
     "extraDescription": "",
     "objectCode": "0533",
     "contractPeriodStart": "2014-07-31",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "fin\/ffd0dea24cbef58a7b832a321fcdda2e.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=8028376&q=3&yr=2014",
-    "vendorClean": "4 OFFICE  AUTOMATION"
+    "vendorClean": "4 OFFICE AUTOMATION"
 }

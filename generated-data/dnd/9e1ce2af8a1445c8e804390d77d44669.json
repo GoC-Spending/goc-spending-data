@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092923\/004\/GRK",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-092923\/004\/GRK",
     "contractDate": "20-10-2008",
     "description": "Fittings for Rope, Cable and Chain",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "20-10-2009",
-    "originalValue": 16756,
+    "originalValue": 0,
     "contractValue": 16756,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/9e1ce2af8a1445c8e804390d77d44669.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id51820",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

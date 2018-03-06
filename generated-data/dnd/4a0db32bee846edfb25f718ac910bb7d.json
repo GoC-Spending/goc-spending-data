@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "30-4-2005",
-    "originalValue": 115000,
+    "originalValue": 0,
     "contractValue": 115000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/4a0db32bee846edfb25f718ac910bb7d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3083",
-    "vendorClean": "ANTRAC ATLANTICORPORATED"
+    "vendorClean": "ANTRAC ATLANTIC"
 }

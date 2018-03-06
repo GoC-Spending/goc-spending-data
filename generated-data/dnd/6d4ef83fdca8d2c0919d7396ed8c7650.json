@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58021",
-    "vendorName": "Honeywell Limitee  (Montreal)",
+    "vendorName": "Honeywell Limitee (Montreal)",
     "referenceNumber": "58021",
     "contractDate": "22-4-2015",
     "description": "Installation Work",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "15-7-2015",
-    "originalValue": 109980,
+    "originalValue": 0,
     "contractValue": 109980,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/6d4ef83fdca8d2c0919d7396ed8c7650.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id167528",
-    "vendorClean": "HONEYWELL LIMITEE  (MONTREAL)"
+    "vendorClean": "HONEYWELL LIMITEE (MONTREAL)"
 }

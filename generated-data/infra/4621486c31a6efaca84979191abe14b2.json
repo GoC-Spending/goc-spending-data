@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 24012.5,
+    "originalValue": 0,
     "contractValue": 24012.5,
     "comments": "Internal Control over Financial Reporting Framework. This contract was non-competitive (under $25,000).",
     "ownerAcronym": "infra",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "infra\/4621486c31a6efaca84979191abe14b2.html",
     "sourceURL": "\/pd-dp\/pdc-dpm\/reports-rapports-eng.html?year=2016&quarter=3&contractId=1236",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

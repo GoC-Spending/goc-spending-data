@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "2015\/11\/27",
-    "originalValue": 16527.66,
+    "originalValue": 0,
     "contractValue": 16527.66,
     "comments": "Content Migration Support",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "pc\/6b525d9ecce61b5047db8f854e08b7b4.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2015-2016&oqQUARTER=3&oqCONTRACT_ID=48313",
-    "vendorClean": "JUMPING ELEPHANTSORPORATED"
+    "vendorClean": "JUMPING ELEPHANTS"
 }

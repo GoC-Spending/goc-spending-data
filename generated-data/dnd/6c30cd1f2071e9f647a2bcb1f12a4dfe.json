@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "20-1-2008",
-    "originalValue": 63270,
+    "originalValue": 0,
     "contractValue": 63270,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/6c30cd1f2071e9f647a2bcb1f12a4dfe.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id25853",
-    "vendorClean": "SG SOFTWARE SOLUTIONSORPORATED"
+    "vendorClean": "SG SOFTWARE SOLUTIONS"
 }

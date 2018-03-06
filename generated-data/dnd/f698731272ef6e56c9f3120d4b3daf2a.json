@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W010X-08P461\/001\/HAL",
-    "vendorName": "\"JCS & ASSOCIATES, INC.                                                \"",
+    "vendorName": "\"JCS & ASSOCIATES, INC.            \"",
     "referenceNumber": "W010X-08P461\/001\/HAL",
     "contractDate": "17-3-2008",
     "description": "Technical\/Vocational Training",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "28-3-2008",
-    "originalValue": 18000,
+    "originalValue": 0,
     "contractValue": 18000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/f698731272ef6e56c9f3120d4b3daf2a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38614",
-    "vendorClean": "\"JCS & ASSOCIATES                                                \""
+    "vendorClean": "\"JCS & ASSOCIATES                        \""
 }

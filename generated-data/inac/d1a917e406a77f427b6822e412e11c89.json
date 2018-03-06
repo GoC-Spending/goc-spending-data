@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/40",
-    "vendorName": "WOLFHARD  ERIC",
+    "vendorName": "WOLFHARD ERIC",
     "referenceNumber": "09-12-6001\/40",
     "contractDate": "9\/18\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 10839,
+    "originalValue": 0,
     "contractValue": 10839,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/d1a917e406a77f427b6822e412e11c89.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct218-eng.asp",
-    "vendorClean": "WOLFHARD  ERIC"
+    "vendorClean": "WOLFHARD ERIC"
 }

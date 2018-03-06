@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-048563\/001\/PR",
-    "vendorName": "The Ontario Glove Manufacturing Company,  Limited",
+    "vendorName": "The Ontario Glove Manufacturing Company, Limited",
     "referenceNumber": "W8486-048563\/001\/PR",
     "contractDate": "17-5-2004",
     "description": "Clothing, Special Purpose",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "31-8-2004",
-    "originalValue": 35792,
+    "originalValue": 0,
     "contractValue": 35792,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/d48ba81f53d1e9d30946fa7e352366b8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3333",
-    "vendorClean": "THE ONTARIO GLOVE MANUFACTURING COMPANY  LIMITED"
+    "vendorClean": "THE ONTARIO GLOVE MANUFACTURING COMPANY LIMITED"
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-12-2011",
-    "originalValue": 120130,
+    "originalValue": 0,
     "contractValue": 120130,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/0208f3984053f8aa06869b06d20c21e9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id105009",
-    "vendorClean": "ALL WEIGH SYSTEMSORPORATED"
+    "vendorClean": "ALL WEIGH SYSTEMS"
 }

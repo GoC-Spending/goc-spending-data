@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5014204",
-    "vendorName": "COLLINS  MANAGEMENT CONSULTING &",
+    "vendorName": "COLLINS MANAGEMENT CONSULTING &",
     "referenceNumber": "5014204",
     "contractDate": "2005-01-06",
     "description": "Communications Research Services",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "",
-    "originalValue": 24050,
+    "originalValue": 0,
     "contractValue": 24050,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ic\/521f9da28af3047845cd1b12550ec460.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=2113",
-    "vendorClean": "COLLINS  MANAGEMENT CONSULTING &"
+    "vendorClean": "COLLINS MANAGEMENT CONSULTING &"
 }

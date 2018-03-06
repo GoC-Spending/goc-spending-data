@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "28-2-2013",
-    "originalValue": 36039,
+    "originalValue": 0,
     "contractValue": 36039,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/3271aff23f5b9f8ca66ef22365efd6f6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id129772",
-    "vendorClean": "MARYLAND AEROSPACEORPORATED"
+    "vendorClean": "MARYLAND AEROSPACE"
 }

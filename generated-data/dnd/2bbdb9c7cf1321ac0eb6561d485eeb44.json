@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8495-06BA01\/001\/SSC",
-    "vendorName": "LOCKHEED MARTIN  AERONAUTICS COMPANY",
+    "vendorName": "LOCKHEED MARTIN AERONAUTICS COMPANY",
     "referenceNumber": "W8495-06BA01\/001\/SSC",
     "contractDate": "21-2-2012",
     "description": "Airframe Structural Components",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "31-12-2014",
-    "originalValue": 1000000,
+    "originalValue": 0,
     "contractValue": 1000000,
     "comments": "This item contains one or more amendments.This contract is a result of an advance contract award notice.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/2bbdb9c7cf1321ac0eb6561d485eeb44.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113329",
-    "vendorClean": "LOCKHEED MARTIN  AERONAUTICS COMPANY"
+    "vendorClean": "LOCKHEED MARTIN AERONAUTICS COMPANY"
 }

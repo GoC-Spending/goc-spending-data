@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51203",
-    "vendorName": "Z l A l F l M Group  (Architects in Join",
+    "vendorName": "Z l A l F l M Group (Architects in Join",
     "referenceNumber": "51203",
     "contractDate": "24-10-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "13-11-2013",
-    "originalValue": 404135,
+    "originalValue": 0,
     "contractValue": 404135,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/a131d6848f25caf9f3cf096b0be54b8c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id130001",
-    "vendorClean": "Z L A L F L M GROUP  (ARCHITECTS IN JOIN"
+    "vendorClean": "Z L A L F L M GROUP (ARCHITECTS IN JOIN"
 }

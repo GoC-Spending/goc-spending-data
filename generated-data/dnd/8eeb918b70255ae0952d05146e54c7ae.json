@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W010X-08N348\/001\/HAL",
-    "vendorName": "\"Valley Foods, Inc.                                                    \"",
+    "vendorName": "\"Valley Foods, Inc.             \"",
     "referenceNumber": "W010X-08N348\/001\/HAL",
     "contractDate": "1-2-2008",
-    "description": "\"Groceries, Miscellaneous                                        \"",
+    "description": "\"Groceries, Miscellaneous          \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 52167,
+    "originalValue": 0,
     "contractValue": 52167,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/8eeb918b70255ae0952d05146e54c7ae.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39629",
-    "vendorClean": "\"VALLEY FOODS                                                    \""
+    "vendorClean": "\"VALLEY FOODS                          \""
 }

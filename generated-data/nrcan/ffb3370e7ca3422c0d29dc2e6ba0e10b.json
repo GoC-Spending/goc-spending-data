@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000544703",
-    "vendorName": "MCADOO  FLOW SYSTEMS LTD",
+    "vendorName": "MCADOO FLOW SYSTEMS LTD",
     "referenceNumber": "3000544703",
     "contractDate": "2014-03-06",
     "description": "Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24979.5,
+    "originalValue": 0,
     "contractValue": 24979.5,
     "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "nrcan\/ffb3370e7ca3422c0d29dc2e6ba0e10b.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=04&id=36217",
-    "vendorClean": "MCADOO  FLOW SYSTEMS"
+    "vendorClean": "MCADOO FLOW SYSTEMS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3380-15-K021-1",
-    "vendorName": "Sports aux Puces St-Jean 2417-1487 QuA(C)bec Inc. 532, boul. du SA(C)minaire  Nord",
+    "vendorName": "Sports aux Puces St-Jean 2417-1487 QuA(C)bec Inc. 532, boul. du SA(C)minaire Nord",
     "referenceNumber": "W3380-15-K021-1",
     "contractDate": "2-3-2016",
     "description": "Athletic and Sporting Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-5-2016",
-    "originalValue": 11187.06,
+    "originalValue": 0,
     "contractValue": 11187.06,
     "comments": "This item was not reported previously. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/b4e452dbe2276e1b211e295d2caa3366.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id187392",
-    "vendorClean": "SPORTS AUX PUCES ST-JEAN 2417-1487 QUA(C)BEC 532 BOUL DU SA(C)MINAIRE  NORD"
+    "vendorClean": "SPORTS AUX PUCES ST-JEAN 2417-1487 QUA(C)BEC 532 BOUL DU SA(C)MINAIRE NORD"
 }

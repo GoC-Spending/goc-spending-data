@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "2013\/08\/17",
-    "originalValue": 48477,
+    "originalValue": 0,
     "contractValue": 48477,
     "comments": "Longliner Boat Charter 2013",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "pc\/c4797ab2e6e98861a0fb3bab0c87841e.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=2&oqCONTRACT_ID=42121",
-    "vendorClean": "CJWEBBORPORATED"
+    "vendorClean": "CJWEBB"
 }

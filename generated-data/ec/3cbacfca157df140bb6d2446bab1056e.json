@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 22000,
+    "originalValue": 0,
     "contractValue": 22000,
     "comments": "Developing a data management and data sharing culture",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "ec\/3cbacfca157df140bb6d2446bab1056e.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=49822&quarter=3&fiscal=2013%2C%202014",
-    "vendorClean": "ES TUNIS AND ASSOCIATESORPORATED"
+    "vendorClean": "ES TUNIS AND ASSOCIATES"
 }

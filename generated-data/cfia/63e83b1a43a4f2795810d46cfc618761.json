@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000489087",
-    "vendorName": "INTEGRA  NETWORKS CORPORATION",
+    "vendorName": "INTEGRA NETWORKS CORPORATION",
     "referenceNumber": "3000489087",
     "contractDate": "2012-12-17",
-    "description": "Informatics Services                                                                                                                                                                                                                            472 - Information Technology Consultants - $85,349",
+    "description": "Informatics Services                                                       472 - Information Technology Consultants - $85,349",
     "extraDescription": "",
     "objectCode": "0472",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 58150,
+    "originalValue": 0,
     "contractValue": 58150,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "cfia\/63e83b1a43a4f2795810d46cfc618761.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=3&contraID=11869&yid=9",
-    "vendorClean": "INTEGRA  NETWORKS CORPORATION"
+    "vendorClean": "INTEGRA NETWORKS CORPORATION"
 }

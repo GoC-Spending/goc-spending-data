@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4500997387",
-    "vendorName": "MACKINNON  & OLDING LIMITED",
+    "vendorName": "MACKINNON & OLDING LIMITED",
     "referenceNumber": "4500997387",
     "contractDate": "18-12-2012",
     "description": "Ship and Boat Propulsion Components",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "25-1-2013",
-    "originalValue": 29670,
+    "originalValue": 0,
     "contractValue": 29670,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/6cf203c6670394f44a36c4bfe367b61d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id128310",
-    "vendorClean": "MACKINNON  & OLDING LIMITED"
+    "vendorClean": "MACKINNON & OLDING LIMITED"
 }

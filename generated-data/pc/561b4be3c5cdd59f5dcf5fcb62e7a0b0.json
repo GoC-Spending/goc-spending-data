@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45158631",
-    "vendorName": "WINNING  EDGE MANAGEMENT INC.",
+    "vendorName": "WINNING EDGE MANAGEMENT INC.",
     "referenceNumber": "45158631",
     "contractDate": "2010\/01\/20",
     "description": "491 Management consulting , except other depts or prog",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "2011\/03\/31",
-    "originalValue": 75508.79,
+    "originalValue": 0,
     "contractValue": 75508.79,
     "comments": "CONTRACT 5P420-05-5020.",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/561b4be3c5cdd59f5dcf5fcb62e7a0b0.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=34040",
-    "vendorClean": "WINNING  EDGE MANAGEMENT"
+    "vendorClean": "WINNING EDGE MANAGEMENT"
 }

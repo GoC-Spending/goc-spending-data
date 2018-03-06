@@ -1,6 +1,6 @@
 {
     "uuid": "pc-2009109900",
-    "vendorName": "CHRYSLER  CANADA INC",
+    "vendorName": "CHRYSLER CANADA INC",
     "referenceNumber": "2009109900",
     "contractDate": "2010\/07\/12",
     "description": "1261 Road motor vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/07\/12",
-    "originalValue": 20695.71,
+    "originalValue": 0,
     "contractValue": 20695.71,
     "comments": "DODGE RAM 1500",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "pc\/89e57ad9d8da69de5ba3ff93ff35fdd1.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=2&oqCONTRACT_ID=35131",
-    "vendorClean": "CHRYSLER  CANADA"
+    "vendorClean": "CHRYSLER CANADA"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "cfia-3000455888",
-    "vendorName": "MARIE-PIERRE ET  ALAIN VALOGGIA",
+    "vendorName": "MARIE-PIERRE ET ALAIN VALOGGIA",
     "referenceNumber": "3000455888",
     "contractDate": "2011-10-26",
     "description": "Training and Educational Services 0446 - Training Consultants",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 18847.5,
+    "originalValue": 0,
     "contractValue": 18847.5,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "cfia\/913c93286f9a6600e7a55aeffd3c95a0.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2011-2012&q=3&contraID=11079&yid=8",
-    "vendorClean": "MARIE-PIERRE ET  ALAIN VALOGGIA"
+    "vendorClean": "MARIE-PIERRE ET ALAIN VALOGGIA"
 }

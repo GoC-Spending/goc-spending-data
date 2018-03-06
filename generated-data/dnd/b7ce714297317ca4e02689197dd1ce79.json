@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "22-8-2012",
-    "originalValue": 90000,
+    "originalValue": 0,
     "contractValue": 90000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/b7ce714297317ca4e02689197dd1ce79.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103011",
-    "vendorClean": "OSHTECHORPORATED CONSULTANT"
+    "vendorClean": "OSHTECH CONSULTANT"
 }

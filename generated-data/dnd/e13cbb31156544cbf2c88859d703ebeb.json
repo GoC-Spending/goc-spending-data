@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52074",
-    "vendorName": "Mission - HGE inc.    (Quebec)",
+    "vendorName": "Mission - HGE inc. (Quebec)",
     "referenceNumber": "52074",
     "contractDate": "16-8-2012",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "16-8-2013",
-    "originalValue": 29229.2,
+    "originalValue": 0,
     "contractValue": 29229.2,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/e13cbb31156544cbf2c88859d703ebeb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123908",
-    "vendorClean": "MISSION HGE    (QUEBEC)"
+    "vendorClean": "MISSION HGE  (QUEBEC)"
 }

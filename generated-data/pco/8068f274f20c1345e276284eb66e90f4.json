@@ -1,9 +1,9 @@
 {
     "uuid": "pco-3503526097",
-    "vendorName": "ROUBINI GLOBAL ECONOMICS,  LLC",
+    "vendorName": "ROUBINI GLOBAL ECONOMICS, LLC",
     "referenceNumber": "3503526097",
     "contractDate": "2013-01-03",
-    "description": "0231                  Data Communications Services (includes Analog and\/or Digital data communication services)",
+    "description": "0231     Data Communications Services (includes Analog and\/or Digital data communication services)",
     "extraDescription": "",
     "objectCode": "0231",
     "contractPeriodStart": "2013-01-15",
@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 14799,
     "contractValue": 14799,
-    "comments": "This contract was issued by Public Works and Government Services Canada.  This contract was sole-sourced.",
+    "comments": "This contract was issued by Public Works and Government Services Canada. This contract was sole-sourced.",
     "ownerAcronym": "pco",
     "sourceYear": 2012,
     "sourceQuarter": 4,
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "pco\/8068f274f20c1345e276284eb66e90f4.html",
     "sourceURL": "http:\/\/www.pco-bcp.gc.ca\/dc\/Contracts_Contract_Details.asp?lang=eng&uniqueID=21528&quarter=20124",
-    "vendorClean": "ROUBINI GLOBAL ECONOMICS  LLC"
+    "vendorClean": "ROUBINI GLOBAL ECONOMICS LLC"
 }

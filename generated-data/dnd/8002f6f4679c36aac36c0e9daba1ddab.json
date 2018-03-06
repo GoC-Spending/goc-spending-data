@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-3-2016",
-    "originalValue": 23730,
+    "originalValue": 0,
     "contractValue": 23730,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/8002f6f4679c36aac36c0e9daba1ddab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id180480",
-    "vendorClean": "JOINT VENTURESORPORATED"
+    "vendorClean": "JOINT VENTURES"
 }

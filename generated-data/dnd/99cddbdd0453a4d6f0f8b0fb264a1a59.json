@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 2794603,
+    "originalValue": 0,
     "contractValue": 2794603,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/99cddbdd0453a4d6f0f8b0fb264a1a59.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id69295",
-    "vendorClean": "MEAL KIT SUPPLY CANADAORPORATED"
+    "vendorClean": "MEAL KIT SUPPLY CANADA"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0077",
-    "vendorName": "MACKENZIE  WILLIAM H.",
+    "vendorName": "MACKENZIE WILLIAM H.",
     "referenceNumber": "20-13-0077",
     "contractDate": "6\/26\/2013",
     "description": "0431 - SCIENTIFIC CONSULTANTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 10500,
+    "originalValue": 0,
     "contractValue": 10500,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/b753b66e679af03a96846628bcd5b219.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct321-eng.asp",
-    "vendorClean": "MACKENZIE  WILLIAM H"
+    "vendorClean": "MACKENZIE WILLIAM H"
 }

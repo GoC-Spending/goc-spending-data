@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 24980,
+    "originalValue": 0,
     "contractValue": 24980,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "ic\/61d3c783d99c77b35a981abaf73e1c1a.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=7575",
-    "vendorClean": "4187857 CANADAORPORATED"
+    "vendorClean": "4187857 CANADA"
 }

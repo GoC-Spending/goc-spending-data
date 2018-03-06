@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-115317\/001\/GRK",
-    "vendorName": "HALE HAMILTON-VALVES-LTD      FRAYS MILL WKS",
+    "vendorName": "HALE HAMILTON-VALVES-LTD  FRAYS MILL WKS",
     "referenceNumber": "W8482-115317\/001\/GRK",
     "contractDate": "11-10-2010",
     "description": "VALVES, POWERED",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "11-10-2011",
-    "originalValue": 131606,
+    "originalValue": 0,
     "contractValue": 131606,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/9a25aa282148f4f98253c1562f618b42.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id84726",
-    "vendorClean": "HALE HAMILTON-VALVES-LTD      FRAYS MILL WKS"
+    "vendorClean": "HALE HAMILTON-VALVES-LTD   FRAYS MILL WKS"
 }

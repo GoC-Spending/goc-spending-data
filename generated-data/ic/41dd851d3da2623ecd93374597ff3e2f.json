@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "",
-    "originalValue": 16050,
+    "originalValue": 0,
     "contractValue": 16050,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "ic\/41dd851d3da2623ecd93374597ff3e2f.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=2021",
-    "vendorClean": "NIOBE CONSULTINGORPORATED"
+    "vendorClean": "NIOBE CONSULTING"
 }

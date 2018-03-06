@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-056871\/001\/BY",
-    "vendorName": "AAR MANUFACTURING INC.  AAR ADVANCED STRUCTURES",
+    "vendorName": "AAR MANUFACTURING INC. AAR ADVANCED STRUCTURES",
     "referenceNumber": "W8485-056871\/001\/BY",
     "contractDate": "14-6-2004",
     "description": "Parachutes, Aerial Pick-Up Delivery, Recovery Systems, and Cargo",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "6-12-2004",
-    "originalValue": 45975,
+    "originalValue": 0,
     "contractValue": 45975,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/075986dedd3b27adedb5d33449f81674.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3677",
-    "vendorClean": "AAR MANUFACTURING  AAR ADVANCED STRUCTURES"
+    "vendorClean": "AAR MANUFACTURING AAR ADVANCED STRUCTURES"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49287",
-    "vendorName": "Genivar Inc.  (Longuiel)",
+    "vendorName": "Genivar Inc. (Longuiel)",
     "referenceNumber": "49287",
     "contractDate": "12-12-2011",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "26-3-2012",
-    "originalValue": 54728.5,
+    "originalValue": 0,
     "contractValue": 54728.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/b55d533705be8f2c4e035e4c3698d0bf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106425",
-    "vendorClean": "GENIVAR  (LONGUIEL)"
+    "vendorClean": "GENIVAR (LONGUIEL)"
 }

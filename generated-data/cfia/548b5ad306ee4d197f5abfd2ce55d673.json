@@ -1,6 +1,6 @@
 {
     "uuid": "cfia-3000521979",
-    "vendorName": "STEELCASE  CANADA LTD.",
+    "vendorName": "STEELCASE CANADA LTD.",
     "referenceNumber": "3000521979",
     "contractDate": "2013-06-27",
     "description": "Acquisition of Office Equipment and Furniture Including Parts - 1231 Office Furniture and Furnishings, Including Parts",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 103253.44,
+    "originalValue": 0,
     "contractValue": 103253.44,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.A?",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "cfia\/548b5ad306ee4d197f5abfd2ce55d673.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=1&contraID=13199&yid=10",
-    "vendorClean": "STEELCASE  CANADA"
+    "vendorClean": "STEELCASE CANADA"
 }

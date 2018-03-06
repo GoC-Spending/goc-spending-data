@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-10-2005",
-    "originalValue": 45000,
+    "originalValue": 0,
     "contractValue": 45000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/e9efa1a1db3423d1e534f923223ef789.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id11827",
-    "vendorClean": "MATRIX CONSULTINGORPORATED"
+    "vendorClean": "MATRIX CONSULTING"
 }

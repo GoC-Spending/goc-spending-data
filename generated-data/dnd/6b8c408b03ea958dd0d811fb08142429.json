@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-MD06GS",
-    "vendorName": "TELEROB  GMBH",
+    "vendorName": "TELEROB GMBH",
     "referenceNumber": "MD06GS",
     "contractDate": "31-3-2005",
     "description": "SPSS PART (Op athena kabul )",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "29-5-2005",
-    "originalValue": 26260.27,
+    "originalValue": 0,
     "contractValue": 26260.27,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/6b8c408b03ea958dd0d811fb08142429.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11316",
-    "vendorClean": "TELEROB  GMBH"
+    "vendorClean": "TELEROB GMBH"
 }

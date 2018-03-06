@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-20130106A",
-    "vendorName": "ANSYS CANADA  LTD",
+    "vendorName": "ANSYS CANADA LTD",
     "referenceNumber": "20130106A",
     "contractDate": "2012-09-01",
     "description": "582 License\/Maintenance fees for Client Software",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 148142.01,
+    "originalValue": 0,
     "contractValue": 148142.01,
     "comments": "Contract awarded by PWGSC. This contract is a result of an advanced contract award notice.",
     "ownerAcronym": "nrcan",

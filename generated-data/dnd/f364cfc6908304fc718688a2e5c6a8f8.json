@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-MD069H",
-    "vendorName": "WEATHERHAVEN              000509",
+    "vendorName": "WEATHERHAVEN    000509",
     "referenceNumber": "MD069H",
     "contractDate": "1-3-2005",
-    "description": "FURNITURE OF  CONSTRUCTION (Op athena kabul)",
+    "description": "FURNITURE OF CONSTRUCTION (Op athena kabul)",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "1-3-2005",
-    "originalValue": 17720,
+    "originalValue": 0,
     "contractValue": 17720,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/f364cfc6908304fc718688a2e5c6a8f8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11307",
-    "vendorClean": "WEATHERHAVEN              000509"
+    "vendorClean": "WEATHERHAVEN       000509"
 }

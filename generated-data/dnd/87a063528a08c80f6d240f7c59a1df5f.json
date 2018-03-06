@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092356\/006\/GRK",
-    "vendorName": "HERKULES FAHRZEUGLOGISTIK     GMBH",
+    "vendorName": "HERKULES FAHRZEUGLOGISTIK  GMBH",
     "referenceNumber": "W8486-092356\/006\/GRK",
     "contractDate": "16-7-2008",
     "description": "Valves, Powered",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "16-7-2008",
-    "originalValue": 24651,
+    "originalValue": 0,
     "contractValue": 24651,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/87a063528a08c80f6d240f7c59a1df5f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43034",
-    "vendorClean": "HERKULES FAHRZEUGLOGISTIK     GMBH"
+    "vendorClean": "HERKULES FAHRZEUGLOGISTIK   GMBH"
 }

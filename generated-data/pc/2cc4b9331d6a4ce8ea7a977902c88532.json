@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/06\/15",
-    "originalValue": 24437.38,
+    "originalValue": 0,
     "contractValue": 24437.38,
     "comments": "Remove & replace damaged cribbing",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "pc\/2cc4b9331d6a4ce8ea7a977902c88532.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2012-2013&oqQUARTER=1&oqCONTRACT_ID=39076",
-    "vendorClean": "TAYLOR DOCKSORPORATED"
+    "vendorClean": "TAYLOR DOCKS"
 }

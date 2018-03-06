@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007-03-31",
-    "originalValue": 140829.48,
+    "originalValue": 0,
     "contractValue": 140829.48,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "esdc\/12a6270e2e45a8ab01ccabb305ded0e9.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=1864&employeepositionid=null&site=1&startdate=2007-01-01&enddate=2007-03-31&quarterid=4#place102",
-    "vendorClean": "VARIAN CANADAORPORATED"
+    "vendorClean": "VARIAN CANADA"
 }

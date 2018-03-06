@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 100800,
+    "originalValue": 0,
     "contractValue": 100800,
     "comments": "Business transformation architect services related to SAP",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "ec\/cdaf7a507ad8b85be256a34208992916.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=57135&quarter=1&fiscal=2015%2C%202016",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

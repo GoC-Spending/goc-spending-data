@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47117",
-    "vendorName": "Commissionaires  (Ottawa)",
+    "vendorName": "Commissionaires (Ottawa)",
     "referenceNumber": "47117",
     "contractDate": "6-4-2011",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 16215.49,
+    "originalValue": 0,
     "contractValue": 16215.49,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/4bf46d040cdb0ff24211fdc541d0916c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id115905",
-    "vendorClean": "COMMISSIONAIRES  (OTTAWA)"
+    "vendorClean": "COMMISSIONAIRES (OTTAWA)"
 }

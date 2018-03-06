@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-117417\/002\/GRK",
-    "vendorName": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT",
+    "vendorName": "GLENSBURGER SCHIFFSBAU  GESELLSCHAFT",
     "referenceNumber": "W8486-117417\/002\/GRK",
     "contractDate": "24-2-2011",
     "description": "Electrical and Electronic Assemblies, Boards, Cards and Associated Hardware",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "24-2-2012",
-    "originalValue": 25905,
+    "originalValue": 0,
     "contractValue": 25905,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/235616e95745ed02b95f8c4d5d89c81c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id94215",
-    "vendorClean": "GLENSBURGER SCHIFFSBAU        GESELLSCHAFT"
+    "vendorClean": "GLENSBURGER SCHIFFSBAU    GESELLSCHAFT"
 }

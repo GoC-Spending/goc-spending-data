@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-7-2009",
-    "originalValue": 13335,
+    "originalValue": 0,
     "contractValue": 13335,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/ccaadbb6d7146a0b57b51e094861c385.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id60602",
-    "vendorClean": "REEL NEAT SYSTEMSORPORATED"
+    "vendorClean": "REEL NEAT SYSTEMS"
 }

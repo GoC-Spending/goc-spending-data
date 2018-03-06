@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8474-08MA32\/001\/PY",
-    "vendorName": "\"ELYTRA ENTERPRISES, INC.                                              \"",
+    "vendorName": "\"ELYTRA ENTERPRISES, INC.            \"",
     "referenceNumber": "W8474-08MA32\/001\/PY",
     "contractDate": "23-1-2008",
     "description": "ADP Input-Output and Storage Devices",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "28-4-2008",
-    "originalValue": 12101,
+    "originalValue": 0,
     "contractValue": 12101,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/fb753005c6d20d9a43acc4810d7f9347.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38083",
-    "vendorClean": "\"ELYTRA ENTERPRISES                                              \""
+    "vendorClean": "\"ELYTRA ENTERPRISES                       \""
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "pspc-EQ081-06-0549",
-    "vendorName": "AMPERE LTD.    100194505PG0001",
+    "vendorName": "AMPERE LTD. 100194505PG0001",
     "referenceNumber": "EQ081-06-0549",
     "contractDate": "2007-03-21",
     "description": "0859 - Other Business Services not Elsewhere Specified",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "pspc\/f414057d8c5f01e13793efe733216b4b.html",
     "sourceURL": "http:\/\/www.tpsgc-pwgsc.gc.ca\/cgi-bin\/proactive\/cl.pl?lang=eng;SCR=D;Sort=0;PF=CL200607Q4.txt;LN=182",
-    "vendorClean": "AMPERE    100194505PG0001"
+    "vendorClean": "AMPERE  100194505PG0001"
 }

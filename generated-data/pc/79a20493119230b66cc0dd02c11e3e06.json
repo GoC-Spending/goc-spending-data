@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45288587",
-    "vendorName": "MCINTYRE REFRIGERATION  &",
+    "vendorName": "MCINTYRE REFRIGERATION &",
     "referenceNumber": "45288587",
     "contractDate": "2010\/11\/02",
     "description": "656 Heating, air-conditioning, and refrigeration equip",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "2011\/02\/25",
-    "originalValue": 84750,
+    "originalValue": 0,
     "contractValue": 84750,
     "comments": "Fort BeausA(C)jour NHS- Mechanical Ventilat",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "pc\/79a20493119230b66cc0dd02c11e3e06.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=3&oqCONTRACT_ID=35533",
-    "vendorClean": "MCINTYRE REFRIGERATION  &"
+    "vendorClean": "MCINTYRE REFRIGERATION &"
 }

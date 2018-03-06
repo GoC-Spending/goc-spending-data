@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49241",
-    "vendorName": "Exp Services Inc.  (Sudbury)",
+    "vendorName": "Exp Services Inc. (Sudbury)",
     "referenceNumber": "49241",
     "contractDate": "16-12-2011",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "30-3-2012",
-    "originalValue": 38975,
+    "originalValue": 0,
     "contractValue": 38975,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/4ed78af48f634c6cbdf31194c6181e18.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106152",
-    "vendorClean": "EXP SERVICES  (SUDBURY)"
+    "vendorClean": "EXP SERVICES (SUDBURY)"
 }

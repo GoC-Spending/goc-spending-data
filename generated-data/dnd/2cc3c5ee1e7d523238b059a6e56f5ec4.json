@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-3-2016",
-    "originalValue": 24294.51,
+    "originalValue": 0,
     "contractValue": 24294.51,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/2cc3c5ee1e7d523238b059a6e56f5ec4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id179088",
-    "vendorClean": "ITEXORPORATED"
+    "vendorClean": "ITEX"
 }

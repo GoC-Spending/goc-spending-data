@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-4-2011",
-    "originalValue": 10968,
+    "originalValue": 0,
     "contractValue": 10968,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/1ec90d94db543b06c9cb6c3a8c71d0bf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id92296",
-    "vendorClean": "AGREEORPORATED"
+    "vendorClean": "AGREE"
 }

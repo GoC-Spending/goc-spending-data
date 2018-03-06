@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 565000,
+    "originalValue": 0,
     "contractValue": 565000,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/4a6ff0d8218888f7eee3780dc153f787.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id74125",
-    "vendorClean": "HUMANSYSTEMSORPORATED"
+    "vendorClean": "HUMANSYSTEMS"
 }

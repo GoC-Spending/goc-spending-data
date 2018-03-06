@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0134-07H293\/001\/CAL",
-    "vendorName": "Nelson Lumber Co.  Ltd.",
+    "vendorName": "Nelson Lumber Co. Ltd.",
     "referenceNumber": "W0134-07H293\/001\/CAL",
     "contractDate": "3-3-2008",
     "description": "Lumber and Related Basic Wood Material",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 16695,
+    "originalValue": 0,
     "contractValue": 16695,
     "comments": "",
     "ownerAcronym": "dnd",

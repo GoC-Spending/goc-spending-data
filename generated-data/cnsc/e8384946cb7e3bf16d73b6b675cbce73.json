@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "January 31, 2014",
-    "originalValue": 3879.85,
+    "originalValue": 0,
     "contractValue": 3879.85,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "cnsc\/e8384946cb7e3bf16d73b6b675cbce73.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=6714",
-    "vendorClean": "KARSH SCIENTIFICORPORATED"
+    "vendorClean": "KARSH SCIENTIFIC"
 }

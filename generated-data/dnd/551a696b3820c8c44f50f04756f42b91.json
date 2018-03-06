@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52324",
-    "vendorName": "LVM Inc.   (Toronto)",
+    "vendorName": "LVM Inc. (Toronto)",
     "referenceNumber": "52324",
     "contractDate": "21-9-2012",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "21-2-2013",
-    "originalValue": 26206.5,
+    "originalValue": 0,
     "contractValue": 26206.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/551a696b3820c8c44f50f04756f42b91.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125118",
-    "vendorClean": "LVM   (TORONTO)"
+    "vendorClean": "LVM  (TORONTO)"
 }

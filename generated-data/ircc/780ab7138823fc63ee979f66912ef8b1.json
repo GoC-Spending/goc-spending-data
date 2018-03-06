@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 13155.91,
+    "originalValue": 0,
     "contractValue": 13155.91,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/780ab7138823fc63ee979f66912ef8b1.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=323&qid=2011-Q4",
-    "vendorClean": "TERAMACH TECHBOLOGIESORPORATED"
+    "vendorClean": "TERAMACH TECHBOLOGIES"
 }

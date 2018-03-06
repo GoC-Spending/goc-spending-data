@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 10667,
+    "originalValue": 0,
     "contractValue": 10667,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/826acf4a92a5f955bbc547325b98661a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id72473",
-    "vendorClean": "QUINLAN DEFENSEORPORATED"
+    "vendorClean": "QUINLAN DEFENSE"
 }

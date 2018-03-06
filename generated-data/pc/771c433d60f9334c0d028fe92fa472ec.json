@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45159003",
-    "vendorName": "TELUS  (Geomatics)",
+    "vendorName": "TELUS (Geomatics)",
     "referenceNumber": "45159003",
     "contractDate": "2005\/07\/20",
     "description": "1143 Printed matter, including books, newspapers, pictures, manuscripts and forms",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2005\/09\/01",
-    "originalValue": 24995.2,
+    "originalValue": 0,
     "contractValue": 24995.2,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "pc\/771c433d60f9334c0d028fe92fa472ec.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2005-2006&oqQUARTER=2&oqCONTRACT_ID=15716",
-    "vendorClean": "TELUS  (GEOMATICS)"
+    "vendorClean": "TELUS (GEOMATICS)"
 }

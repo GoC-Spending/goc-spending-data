@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "18-7-2013",
-    "originalValue": 498679,
+    "originalValue": 0,
     "contractValue": 498679,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED, THIS CONTRACT IS A CALL-UP AGAINST A PUBLIC WORKS AND GOVERNMENT SERVICES PROCUREMENT TOOL.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/ba51ba1d470e40a2cac13b766c1e8bd4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id136929",
-    "vendorClean": "ARMAMENT TECHNOLOGYORPORATED"
+    "vendorClean": "ARMAMENT TECHNOLOGY"
 }

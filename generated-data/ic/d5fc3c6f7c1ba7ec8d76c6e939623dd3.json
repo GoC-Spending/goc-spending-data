@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5017711",
-    "vendorName": "TESSIER TRANSLATION  CORPORATION",
+    "vendorName": "TESSIER TRANSLATION CORPORATION",
     "referenceNumber": "5017711",
     "contractDate": "2006-04-26",
     "description": "Translation services",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 16050,
+    "originalValue": 0,
     "contractValue": 16050,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q1",
     "sourceFilename": "ic\/d5fc3c6f7c1ba7ec8d76c6e939623dd3.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=3358",
-    "vendorClean": "TESSIER TRANSLATION  CORPORATION"
+    "vendorClean": "TESSIER TRANSLATION CORPORATION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0106-04K393\/001\/QCA",
-    "vendorName": "9048-8677 QuA(C)bec inc  \/  PROPRE-TECH INC",
+    "vendorName": "9048-8677 QuA(C)bec inc \/ PROPRE-TECH INC",
     "referenceNumber": "W0106-04K393\/001\/QCA",
     "contractDate": "16-3-2005",
     "description": "Washer-Extractor, Commercial",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 10486,
+    "originalValue": 0,
     "contractValue": 10486,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/b9b6f8a7b22de27610c1331ccbd50687.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id8685",
-    "vendorClean": "9048-8677 QUA(C)BEC   PROPRE-TECH"
+    "vendorClean": "9048-8677 QUA(C)BEC PROPRE-TECH"
 }

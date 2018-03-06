@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45248241",
-    "vendorName": "XYZ  TECHNOLOGIE CULTURELLE INC.",
+    "vendorName": "XYZ TECHNOLOGIE CULTURELLE INC.",
     "referenceNumber": "45248241",
     "contractDate": "2009\/01\/12",
     "description": "332 Audio-visual services",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "2009\/01\/12",
-    "originalValue": 72318.75,
+    "originalValue": 0,
     "contractValue": 72318.75,
     "comments": "Mise A niveau systA?me mutimA(C)dia",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "pc\/c0792a7302a3f297c9059a66f8e99dd7.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2008-2009&oqQUARTER=4&oqCONTRACT_ID=31458",
-    "vendorClean": "XYZ  TECHNOLOGIE CULTURELLE"
+    "vendorClean": "XYZ TECHNOLOGIE CULTURELLE"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-MD06XA",
-    "vendorName": "WEATHERHAVEN                       000509",
+    "vendorName": "WEATHERHAVEN      000509",
     "referenceNumber": "MD06XA",
     "contractDate": "20-5-2005",
     "description": "7219 V1 CONSTRUCTION ENGIN MAT NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "19-5-2005",
-    "originalValue": 19949,
+    "originalValue": 0,
     "contractValue": 19949,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/d0e6c4e1322a066ae293f896eea69be9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id13017",
-    "vendorClean": "WEATHERHAVEN                       000509"
+    "vendorClean": "WEATHERHAVEN            000509"
 }

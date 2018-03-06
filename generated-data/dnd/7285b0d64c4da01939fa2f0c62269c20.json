@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-59698",
-    "vendorName": "A-Tech Roofing Ltd   (Elmsdale NS)",
+    "vendorName": "A-Tech Roofing Ltd (Elmsdale NS)",
     "referenceNumber": "59698",
     "contractDate": "23-7-2015",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "14-11-2015",
-    "originalValue": 577600,
+    "originalValue": 0,
     "contractValue": 577600,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/7285b0d64c4da01939fa2f0c62269c20.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id200872",
-    "vendorClean": "A-TECH ROOFING   (ELMSDALE NS)"
+    "vendorClean": "A-TECH ROOFING  (ELMSDALE NS)"
 }

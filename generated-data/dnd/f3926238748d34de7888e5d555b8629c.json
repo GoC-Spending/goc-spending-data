@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-62093",
-    "vendorName": "CIMA+         (Gatineau)",
+    "vendorName": "CIMA+   (Gatineau)",
     "referenceNumber": "62093",
     "contractDate": "4-4-2016",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "29-9-2016",
-    "originalValue": 12920,
+    "originalValue": 0,
     "contractValue": 12920,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/f3926238748d34de7888e5d555b8629c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id194209",
-    "vendorClean": "CIMA+         (GATINEAU)"
+    "vendorClean": "CIMA+     (GATINEAU)"
 }

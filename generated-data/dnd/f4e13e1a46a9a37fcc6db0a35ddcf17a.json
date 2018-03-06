@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-117681\/001\/GRK",
-    "vendorName": "REPAIRCRAFT LTD               THE COMMON",
+    "vendorName": "REPAIRCRAFT LTD    THE COMMON",
     "referenceNumber": "W8482-117681\/001\/GRK",
     "contractDate": "16-8-2011",
     "description": "Miscellaneous Chemical Specialities",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "16-8-2012",
-    "originalValue": 12781,
+    "originalValue": 0,
     "contractValue": 12781,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/f4e13e1a46a9a37fcc6db0a35ddcf17a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id100919",
-    "vendorClean": "REPAIRCRAFT               THE COMMON"
+    "vendorClean": "REPAIRCRAFT        THE COMMON"
 }

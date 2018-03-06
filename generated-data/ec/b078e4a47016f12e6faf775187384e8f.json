@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "2009-03-31",
-    "originalValue": 12656.1,
+    "originalValue": 0,
     "contractValue": 12656.1,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "ec\/b078e4a47016f12e6faf775187384e8f.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=23708&quarter=4&fiscal=2008%2C%202009",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

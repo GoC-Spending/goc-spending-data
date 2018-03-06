@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000467050",
-    "vendorName": "INTEGRA  NETWORKS CORPORATION",
+    "vendorName": "INTEGRA NETWORKS CORPORATION",
     "referenceNumber": "3000467050",
     "contractDate": "2012-02-03",
-    "description": "Non-Professional Contracted Services                                                                                                                                                                                              813 - Temporary Help Services",
+    "description": "Non-Professional Contracted Services                                                813 - Temporary Help Services",
     "extraDescription": "",
     "objectCode": "0813",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 149775,
+    "originalValue": 0,
     "contractValue": 149775,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "cfia\/3e6c67fc0b09862d321e598b46435456.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2011-2012&q=4&contraID=11313&yid=8",
-    "vendorClean": "INTEGRA  NETWORKS CORPORATION"
+    "vendorClean": "INTEGRA NETWORKS CORPORATION"
 }

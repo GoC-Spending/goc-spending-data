@@ -1,6 +1,6 @@
 {
     "uuid": "ps-7182120",
-    "vendorName": "AMS  IMAGING",
+    "vendorName": "AMS IMAGING",
     "referenceNumber": "7182120",
     "contractDate": "2012-10-19",
     "description": "EDP Services (non-government)",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "N\/A",
-    "originalValue": 60613.48,
+    "originalValue": 0,
     "contractValue": 60613.48,
     "comments": "Optical scanning services. This contract was awarded using a PWGSC procurement tool.",
     "ownerAcronym": "ps",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "ps\/6410ac7cf3aa1e9507ec1229db07df79.html",
     "sourceURL": "https:\/\/www.publicsafety.gc.ca\/cnt\/trnsprnc\/cntrcts\/dtls-en.aspx?id=3323",
-    "vendorClean": "AMS  IMAGING"
+    "vendorClean": "AMS IMAGING"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2005-03-28",
-    "originalValue": 17147.04,
+    "originalValue": 0,
     "contractValue": 17147.04,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ec\/085ad4bdbbd8212469e8451aadfd5a04.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=4794&quarter=4&fiscal=2004%2C%202005",
-    "vendorClean": "LI-CORORPORATED"
+    "vendorClean": "LI-COR"
 }

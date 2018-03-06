@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501060527",
-    "vendorName": "Flying Colours International  - Scythes Group of Companies",
+    "vendorName": "Flying Colours International - Scythes Group of Companies",
     "referenceNumber": "4501060527",
     "contractDate": "21-8-2013",
     "description": "Badges and Insignia",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "21-8-2013",
-    "originalValue": 11137.69,
+    "originalValue": 0,
     "contractValue": 11137.69,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/e7d17ab57b5b5bb19f1b87d39a280f48.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139793",
-    "vendorClean": "FLYING COLOURS INTERNATIONAL  SCYTHES GROUP OF COMPANIES"
+    "vendorClean": "FLYING COLOURS INTERNATIONAL SCYTHES GROUP OF COMPANIES"
 }

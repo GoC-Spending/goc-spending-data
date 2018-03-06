@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "2005\/03\/31",
-    "originalValue": 13241.25,
+    "originalValue": 0,
     "contractValue": 13241.25,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q3",
     "sourceFilename": "pc\/3f81db95260db855ffb7897ec5e0dffc.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=3&oqCONTRACT_ID=15023",
-    "vendorClean": "INTERFACE STRATEGIESORPORATED"
+    "vendorClean": "INTERFACE STRATEGIES"
 }

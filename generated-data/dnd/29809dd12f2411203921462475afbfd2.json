@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "14-10-2016",
-    "originalValue": 72854.56,
+    "originalValue": 0,
     "contractValue": 72854.56,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/29809dd12f2411203921462475afbfd2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id198177",
-    "vendorClean": "REPUBLIC ARCHITECTUREORPORATED"
+    "vendorClean": "REPUBLIC ARCHITECTURE"
 }

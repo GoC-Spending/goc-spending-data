@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W6447NPCC16-0610",
-    "vendorName": "TPT ALAIN GIROUX  & FILS INC",
+    "vendorName": "TPT ALAIN GIROUX & FILS INC",
     "referenceNumber": "W6447NPCC16-0610",
     "contractDate": "21-12-2016",
     "description": "Freight and Cargo Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "13-1-2017",
-    "originalValue": 10170,
+    "originalValue": 0,
     "contractValue": 10170,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/367eaa36e284c6f38c76149c1e3288b5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id193218",
-    "vendorClean": "TPT ALAIN GIROUX  & FILS"
+    "vendorClean": "TPT ALAIN GIROUX & FILS"
 }

@@ -11,14 +11,14 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 71752.05,
+    "originalValue": 0,
     "contractValue": 71752.05,
-    "comments": "Original Amount $19250.55  Amendment to previously disclosed contract.",
+    "comments": "Original Amount $19250.55 Amendment to previously disclosed contract.",
     "ownerAcronym": "ec",
     "sourceYear": 2009,
     "sourceQuarter": 4,
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "ec\/7bd9236ecb1724798d32fa660594657f.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=27919&quarter=4&fiscal=2009%2C%202010",
-    "vendorClean": "QMR STAFFING SOLUTIONSORPORATED"
+    "vendorClean": "QMR STAFFING SOLUTIONS"
 }

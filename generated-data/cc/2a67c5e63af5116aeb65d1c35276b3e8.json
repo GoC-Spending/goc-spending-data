@@ -1,6 +1,6 @@
 {
     "uuid": "cc-C167683",
-    "vendorName": "BBG Management  Corp.",
+    "vendorName": "BBG Management Corp.",
     "referenceNumber": "C167683",
     "contractDate": "2011\/03\/30",
     "description": "Market Analysis of a Commercial Customer Relationship Management\/Grants system",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 50211,
+    "originalValue": 0,
     "contractValue": 50211,
     "comments": "",
     "ownerAcronym": "cc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "cc\/2a67c5e63af5116aeb65d1c35276b3e8.html",
     "sourceURL": "http:\/\/canadacouncil.ca\/about\/public-accountability\/proactive-disclosure\/disclosure-of-contracts?yr=2011&qtr=4&id=167683",
-    "vendorClean": "BBG MANAGEMENT  CORP"
+    "vendorClean": "BBG MANAGEMENT CORP"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "30-11-2005",
-    "originalValue": 11883,
+    "originalValue": 0,
     "contractValue": 11883,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/43e762182567afb4366d363736d54914.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10117",
-    "vendorClean": "BITMOVERORPORATED"
+    "vendorClean": "BITMOVER"
 }

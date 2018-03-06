@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-CN0215",
-    "vendorName": "DAVTAIR INDUSTRIES  001652",
+    "vendorName": "DAVTAIR INDUSTRIES 001652",
     "referenceNumber": "CN0215",
     "contractDate": "8-2-2005",
     "description": "SPSS PART (3 CSG)",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "8-2-2005",
-    "originalValue": 24690,
+    "originalValue": 0,
     "contractValue": 24690,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/7e7bef58f979a1f5118fa628318091a9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11315",
-    "vendorClean": "DAVTAIR INDUSTRIES  001652"
+    "vendorClean": "DAVTAIR INDUSTRIES 001652"
 }

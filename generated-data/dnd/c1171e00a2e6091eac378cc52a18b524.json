@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52960",
-    "vendorName": "Exp Services Inc.    (Kingston)",
+    "vendorName": "Exp Services Inc. (Kingston)",
     "referenceNumber": "52960",
     "contractDate": "18-12-2012",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2016,
     "deliveryDate": "17-11-2016",
-    "originalValue": 163710,
+    "originalValue": 0,
     "contractValue": 163710,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/c1171e00a2e6091eac378cc52a18b524.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id130258",
-    "vendorClean": "EXP SERVICES    (KINGSTON)"
+    "vendorClean": "EXP SERVICES  (KINGSTON)"
 }

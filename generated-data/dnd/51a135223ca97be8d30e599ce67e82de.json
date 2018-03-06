@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W636A-09PTMU\/001\/USW",
-    "vendorName": "Commander Pacific Fleet  (COMPACFLT)",
+    "vendorName": "Commander Pacific Fleet (COMPACFLT)",
     "referenceNumber": "W636A-09PTMU\/001\/USW",
     "contractDate": "20-3-2009",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "21-3-2009",
-    "originalValue": 1885950,
+    "originalValue": 0,
     "contractValue": 1885950,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/51a135223ca97be8d30e599ce67e82de.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id56304",
-    "vendorClean": "COMMANDER PACIFIC FLEET  (COMPACFLT)"
+    "vendorClean": "COMMANDER PACIFIC FLEET (COMPACFLT)"
 }

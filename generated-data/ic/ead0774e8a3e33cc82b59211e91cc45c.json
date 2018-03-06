@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 13442,
+    "originalValue": 0,
     "contractValue": 13442,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "ic\/ead0774e8a3e33cc82b59211e91cc45c.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=5771",
-    "vendorClean": "REMCOMORPORATED"
+    "vendorClean": "REMCOM"
 }

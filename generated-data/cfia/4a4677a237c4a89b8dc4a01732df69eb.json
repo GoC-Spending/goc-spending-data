@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000498256",
-    "vendorName": "TEKNION  LIMITED",
+    "vendorName": "TEKNION LIMITED",
     "referenceNumber": "3000498256",
     "contractDate": "2012-11-30",
-    "description": "Acquisition of Office Equipment and Furniture Including Parts                                                                                                                                123 - Office Furniture and Furnishings, Including Parts",
+    "description": "Acquisition of Office Equipment and Furniture Including Parts                                123 - Office Furniture and Furnishings, Including Parts",
     "extraDescription": "",
     "objectCode": "0123",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 33019,
+    "originalValue": 0,
     "contractValue": 33019,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "cfia\/4a4677a237c4a89b8dc4a01732df69eb.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=3&contraID=12021&yid=9",
-    "vendorClean": "TEKNION  LIMITED"
+    "vendorClean": "TEKNION LIMITED"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8475-10NV02\/001\/QD",
-    "vendorName": "ITT DEFENSE                   ELECTRO-OPTICAL PRODUCTS DIV",
+    "vendorName": "ITT DEFENSE     ELECTRO-OPTICAL PRODUCTS DIV",
     "referenceNumber": "W8475-10NV02\/001\/QD",
     "contractDate": "5-5-2010",
     "description": "Night Vision Equipment, Emitted and Reflected Radiation",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 172944,
+    "originalValue": 0,
     "contractValue": 172944,
     "comments": "This item contains one or more amendment. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/9e90d1e4ccd27f9858a8455f6cccca54.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id74550",
-    "vendorClean": "ITT DEFENSE                   ELECTRO-OPTICAL PRODUCTS DIV"
+    "vendorClean": "ITT DEFENSE          ELECTRO-OPTICAL PRODUCTS DIV"
 }

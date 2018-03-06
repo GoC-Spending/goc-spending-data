@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-092923\/002\/GRK",
-    "vendorName": "MOTOREN UND TURBINEN UNION    FRIEDRICHSHAFEN GMBH",
+    "vendorName": "MOTOREN UND TURBINEN UNION FRIEDRICHSHAFEN GMBH",
     "referenceNumber": "W8486-092923\/002\/GRK",
     "contractDate": "20-10-2008",
     "description": "Engine Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "20-10-2009",
-    "originalValue": 53709,
+    "originalValue": 0,
     "contractValue": 53709,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/62d1fc80e196590ab368fee2dc748f8f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id50225",
-    "vendorClean": "MOTOREN UND TURBINEN UNION    FRIEDRICHSHAFEN GMBH"
+    "vendorClean": "MOTOREN UND TURBINEN UNION  FRIEDRICHSHAFEN GMBH"
 }

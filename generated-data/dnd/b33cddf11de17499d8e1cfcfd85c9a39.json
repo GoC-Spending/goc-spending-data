@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0118-085468\/001\/WPG",
-    "vendorName": "\"KING RICHARD CO, INC                                                  \"",
+    "vendorName": "\"KING RICHARD CO, INC             \"",
     "referenceNumber": "W0118-085468\/001\/WPG",
     "contractDate": "20-3-2008",
     "description": "Athletic and Sporting Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-4-2008",
-    "originalValue": 10996,
+    "originalValue": 0,
     "contractValue": 10996,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/b33cddf11de17499d8e1cfcfd85c9a39.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id37948",
-    "vendorClean": "\"KING RICHARD CO                                                  \""
+    "vendorClean": "\"KING RICHARD CO                         \""
 }

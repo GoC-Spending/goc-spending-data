@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/4",
-    "vendorName": "MEDING  SHERI",
+    "vendorName": "MEDING SHERI",
     "referenceNumber": "20-09-6088\/4",
     "contractDate": "4\/16\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 57338.2,
+    "originalValue": 0,
     "contractValue": 57338.2,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/76dcd481d56fea6093f11278ddf6ff14.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct65-eng.asp",
-    "vendorClean": "MEDING  SHERI"
+    "vendorClean": "MEDING SHERI"
 }

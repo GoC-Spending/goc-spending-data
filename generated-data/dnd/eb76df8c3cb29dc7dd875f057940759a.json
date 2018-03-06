@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52119",
-    "vendorName": "LVM  Inc. (La Baie)",
+    "vendorName": "LVM Inc. (La Baie)",
     "referenceNumber": "52119",
     "contractDate": "14-8-2012",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "1-1-2013",
-    "originalValue": 21759,
+    "originalValue": 0,
     "contractValue": 21759,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/eb76df8c3cb29dc7dd875f057940759a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123794",
-    "vendorClean": "LVM  (LA BAIE)"
+    "vendorClean": "LVM (LA BAIE)"
 }

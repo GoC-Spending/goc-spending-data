@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "20-4-2012",
-    "originalValue": 18962.5,
+    "originalValue": 0,
     "contractValue": 18962.5,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/d861c9a3be66c41dbf26e640744ebeab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id121790",
-    "vendorClean": "ATLANTIS MERCANTILEORPORATED KORIE MANAGEMENT KORPAN TRACTOR AND PARTS"
+    "vendorClean": "ATLANTIS MERCANTILE KORIE MANAGEMENT KORPAN TRACTOR AND PARTS"
 }

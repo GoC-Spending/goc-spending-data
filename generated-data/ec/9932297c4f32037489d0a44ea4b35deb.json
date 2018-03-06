@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K6A30-13-0001",
-    "vendorName": "ANDREW MAZEIKIS,  ANDREW LEE",
+    "vendorName": "ANDREW MAZEIKIS, ANDREW LEE",
     "referenceNumber": "K6A30-13-0001",
     "contractDate": "2014-03-13",
     "description": "0491 Other Prof. Serv. - Management consulting - OGD or programs",
@@ -11,14 +11,14 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 158250,
+    "originalValue": 0,
     "contractValue": 158250,
-    "comments": "Original Amount $108000.00  This contract includes one or more amendments.  Task Based Informatics Professional Services - provide Informatic Technology professional services for the Human Resources Branch",
+    "comments": "Original Amount $108000.00 This contract includes one or more amendments. Task Based Informatics Professional Services - provide Informatic Technology professional services for the Human Resources Branch",
     "ownerAcronym": "ec",
     "sourceYear": 2013,
     "sourceQuarter": 4,
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "ec\/9932297c4f32037489d0a44ea4b35deb.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=51374&quarter=4&fiscal=2013%2C%202014",
-    "vendorClean": "ANDREW MAZEIKIS  ANDREW LEE"
+    "vendorClean": "ANDREW MAZEIKIS ANDREW LEE"
 }

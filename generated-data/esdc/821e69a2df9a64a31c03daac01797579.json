@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "N\/A",
-    "originalValue": 38025,
+    "originalValue": 0,
     "contractValue": 38025,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "esdc\/821e69a2df9a64a31c03daac01797579.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=14306&employeepositionid=null&site=1&startdate=2011-10-01&enddate=2011-12-31&quarterid=34#place55",
-    "vendorClean": "MICHAEL SMARTORPORATED"
+    "vendorClean": "MICHAEL SMART"
 }

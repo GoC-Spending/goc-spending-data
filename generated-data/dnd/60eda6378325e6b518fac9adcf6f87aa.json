@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-57082",
-    "vendorName": "Central Mechanical Systems Ltd.  Yellow",
+    "vendorName": "Central Mechanical Systems Ltd. Yellow",
     "referenceNumber": "57082",
     "contractDate": "27-8-2014",
     "description": "Special Trade Construction Wrk",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "28-12-2014",
-    "originalValue": 175000,
+    "originalValue": 0,
     "contractValue": 175000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/60eda6378325e6b518fac9adcf6f87aa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id156053",
-    "vendorClean": "CENTRAL MECHANICAL SYSTEMS  YELLOW"
+    "vendorClean": "CENTRAL MECHANICAL SYSTEMS YELLOW"
 }

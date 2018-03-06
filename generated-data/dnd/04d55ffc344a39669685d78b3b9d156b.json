@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53436",
-    "vendorName": "LVM INC.   (MONTREAL)",
+    "vendorName": "LVM INC. (MONTREAL)",
     "referenceNumber": "53436",
     "contractDate": "1-3-2013",
     "description": "ENVIRONMENTAL SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "20-4-2013",
-    "originalValue": 23282.15,
+    "originalValue": 0,
     "contractValue": 23282.15,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/04d55ffc344a39669685d78b3b9d156b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id133544",
-    "vendorClean": "LVM   (MONTREAL)"
+    "vendorClean": "LVM  (MONTREAL)"
 }

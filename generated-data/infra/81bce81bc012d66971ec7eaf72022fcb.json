@@ -1,6 +1,6 @@
 {
     "uuid": "infra-9202053101",
-    "vendorName": "DMTI  SPATIAL INC.",
+    "vendorName": "DMTI SPATIAL INC.",
     "referenceNumber": "9202053101",
     "contractDate": "2012-12-31",
     "description": "Software license maintenance fees",
@@ -11,14 +11,14 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 33211.83,
+    "originalValue": 0,
     "contractValue": 33211.83,
-    "comments": "Software maintenance.  This contract was sole-sourced.",
+    "comments": "Software maintenance. This contract was sole-sourced.",
     "ownerAcronym": "infra",
     "sourceYear": 2012,
     "sourceQuarter": 3,
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "infra\/81bce81bc012d66971ec7eaf72022fcb.html",
     "sourceURL": "\/pd-dp\/pdc-dpm\/reports-rapports-eng.html?year=2012&quarter=3&contractId=884",
-    "vendorClean": "DMTI  SPATIAL"
+    "vendorClean": "DMTI SPATIAL"
 }

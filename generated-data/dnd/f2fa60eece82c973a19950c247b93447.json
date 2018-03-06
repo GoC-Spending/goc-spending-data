@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0121-15-DL10",
-    "vendorName": "Rev. Glenn  Galenkamp",
+    "vendorName": "Rev. Glenn Galenkamp",
     "referenceNumber": "W0121-15-DL10",
     "contractDate": "25-3-2015",
     "description": "Business Systems",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "31-3-2016",
-    "originalValue": 25000,
+    "originalValue": 0,
     "contractValue": 25000,
     "comments": "This item was not reported previously. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/f2fa60eece82c973a19950c247b93447.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id170561",
-    "vendorClean": "REV GLENN  GALENKAMP"
+    "vendorClean": "REV GLENN GALENKAMP"
 }

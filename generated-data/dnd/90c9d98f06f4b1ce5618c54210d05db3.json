@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-MD06AA",
-    "vendorName": "WEATHERHAVEN              000509",
+    "vendorName": "WEATHERHAVEN    000509",
     "referenceNumber": "MD06AA",
     "contractDate": "3-3-2005",
-    "description": "ELECTRICAL PART   (Op athena kabul )",
+    "description": "ELECTRICAL PART (Op athena kabul )",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "22-4-2005",
-    "originalValue": 27450,
+    "originalValue": 0,
     "contractValue": 27450,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/90c9d98f06f4b1ce5618c54210d05db3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11317",
-    "vendorClean": "WEATHERHAVEN              000509"
+    "vendorClean": "WEATHERHAVEN       000509"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W5830-14-0040",
-    "vendorName": "Ryan Smith  Design Associates",
+    "vendorName": "Ryan Smith Design Associates",
     "referenceNumber": "W5830-14-0040",
     "contractDate": "3-2-2015",
     "description": "Miscellaneous Items (includes only those items of Goods which cannot conceivably be classified in any existing Classes).",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "31-3-2015",
-    "originalValue": 24826.1,
+    "originalValue": 0,
     "contractValue": 24826.1,
     "comments": "This item was not reported previously. This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/49e774d2eb25a0180c00523895765317.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id170091",
-    "vendorClean": "RYAN SMITH  DESIGN ASSOCIATES"
+    "vendorClean": "RYAN SMITH DESIGN ASSOCIATES"
 }

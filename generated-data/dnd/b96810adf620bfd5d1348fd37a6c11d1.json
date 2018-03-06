@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W355B-100693\/001\/HAL",
-    "vendorName": "GLENAIR INC.                AIR BORNE CONTROLS DIV.",
+    "vendorName": "GLENAIR INC.    AIR BORNE CONTROLS DIV.",
     "referenceNumber": "W355B-100693\/001\/HAL",
     "contractDate": "24-9-2009",
     "description": "Adapters, Electrical",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "20-11-2009",
-    "originalValue": 14151,
+    "originalValue": 0,
     "contractValue": 14151,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/b96810adf620bfd5d1348fd37a6c11d1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id65480",
-    "vendorClean": "GLENAIR                AIR BORNE CONTROLS DIV"
+    "vendorClean": "GLENAIR        AIR BORNE CONTROLS DIV"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000459378",
-    "vendorName": "DESCARREAUX      PATRICK",
+    "vendorName": "DESCARREAUX  PATRICK",
     "referenceNumber": "3000459378",
     "contractDate": "2011-11-29",
     "description": "499 Other Professional Services not Elsewhere Specified",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 38385.9,
+    "originalValue": 0,
     "contractValue": 38385.9,
-    "comments": "Service Contract issued by NRCan.  This contract was competitively sourced.",
+    "comments": "Service Contract issued by NRCan. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2011,
     "sourceQuarter": 3,
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "nrcan\/9b77ec5303d6f972c983ade11f8e91ba.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2011-2012&qrt=03&id=29405",
-    "vendorClean": "DESCARREAUX      PATRICK"
+    "vendorClean": "DESCARREAUX   PATRICK"
 }

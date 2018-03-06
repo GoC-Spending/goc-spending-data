@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "30-11-2016",
-    "originalValue": 393077,
+    "originalValue": 0,
     "contractValue": 393077,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/badb5ba9bbb2ee1f893510269a4fef52.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id206308",
-    "vendorClean": "EPIC 9ORPORATED"
+    "vendorClean": "EPIC 9"
 }

@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/09\/17",
-    "originalValue": 10029.72,
+    "originalValue": 0,
     "contractValue": 10029.72,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "pc\/4148f5d70316a1820644722a83c0525b.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=2&oqCONTRACT_ID=26728",
-    "vendorClean": "MAC EASTORPORATED"
+    "vendorClean": "MAC EAST"
 }

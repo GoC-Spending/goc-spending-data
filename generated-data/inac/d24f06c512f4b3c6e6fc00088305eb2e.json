@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/37",
-    "vendorName": "TOWNSEND  JILL",
+    "vendorName": "TOWNSEND JILL",
     "referenceNumber": "09-12-6001\/37",
     "contractDate": "5\/23\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 19750.5,
+    "originalValue": 0,
     "contractValue": 19750.5,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/d24f06c512f4b3c6e6fc00088305eb2e.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct200-eng.asp",
-    "vendorClean": "TOWNSEND  JILL"
+    "vendorClean": "TOWNSEND JILL"
 }

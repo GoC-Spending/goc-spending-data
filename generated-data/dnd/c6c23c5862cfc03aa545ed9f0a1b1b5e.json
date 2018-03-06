@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-60710",
-    "vendorName": "Maritime Fence Ltd  (Grand Falls)",
+    "vendorName": "Maritime Fence Ltd (Grand Falls)",
     "referenceNumber": "60710",
     "contractDate": "4-11-2015",
     "description": "Assembly \/ Erection - Prefab",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2-2-2016",
-    "originalValue": 159120,
+    "originalValue": 0,
     "contractValue": 159120,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/c6c23c5862cfc03aa545ed9f0a1b1b5e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id205989",
-    "vendorClean": "MARITIME FENCE  (GRAND FALLS)"
+    "vendorClean": "MARITIME FENCE (GRAND FALLS)"
 }

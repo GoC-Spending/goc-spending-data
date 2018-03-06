@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2013,
     "deliveryDate": "8-11-2013",
-    "originalValue": 263239,
+    "originalValue": 0,
     "contractValue": 263239,
     "comments": "This item contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/68460c03aeb09ab8ae3a67b183b2664f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id155401",
-    "vendorClean": "SPHYRNA SECURITYORPORATED"
+    "vendorClean": "SPHYRNA SECURITY"
 }

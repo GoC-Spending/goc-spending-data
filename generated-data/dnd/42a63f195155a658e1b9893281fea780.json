@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49299",
-    "vendorName": "LVM Inc.    (Kitchener)",
+    "vendorName": "LVM Inc. (Kitchener)",
     "referenceNumber": "49299",
     "contractDate": "4-11-2011",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "12-12-2011",
-    "originalValue": 11355,
+    "originalValue": 0,
     "contractValue": 11355,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/42a63f195155a658e1b9893281fea780.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107184",
-    "vendorClean": "LVM    (KITCHENER)"
+    "vendorClean": "LVM  (KITCHENER)"
 }

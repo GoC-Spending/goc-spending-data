@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 27783.31,
+    "originalValue": 0,
     "contractValue": 27783.31,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/ba62b603c55e3690e8fa62b04fdcfb45.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=137",
-    "vendorClean": "THE PRINT OPERATIONS GROUPORPORATED"
+    "vendorClean": "THE PRINT OPERATIONS GROUP"
 }

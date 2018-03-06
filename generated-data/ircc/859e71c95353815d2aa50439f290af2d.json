@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 318942.5,
+    "originalValue": 0,
     "contractValue": 318942.5,
     "comments": "This contract contains one or more amendments.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/859e71c95353815d2aa50439f290af2d.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=141",
-    "vendorClean": "TURTLE TECHNOLOGIESORPORATED"
+    "vendorClean": "TURTLE TECHNOLOGIES"
 }

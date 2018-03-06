@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0138-070077\/001\/BAP",
-    "vendorName": "\"Roche Ltie, Groupe-Conseil                                            \"",
+    "vendorName": "\"Roche Ltie, Groupe-Conseil           \"",
     "referenceNumber": "W0138-070077\/001\/BAP",
     "contractDate": "23-1-2008",
     "description": "Environmental Impact Studies",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 12594,
+    "originalValue": 0,
     "contractValue": 12594,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/71f5d26f507ef22f318cb48b1dcd234e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38132",
-    "vendorClean": "\"ROCHE LTIE GROUPE-CONSEIL                                            \""
+    "vendorClean": "\"ROCHE LTIE GROUPE-CONSEIL                      \""
 }

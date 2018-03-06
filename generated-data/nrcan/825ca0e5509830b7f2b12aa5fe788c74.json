@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000534439",
-    "vendorName": "ANSYS CANADA  LTD",
+    "vendorName": "ANSYS CANADA LTD",
     "referenceNumber": "3000534439",
     "contractDate": "2013-12-12",
     "description": "Computer Services",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 13423.9,
+    "originalValue": 0,
     "contractValue": 13423.9,
     "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",

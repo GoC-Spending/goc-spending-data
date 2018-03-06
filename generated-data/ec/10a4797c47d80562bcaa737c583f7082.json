@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K7A41-14-0002",
-    "vendorName": "ANDREW MAZEIKIS,  ANDREW LEE",
+    "vendorName": "ANDREW MAZEIKIS, ANDREW LEE",
     "referenceNumber": "K7A41-14-0002",
     "contractDate": "2014-04-11",
     "description": "0473 Information Technology and Telecommunications Consultants",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 174900,
+    "originalValue": 0,
     "contractValue": 174900,
     "comments": "Provide application system architect services for the Corporate Services Branch",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "ec\/10a4797c47d80562bcaa737c583f7082.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=52040&quarter=1&fiscal=2014%2C%202015",
-    "vendorClean": "ANDREW MAZEIKIS  ANDREW LEE"
+    "vendorClean": "ANDREW MAZEIKIS ANDREW LEE"
 }

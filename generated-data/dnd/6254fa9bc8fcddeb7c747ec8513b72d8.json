@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-088674\/001\/PD",
-    "vendorName": "\"Top Tape & Label Ltd., INCOM Mfg. Group                               \"",
+    "vendorName": "\"Top Tape & Label Ltd., INCOM Mfg. Group        \"",
     "referenceNumber": "W8486-088674\/001\/PD",
     "contractDate": "8-1-2008",
     "description": "Stationery and Record Forms",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-1-2008",
-    "originalValue": 34037,
+    "originalValue": 0,
     "contractValue": 34037,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/6254fa9bc8fcddeb7c747ec8513b72d8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39371",
-    "vendorClean": "\"TOP TAPE & LABELOM MFG GROUP                               \""
+    "vendorClean": "\"TOP TAPE & LABELOM MFG GROUP                \""
 }

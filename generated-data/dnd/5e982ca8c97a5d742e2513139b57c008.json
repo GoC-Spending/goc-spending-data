@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 21209,
+    "originalValue": 0,
     "contractValue": 21209,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/5e982ca8c97a5d742e2513139b57c008.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90822",
-    "vendorClean": "CANAL GEOMATICSORPORATED"
+    "vendorClean": "CANAL GEOMATICS"
 }

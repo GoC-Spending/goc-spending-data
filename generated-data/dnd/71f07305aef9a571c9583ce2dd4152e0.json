@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46024",
-    "vendorName": "CIMA +      (ST-ROMUALD)",
+    "vendorName": "CIMA +  (ST-ROMUALD)",
     "referenceNumber": "46024",
     "contractDate": "10-1-2011",
     "description": "ENGINEERING STUDIES",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 59830,
+    "originalValue": 0,
     "contractValue": 59830,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/71f07305aef9a571c9583ce2dd4152e0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id88275",
-    "vendorClean": "CIMA +      (ST-ROMUALD)"
+    "vendorClean": "CIMA +   (ST-ROMUALD)"
 }

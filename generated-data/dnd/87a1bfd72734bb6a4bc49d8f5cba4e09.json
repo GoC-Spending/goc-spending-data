@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-43276",
-    "vendorName": "LVM Inc.  (Quebec)",
+    "vendorName": "LVM Inc. (Quebec)",
     "referenceNumber": "43276",
     "contractDate": "17-3-2010",
     "description": "Inspection Services",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2012,
     "deliveryDate": "17-3-2012",
-    "originalValue": 43204.19,
+    "originalValue": 0,
     "contractValue": 43204.19,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/87a1bfd72734bb6a4bc49d8f5cba4e09.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id104487",
-    "vendorClean": "LVM  (QUEBEC)"
+    "vendorClean": "LVM (QUEBEC)"
 }

@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "26-6-2013",
-    "originalValue": 16659.88,
+    "originalValue": 0,
     "contractValue": 16659.88,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/d52f7e4afe63c0a6bbacad710a518107.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id134086",
-    "vendorClean": "WARTSILA CANADAORPORATED"
+    "vendorClean": "WARTSILA CANADA"
 }

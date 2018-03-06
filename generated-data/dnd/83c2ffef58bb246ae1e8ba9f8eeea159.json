@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-WN536-115418\/001\/TOR",
-    "vendorName": "Vtt  Quad Motoneige Snowmobiles Atv's",
+    "vendorName": "Vtt Quad Motoneige Snowmobiles Atv's",
     "referenceNumber": "WN536-115418\/001\/TOR",
     "contractDate": "30-1-2012",
     "description": "SNOWMOBILE - RENTAL",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "29-2-2012",
-    "originalValue": 593935,
+    "originalValue": 0,
     "contractValue": 593935,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/83c2ffef58bb246ae1e8ba9f8eeea159.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id112013",
-    "vendorClean": "VTT  QUAD MOTONEIGE SNOWMOBILES ATVS"
+    "vendorClean": "VTT QUAD MOTONEIGE SNOWMOBILES ATVS"
 }

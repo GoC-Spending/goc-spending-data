@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 20000,
+    "originalValue": 0,
     "contractValue": 20000,
     "comments": "Conversion: LiDAR data from HTv.2.0 to CGG2010 geoid",
     "ownerAcronym": "ec",

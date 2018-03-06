@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "",
-    "originalValue": 19927,
+    "originalValue": 0,
     "contractValue": 19927,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "ec\/e19ef735e51358ea5680b345d3da1f92.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=12062&quarter=4&fiscal=2006%2C%202007",
-    "vendorClean": "ECOMETRIXORPORATED"
+    "vendorClean": "ECOMETRIX"
 }

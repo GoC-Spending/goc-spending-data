@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-122567\/001\/GRK",
-    "vendorName": "MAN  Truck & Bus A?sterreich AG",
+    "vendorName": "MAN Truck & Bus A?sterreich AG",
     "referenceNumber": "W8486-122567\/001\/GRK",
     "contractDate": "6-3-2012",
     "description": "Vehicular Brake, Steering, Axle, Wheel and Track Components",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "6-3-2013",
-    "originalValue": 56923,
+    "originalValue": 0,
     "contractValue": 56923,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/291d52c264abc0de5e993500c2e6012d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114163",
-    "vendorClean": "MAN  TRUCK & BUS A?STERREICH AG"
+    "vendorClean": "MAN TRUCK & BUS A?STERREICH AG"
 }

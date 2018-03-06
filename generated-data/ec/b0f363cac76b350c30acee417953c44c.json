@@ -11,14 +11,14 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "2013-10-31",
-    "originalValue": 23461.96,
+    "originalValue": 0,
     "contractValue": 23461.96,
-    "comments": "Original Amount $23298.46  Amendment to previously disclosed contract.",
+    "comments": "Original Amount $23298.46 Amendment to previously disclosed contract.",
     "ownerAcronym": "ec",
     "sourceYear": 2013,
     "sourceQuarter": 3,
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "ec\/b0f363cac76b350c30acee417953c44c.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=49781&quarter=3&fiscal=2013%2C%202014",
-    "vendorClean": "MATERION PRECISION OPTICS AND THIN FILM COATINGSORPORATED"
+    "vendorClean": "MATERION PRECISION OPTICS AND THIN FILM COATINGS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "cfia-3000502470",
-    "vendorName": "VWR  INTERNATIONAL LTD.",
+    "vendorName": "VWR INTERNATIONAL LTD.",
     "referenceNumber": "3000502470",
     "contractDate": "2013-01-28",
     "description": "Training and Educational Services 0446 - Training Consultants",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 11290.06,
+    "originalValue": 0,
     "contractValue": 11290.06,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "cfia\/91f249c3d4f3f50c6b352846566b8d17.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=4&contraID=12857&yid=9",
-    "vendorClean": "VWR  INTERNATIONAL"
+    "vendorClean": "VWR INTERNATIONAL"
 }

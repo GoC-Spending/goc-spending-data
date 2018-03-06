@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-055708\/002\/BL",
-    "vendorName": "NORCATEC  LLC",
+    "vendorName": "NORCATEC LLC",
     "referenceNumber": "W8486-055708\/002\/BL",
     "contractDate": "13-4-2005",
     "description": "Vehicular Brake, Steering, Axle, Wheel and Track Components",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "9-1-2006",
-    "originalValue": 47366,
+    "originalValue": 0,
     "contractValue": 47366,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/ca2cb92f9d6613a960fdc92a184b2d73.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12903",
-    "vendorClean": "NORCATEC  LLC"
+    "vendorClean": "NORCATEC LLC"
 }

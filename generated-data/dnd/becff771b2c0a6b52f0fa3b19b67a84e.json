@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47377",
-    "vendorName": "Exp Services Inc.  (Sudbury)",
+    "vendorName": "Exp Services Inc. (Sudbury)",
     "referenceNumber": "47377",
     "contractDate": "12-7-2011",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "14-12-2011",
-    "originalValue": 17800,
+    "originalValue": 0,
     "contractValue": 17800,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/becff771b2c0a6b52f0fa3b19b67a84e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id102705",
-    "vendorClean": "EXP SERVICES  (SUDBURY)"
+    "vendorClean": "EXP SERVICES (SUDBURY)"
 }

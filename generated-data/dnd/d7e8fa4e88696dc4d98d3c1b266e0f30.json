@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2117099793",
-    "vendorName": "Multi  Service Corporation",
+    "vendorName": "Multi Service Corporation",
     "referenceNumber": "2117099793",
     "contractDate": "12-9-2008",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "12-9-2008",
-    "originalValue": 24260.81,
+    "originalValue": 0,
     "contractValue": 24260.81,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/d7e8fa4e88696dc4d98d3c1b266e0f30.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id51772",
-    "vendorClean": "MULTI  SERVICE CORPORATION"
+    "vendorClean": "MULTI SERVICE CORPORATION"
 }

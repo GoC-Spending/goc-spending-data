@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-216-2015-174847",
-    "vendorName": "C  GEORGES ELECTRICAL INC",
+    "vendorName": "C GEORGES ELECTRICAL INC",
     "referenceNumber": "216-2015-174847",
     "contractDate": "22-6-2015",
     "description": "Electrical Contractor Services, Class A Licence",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "3-9-2015",
-    "originalValue": 59763.67,
+    "originalValue": 0,
     "contractValue": 59763.67,
     "comments": "This item was not reported previously. The contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool This contract is a call-up against a Public Works and Government Services procurement",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/18599e97e415e6f4324a6585e3badc2e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id174278",
-    "vendorClean": "C  GEORGES ELECTRICAL"
+    "vendorClean": "C GEORGES ELECTRICAL"
 }

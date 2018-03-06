@@ -1,9 +1,9 @@
 {
     "uuid": "pco-50134-06",
-    "vendorName": "CTC  TRAINCANADA",
+    "vendorName": "CTC TRAINCANADA",
     "referenceNumber": "50134-06",
     "contractDate": "2006-09-08",
-    "description": "0446                  Training Consultants",
+    "description": "0446     Training Consultants",
     "extraDescription": "",
     "objectCode": "0446",
     "contractPeriodStart": "2006-10-01",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q2",
     "sourceFilename": "pco\/4b9fa033d25112a91ddf4d8b61fff74f.html",
     "sourceURL": "http:\/\/www.pco-bcp.gc.ca\/dc\/Contracts_Contract_Details.asp?lang=eng&uniqueID=17685&quarter=20062",
-    "vendorClean": "CTC  TRAINCANADA"
+    "vendorClean": "CTC TRAINCANADA"
 }

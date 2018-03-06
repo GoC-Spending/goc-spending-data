@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "10-6-2009",
-    "originalValue": 55050,
+    "originalValue": 0,
     "contractValue": 55050,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "dnd\/0a5f4df0e4609d9165141bb5a5cf8288.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2008&id=id42116",
-    "vendorClean": "E-SEEKORPORATED"
+    "vendorClean": "E-SEEK"
 }

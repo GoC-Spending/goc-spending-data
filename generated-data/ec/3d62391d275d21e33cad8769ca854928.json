@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 22100,
+    "originalValue": 0,
     "contractValue": 22100,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "ec\/3d62391d275d21e33cad8769ca854928.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=41371&quarter=3&fiscal=2011%2C%202012",
-    "vendorClean": "INVESTIGATIVE SCIENCEORPORATED"
+    "vendorClean": "INVESTIGATIVE SCIENCE"
 }

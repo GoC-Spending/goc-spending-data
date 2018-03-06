@@ -1,6 +1,6 @@
 {
     "uuid": "ic-3507566",
-    "vendorName": "FLORCKE  AND ASSOCIATES",
+    "vendorName": "FLORCKE AND ASSOCIATES",
     "referenceNumber": "3507566",
     "contractDate": "2008-09-22",
     "description": "Management consulting",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 14516,
+    "originalValue": 0,
     "contractValue": 14516,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "ic\/f68cab3d88199e1e9a137804abf839af.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=8788",
-    "vendorClean": "FLORCKE  AND ASSOCIATES"
+    "vendorClean": "FLORCKE AND ASSOCIATES"
 }

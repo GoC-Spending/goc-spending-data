@@ -1,6 +1,6 @@
 {
     "uuid": "ircc-7084456",
-    "vendorName": "D. Doyle Installations Limited  (ONT)",
+    "vendorName": "D. Doyle Installations Limited (ONT)",
     "referenceNumber": "7084456",
     "contractDate": "2012-07-27",
     "description": "0630 - Office buildings",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 10890.94,
+    "originalValue": 0,
     "contractValue": 10890.94,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "ircc\/2e683db0f59708efec6d6dcd2c5b1611.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=34&c=182",
-    "vendorClean": "D DOYLE INSTALLATIONS LIMITED  (ONT)"
+    "vendorClean": "D DOYLE INSTALLATIONS LIMITED (ONT)"
 }

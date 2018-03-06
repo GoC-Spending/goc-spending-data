@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50275",
-    "vendorName": "Genivar Inc.    (Dartmouth)",
+    "vendorName": "Genivar Inc. (Dartmouth)",
     "referenceNumber": "50275",
     "contractDate": "2-2-2012",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "18-4-2012",
-    "originalValue": 68695.42,
+    "originalValue": 0,
     "contractValue": 68695.42,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/146ad0568f5a66b2867d95523f328cab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id112294",
-    "vendorClean": "GENIVAR    (DARTMOUTH)"
+    "vendorClean": "GENIVAR  (DARTMOUTH)"
 }

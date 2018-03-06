@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 100208.4,
+    "originalValue": 0,
     "contractValue": 100208.4,
     "comments": "Services of a Senior Business Analyst to gather, analyze, model and document the business requirements as well as the non-functional requirements for a variety of corporate systems and projects. Competitively sourced using the Public Works and Government Services Canada Supply Arrangement for Task-Based Informatics Professional Services (TBIPS). This contract includes one or more amendments.",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "cnsc\/fe948452209430324a4240d5d57e1224.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=8114",
-    "vendorClean": "PRECISIONITORPORATED"
+    "vendorClean": "PRECISIONIT"
 }

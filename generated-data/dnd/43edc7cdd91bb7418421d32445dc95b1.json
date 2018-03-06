@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53194",
-    "vendorName": "AQUAFOR BEECH LIMITED  (GUELPH)",
+    "vendorName": "AQUAFOR BEECH LIMITED (GUELPH)",
     "referenceNumber": "53194",
     "contractDate": "11-2-2013",
     "description": "ENVIRONMENTAL SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "25-6-2013",
-    "originalValue": 10929,
+    "originalValue": 0,
     "contractValue": 10929,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/43edc7cdd91bb7418421d32445dc95b1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id134744",
-    "vendorClean": "AQUAFOR BEECH LIMITED  (GUELPH)"
+    "vendorClean": "AQUAFOR BEECH LIMITED (GUELPH)"
 }

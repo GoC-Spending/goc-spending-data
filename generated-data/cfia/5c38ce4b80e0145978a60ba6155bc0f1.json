@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000523239",
-    "vendorName": "FUJITSU CONSULTING  CANADA INC",
+    "vendorName": "FUJITSU CONSULTING CANADA INC",
     "referenceNumber": "3000523239",
     "contractDate": "2013-07-17",
-    "description": "Informatics Services - 0473  Information Technology and Telecommunications Consultants",
+    "description": "Informatics Services - 0473 Information Technology and Telecommunications Consultants",
     "extraDescription": "",
     "objectCode": "0473",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 112954.8,
+    "originalValue": 0,
     "contractValue": 112954.8,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.A?",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "cfia\/5c38ce4b80e0145978a60ba6155bc0f1.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2013-2014&q=2&contraID=13430&yid=10",
-    "vendorClean": "FUJITSU CONSULTING  CANADA"
+    "vendorClean": "FUJITSU CONSULTING CANADA"
 }

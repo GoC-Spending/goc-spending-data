@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2007,
     "deliveryDate": "31-8-2007",
-    "originalValue": 392570,
+    "originalValue": 0,
     "contractValue": 392570,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "dnd\/b87a1274e4050344089cf3e59528f6a3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2005&id=id16328",
-    "vendorClean": "HUMANSYSTEMSORPORATED"
+    "vendorClean": "HUMANSYSTEMS"
 }

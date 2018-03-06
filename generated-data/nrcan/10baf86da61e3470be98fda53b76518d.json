@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000461283",
-    "vendorName": "SAINT-PIERRE     LOUIS",
+    "vendorName": "SAINT-PIERRE  LOUIS",
     "referenceNumber": "3000461283",
     "contractDate": "2011-12-20",
     "description": "472 Information Technology Consultants",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 53618.5,
+    "originalValue": 0,
     "contractValue": 53618.5,
-    "comments": "Service Contract issued by NRCan.  This contract was competitively sourced.",
+    "comments": "Service Contract issued by NRCan. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2011,
     "sourceQuarter": 3,
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "nrcan\/10baf86da61e3470be98fda53b76518d.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2011-2012&qrt=03&id=29443",
-    "vendorClean": "SAINT-PIERRE     LOUIS"
+    "vendorClean": "SAINT-PIERRE   LOUIS"
 }

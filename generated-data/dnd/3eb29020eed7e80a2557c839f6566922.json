@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49573",
-    "vendorName": "Bird Construction Group  (Bedford)",
+    "vendorName": "Bird Construction Group (Bedford)",
     "referenceNumber": "49573",
     "contractDate": "4-1-2012",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "13-5-2013",
-    "originalValue": 2591000,
+    "originalValue": 0,
     "contractValue": 2591000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/3eb29020eed7e80a2557c839f6566922.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id110533",
-    "vendorClean": "BIRD CONSTRUCTION GROUP  (BEDFORD)"
+    "vendorClean": "BIRD CONSTRUCTION GROUP (BEDFORD)"
 }

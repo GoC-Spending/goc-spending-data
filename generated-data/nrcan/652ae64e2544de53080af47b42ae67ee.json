@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-20130263A",
-    "vendorName": "ANSYS CANADA  LTD",
+    "vendorName": "ANSYS CANADA LTD",
     "referenceNumber": "20130263A",
     "contractDate": "2012-11-30",
     "description": "1284 Client Software",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 75675.11,
+    "originalValue": 0,
     "contractValue": 75675.11,
     "comments": "Contract awarded by PWGSC. This contract was sole sourced.",
     "ownerAcronym": "nrcan",

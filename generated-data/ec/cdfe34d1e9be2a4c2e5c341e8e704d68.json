@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012-07-31",
-    "originalValue": 69915.17,
+    "originalValue": 0,
     "contractValue": 69915.17,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "ec\/cdfe34d1e9be2a4c2e5c341e8e704d68.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=44301&quarter=2&fiscal=2012%2C%202013",
-    "vendorClean": "APPLICATION ENGINEERINGORPORATED"
+    "vendorClean": "APPLICATION ENGINEERING"
 }

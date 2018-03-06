@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "18-1-2011",
-    "originalValue": 39272,
+    "originalValue": 0,
     "contractValue": 39272,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/9e2739a51edab81bc534ea93e74d4905.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id70781",
-    "vendorClean": "OEA TECHNOLOGIESORPORATED"
+    "vendorClean": "OEA TECHNOLOGIES"
 }

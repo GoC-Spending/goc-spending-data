@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000581933",
-    "vendorName": "WEISS ENVIROTRONICS  INC DBA ENVIRO",
+    "vendorName": "WEISS ENVIROTRONICS INC DBA ENVIRO",
     "referenceNumber": "3000581933",
     "contractDate": "2015-12-14",
     "description": "859 Other Business Services not Elsewhere Specified",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "nrcan\/21ffdb46b4f052328101ef72a6f221d8.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2015-2016&qrt=03&id=44334",
-    "vendorClean": "WEISS ENVIROTRONICS  DBA ENVIRO"
+    "vendorClean": "WEISS ENVIROTRONICS DBA ENVIRO"
 }

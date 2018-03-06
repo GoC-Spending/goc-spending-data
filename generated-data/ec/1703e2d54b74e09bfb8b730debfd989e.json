@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 23820.81,
+    "originalValue": 0,
     "contractValue": 23820.81,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "ec\/1703e2d54b74e09bfb8b730debfd989e.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=46935&quarter=4&fiscal=2012%2C%202013",
-    "vendorClean": "YSIORPORATED"
+    "vendorClean": "YSI"
 }

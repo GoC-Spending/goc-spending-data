@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-13-0006",
-    "vendorName": "LLOYD  PETER",
+    "vendorName": "LLOYD PETER",
     "referenceNumber": "09-13-0006",
     "contractDate": "7\/3\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 24850,
+    "originalValue": 0,
     "contractValue": 24850,
     "comments": "This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/9d0e5cf08f8cfb5b97418b8f6d89b961.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct9-eng.asp",
-    "vendorClean": "LLOYD  PETER"
+    "vendorClean": "LLOYD PETER"
 }

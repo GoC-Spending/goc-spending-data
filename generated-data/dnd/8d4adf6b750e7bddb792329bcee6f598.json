@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7714-9-00872",
-    "vendorName": "ESRI  Canada",
+    "vendorName": "ESRI Canada",
     "referenceNumber": "W7714-9-00872",
     "contractDate": "24-11-2009",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "3-12-2010",
-    "originalValue": 18175.5,
+    "originalValue": 0,
     "contractValue": 18175.5,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/8d4adf6b750e7bddb792329bcee6f598.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67706",
-    "vendorClean": "ESRI  CANADA"
+    "vendorClean": "ESRI CANADA"
 }

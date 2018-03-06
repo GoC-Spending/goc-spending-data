@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-13-0007",
-    "vendorName": "GAGNON  MARCEL",
+    "vendorName": "GAGNON MARCEL",
     "referenceNumber": "09-13-0007",
     "contractDate": "7\/11\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 15135,
+    "originalValue": 0,
     "contractValue": 15135,
     "comments": "This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/b671cb3a3aa9e625a6ac4bc2e375ba46.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct49-eng.asp",
-    "vendorClean": "GAGNON  MARCEL"
+    "vendorClean": "GAGNON MARCEL"
 }

@@ -3,7 +3,7 @@
     "vendorName": "SERVA INCORPORATED",
     "referenceNumber": "8014195",
     "contractDate": "2006-08-22",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2006-08-22",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 24857,
+    "originalValue": 0,
     "contractValue": 24857,
     "comments": "",
     "ownerAcronym": "tbs",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q2",
     "sourceFilename": "tbs\/612404ece5671d42ef7f002f0f41803d.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=8014195&q=2&yr=2006&d=",
-    "vendorClean": "SERVAORPORATED"
+    "vendorClean": "SERVA"
 }

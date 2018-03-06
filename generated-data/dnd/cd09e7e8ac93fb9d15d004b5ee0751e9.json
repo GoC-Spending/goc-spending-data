@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "30-1-2011",
-    "originalValue": 94016,
+    "originalValue": 0,
     "contractValue": 94016,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/cd09e7e8ac93fb9d15d004b5ee0751e9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id76713",
-    "vendorClean": "SIFTO CANADAORPORATED"
+    "vendorClean": "SIFTO CANADA"
 }

@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 21446,
+    "originalValue": 0,
     "contractValue": 21446,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/e33605a3e7ccacbaf8f1abcd805b97b5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id25543",
-    "vendorClean": "SPECTRUM SCIENCE SOFTWAREORPORATED"
+    "vendorClean": "SPECTRUM SCIENCE SOFTWARE"
 }

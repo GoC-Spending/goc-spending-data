@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-8010",
-    "vendorName": "MCHUGH  DR PAUL",
+    "vendorName": "MCHUGH DR PAUL",
     "referenceNumber": "20-13-8010",
     "contractDate": "9\/19\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 71918,
+    "originalValue": 0,
     "contractValue": 71918,
     "comments": "This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/d77625df258d3bb806b8e936e60cdbf2.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct256-eng.asp",
-    "vendorClean": "MCHUGH  DR PAUL"
+    "vendorClean": "MCHUGH DR PAUL"
 }

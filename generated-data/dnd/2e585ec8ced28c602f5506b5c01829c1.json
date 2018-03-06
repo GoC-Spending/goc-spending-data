@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-101727",
-    "vendorName": "Boyne \/ Clarke  Solicitors",
+    "vendorName": "Boyne \/ Clarke Solicitors",
     "referenceNumber": "101727",
     "contractDate": "14-7-2008",
     "description": "Legal Services\/litigation\/Lawyers",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "27-2-2009",
-    "originalValue": 20000,
+    "originalValue": 0,
     "contractValue": 20000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/2e585ec8ced28c602f5506b5c01829c1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id56849",
-    "vendorClean": "BOYNE CLARKE  SOLICITORS"
+    "vendorClean": "BOYNE CLARKE SOLICITORS"
 }

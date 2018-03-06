@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-62053",
-    "vendorName": "AMEC Foster Wheeler  (Winnipeg)",
+    "vendorName": "AMEC Foster Wheeler (Winnipeg)",
     "referenceNumber": "62053",
     "contractDate": "4-4-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "14-5-2016",
-    "originalValue": 23970,
+    "originalValue": 0,
     "contractValue": 23970,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "dnd\/1cea5409014983c44692a002e6f14977.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2016&id=id194177",
-    "vendorClean": "AMEC FOSTER WHEELER  (WINNIPEG)"
+    "vendorClean": "AMEC FOSTER WHEELER (WINNIPEG)"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2005-03-31",
-    "originalValue": 9868.75,
+    "originalValue": 0,
     "contractValue": 9868.75,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ec\/86675fba562cdf4cd42ea114e9047ce5.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=5393&quarter=4&fiscal=2004%2C%202005",
-    "vendorClean": "MACLEAN MEDIA SYSTEMSORPORATED"
+    "vendorClean": "MACLEAN MEDIA SYSTEMS"
 }

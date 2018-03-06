@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "11-5-2011",
-    "originalValue": 877388,
+    "originalValue": 0,
     "contractValue": 877388,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/bc77bf0a9cca6a819eb7a9d602023d90.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id60820",
-    "vendorClean": "ARMAMENT TECHNOLOGYORPORATED"
+    "vendorClean": "ARMAMENT TECHNOLOGY"
 }

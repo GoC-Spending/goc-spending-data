@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "2016\/01\/19",
-    "originalValue": 20530.27,
+    "originalValue": 0,
     "contractValue": 20530.27,
     "comments": "L31-RPGC-LAN Sun Valve",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "pc\/c29c7d93c5a6672611ad92aadb6e92db.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2015-2016&oqQUARTER=4&oqCONTRACT_ID=49962",
-    "vendorClean": "M & C HYDRAULICORPORATED"
+    "vendorClean": "M & C HYDRAULIC"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50991",
-    "vendorName": "J.G. Fitzgerald & Son's Ltd  (Pembroke)",
+    "vendorName": "J.G. Fitzgerald & Son's Ltd (Pembroke)",
     "referenceNumber": "50991",
     "contractDate": "4-7-2012",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "21-11-2012",
-    "originalValue": 1350014.48,
+    "originalValue": 0,
     "contractValue": 1350014.48,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/56fbc955f6562e1a5d2c1db3cc3f47e4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id122229",
-    "vendorClean": "JG FITZGERALD & SONS  (PEMBROKE)"
+    "vendorClean": "JG FITZGERALD & SONS (PEMBROKE)"
 }

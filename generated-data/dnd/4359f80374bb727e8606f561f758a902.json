@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "11-11-2009",
-    "originalValue": 22891,
+    "originalValue": 0,
     "contractValue": 22891,
     "comments": "This item contains one or more amendment.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/4359f80374bb727e8606f561f758a902.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67463",
-    "vendorClean": "SIFTO CANADAORPORATED"
+    "vendorClean": "SIFTO CANADA"
 }

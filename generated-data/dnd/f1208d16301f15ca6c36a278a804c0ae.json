@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-227950-44",
-    "vendorName": "CANADIAN  MARITIME ENGINEERING",
+    "vendorName": "CANADIAN MARITIME ENGINEERING",
     "referenceNumber": "227950-44",
     "contractDate": "29-10-2010",
     "description": "General Contractor Services, N.E.S.",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "22-3-2011",
-    "originalValue": 10321.25,
+    "originalValue": 0,
     "contractValue": 10321.25,
     "comments": "This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/f1208d16301f15ca6c36a278a804c0ae.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id125539",
-    "vendorClean": "CANADIAN  MARITIME ENGINEERING"
+    "vendorClean": "CANADIAN MARITIME ENGINEERING"
 }

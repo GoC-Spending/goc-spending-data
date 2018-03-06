@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49650",
-    "vendorName": "WEQ Britco LP     (Langely)",
+    "vendorName": "WEQ Britco LP  (Langely)",
     "referenceNumber": "49650",
     "contractDate": "7-12-2011",
     "description": "Assembly \/ Erection - Prefab",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "6-3-2012",
-    "originalValue": 88607,
+    "originalValue": 0,
     "contractValue": 88607,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/545bc573825d7d4ef4f9aa35ea16abfa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id108962",
-    "vendorClean": "WEQ BRITCO LP     (LANGELY)"
+    "vendorClean": "WEQ BRITCO LP   (LANGELY)"
 }

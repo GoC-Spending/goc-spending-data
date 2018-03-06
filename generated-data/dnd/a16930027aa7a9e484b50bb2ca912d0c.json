@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7711-073622\/001\/TOR",
-    "vendorName": "\"Electrical Geodesics, Inc.                                            \"",
+    "vendorName": "\"Electrical Geodesics, Inc.           \"",
     "referenceNumber": "W7711-073622\/001\/TOR",
     "contractDate": "5-3-2008",
     "description": "Laboratory Equipment and Supplies",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "4-3-2009",
-    "originalValue": 82965,
+    "originalValue": 0,
     "contractValue": 82965,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/a16930027aa7a9e484b50bb2ca912d0c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39857",
-    "vendorClean": "\"ELECTRICAL GEODESICS                                            \""
+    "vendorClean": "\"ELECTRICAL GEODESICS                      \""
 }

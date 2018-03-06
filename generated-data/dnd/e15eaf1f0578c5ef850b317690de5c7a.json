@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2012,
     "deliveryDate": "31-12-2012",
-    "originalValue": 23942,
+    "originalValue": 0,
     "contractValue": 23942,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "dnd\/e15eaf1f0578c5ef850b317690de5c7a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2013&id=id143362",
-    "vendorClean": "STEEPLEORPORATED"
+    "vendorClean": "STEEPLE"
 }

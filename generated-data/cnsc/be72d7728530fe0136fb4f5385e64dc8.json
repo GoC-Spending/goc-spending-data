@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "December 13, 2016",
-    "originalValue": 47392.2,
+    "originalValue": 0,
     "contractValue": 47392.2,
     "comments": "Professional services of one Level 3 Programmer\/Analyst (SharePoint developer) exclusively working to provide SharePoint development services. Competitively sourced using the Public Works and Government Services Canada Supply Arrangement for Task-Based Informatics Professional Services (TBIPS). This contract includes one or more amendments.",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "cnsc\/be72d7728530fe0136fb4f5385e64dc8.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=8522",
-    "vendorClean": "PRECISIONITORPORATED"
+    "vendorClean": "PRECISIONIT"
 }

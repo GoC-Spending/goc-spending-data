@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 12695.55,
+    "originalValue": 0,
     "contractValue": 12695.55,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/c9b7182a035d1526825af47bef2963dd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id75691",
-    "vendorClean": "RDMDORPORATED"
+    "vendorClean": "RDMD"
 }

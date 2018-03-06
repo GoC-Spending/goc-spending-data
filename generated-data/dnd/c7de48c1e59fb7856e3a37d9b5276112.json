@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-64325",
-    "vendorName": "WSP Canada Inc.   (Dartmouth)",
+    "vendorName": "WSP Canada Inc. (Dartmouth)",
     "referenceNumber": "64325",
     "contractDate": "10-11-2016",
     "description": "Natural Resources Services",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "28-2-2017",
-    "originalValue": 28368,
+    "originalValue": 0,
     "contractValue": 28368,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "dnd\/c7de48c1e59fb7856e3a37d9b5276112.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2016&id=id192245",
-    "vendorClean": "WSP CANADA   (DARTMOUTH)"
+    "vendorClean": "WSP CANADA  (DARTMOUTH)"
 }

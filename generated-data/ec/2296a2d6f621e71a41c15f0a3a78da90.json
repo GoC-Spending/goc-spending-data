@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K4E21-09-0969",
-    "vendorName": "METIS NATION OF ALBERTA REGION  VI",
+    "vendorName": "METIS NATION OF ALBERTA REGION VI",
     "referenceNumber": "K4E21-09-0969",
     "contractDate": "2010-03-31",
     "description": "0819 Non-professional personal service contracts not elsewhere specified",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 23808.5,
+    "originalValue": 0,
     "contractValue": 23808.5,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "ec\/2296a2d6f621e71a41c15f0a3a78da90.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=29344&quarter=4&fiscal=2009%2C%202010",
-    "vendorClean": "METIS NATION OF ALBERTA REGION  VI"
+    "vendorClean": "METIS NATION OF ALBERTA REGION VI"
 }

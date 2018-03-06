@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 91931,
+    "originalValue": 0,
     "contractValue": 91931,
-    "comments": "Service Contract issued by NRCan.  This contract was competitively sourced. This contract includes one or more amendments",
+    "comments": "Service Contract issued by NRCan. This contract was competitively sourced. This contract includes one or more amendments",
     "ownerAcronym": "nrcan",
     "sourceYear": 2011,
     "sourceQuarter": 3,
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "nrcan\/30aa5b6ac4256c59979720cfbede2ad9.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2011-2012&qrt=03&id=29376",
-    "vendorClean": "DPRA CANADAORPORATED"
+    "vendorClean": "DPRA CANADA"
 }

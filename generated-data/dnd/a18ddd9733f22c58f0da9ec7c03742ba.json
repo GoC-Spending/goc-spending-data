@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47892",
-    "vendorName": "LVM Inc.  (Longueuil)",
+    "vendorName": "LVM Inc. (Longueuil)",
     "referenceNumber": "47892",
     "contractDate": "13-6-2011",
     "description": "Quality Control Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-5-2012",
-    "originalValue": 24843,
+    "originalValue": 0,
     "contractValue": 24843,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/a18ddd9733f22c58f0da9ec7c03742ba.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id98288",
-    "vendorClean": "LVM  (LONGUEUIL)"
+    "vendorClean": "LVM (LONGUEUIL)"
 }

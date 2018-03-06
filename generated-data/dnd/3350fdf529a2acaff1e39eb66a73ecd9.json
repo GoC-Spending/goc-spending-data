@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-E6BOR-055701\/003\/BOR",
-    "vendorName": "ROYAL VICTORIA HOSPITAL OF BARRIE  INCORPORATED",
+    "vendorName": "ROYAL VICTORIA HOSPITAL OF BARRIE INCORPORATED",
     "referenceNumber": "E6BOR-055701\/003\/BOR",
     "contractDate": "21-6-2005",
     "description": "Medical and Health Studies",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "30-6-2006",
-    "originalValue": 230799,
+    "originalValue": 0,
     "contractValue": 230799,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/3350fdf529a2acaff1e39eb66a73ecd9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id11854",
-    "vendorClean": "ROYAL VICTORIA HOSPITAL OF BARRIE ORPORATED"
+    "vendorClean": "ROYAL VICTORIA HOSPITAL OF BARRIE"
 }

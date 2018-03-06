@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-086894\/001\/BY",
-    "vendorName": "AMETEK US GAUGE DIVISION      AEROSPACE PRODUCTS",
+    "vendorName": "AMETEK US GAUGE DIVISION  AEROSPACE PRODUCTS",
     "referenceNumber": "W8485-086894\/001\/BY",
     "contractDate": "11-3-2008",
     "description": "Engine Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-8-2008",
-    "originalValue": 45725,
+    "originalValue": 0,
     "contractValue": 45725,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/5938e1af36d51d3bbaf3492d2d59beda.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39546",
-    "vendorClean": "AMETEK US GAUGE DIVISION      AEROSPACE PRODUCTS"
+    "vendorClean": "AMETEK US GAUGE DIVISION   AEROSPACE PRODUCTS"
 }

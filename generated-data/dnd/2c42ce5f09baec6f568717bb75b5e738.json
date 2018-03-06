@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2007,
     "deliveryDate": "30-9-2007",
-    "originalValue": 100568,
+    "originalValue": 0,
     "contractValue": 100568,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "dnd\/2c42ce5f09baec6f568717bb75b5e738.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2004&id=id4928",
-    "vendorClean": "LANTEC MARINEORPORATED"
+    "vendorClean": "LANTEC MARINE"
 }

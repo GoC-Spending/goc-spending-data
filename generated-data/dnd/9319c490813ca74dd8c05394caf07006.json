@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "22-7-2009",
-    "originalValue": 33170,
+    "originalValue": 0,
     "contractValue": 33170,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/9319c490813ca74dd8c05394caf07006.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43176",
-    "vendorClean": "ELECTRO SONICORPORATED"
+    "vendorClean": "ELECTRO SONIC"
 }

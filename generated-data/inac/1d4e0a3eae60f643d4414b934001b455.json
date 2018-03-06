@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0248",
-    "vendorName": "WOOD  DONNA E",
+    "vendorName": "WOOD DONNA E",
     "referenceNumber": "20-13-0248",
     "contractDate": "3\/5\/2014",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 22824.9,
+    "originalValue": 0,
     "contractValue": 22824.9,
     "comments": "EXPERT ON POLICY AND IMPLEMENATION OF INCOME ASSISTANCE ENHANCED SERVICE DELIVERY\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/1d4e0a3eae60f643d4414b934001b455.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct267-eng.asp",
-    "vendorClean": "WOOD  DONNA E"
+    "vendorClean": "WOOD DONNA E"
 }

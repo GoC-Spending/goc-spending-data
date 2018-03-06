@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "15-4-2012",
-    "originalValue": 206188,
+    "originalValue": 0,
     "contractValue": 206188,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/8a36640d4f68243f554deca70138323a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id111745",
-    "vendorClean": "VALLEY FOODSORPORATED"
+    "vendorClean": "VALLEY FOODS"
 }

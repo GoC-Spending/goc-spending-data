@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-114370\/002\/GRK",
-    "vendorName": "REPAIRCRAFT LTD               THE COMMON",
+    "vendorName": "REPAIRCRAFT LTD    THE COMMON",
     "referenceNumber": "W8482-114370\/002\/GRK",
     "contractDate": "19-7-2010",
     "description": "Valves, Nonpowered",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "19-7-2011",
-    "originalValue": 18586,
+    "originalValue": 0,
     "contractValue": 18586,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/c177213e91319086ea3968226eac9cde.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id77339",
-    "vendorClean": "REPAIRCRAFT               THE COMMON"
+    "vendorClean": "REPAIRCRAFT        THE COMMON"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55636",
-    "vendorName": "Flynn Canada Ltd.  (Saanichton)",
+    "vendorName": "Flynn Canada Ltd. (Saanichton)",
     "referenceNumber": "55636",
     "contractDate": "28-1-2014",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 19800,
+    "originalValue": 0,
     "contractValue": 19800,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/177b081a349a22196696901ef8069f11.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id147090",
-    "vendorClean": "FLYNN CANADA  (SAANICHTON)"
+    "vendorClean": "FLYNN CANADA (SAANICHTON)"
 }

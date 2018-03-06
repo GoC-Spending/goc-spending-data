@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55819",
-    "vendorName": "WSP Canada Inc.   (Moncton)",
+    "vendorName": "WSP Canada Inc. (Moncton)",
     "referenceNumber": "55819",
     "contractDate": "5-3-2014",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "15-1-2015",
-    "originalValue": 12005.42,
+    "originalValue": 0,
     "contractValue": 12005.42,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/1920cf0c5c00272944f5f91d5e040503.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id148765",
-    "vendorClean": "WSP CANADA   (MONCTON)"
+    "vendorClean": "WSP CANADA  (MONCTON)"
 }

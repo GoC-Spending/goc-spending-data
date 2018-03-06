@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "2011\/09\/23",
-    "originalValue": 17182.19,
+    "originalValue": 0,
     "contractValue": 17182.19,
     "comments": "KNP Janitorial - June 30, 2011",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "pc\/84d379a1c921a18d96ac4c9e0b2cfb47.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=2&oqCONTRACT_ID=37407",
-    "vendorClean": "15042 YUKONORPORATED"
+    "vendorClean": "15042 YUKON"
 }

@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "2008\/03\/03",
-    "originalValue": 31789.4,
+    "originalValue": 0,
     "contractValue": 31789.4,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "pc\/ff659bb596ad364392d27f46d962c03d.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=3&oqCONTRACT_ID=26841",
-    "vendorClean": "TAYLOR DOCKSORPORATED"
+    "vendorClean": "TAYLOR DOCKS"
 }

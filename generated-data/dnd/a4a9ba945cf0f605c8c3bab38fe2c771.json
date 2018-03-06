@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-BL0Q3G",
-    "vendorName": "WAINWRIGHT LUMBER  CORP",
+    "vendorName": "WAINWRIGHT LUMBER CORP",
     "referenceNumber": "BL0Q3G",
     "contractDate": "17-3-2010",
     "description": "Plywood and Veneer",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "7-4-2010",
-    "originalValue": 17182.88,
+    "originalValue": 0,
     "contractValue": 17182.88,
     "comments": "This item contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/a4a9ba945cf0f605c8c3bab38fe2c771.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id73516",
-    "vendorClean": "WAINWRIGHT LUMBER  CORP"
+    "vendorClean": "WAINWRIGHT LUMBER CORP"
 }

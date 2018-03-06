@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "28-2-2011",
-    "originalValue": 33974,
+    "originalValue": 0,
     "contractValue": 33974,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/db5c9c2c0ea7dbb47d4e9ac60582db70.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85646",
-    "vendorClean": "ITS CONSTRUCTIONORPORATED"
+    "vendorClean": "ITS CONSTRUCTION"
 }

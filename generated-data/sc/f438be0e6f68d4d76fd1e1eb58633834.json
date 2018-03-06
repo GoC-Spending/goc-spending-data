@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "N\/A",
-    "originalValue": 31666.38,
+    "originalValue": 0,
     "contractValue": 31666.38,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q1",
     "sourceFilename": "sc\/f438be0e6f68d4d76fd1e1eb58633834.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=6131&employeepositionid=null&site=3&startdate=2008-04-01&enddate=2008-06-30&quarterid=9#place118",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

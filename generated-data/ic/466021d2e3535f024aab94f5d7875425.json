@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "",
-    "originalValue": 22293,
+    "originalValue": 0,
     "contractValue": 22293,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ic\/466021d2e3535f024aab94f5d7875425.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=1239",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

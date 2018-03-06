@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-7-UUGC\/001\/BF",
-    "vendorName": "GENERAL ELECTRIC CANADA INC   AIRCRAFT ENGINES\/AEROSPACE",
+    "vendorName": "GENERAL ELECTRIC CANADA INC AIRCRAFT ENGINES\/AEROSPACE",
     "referenceNumber": "W8485-7-UUGC\/001\/BF",
     "contractDate": "4-3-2011",
     "description": "ENGINEERING AND TECHNICAL SERVICES - AEROSPACE RELATED, MILITARY",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-12-2012",
-    "originalValue": 298000,
+    "originalValue": 0,
     "contractValue": 298000,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT IS A RESULT OF AN ADVANCE CONTRACT AWARD NOTICE. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/7da2485ae61605aff3572a94e2c607ab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91620",
-    "vendorClean": "GENERAL ELECTRIC CANADA   AIRCRAFT ENGINES\/AEROSPACE"
+    "vendorClean": "GENERAL ELECTRIC CANADA  AIRCRAFT ENGINES\/AEROSPACE"
 }

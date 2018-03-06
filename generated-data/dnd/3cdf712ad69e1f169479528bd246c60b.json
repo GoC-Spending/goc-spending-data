@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-54347",
-    "vendorName": "Labo S.M. Inc.   (Sherbrooke)",
+    "vendorName": "Labo S.M. Inc. (Sherbrooke)",
     "referenceNumber": "54347",
     "contractDate": "4-9-2013",
     "description": "Quality Control Services",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2015,
     "deliveryDate": "1-5-2015",
-    "originalValue": 54471,
+    "originalValue": 0,
     "contractValue": 54471,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/3cdf712ad69e1f169479528bd246c60b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139346",
-    "vendorClean": "LABO SM   (SHERBROOKE)"
+    "vendorClean": "LABO SM  (SHERBROOKE)"
 }

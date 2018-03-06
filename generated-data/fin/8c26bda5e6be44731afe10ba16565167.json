@@ -1,9 +1,9 @@
 {
     "uuid": "fin-8022902",
-    "vendorName": "THE  ECONOMIST  NEWSPAPER  LTD",
+    "vendorName": "THE ECONOMIST NEWSPAPER LTD",
     "referenceNumber": "8022902",
     "contractDate": "2009-02-13",
-    "description": "352  PUBLIC RELATIONS SERVICES",
+    "description": "352 PUBLIC RELATIONS SERVICES",
     "extraDescription": "",
     "objectCode": "0352",
     "contractPeriodStart": "2009-02-13",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 12181.65,
+    "originalValue": 0,
     "contractValue": 12181.65,
     "comments": "",
     "ownerAcronym": "fin",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "fin\/8c26bda5e6be44731afe10ba16565167.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=8022902&q=4&yr=2008",
-    "vendorClean": "THE  ECONOMIST  NEWSPAPER"
+    "vendorClean": "THE ECONOMIST NEWSPAPER"
 }

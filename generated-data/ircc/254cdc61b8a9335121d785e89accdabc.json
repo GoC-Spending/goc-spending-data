@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 1157691.76,
+    "originalValue": 0,
     "contractValue": 1157691.76,
     "comments": "This contract contains one or more amendments.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/254cdc61b8a9335121d785e89accdabc.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=58",
-    "vendorClean": "DONA CONAORPORATED"
+    "vendorClean": "DONA CONA"
 }

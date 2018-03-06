@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0179",
-    "vendorName": "JOHN A. TYLER & ASSOCIATES  SECURITY MANAGEMENT CONSULTING",
+    "vendorName": "JOHN A. TYLER & ASSOCIATES SECURITY MANAGEMENT CONSULTING",
     "referenceNumber": "20-13-0179",
     "contractDate": "1\/15\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 13209,
+    "originalValue": 0,
     "contractValue": 13209,
     "comments": "Professional Services\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/f554b6b435a0b714ce69a3fc19138fed.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct45-eng.asp",
-    "vendorClean": "JOHN A TYLER & ASSOCIATES  SECURITY MANAGEMENT CONSULTING"
+    "vendorClean": "JOHN A TYLER & ASSOCIATES SECURITY MANAGEMENT CONSULTING"
 }

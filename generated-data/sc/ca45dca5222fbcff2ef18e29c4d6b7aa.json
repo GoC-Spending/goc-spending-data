@@ -1,6 +1,6 @@
 {
     "uuid": "sc-1738-05-0039",
-    "vendorName": "SNC-LAVALIN  PROFAC",
+    "vendorName": "SNC-LAVALIN PROFAC",
     "referenceNumber": "1738-05-0039",
     "contractDate": "2005-12-01",
     "description": "630 Office Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "N\/A",
-    "originalValue": 21638.4,
+    "originalValue": 0,
     "contractValue": 21638.4,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "sc\/ca45dca5222fbcff2ef18e29c4d6b7aa.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=3494&employeepositionid=null&site=3&startdate=2005-10-01&enddate=2005-12-31&quarterid=22#place19",
-    "vendorClean": "SNC-LAVALIN  PROFAC"
+    "vendorClean": "SNC-LAVALIN PROFAC"
 }

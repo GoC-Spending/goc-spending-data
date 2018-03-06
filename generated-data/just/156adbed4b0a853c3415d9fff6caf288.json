@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 27124.67,
+    "originalValue": 0,
     "contractValue": 27124.67,
     "comments": "Temporary Help : Mailroom",
     "ownerAcronym": "just",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "just\/156adbed4b0a853c3415d9fff6caf288.html",
     "sourceURL": "http:\/\/www.justice.gc.ca\/eng\/trans\/pd-dp\/contra\/details.asp?yr=2015&q=3&c=8643",
-    "vendorClean": "HR ASSOCIATESORPORATED"
+    "vendorClean": "HR ASSOCIATES"
 }

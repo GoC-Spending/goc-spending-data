@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8474-095238\/001\/EW",
-    "vendorName": "Agfa  Corporation",
+    "vendorName": "Agfa Corporation",
     "referenceNumber": "W8474-095238\/001\/EW",
     "contractDate": "8-7-2009",
     "description": "ADP Input-Output and Storage Devices",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "7-7-2010",
-    "originalValue": 58425,
+    "originalValue": 0,
     "contractValue": 58425,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/c95bcc60d1fd71870dfdc79dfff7a6aa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id62494",
-    "vendorClean": "AGFA  CORPORATION"
+    "vendorClean": "AGFA CORPORATION"
 }

@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "13-10-2009",
-    "originalValue": 12429,
+    "originalValue": 0,
     "contractValue": 12429,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/be670a9b78ffbcc1401d987298b876d4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id65324",
-    "vendorClean": "ATLANTIC ENVIRONMENTAL TRAINING & ON-SITE SERVICESORPORATED"
+    "vendorClean": "ATLANTIC ENVIRONMENTAL TRAINING & ON-SITE SERVICES"
 }

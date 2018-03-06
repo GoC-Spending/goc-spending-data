@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-48950",
-    "vendorName": "LVM Inc    (London)",
+    "vendorName": "LVM Inc (London)",
     "referenceNumber": "48950",
     "contractDate": "10-11-2011",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2013,
     "deliveryDate": "9-11-2013",
-    "originalValue": 200000,
+    "originalValue": 0,
     "contractValue": 200000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/27ba3a5151bb42da31a80f2daa9e11bf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107183",
-    "vendorClean": "LVM    (LONDON)"
+    "vendorClean": "LVM  (LONDON)"
 }

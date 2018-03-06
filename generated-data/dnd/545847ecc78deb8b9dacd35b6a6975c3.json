@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-48680",
-    "vendorName": "LVM Inc.    (Kitchener)",
+    "vendorName": "LVM Inc. (Kitchener)",
     "referenceNumber": "48680",
     "contractDate": "27-9-2011",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "17-4-2012",
-    "originalValue": 29355,
+    "originalValue": 0,
     "contractValue": 29355,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/545847ecc78deb8b9dacd35b6a6975c3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103243",
-    "vendorClean": "LVM    (KITCHENER)"
+    "vendorClean": "LVM  (KITCHENER)"
 }

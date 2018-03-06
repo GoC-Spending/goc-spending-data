@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3474-06Q398\/001\/KIN",
-    "vendorName": "\"Hope Aero Propeller & Components, Inc.                                \"",
+    "vendorName": "\"Hope Aero Propeller & Components, Inc.        \"",
     "referenceNumber": "W3474-06Q398\/001\/KIN",
     "contractDate": "10-3-2008",
     "description": "ANALYZERS",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "10-3-2009",
-    "originalValue": 37803,
+    "originalValue": 0,
     "contractValue": 37803,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/7cbaf8dec05f2e2bb0296d3070684e0a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39436",
-    "vendorClean": "\"HOPE AERO PROPELLER & COMPONENTS                                \""
+    "vendorClean": "\"HOPE AERO PROPELLER & COMPONENTS                \""
 }

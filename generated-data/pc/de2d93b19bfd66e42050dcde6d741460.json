@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "2014\/03\/31",
-    "originalValue": 12012,
+    "originalValue": 0,
     "contractValue": 12012,
     "comments": "VRC JANITORIAL SERVICES",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "pc\/de2d93b19bfd66e42050dcde6d741460.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=1&oqCONTRACT_ID=40871",
-    "vendorClean": "15042 YUKONORPORATED"
+    "vendorClean": "15042 YUKON"
 }

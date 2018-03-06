@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-13-8001",
-    "vendorName": "STEWART  AUDREY JEAN",
+    "vendorName": "STEWART AUDREY JEAN",
     "referenceNumber": "09-13-8001",
     "contractDate": "5\/1\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 45200,
+    "originalValue": 0,
     "contractValue": 45200,
     "comments": "This contract was sole-sourced.\/This contract is a multi-year contract. This contract is with a former public servant in receipt of a pension under the Public Service Superannuation Act.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/e713dc08e4f67dae8c6bfcb027aac744.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct104-eng.asp",
-    "vendorClean": "STEWART  AUDREY JEAN"
+    "vendorClean": "STEWART AUDREY JEAN"
 }

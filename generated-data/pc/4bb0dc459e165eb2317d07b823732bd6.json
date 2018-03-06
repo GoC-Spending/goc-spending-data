@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45335937",
-    "vendorName": "G.L.  Caissie LtA(C)e\/Ltd.",
+    "vendorName": "G.L. Caissie LtA(C)e\/Ltd.",
     "referenceNumber": "45335937",
     "contractDate": "2013\/12\/16",
     "description": "1241 Plumbing equipment and fittings, incl. parts",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "2014\/01\/15",
-    "originalValue": 17730.83,
+    "originalValue": 0,
     "contractValue": 17730.83,
     "comments": "Water treatment system - Waxing Hut",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "pc\/4bb0dc459e165eb2317d07b823732bd6.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=3&oqCONTRACT_ID=42760",
-    "vendorClean": "GL  CAISSIE LTA(C)E\/LTD"
+    "vendorClean": "GL CAISSIE LTA(C)E\/LTD"
 }

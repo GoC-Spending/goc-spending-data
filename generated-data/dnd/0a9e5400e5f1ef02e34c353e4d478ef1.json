@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-093868\/001\/GRK",
-    "vendorName": "HERKULES FAHRZEUGLOGISTIK     GMBH",
+    "vendorName": "HERKULES FAHRZEUGLOGISTIK  GMBH",
     "referenceNumber": "W8486-093868\/001\/GRK",
     "contractDate": "22-5-2009",
     "description": "Vehicular Cab, Body and Frame Structural Components",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "9-12-2009",
-    "originalValue": 15535,
+    "originalValue": 0,
     "contractValue": 15535,
     "comments": "This is an amendment.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/0a9e5400e5f1ef02e34c353e4d478ef1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id59896",
-    "vendorClean": "HERKULES FAHRZEUGLOGISTIK     GMBH"
+    "vendorClean": "HERKULES FAHRZEUGLOGISTIK   GMBH"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7702-07R149\/001\/EDM",
-    "vendorName": "The Regents of the University of California  The University of Califor",
+    "vendorName": "The Regents of the University of California The University of Califor",
     "referenceNumber": "W7702-07R149\/001\/EDM",
     "contractDate": "22-2-2008",
     "description": "Military (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-8-2008",
-    "originalValue": 32000,
+    "originalValue": 0,
     "contractValue": 32000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/65d57999facf417e7a3330392ebbbce2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39328",
-    "vendorClean": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA  THE UNIVERSITY OF CALIFOR"
+    "vendorClean": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THE UNIVERSITY OF CALIFOR"
 }

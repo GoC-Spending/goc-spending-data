@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000464307",
-    "vendorName": "INTEGRA  NETWORKS CORPORATION",
+    "vendorName": "INTEGRA NETWORKS CORPORATION",
     "referenceNumber": "3000464307",
     "contractDate": "2012-01-18",
-    "description": "Acquisition of Informatics Equipment and Parts                                                      1229 - Computer Equipment and Parts",
+    "description": "Acquisition of Informatics Equipment and Parts              1229 - Computer Equipment and Parts",
     "extraDescription": "",
     "objectCode": "1229",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 46541,
+    "originalValue": 0,
     "contractValue": 46541,
     "comments": "This contract is a call-up against a standing offer.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "cfia\/0fc8b295ebe5677758c1dbb65e4a9cee.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2011-2012&q=4&contraID=11241&yid=8",
-    "vendorClean": "INTEGRA  NETWORKS CORPORATION"
+    "vendorClean": "INTEGRA NETWORKS CORPORATION"
 }

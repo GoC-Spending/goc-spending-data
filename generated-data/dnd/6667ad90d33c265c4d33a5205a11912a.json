@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-4-2011",
-    "originalValue": 15689,
+    "originalValue": 0,
     "contractValue": 15689,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/6667ad90d33c265c4d33a5205a11912a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91024",
-    "vendorClean": "FUELS SAFETY CONSULTANTSORPORATED"
+    "vendorClean": "FUELS SAFETY CONSULTANTS"
 }

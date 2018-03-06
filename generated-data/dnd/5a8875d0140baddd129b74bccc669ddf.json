@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-58443",
-    "vendorName": "152610 Canada Inc.  o\/a Laurin & Co.",
+    "vendorName": "152610 Canada Inc. o\/a Laurin & Co.",
     "referenceNumber": "58443",
     "contractDate": "30-3-2015",
     "description": "Construction Work - Civil Eng",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "30-6-2015",
-    "originalValue": 356900,
+    "originalValue": 0,
     "contractValue": 356900,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/5a8875d0140baddd129b74bccc669ddf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id165641",
-    "vendorClean": "152610 CANADA  O\/A LAURIN & CO"
+    "vendorClean": "152610 CANADA O\/A LAURIN & CO"
 }

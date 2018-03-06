@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 11496.18,
+    "originalValue": 0,
     "contractValue": 11496.18,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/68db0304dd13a0a94e0e39a0e813c9f2.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=46",
-    "vendorClean": "CANON CANADAORPORATED"
+    "vendorClean": "CANON CANADA"
 }

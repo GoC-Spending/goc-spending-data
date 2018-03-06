@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-7270938",
-    "vendorName": "Leslie Anderson Train.  & Cons.  Inc.",
+    "vendorName": "Leslie Anderson Train. & Cons. Inc.",
     "referenceNumber": "7270938",
     "contractDate": "2012-01-23",
     "description": "96307 Training Consultants",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 24780,
+    "originalValue": 0,
     "contractValue": 24780,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "irccpc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "irccpc\/813e8737eea6eeaaf2da6516b791f81e.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2011-2012-4&ref=7270938",
-    "vendorClean": "LESLIE ANDERSON TRAIN  & CONS"
+    "vendorClean": "LESLIE ANDERSON TRAIN & CONS"
 }

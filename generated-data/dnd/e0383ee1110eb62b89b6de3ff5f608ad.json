@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-e0383ee1110eb62b89b6de3ff5f608ad",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "e0383ee1110eb62b89b6de3ff5f608ad",
     "contractDate": "20-10-2011",
     "description": "Pipe, Tube and Rigid Tubing",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "27-10-2012",
-    "originalValue": 23932,
+    "originalValue": 0,
     "contractValue": 23932,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/e0383ee1110eb62b89b6de3ff5f608ad.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107087",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

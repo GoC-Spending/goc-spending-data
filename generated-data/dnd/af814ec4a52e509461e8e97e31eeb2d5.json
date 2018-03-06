@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-22186SM002",
-    "vendorName": "EPIC - Education  Program Innovations Center",
+    "vendorName": "EPIC - Education Program Innovations Center",
     "referenceNumber": "22186SM002",
     "contractDate": "8-9-2016",
     "description": "Business Training",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "21-10-2016",
-    "originalValue": 18526.35,
+    "originalValue": 0,
     "contractValue": 18526.35,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/af814ec4a52e509461e8e97e31eeb2d5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id199579",
-    "vendorClean": "EPIC EDUCATION  PROGRAM INNOVATIONS CENTER"
+    "vendorClean": "EPIC EDUCATION PROGRAM INNOVATIONS CENTER"
 }

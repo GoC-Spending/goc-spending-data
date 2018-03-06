@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 29960,
+    "originalValue": 0,
     "contractValue": 29960,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/36f335e79234966d8f7058cfab3b53ac.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10179",
-    "vendorClean": "ARMACODEORPORATED"
+    "vendorClean": "ARMACODE"
 }

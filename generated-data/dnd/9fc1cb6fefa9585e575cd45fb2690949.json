@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2017,
     "deliveryDate": "31-3-2017",
-    "originalValue": 920000,
+    "originalValue": 0,
     "contractValue": 920000,
     "comments": "This contract is a result of an advance contract award notice. This contract was sole sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/9fc1cb6fefa9585e575cd45fb2690949.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id165505",
-    "vendorClean": "LANTEC MARINEORPORATED"
+    "vendorClean": "LANTEC MARINE"
 }

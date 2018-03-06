@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-13-8009",
-    "vendorName": "HUGHES  JACK",
+    "vendorName": "HUGHES JACK",
     "referenceNumber": "09-13-8009",
     "contractDate": "1\/22\/2014",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 47475,
+    "originalValue": 0,
     "contractValue": 47475,
     "comments": "Crown Deponent\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/b022484389bd224ff70df277ea6b4856.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct64-eng.asp",
-    "vendorClean": "HUGHES  JACK"
+    "vendorClean": "HUGHES JACK"
 }

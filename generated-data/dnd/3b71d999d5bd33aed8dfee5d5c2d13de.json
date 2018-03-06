@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 24360,
+    "originalValue": 0,
     "contractValue": 24360,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/3b71d999d5bd33aed8dfee5d5c2d13de.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id57163",
-    "vendorClean": "NEXIENT LEARNINGORPORATED"
+    "vendorClean": "NEXIENT LEARNING"
 }

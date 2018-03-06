@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7702-08R188\/001\/EDM",
-    "vendorName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA  THE UNIVERSITY OF CALIFOR",
+    "vendorName": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THE UNIVERSITY OF CALIFOR",
     "referenceNumber": "W7702-08R188\/001\/EDM",
     "contractDate": "4-2-2011",
     "description": "MILITARY (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 17000,
+    "originalValue": 0,
     "contractValue": 17000,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/744128470a0620680c85ab3e803029da.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89840",
-    "vendorClean": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA  THE UNIVERSITY OF CALIFOR"
+    "vendorClean": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THE UNIVERSITY OF CALIFOR"
 }

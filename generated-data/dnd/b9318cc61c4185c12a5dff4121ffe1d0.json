@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2014,
     "deliveryDate": "14-10-2014",
-    "originalValue": 238910,
+    "originalValue": 0,
     "contractValue": 238910,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/b9318cc61c4185c12a5dff4121ffe1d0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id126953",
-    "vendorClean": "ACF ASSOCIATESORPORATED"
+    "vendorClean": "ACF ASSOCIATES"
 }

@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 24577.5,
+    "originalValue": 0,
     "contractValue": 24577.5,
     "comments": "Professional services related to Improving the CNSC Document Writing Processes. This contract was sole-sourced.",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "cnsc\/7116b9b28258c28ac027ff3ee0b621a5.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=7356",
-    "vendorClean": "CHAPMAN COACHINGORPORATED"
+    "vendorClean": "CHAPMAN COACHING"
 }

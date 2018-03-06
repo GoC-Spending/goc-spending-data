@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/02\/15",
-    "originalValue": 10843.88,
+    "originalValue": 0,
     "contractValue": 10843.88,
     "comments": "Modifie 40 ft Sea Container",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/eb3a5d8d039b1894990d615be70430ec.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=34001",
-    "vendorClean": "BOND INDUSTRIAL DIRECTORPORATED"
+    "vendorClean": "BOND INDUSTRIAL DIRECT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0046-066202\/001\/SV",
-    "vendorName": "\"Phoenix OHC, Inc.                                                     \"",
+    "vendorName": "\"Phoenix OHC, Inc.              \"",
     "referenceNumber": "W0046-066202\/001\/SV",
     "contractDate": "17-3-2008",
     "description": "Military (R&D)",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 146349,
+    "originalValue": 0,
     "contractValue": 146349,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/47f4301c71c46b4e6506acfe83e145e5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40090",
-    "vendorClean": "\"PHOENIX OHC                                                     \""
+    "vendorClean": "\"PHOENIX OHC                           \""
 }

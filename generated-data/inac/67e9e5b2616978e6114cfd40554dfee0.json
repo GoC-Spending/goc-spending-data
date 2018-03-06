@@ -1,6 +1,6 @@
 {
     "uuid": "inac-A0165-13-1010",
-    "vendorName": "BUCHANAN  BRENDA",
+    "vendorName": "BUCHANAN BRENDA",
     "referenceNumber": "A0165-13-1010",
     "contractDate": "11\/1\/2013",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24570,
+    "originalValue": 0,
     "contractValue": 24570,
     "comments": "SHAPING OUR COLLECTIVE FUTURE INITIATIVE - A POST DRAP REALIGNMENT OF LMRB\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/67e9e5b2616978e6114cfd40554dfee0.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct75-eng.asp",
-    "vendorClean": "BUCHANAN  BRENDA"
+    "vendorClean": "BUCHANAN BRENDA"
 }

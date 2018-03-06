@@ -1,9 +1,9 @@
 {
     "uuid": "tbs-4000026",
-    "vendorName": "S I  Systems Ltd.",
+    "vendorName": "S I Systems Ltd.",
     "referenceNumber": "4000026",
     "contractDate": "2009-09-02",
-    "description": "491  MANAGEMENT CONSULTING",
+    "description": "491 MANAGEMENT CONSULTING",
     "extraDescription": "N\/A",
     "objectCode": "0491",
     "contractPeriodStart": "2009-09-02",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "tbs\/5fb60729e140d672e0879f6d9c39de92.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=4000026&q=1&yr=2010&d=",
-    "vendorClean": "S I  SYSTEMS"
+    "vendorClean": "S I SYSTEMS"
 }

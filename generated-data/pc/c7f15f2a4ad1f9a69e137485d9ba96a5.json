@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45200026",
-    "vendorName": "Century  Vallen",
+    "vendorName": "Century Vallen",
     "referenceNumber": "45200026",
     "contractDate": "2007\/03\/12",
     "description": "1179 Miscellaneous manufactured articles",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/03\/30",
-    "originalValue": 21772.4,
+    "originalValue": 0,
     "contractValue": 21772.4,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "pc\/c7f15f2a4ad1f9a69e137485d9ba96a5.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2006-2007&oqQUARTER=4&oqCONTRACT_ID=25499",
-    "vendorClean": "CENTURY  VALLEN"
+    "vendorClean": "CENTURY VALLEN"
 }

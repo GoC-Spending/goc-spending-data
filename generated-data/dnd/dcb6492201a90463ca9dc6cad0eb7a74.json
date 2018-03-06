@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "28-2-2011",
-    "originalValue": 263750,
+    "originalValue": 0,
     "contractValue": 263750,
     "comments": "This item contains one or more amendments. This contract was competitively sourced",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/dcb6492201a90463ca9dc6cad0eb7a74.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id69676",
-    "vendorClean": "FLEETWAYORPORATED"
+    "vendorClean": "FLEETWAY"
 }

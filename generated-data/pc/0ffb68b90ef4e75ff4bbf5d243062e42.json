@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45217553",
-    "vendorName": "TELUS  (Geomatics)",
+    "vendorName": "TELUS (Geomatics)",
     "referenceNumber": "45217553",
     "contractDate": "2007\/10\/26",
     "description": "430 Scientific services",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/12\/14",
-    "originalValue": 10146,
+    "originalValue": 0,
     "contractValue": 10146,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "pc\/0ffb68b90ef4e75ff4bbf5d243062e42.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=3&oqCONTRACT_ID=26963",
-    "vendorClean": "TELUS  (GEOMATICS)"
+    "vendorClean": "TELUS (GEOMATICS)"
 }

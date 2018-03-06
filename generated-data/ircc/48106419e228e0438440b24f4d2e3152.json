@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 44434.17,
+    "originalValue": 0,
     "contractValue": 44434.17,
     "comments": "This contract was competitively sourced. This contract is a multi-year contract. This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/48106419e228e0438440b24f4d2e3152.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=1052&qid=2010-Q4",
-    "vendorClean": "TERAMACH TECHNOLOGIESORPORATED"
+    "vendorClean": "TERAMACH TECHNOLOGIES"
 }

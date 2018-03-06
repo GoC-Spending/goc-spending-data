@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "August 26, 2005",
-    "originalValue": 53500,
+    "originalValue": 0,
     "contractValue": 53500,
     "comments": "Build, test and implement an interface that will extract data for the Integrated Correctional Services Survey.",
     "ownerAcronym": "stats",

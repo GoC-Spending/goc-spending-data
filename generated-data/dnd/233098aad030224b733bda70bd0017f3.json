@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "15-2-2011",
-    "originalValue": 19756,
+    "originalValue": 0,
     "contractValue": 19756,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/233098aad030224b733bda70bd0017f3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id88827",
-    "vendorClean": "HUTCHINSON TECHNOLOGYORPORATED"
+    "vendorClean": "HUTCHINSON TECHNOLOGY"
 }

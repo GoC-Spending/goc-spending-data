@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W6399-08AD48\/001\/QD",
-    "vendorName": "\"LIGHTFORCE USA, INC.                                                  \"",
+    "vendorName": "\"LIGHTFORCE USA, INC.             \"",
     "referenceNumber": "W6399-08AD48\/001\/QD",
     "contractDate": "5-3-2008",
     "description": "Optical Sighting and Ranging Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "11-4-2008",
-    "originalValue": 75050,
+    "originalValue": 0,
     "contractValue": 75050,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/82723bd91a75baaf8ed7253128573446.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39810",
-    "vendorClean": "\"LIGHTFORCE USA                                                  \""
+    "vendorClean": "\"LIGHTFORCE USA                         \""
 }

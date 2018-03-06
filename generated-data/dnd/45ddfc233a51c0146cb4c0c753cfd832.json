@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8482-067299\/001\/QF",
-    "vendorName": "\"Thales Canada, Systems Division                                       \"",
+    "vendorName": "\"Thales Canada, Systems Division          \"",
     "referenceNumber": "W8482-067299\/001\/QF",
     "contractDate": "31-3-2008",
-    "description": "\"Radar Equipment, Except Airborne                                \"",
+    "description": "\"Radar Equipment, Except Airborne        \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "30-4-2008",
-    "originalValue": 1023750,
+    "originalValue": 0,
     "contractValue": 1023750,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/45ddfc233a51c0146cb4c0c753cfd832.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40411",
-    "vendorClean": "\"THALES CANADA SYSTEMS DIVISION                                       \""
+    "vendorClean": "\"THALES CANADA SYSTEMS DIVISION                    \""
 }

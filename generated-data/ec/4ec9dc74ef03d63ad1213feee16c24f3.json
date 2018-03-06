@@ -11,14 +11,14 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 50000,
+    "originalValue": 0,
     "contractValue": 50000,
-    "comments": "Original Amount $48000.00  This contract includes one or more amendments.  Task Authorization - to provide business architect services related to the financial system transition for the Finance Branch",
+    "comments": "Original Amount $48000.00 This contract includes one or more amendments. Task Authorization - to provide business architect services related to the financial system transition for the Finance Branch",
     "ownerAcronym": "ec",
     "sourceYear": 2014,
     "sourceQuarter": 2,
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "ec\/4ec9dc74ef03d63ad1213feee16c24f3.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=53679&quarter=2&fiscal=2014%2C%202015",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

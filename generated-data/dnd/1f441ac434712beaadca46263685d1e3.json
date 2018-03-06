@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3132-10CE93\/001\/GRK",
-    "vendorName": "ESSERS PAUL                   MALERBETRIEB BODENBELAGE GMBH",
+    "vendorName": "ESSERS PAUL     MALERBETRIEB BODENBELAGE GMBH",
     "referenceNumber": "W3132-10CE93\/001\/GRK",
     "contractDate": "8-3-2012",
     "description": "Floor Coverings - Installation",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-9-2012",
-    "originalValue": 100000,
+    "originalValue": 0,
     "contractValue": 100000,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/1f441ac434712beaadca46263685d1e3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114311",
-    "vendorClean": "ESSERS PAUL                   MALERBETRIEB BODENBELAGE GMBH"
+    "vendorClean": "ESSERS PAUL          MALERBETRIEB BODENBELAGE GMBH"
 }

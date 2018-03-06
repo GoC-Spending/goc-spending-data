@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W8485-08C117\/002\/BY",
-    "vendorName": "\"MHD International Aviation Parts, Inc.                                \"",
+    "vendorName": "\"MHD International Aviation Parts, Inc.        \"",
     "referenceNumber": "W8485-08C117\/002\/BY",
     "contractDate": "10-1-2008",
-    "description": "\"Gas Turbines and Jet Engines; Non-Aircraft Prime Mover, Aircraft Non-Prime Mover, and Components  \"",
+    "description": "\"Gas Turbines and Jet Engines; Non-Aircraft Prime Mover, Aircraft Non-Prime Mover, and Components \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "28-2-2008",
-    "originalValue": 20815,
+    "originalValue": 0,
     "contractValue": 20815,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/fb4f50bbecc4ee9fdf4bb29e62cef549.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38820",
-    "vendorClean": "\"MHD INTERNATIONAL AVIATION PARTS                                \""
+    "vendorClean": "\"MHD INTERNATIONAL AVIATION PARTS                \""
 }

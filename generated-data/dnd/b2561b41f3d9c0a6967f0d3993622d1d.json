@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49882",
-    "vendorName": "LVM Inc.  (St-Romuald)",
+    "vendorName": "LVM Inc. (St-Romuald)",
     "referenceNumber": "49882",
     "contractDate": "23-1-2012",
     "description": "Equipment & Materials Testing",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "4-4-2012",
-    "originalValue": 36331,
+    "originalValue": 0,
     "contractValue": 36331,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/b2561b41f3d9c0a6967f0d3993622d1d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id111551",
-    "vendorClean": "LVM  (ST-ROMUALD)"
+    "vendorClean": "LVM (ST-ROMUALD)"
 }

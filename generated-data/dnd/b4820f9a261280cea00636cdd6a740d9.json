@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-b4820f9a261280cea00636cdd6a740d9",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "b4820f9a261280cea00636cdd6a740d9",
     "contractDate": "27-10-2011",
     "description": "Diesel Engines and Components",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "27-10-2012",
-    "originalValue": 18976,
+    "originalValue": 0,
     "contractValue": 18976,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/b4820f9a261280cea00636cdd6a740d9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107089",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

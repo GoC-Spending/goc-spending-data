@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0113-050110\/001\/BOR",
-    "vendorName": "Jerome & Francis  Co. Ltd",
+    "vendorName": "Jerome & Francis Co. Ltd",
     "referenceNumber": "W0113-050110\/001\/BOR",
     "contractDate": "23-6-2005",
     "description": "CONVERTERS, VOLTAGE TO FREQUENCY, TEST",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "30-9-2005",
-    "originalValue": 39002,
+    "originalValue": 0,
     "contractValue": 39002,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/78cdbe91e2bd5dbb5611bf41d8da23d3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12022",
-    "vendorClean": "JEROME & FRANCIS  CO"
+    "vendorClean": "JEROME & FRANCIS CO"
 }

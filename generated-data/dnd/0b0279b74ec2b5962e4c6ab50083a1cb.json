@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-0b0279b74ec2b5962e4c6ab50083a1cb",
-    "vendorName": "KRAHE GMBH                    INTERNATIONALE MOBELSPEDITION",
+    "vendorName": "KRAHE GMBH     INTERNATIONALE MOBELSPEDITION",
     "referenceNumber": "0b0279b74ec2b5962e4c6ab50083a1cb",
     "contractDate": "23-12-2011",
     "description": "Transportation",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "23-12-2012",
-    "originalValue": 100000,
+    "originalValue": 0,
     "contractValue": 100000,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/0b0279b74ec2b5962e4c6ab50083a1cb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107025",
-    "vendorClean": "KRAHE GMBH                    INTERNATIONALE MOBELSPEDITION"
+    "vendorClean": "KRAHE GMBH          INTERNATIONALE MOBELSPEDITION"
 }

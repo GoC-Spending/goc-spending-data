@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2020,
     "deliveryDate": "",
-    "originalValue": 2723731.68,
+    "originalValue": 0,
     "contractValue": 2723731.68,
     "comments": "This contract was sole-sourced. This contract is a multi-year contract. Adjudication Services for the Indian Residential Schools Settlement Agreement",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "inac\/10f786f10743bc6f890591cf0671f2a4.html",
     "sourceURL": "\/prodis\/cntrcts\/14-15-q2\/ct317-eng.asp",
-    "vendorClean": "RESOLVE ADRORPORATED"
+    "vendorClean": "RESOLVE ADR"
 }

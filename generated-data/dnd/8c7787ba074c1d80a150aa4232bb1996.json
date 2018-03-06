@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53574",
-    "vendorName": "LABO S.M. INC   (MONTREAL)",
+    "vendorName": "LABO S.M. INC (MONTREAL)",
     "referenceNumber": "53574",
     "contractDate": "18-3-2013",
     "description": "ENVIRONMENTAL SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "28-3-2013",
-    "originalValue": 14629,
+    "originalValue": 0,
     "contractValue": 14629,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/8c7787ba074c1d80a150aa4232bb1996.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id134278",
-    "vendorClean": "LABO SM   (MONTREAL)"
+    "vendorClean": "LABO SM  (MONTREAL)"
 }

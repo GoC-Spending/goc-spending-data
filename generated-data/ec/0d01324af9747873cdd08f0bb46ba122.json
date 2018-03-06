@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 44687.5,
+    "originalValue": 0,
     "contractValue": 44687.5,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "ec\/0d01324af9747873cdd08f0bb46ba122.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=42603&quarter=4&fiscal=2011%2C%202012",
-    "vendorClean": "ARKTIS PIUSITIPPAAORPORATED"
+    "vendorClean": "ARKTIS PIUSITIPPAA"
 }

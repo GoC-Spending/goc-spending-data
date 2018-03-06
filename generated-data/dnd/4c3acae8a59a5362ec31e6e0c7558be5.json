@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "30-3-2006",
-    "originalValue": 13501,
+    "originalValue": 0,
     "contractValue": 13501,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/4c3acae8a59a5362ec31e6e0c7558be5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9170",
-    "vendorClean": "ADVANTAGE FITNESS SALESORPORATED"
+    "vendorClean": "ADVANTAGE FITNESS SALES"
 }

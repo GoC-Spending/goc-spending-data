@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50467",
-    "vendorName": "Genivar Inc.  (Victoria)",
+    "vendorName": "Genivar Inc. (Victoria)",
     "referenceNumber": "50467",
     "contractDate": "27-2-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "24-4-2012",
-    "originalValue": 21579.4,
+    "originalValue": 0,
     "contractValue": 21579.4,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/609db5d7047a503c92f88f5315d44d79.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113692",
-    "vendorClean": "GENIVAR  (VICTORIA)"
+    "vendorClean": "GENIVAR (VICTORIA)"
 }

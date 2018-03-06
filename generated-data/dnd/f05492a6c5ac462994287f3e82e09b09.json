@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-f05492a6c5ac462994287f3e82e09b09",
-    "vendorName": "GILCRON CORPORATION           A SUBSIDIARY OF ITT",
+    "vendorName": "GILCRON CORPORATION   A SUBSIDIARY OF ITT",
     "referenceNumber": "f05492a6c5ac462994287f3e82e09b09",
     "contractDate": "26-10-2011",
     "description": "Radar Equipment, Airborne",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2020,
     "deliveryDate": "31-3-2020",
-    "originalValue": 73279,
+    "originalValue": 0,
     "contractValue": 73279,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/f05492a6c5ac462994287f3e82e09b09.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106464",
-    "vendorClean": "GILCRON CORPORATION           A SUBSIDIARY OF ITT"
+    "vendorClean": "GILCRON CORPORATION      A SUBSIDIARY OF ITT"
 }

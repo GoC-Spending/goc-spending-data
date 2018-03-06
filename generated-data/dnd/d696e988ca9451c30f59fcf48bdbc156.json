@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7711-088147\/001\/TOR",
-    "vendorName": "THE OHIO STATE UNIVERSITY     RESEARCH FOUNDATION",
+    "vendorName": "THE OHIO STATE UNIVERSITY  RESEARCH FOUNDATION",
     "referenceNumber": "W7711-088147\/001\/TOR",
     "contractDate": "2-9-2009",
     "description": "Informatics Professional Services",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 992250,
+    "originalValue": 0,
     "contractValue": 992250,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/d696e988ca9451c30f59fcf48bdbc156.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id64740",
-    "vendorClean": "THE OHIO STATE UNIVERSITY     RESEARCH FOUNDATION"
+    "vendorClean": "THE OHIO STATE UNIVERSITY   RESEARCH FOUNDATION"
 }

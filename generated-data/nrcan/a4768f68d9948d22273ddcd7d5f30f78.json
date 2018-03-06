@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000485487",
-    "vendorName": "ANSYS CANADA  LTD",
+    "vendorName": "ANSYS CANADA LTD",
     "referenceNumber": "3000485487",
     "contractDate": "2012-09-01",
     "description": "582 License\/Maintenance fees for Client Software",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 17810.15,
+    "originalValue": 0,
     "contractValue": 17810.15,
     "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",

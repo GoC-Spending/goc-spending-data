@@ -3,7 +3,7 @@
     "vendorName": "Gerstel Incorporated",
     "referenceNumber": "W0046-06Q603\/001\/KIN",
     "contractDate": "11-3-2008",
-    "description": "\"CHROMATOGRAPH, GAS                                              \"",
+    "description": "\"CHROMATOGRAPH, GAS            \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "29-4-2008",
-    "originalValue": 37326,
+    "originalValue": 0,
     "contractValue": 37326,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/c0c9849462f555560995818d9faa207f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id39431",
-    "vendorClean": "GERSTELORPORATED"
+    "vendorClean": "GERSTEL"
 }

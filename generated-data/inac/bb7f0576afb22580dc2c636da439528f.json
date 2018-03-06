@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/3",
-    "vendorName": "GEE  JULIANA",
+    "vendorName": "GEE JULIANA",
     "referenceNumber": "20-09-6088\/3",
     "contractDate": "4\/17\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 26535.6,
+    "originalValue": 0,
     "contractValue": 26535.6,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/bb7f0576afb22580dc2c636da439528f.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct79-eng.asp",
-    "vendorClean": "GEE  JULIANA"
+    "vendorClean": "GEE JULIANA"
 }

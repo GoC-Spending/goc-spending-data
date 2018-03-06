@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2007,
     "deliveryDate": "N\/A",
-    "originalValue": 22506.66,
+    "originalValue": 0,
     "contractValue": 22506.66,
     "comments": "Call-up against a standing offer",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q4",
     "sourceFilename": "sc\/a0a35cc717108a9ddc9878f707320cbc.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=5005&employeepositionid=null&site=3&startdate=2007-01-01&enddate=2007-03-31&quarterid=4#place191",
-    "vendorClean": "THE ANCIEN GROUPORPORATED"
+    "vendorClean": "THE ANCIEN GROUP"
 }

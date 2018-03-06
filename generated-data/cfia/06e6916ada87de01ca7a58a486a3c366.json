@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000503504",
-    "vendorName": "V W R  INTERNATIONAL LTD",
+    "vendorName": "V W R INTERNATIONAL LTD",
     "referenceNumber": "3000503504",
     "contractDate": "2013-02-12",
-    "description": "Acquisition of Equipment and Furniture including Parts                                                                                                                                                                        1243 - Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
+    "description": "Acquisition of Equipment and Furniture including Parts                                          1243 - Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
     "extraDescription": "",
     "objectCode": "1243",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 10842.94,
+    "originalValue": 0,
     "contractValue": 10842.94,
     "comments": "This contract is a call-up against a Public Works and Government Services Canada procurement tool.A?",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "cfia\/06e6916ada87de01ca7a58a486a3c366.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=4&contraID=12851&yid=9",
-    "vendorClean": "V W R  INTERNATIONAL"
+    "vendorClean": "V W R INTERNATIONAL"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-070582\/001\/PD",
-    "vendorName": "The  O.C. Lugo Co., inc",
+    "vendorName": "The O.C. Lugo Co., inc",
     "referenceNumber": "W8482-070582\/001\/PD",
     "contractDate": "5-11-2008",
     "description": "Chemicals",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2010,
     "deliveryDate": "15-2-2010",
-    "originalValue": 66654,
+    "originalValue": 0,
     "contractValue": 66654,
     "comments": "This is an amendment. This contract was sole sourced. This contract is a result of an advance contract award notice.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/afea7a8ef1325b2be87c66ab1fb7e949.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id51067",
-    "vendorClean": "THE  OC LUGO CO"
+    "vendorClean": "THE OC LUGO CO"
 }

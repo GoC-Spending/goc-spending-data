@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2019,
     "deliveryDate": "30-12-2019",
-    "originalValue": 651179,
+    "originalValue": 0,
     "contractValue": 651179,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "dnd\/62dfcbfa2541bf8e5f0f167238d5c33e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2015&id=id207105",
-    "vendorClean": "MITUTOYO CANADAORPORATED"
+    "vendorClean": "MITUTOYO CANADA"
 }

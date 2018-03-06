@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "30-9-2007",
-    "originalValue": 25779,
+    "originalValue": 0,
     "contractValue": 25779,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "dnd\/873c951753a6082d574557d28e4ec2f1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2007&id=id24668",
-    "vendorClean": "RESCUE 7 EMERGENCY TRAINING SERVICESORPORATED"
+    "vendorClean": "RESCUE 7 EMERGENCY TRAINING SERVICES"
 }

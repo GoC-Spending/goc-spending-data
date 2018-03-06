@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0102-057143\/001\/HAL",
-    "vendorName": "BORLEY BROTHERS  GENERAL ENGINEERING",
+    "vendorName": "BORLEY BROTHERS GENERAL ENGINEERING",
     "referenceNumber": "W0102-057143\/001\/HAL",
     "contractDate": "15-8-2005",
     "description": "Aircraft Ground Servicing Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "31-3-2006",
-    "originalValue": 628836,
+    "originalValue": 0,
     "contractValue": 628836,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/df7114cc016f3c289a16ed5dddef76d1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id14245",
-    "vendorClean": "BORLEY BROTHERS  GENERAL ENGINEERING"
+    "vendorClean": "BORLEY BROTHERS GENERAL ENGINEERING"
 }

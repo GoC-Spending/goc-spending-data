@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5020653",
-    "vendorName": "FA??DA??RATION FRANCOPHONE  DE",
+    "vendorName": "FA??DA??RATION FRANCOPHONE DE",
     "referenceNumber": "5020653",
     "contractDate": "2008-01-28",
     "description": "Communications professional services not elsewhere specified",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 18080,
+    "originalValue": 0,
     "contractValue": 18080,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "ic\/dcc765866a84657f17b48c5000330215.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=6590",
-    "vendorClean": "FA??DA??RATION FRANCOPHONE  DE"
+    "vendorClean": "FA??DA??RATION FRANCOPHONE DE"
 }

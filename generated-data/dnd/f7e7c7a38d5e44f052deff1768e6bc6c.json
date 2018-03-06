@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2008,
     "deliveryDate": "15-4-2008",
-    "originalValue": 535000,
+    "originalValue": 0,
     "contractValue": 535000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/f7e7c7a38d5e44f052deff1768e6bc6c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12180",
-    "vendorClean": "CESARONI TECHNOLOGYORPORATED"
+    "vendorClean": "CESARONI TECHNOLOGY"
 }

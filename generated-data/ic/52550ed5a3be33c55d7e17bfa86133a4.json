@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5015446",
-    "vendorName": "CHRISTOPHER  A. TAYLOR",
+    "vendorName": "CHRISTOPHER A. TAYLOR",
     "referenceNumber": "5015446",
     "contractDate": "2005-05-16",
     "description": "Management consulting",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "",
-    "originalValue": 39520,
+    "originalValue": 0,
     "contractValue": 39520,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "ic\/52550ed5a3be33c55d7e17bfa86133a4.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=4017",
-    "vendorClean": "CHRISTOPHER  A TAYLOR"
+    "vendorClean": "CHRISTOPHER A TAYLOR"
 }

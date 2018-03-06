@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-2014-0501",
-    "vendorName": "ORACLE  CANADA ULC",
+    "vendorName": "ORACLE CANADA ULC",
     "referenceNumber": "2014-0501",
     "contractDate": "24\/03\/2015",
     "description": "582 License\/Maintenance fees for Client Software related to Distributed Computing Environment (DCE)",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 68275.22,
+    "originalValue": 0,
     "contractValue": 68275.22,
     "comments": "PWGSC procurement tool. \/Sole-sourced. \/Awarded by PWGSC.",
     "ownerAcronym": "irccpc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "irccpc\/fbd31633a3d961f1e1d02ebe21f5c80c.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2014-2015-4&ref=2014-0501",
-    "vendorClean": "ORACLE  CANADA ULC"
+    "vendorClean": "ORACLE CANADA"
 }

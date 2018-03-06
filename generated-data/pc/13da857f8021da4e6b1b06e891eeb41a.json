@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45293379",
-    "vendorName": "Dalian  Enterprises Inc.",
+    "vendorName": "Dalian Enterprises Inc.",
     "referenceNumber": "45293379",
     "contractDate": "2011\/02\/03",
     "description": "1228 Software",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "2012\/03\/30",
-    "originalValue": 26430.48,
+    "originalValue": 0,
     "contractValue": 26430.48,
     "comments": "Maintenance Renewal McAfee support",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "pc\/13da857f8021da4e6b1b06e891eeb41a.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=4&oqCONTRACT_ID=36211",
-    "vendorClean": "DALIAN  ENTERPRISES"
+    "vendorClean": "DALIAN ENTERPRISES"
 }

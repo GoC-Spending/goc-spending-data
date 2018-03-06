@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49205",
-    "vendorName": "Exp Services inc Les   (Quebec)",
+    "vendorName": "Exp Services inc Les (Quebec)",
     "referenceNumber": "49205",
     "contractDate": "15-12-2011",
     "description": "A&E Services related to Const.",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/645df2e59d963773748cd4117190350e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106151",
-    "vendorClean": "EXP SERVICES LES   (QUEBEC)"
+    "vendorClean": "EXP SERVICES LES  (QUEBEC)"
 }

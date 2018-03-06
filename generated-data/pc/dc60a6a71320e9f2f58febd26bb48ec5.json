@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45144596",
-    "vendorName": "Nicholson  Associates Inc",
+    "vendorName": "Nicholson Associates Inc",
     "referenceNumber": "45144596",
     "contractDate": "2005\/01\/18",
     "description": "499 Other professional services not otherwise specified",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2005\/08\/31",
-    "originalValue": 93625,
+    "originalValue": 0,
     "contractValue": 93625,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "pc\/dc60a6a71320e9f2f58febd26bb48ec5.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=4&oqCONTRACT_ID=13462",
-    "vendorClean": "NICHOLSON  ASSOCIATES"
+    "vendorClean": "NICHOLSON ASSOCIATES"
 }

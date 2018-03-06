@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 23725,
+    "originalValue": 0,
     "contractValue": 23725,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "ec\/b72531e82e3a5b68a39782e183aa766f.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=25409&quarter=1&fiscal=2009%2C%202010",
-    "vendorClean": "MK JACCARD AND ASSOCIATESORPORATED"
+    "vendorClean": "MK JACCARD AND ASSOCIATES"
 }

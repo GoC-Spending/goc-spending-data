@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2008,
     "deliveryDate": "30-6-2008",
-    "originalValue": 109250,
+    "originalValue": 0,
     "contractValue": 109250,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "dnd\/06ab37a02aa6b08235ea54f5d13249c3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2005&id=id16329",
-    "vendorClean": "HYPERSPECTRAL DATA INTERNATIONALORPORATED"
+    "vendorClean": "HYPERSPECTRAL DATA INTERNATIONAL"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50330",
-    "vendorName": "LVM  Inc. (Boucherville)",
+    "vendorName": "LVM Inc. (Boucherville)",
     "referenceNumber": "50330",
     "contractDate": "17-2-2012",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "12-4-2012",
-    "originalValue": 16855,
+    "originalValue": 0,
     "contractValue": 16855,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/21601b2b3364cccecda949c9dde6617a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113204",
-    "vendorClean": "LVM  (BOUCHERVILLE)"
+    "vendorClean": "LVM (BOUCHERVILLE)"
 }

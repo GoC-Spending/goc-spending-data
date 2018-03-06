@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "31-7-2005",
-    "originalValue": 10923,
+    "originalValue": 0,
     "contractValue": 10923,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "dnd\/695132101f91bb470da11a6e5247622e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2004&id=id4216",
-    "vendorClean": "POWERWARE CANADAORPORATED"
+    "vendorClean": "POWERWARE CANADA"
 }

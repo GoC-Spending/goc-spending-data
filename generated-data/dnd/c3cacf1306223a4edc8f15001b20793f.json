@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8474-136631\/001\/QD",
-    "vendorName": "RF COMMUNICATIONS  - PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS",
+    "vendorName": "RF COMMUNICATIONS - PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS",
     "referenceNumber": "W8474-136631\/001\/QD",
     "contractDate": "5-3-2013",
     "description": "RADIO AND TELEVISION COMMUNICATIONS EQUIPMENT, EXCEPT AIRBORNE",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 163558,
+    "originalValue": 0,
     "contractValue": 163558,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/c3cacf1306223a4edc8f15001b20793f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id131955",
-    "vendorClean": "RF COMMUNICATIONS  PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS"
+    "vendorClean": "RF COMMUNICATIONS PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS"
 }

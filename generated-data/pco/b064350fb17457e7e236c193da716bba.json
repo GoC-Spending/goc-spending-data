@@ -1,9 +1,9 @@
 {
     "uuid": "pco-3503585000",
-    "vendorName": "PACS  CANADA",
+    "vendorName": "PACS CANADA",
     "referenceNumber": "3503585000",
     "contractDate": "2008-02-11",
-    "description": "0351                  Communications Professional Services not Elsewhere Specified",
+    "description": "0351     Communications Professional Services not Elsewhere Specified",
     "extraDescription": "",
     "objectCode": "0351",
     "contractPeriodStart": "2008-04-01",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "pco\/b064350fb17457e7e236c193da716bba.html",
     "sourceURL": "http:\/\/www.pco-bcp.gc.ca\/dc\/Contracts_Contract_Details.asp?lang=eng&uniqueID=19477&quarter=20074",
-    "vendorClean": "PACS  CANADA"
+    "vendorClean": "PACS CANADA"
 }

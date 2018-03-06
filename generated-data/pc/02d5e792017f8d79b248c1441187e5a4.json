@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "2017\/02\/28",
-    "originalValue": 1742866.8,
+    "originalValue": 0,
     "contractValue": 1742866.8,
     "comments": "Lock 26 Lakefield concrete repair",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "pc\/02d5e792017f8d79b248c1441187e5a4.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2016-2017&oqQUARTER=3&oqCONTRACT_ID=53124",
-    "vendorClean": "ALL SERVICESORPORATED"
+    "vendorClean": "ALL SERVICES"
 }

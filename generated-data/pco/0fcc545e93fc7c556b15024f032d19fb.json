@@ -1,9 +1,9 @@
 {
     "uuid": "pco-3503506269",
-    "vendorName": "Roubini Global Economics,  LLC",
+    "vendorName": "Roubini Global Economics, LLC",
     "referenceNumber": "3503506269",
     "contractDate": "2011-01-10",
-    "description": "0226                  Data Communications Services (Including All Non-voice Telecommunications Services)",
+    "description": "0226     Data Communications Services (Including All Non-voice Telecommunications Services)",
     "extraDescription": "",
     "objectCode": "0226",
     "contractPeriodStart": "2011-01-15",
@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 14827.5,
     "contractValue": 29655,
-    "comments": "This contract is a multi-year contract.  This contract includes one or more amendments.",
+    "comments": "This contract is a multi-year contract. This contract includes one or more amendments.",
     "ownerAcronym": "pco",
     "sourceYear": 2011,
     "sourceQuarter": 3,
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "pco\/0fcc545e93fc7c556b15024f032d19fb.html",
     "sourceURL": "http:\/\/www.pco-bcp.gc.ca\/dc\/Contracts_Contract_Details.asp?lang=eng&uniqueID=20813&quarter=20113",
-    "vendorClean": "ROUBINI GLOBAL ECONOMICS  LLC"
+    "vendorClean": "ROUBINI GLOBAL ECONOMICS LLC"
 }

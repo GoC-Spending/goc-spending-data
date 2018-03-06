@@ -11,7 +11,7 @@
     "startYear": 2017,
     "endYear": 2018,
     "deliveryDate": "",
-    "originalValue": 86220.33,
+    "originalValue": 0,
     "contractValue": 86220.33,
     "comments": "",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201718-Q1",
     "sourceFilename": "inac\/5739b3a2249cccdca0a9dc81cea4502c.html",
     "sourceURL": "\/prodis\/cntrcts\/17-18-q1\/ct104-eng.asp",
-    "vendorClean": "PRECISIONERPORPORATED"
+    "vendorClean": "PRECISIONERP"
 }

@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "31-3-2013",
-    "originalValue": 1534524,
+    "originalValue": 0,
     "contractValue": 1534524,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/5bc9461d73d6f1d4c0abdd6574f0999f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113710",
-    "vendorClean": "ALLIED CONTAINER SYSTEMSORPORATED"
+    "vendorClean": "ALLIED CONTAINER SYSTEMS"
 }

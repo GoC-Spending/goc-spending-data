@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "2-2-2011",
-    "originalValue": 29380,
+    "originalValue": 0,
     "contractValue": 29380,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/968dad7b06b90b84d649a0d4d2731df2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85775",
-    "vendorClean": "ONE RIDER ADVENTURESORPORATED"
+    "vendorClean": "ONE RIDER ADVENTURES"
 }

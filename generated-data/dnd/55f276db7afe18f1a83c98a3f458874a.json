@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-054961\/001\/BL",
-    "vendorName": "NORCATEC  LLC",
+    "vendorName": "NORCATEC LLC",
     "referenceNumber": "W8486-054961\/001\/BL",
     "contractDate": "21-4-2005",
     "description": "Power Transmission Equipment, Miscellaneous",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "30-12-2005",
-    "originalValue": 30179,
+    "originalValue": 0,
     "contractValue": 30179,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/55f276db7afe18f1a83c98a3f458874a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12847",
-    "vendorClean": "NORCATEC  LLC"
+    "vendorClean": "NORCATEC LLC"
 }

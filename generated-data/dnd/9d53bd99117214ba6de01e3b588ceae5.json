@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2005,
     "deliveryDate": "10-6-2005",
-    "originalValue": 38563,
+    "originalValue": 0,
     "contractValue": 38563,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "dnd\/9d53bd99117214ba6de01e3b588ceae5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2004&id=id3632",
-    "vendorClean": "INUVIALUIT PROJECTSORPORATED (2003)"
+    "vendorClean": "INUVIALUIT PROJECTS (2003)"
 }

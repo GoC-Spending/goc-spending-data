@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W6399-14-FA81",
-    "vendorName": "Sky Venture  Montreal",
+    "vendorName": "Sky Venture Montreal",
     "referenceNumber": "W6399-14-FA81",
     "contractDate": "17-5-2013",
     "description": "Miscellaneous Items (includes only those items of Goods which cannot conceivably be classified in any existing Classes).",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "27-5-2013",
-    "originalValue": 12152.4,
+    "originalValue": 0,
     "contractValue": 12152.4,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/403ee296e10b5e0977413ec2502bb71b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id142825",
-    "vendorClean": "SKY VENTURE  MONTREAL"
+    "vendorClean": "SKY VENTURE MONTREAL"
 }

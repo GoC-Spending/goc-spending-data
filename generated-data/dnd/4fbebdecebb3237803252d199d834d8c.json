@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2100201247",
-    "vendorName": "SIGNATURE  FLIGHT  SUPPORT BBA  AVIATION",
+    "vendorName": "SIGNATURE FLIGHT SUPPORT BBA AVIATION",
     "referenceNumber": "2100201247",
     "contractDate": "28-6-2010",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "28-6-2010",
-    "originalValue": 18343.59,
+    "originalValue": 0,
     "contractValue": 18343.59,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/4fbebdecebb3237803252d199d834d8c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id76640",
-    "vendorClean": "SIGNATURE  FLIGHT  SUPPORT BBA  AVIATION"
+    "vendorClean": "SIGNATURE FLIGHT SUPPORT BBA AVIATION"
 }

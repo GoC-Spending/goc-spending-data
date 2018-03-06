@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3132-04CE48\/001\/GRK",
-    "vendorName": "JOHANNES SPELTERS             GEBAEUDEREINIGUNGS-GMBH",
+    "vendorName": "JOHANNES SPELTERS    GEBAEUDEREINIGUNGS-GMBH",
     "referenceNumber": "W3132-04CE48\/001\/GRK",
     "contractDate": "11-5-2009",
     "description": "Cleaning and Maintenance, Janitorial",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-6-2009",
-    "originalValue": 13000,
+    "originalValue": 0,
     "contractValue": 13000,
     "comments": "This is an amendment.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/0f470499857ab6c96cea29d4abf11e56.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id59446",
-    "vendorClean": "JOHANNES SPELTERS             GEBAEUDEREINIGUNGS-GMBH"
+    "vendorClean": "JOHANNES SPELTERS       GEBAEUDEREINIGUNGS-GMBH"
 }

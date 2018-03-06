@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 16523.15,
     "contractValue": 16523.15,
-    "comments": "Purchase Order.  This contract was sole sourced.",
+    "comments": "Purchase Order. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
     "sourceYear": 2016,
     "sourceQuarter": 3,
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "nrcan\/9dd8fefbd1cc837b2ce9267225cccc23.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2016-2017&qrt=03&id=46698",
-    "vendorClean": "DASCO EQUIPMENTORPORATED"
+    "vendorClean": "DASCO EQUIPMENT"
 }

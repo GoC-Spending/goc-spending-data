@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-050582\/001\/HS",
-    "vendorName": "IMP Group Ltd.  Industrail Marine Products Division",
+    "vendorName": "IMP Group Ltd. Industrail Marine Products Division",
     "referenceNumber": "W8482-050582\/001\/HS",
     "contractDate": "29-9-2004",
     "description": "Fibre Rope, Cordage and Twine",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "22-11-2004",
-    "originalValue": 25515,
+    "originalValue": 0,
     "contractValue": 25515,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "dnd\/0e0f89ee558dbdaf8e0791deb2246b99.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2004&id=id5345",
-    "vendorClean": "IMP GROUP  INDUSTRAIL MARINE PRODUCTS DIVISION"
+    "vendorClean": "IMP GROUP INDUSTRAIL MARINE PRODUCTS DIVISION"
 }

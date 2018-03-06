@@ -1,6 +1,6 @@
 {
     "uuid": "cnsc-87055060421",
-    "vendorName": "MAXSYS PROFESSIONALS  AND",
+    "vendorName": "MAXSYS PROFESSIONALS AND",
     "referenceNumber": "87055060421",
     "contractDate": "June 28, 2006",
     "description": "0813 - Temporary Help Services",
@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 83157,
+    "originalValue": 0,
     "contractValue": 83157,
     "comments": "",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q1",
     "sourceFilename": "cnsc\/7edf398dba138adffc86499667a2a39e.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=750",
-    "vendorClean": "MAXSYS PROFESSIONALS  AND"
+    "vendorClean": "MAXSYS PROFESSIONALS AND"
 }

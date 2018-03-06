@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-W0103-068785\/002\/VIC",
-    "vendorName": "\"Ortho-Clinical Diagnostics, division of Janssen-Ortho                 \"",
+    "vendorName": "\"Ortho-Clinical Diagnostics, division of Janssen-Ortho     \"",
     "referenceNumber": "W0103-068785\/002\/VIC",
     "contractDate": "29-2-2008",
-    "description": "\"ANALYZERS, CHEMICAL, AUTOMATIC (INCLUDES CLINICAL)              \"",
+    "description": "\"ANALYZERS, CHEMICAL, AUTOMATIC (INCLUDES CLINICAL)    \"",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "28-2-2009",
-    "originalValue": 13333,
+    "originalValue": 0,
     "contractValue": 13333,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/3af69ca50e5ce6f8d1cb8933a7706d01.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38210",
-    "vendorClean": "\"ORTHO-CLINICAL DIAGNOSTICS DIVISION OF JANSSEN-ORTHO                 \""
+    "vendorClean": "\"ORTHO-CLINICAL DIAGNOSTICS DIVISION OF JANSSEN-ORTHO         \""
 }

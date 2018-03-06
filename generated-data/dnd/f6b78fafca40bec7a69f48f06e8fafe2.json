@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46674",
-    "vendorName": "152610 CANADA INC.  O\/A LAURIN & CO.",
+    "vendorName": "152610 CANADA INC. O\/A LAURIN & CO.",
     "referenceNumber": "46674",
     "contractDate": "8-3-2011",
     "description": "CONSTRUCTION WORKS - BUILDINGS",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "2-8-2011",
-    "originalValue": 205000,
+    "originalValue": 0,
     "contractValue": 205000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/f6b78fafca40bec7a69f48f06e8fafe2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91767",
-    "vendorClean": "152610 CANADA  O\/A LAURIN & CO"
+    "vendorClean": "152610 CANADA O\/A LAURIN & CO"
 }

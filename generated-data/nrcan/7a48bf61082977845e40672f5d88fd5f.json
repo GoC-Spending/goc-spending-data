@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-20140627A",
-    "vendorName": "ANSYS CANADA  LTD",
+    "vendorName": "ANSYS CANADA LTD",
     "referenceNumber": "20140627A",
     "contractDate": "2014-03-15",
     "description": "License\/Maintenance fees for Application Software (including COTS) and Application Development and Delivery Software ion Development and Delivery Software",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 76131.85,
+    "originalValue": 0,
     "contractValue": 76131.85,
     "comments": "Contract awarded by PWGSC. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",

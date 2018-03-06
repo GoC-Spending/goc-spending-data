@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7702-115160\/001\/CAL",
-    "vendorName": "TELEPHONE NUMBER +49 7272 919514  FAX +49 7272 919516 E-MAIL REICHEL_P",
+    "vendorName": "TELEPHONE NUMBER +49 7272 919514 FAX +49 7272 919516 E-MAIL REICHEL_P",
     "referenceNumber": "W7702-115160\/001\/CAL",
     "contractDate": "21-1-2011",
     "description": "PHYSICAL PROPERTIES TESTING AND INSPECTION EQUIPMENT",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 17585,
+    "originalValue": 0,
     "contractValue": 17585,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/6a55cdfc622836a5aa585855386df2c3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id88984",
-    "vendorClean": "TELEPHONE NUMBER +49 7272 919514  FAX +49 7272 919516 E-MAIL REICHEL_P"
+    "vendorClean": "TELEPHONE NUMBER +49 7272 919514 FAX +49 7272 919516 E-MAIL REICHEL_P"
 }

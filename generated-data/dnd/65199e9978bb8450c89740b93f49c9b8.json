@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3372-10ZM01\/001\/QF",
-    "vendorName": "CEIA S.P.A.   COSTRUZIONI ELETTRONICHE INDUSTRIALI - AUTOMATISMI",
+    "vendorName": "CEIA S.P.A. COSTRUZIONI ELETTRONICHE INDUSTRIALI - AUTOMATISMI",
     "referenceNumber": "W3372-10ZM01\/001\/QF",
     "contractDate": "11-1-2010",
     "description": "Miscellaneous Communications Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "4-9-2011",
-    "originalValue": 416510,
+    "originalValue": 0,
     "contractValue": 416510,
     "comments": "This item contains one or more amendment",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/65199e9978bb8450c89740b93f49c9b8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id69532",
-    "vendorClean": "CEIA SPA   COSTRUZIONI ELETTRONICHE INDUSTRIALI AUTOMATISMI"
+    "vendorClean": "CEIA SPA  COSTRUZIONI ELETTRONICHE INDUSTRIALI AUTOMATISMI"
 }

@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2006,
     "deliveryDate": "",
-    "originalValue": 10748,
+    "originalValue": 0,
     "contractValue": 10748,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q2",
     "sourceFilename": "ic\/59ef04d2205e853f86b6a7136342dee4.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=4620",
-    "vendorClean": "OPINION SEARCHORPORATED"
+    "vendorClean": "OPINION SEARCH"
 }

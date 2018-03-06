@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-49307",
-    "vendorName": "LVM Inc.  (St-Romuald)",
+    "vendorName": "LVM Inc. (St-Romuald)",
     "referenceNumber": "49307",
     "contractDate": "27-10-2011",
     "description": "Inspection Services",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/1bf2fe9be9ea4b0de3106d25bf8a20c9.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107187",
-    "vendorClean": "LVM  (ST-ROMUALD)"
+    "vendorClean": "LVM (ST-ROMUALD)"
 }

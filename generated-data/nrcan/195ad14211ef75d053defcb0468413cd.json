@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000536476",
-    "vendorName": "BEVERLY  MOORE",
+    "vendorName": "BEVERLY MOORE",
     "referenceNumber": "3000536476",
     "contractDate": "2014-01-13",
     "description": "Other Professional Services not Elsewhere Specified",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 22882.5,
+    "originalValue": 0,
     "contractValue": 22882.5,
     "comments": "Service Contract awarded by NRCAN. This contract was sole sourced.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "nrcan\/195ad14211ef75d053defcb0468413cd.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2013-2014&qrt=04&id=35721",
-    "vendorClean": "BEVERLY  MOORE"
+    "vendorClean": "BEVERLY MOORE"
 }

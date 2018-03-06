@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-b3b88165814b227dc6c836f1be7464af",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "b3b88165814b227dc6c836f1be7464af",
     "contractDate": "21-10-2011",
     "description": "Fire Fighting Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "21-10-2012",
-    "originalValue": 15850,
+    "originalValue": 0,
     "contractValue": 15850,
     "comments": "This item contains one or more amendments.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/b3b88165814b227dc6c836f1be7464af.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107088",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

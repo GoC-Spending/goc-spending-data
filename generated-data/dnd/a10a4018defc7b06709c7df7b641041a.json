@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0103-065248\/001\/VIC",
-    "vendorName": "Jerome & Francis  Co. Ltd",
+    "vendorName": "Jerome & Francis Co. Ltd",
     "referenceNumber": "W0103-065248\/001\/VIC",
     "contractDate": "3-5-2005",
     "description": "Converters, Static Frequency",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "1-7-2005",
-    "originalValue": 11249,
+    "originalValue": 0,
     "contractValue": 11249,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/a10a4018defc7b06709c7df7b641041a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id11910",
-    "vendorClean": "JEROME & FRANCIS  CO"
+    "vendorClean": "JEROME & FRANCIS CO"
 }

@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "2004\/08\/31",
-    "originalValue": 10077.21,
+    "originalValue": 0,
     "contractValue": 10077.21,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "pc\/c3406f7dad1346bae82edf6c12460abd.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=2&oqCONTRACT_ID=12401",
-    "vendorClean": "CJWEBBORPORATED"
+    "vendorClean": "CJWEBB"
 }

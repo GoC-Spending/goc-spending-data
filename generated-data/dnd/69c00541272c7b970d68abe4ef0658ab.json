@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-69c00541272c7b970d68abe4ef0658ab",
-    "vendorName": "LEAFIELD LOGS AND TECH        SERVICES LTD",
+    "vendorName": "LEAFIELD LOGS AND TECH  SERVICES LTD",
     "referenceNumber": "69c00541272c7b970d68abe4ef0658ab",
     "contractDate": "16-12-2011",
     "description": "Underwater Sound Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "16-12-2012",
-    "originalValue": 17095,
+    "originalValue": 0,
     "contractValue": 17095,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/69c00541272c7b970d68abe4ef0658ab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id107093",
-    "vendorClean": "LEAFIELD LOGS AND TECH        SERVICES"
+    "vendorClean": "LEAFIELD LOGS AND TECH    SERVICES"
 }

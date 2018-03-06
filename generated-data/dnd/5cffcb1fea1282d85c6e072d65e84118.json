@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46139",
-    "vendorName": "LVM INC.   (SAINT-GEORGES)",
+    "vendorName": "LVM INC. (SAINT-GEORGES)",
     "referenceNumber": "46139",
     "contractDate": "27-1-2011",
     "description": "ENGINEERING STUDIES",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "1-6-2011",
-    "originalValue": 25765,
+    "originalValue": 0,
     "contractValue": 25765,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/5cffcb1fea1282d85c6e072d65e84118.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89302",
-    "vendorClean": "LVM   (SAINT-GEORGES)"
+    "vendorClean": "LVM  (SAINT-GEORGES)"
 }

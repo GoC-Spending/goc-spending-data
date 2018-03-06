@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-138647\/001\/BB",
-    "vendorName": "AMERICAN CHAMPION AIRCRAFT    CORP",
+    "vendorName": "AMERICAN CHAMPION AIRCRAFT CORP",
     "referenceNumber": "W8485-138647\/001\/BB",
     "contractDate": "10-7-2012",
     "description": "Aircraft, Fixed Wing - (Military) Repair and Overhaul",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2020,
     "deliveryDate": "31-3-2020",
-    "originalValue": 350000,
+    "originalValue": 0,
     "contractValue": 350000,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/405674dfa213c18cd44e87f3b6cdff2b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id122554",
-    "vendorClean": "AMERICAN CHAMPION AIRCRAFT    CORP"
+    "vendorClean": "AMERICAN CHAMPION AIRCRAFT  CORP"
 }

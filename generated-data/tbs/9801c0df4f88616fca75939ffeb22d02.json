@@ -1,9 +1,9 @@
 {
     "uuid": "tbs-7004422",
-    "vendorName": "ARTEMP PERSONNEL  SERVICES INC.",
+    "vendorName": "ARTEMP PERSONNEL SERVICES INC.",
     "referenceNumber": "7004422",
     "contractDate": "2009-05-01",
-    "description": "813  TEMPORARY HELP SERVICES",
+    "description": "813 TEMPORARY HELP SERVICES",
     "extraDescription": "N\/A",
     "objectCode": "0813",
     "contractPeriodStart": "2009-05-01",
@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 10080,
     "contractValue": 15120,
-    "comments": "This contract includes one or more amendments.  This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
+    "comments": "This contract includes one or more amendments. This contract is a call-up against a Public Works and Government Services Canada procurement tool.",
     "ownerAcronym": "tbs",
     "sourceYear": 2009,
     "sourceQuarter": 1,
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "tbs\/9801c0df4f88616fca75939ffeb22d02.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=7004422&q=1&yr=2009&d=",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

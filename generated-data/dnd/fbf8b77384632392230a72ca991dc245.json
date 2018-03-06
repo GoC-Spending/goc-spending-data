@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-44257.00",
-    "vendorName": "LVM  INC. (LAVAL)",
+    "vendorName": "LVM INC. (LAVAL)",
     "referenceNumber": "44257.00",
     "contractDate": "16-6-2010",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "11-8-2010",
-    "originalValue": 69931.55,
+    "originalValue": 0,
     "contractValue": 69931.55,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "dnd\/fbf8b77384632392230a72ca991dc245.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2010&id=id75670",
-    "vendorClean": "LVM  (LAVAL)"
+    "vendorClean": "LVM (LAVAL)"
 }

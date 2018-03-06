@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3554-065431\/001\/HAL",
-    "vendorName": "IMP Group Ltd.  Industrail Marine Products Division",
+    "vendorName": "IMP Group Ltd. Industrail Marine Products Division",
     "referenceNumber": "W3554-065431\/001\/HAL",
     "contractDate": "26-9-2005",
     "description": "Rope, Fibrous",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "7-10-2005",
-    "originalValue": 16508,
+    "originalValue": 0,
     "contractValue": 16508,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/e871ca996fe7a20052788f92e2ad80e0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id15022",
-    "vendorClean": "IMP GROUP  INDUSTRAIL MARINE PRODUCTS DIVISION"
+    "vendorClean": "IMP GROUP INDUSTRAIL MARINE PRODUCTS DIVISION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/24",
-    "vendorName": "MCMULLEN  CINDY",
+    "vendorName": "MCMULLEN CINDY",
     "referenceNumber": "09-12-6001\/24",
     "contractDate": "5\/31\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 15015,
+    "originalValue": 0,
     "contractValue": 15015,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/0c6b577262a0456e5d3395c5c51a2259.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct233-eng.asp",
-    "vendorClean": "MCMULLEN  CINDY"
+    "vendorClean": "MCMULLEN CINDY"
 }

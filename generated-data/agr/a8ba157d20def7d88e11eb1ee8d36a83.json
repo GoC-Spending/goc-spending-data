@@ -1,6 +1,6 @@
 {
     "uuid": "agr-3000608486",
-    "vendorName": "CHUBB  EDWARDS",
+    "vendorName": "CHUBB EDWARDS",
     "referenceNumber": "3000608486",
     "contractDate": "2016-03-03",
     "description": "665 Other Equipment",
@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 2944.62,
     "contractValue": 10306.17,
-    "comments": "This contract includes one or more amendments.  This contract was sole-sourced.",
+    "comments": "This contract includes one or more amendments. This contract was sole-sourced.",
     "ownerAcronym": "agr",
     "sourceYear": 2016,
     "sourceQuarter": 2,
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "agr\/a8ba157d20def7d88e11eb1ee8d36a83.html",
     "sourceURL": "\/eng\/?id=1477519262156",
-    "vendorClean": "CHUBB  EDWARDS"
+    "vendorClean": "CHUBB EDWARDS"
 }

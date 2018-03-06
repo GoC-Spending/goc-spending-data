@@ -1,6 +1,6 @@
 {
     "uuid": "ps-7079311",
-    "vendorName": "Action  Personnel",
+    "vendorName": "Action Personnel",
     "referenceNumber": "7079311",
     "contractDate": "2005-02-09",
     "description": "Temporary Help Services",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "N\/A",
-    "originalValue": 16002.49,
+    "originalValue": 0,
     "contractValue": 16002.49,
     "comments": "N\/A",
     "ownerAcronym": "ps",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ps\/881367a9ed0cac0cc093d310f533f04b.html",
     "sourceURL": "https:\/\/www.publicsafety.gc.ca\/cnt\/trnsprnc\/cntrcts\/dtls-en.aspx?id=352",
-    "vendorClean": "ACTION  PERSONNEL"
+    "vendorClean": "ACTION PERSONNEL"
 }

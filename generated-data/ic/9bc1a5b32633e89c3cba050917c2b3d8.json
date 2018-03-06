@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "",
-    "originalValue": 14598,
+    "originalValue": 0,
     "contractValue": 14598,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "ic\/9bc1a5b32633e89c3cba050917c2b3d8.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=1689",
-    "vendorClean": "FORESTELLCOORPORATED"
+    "vendorClean": "FORESTELLCO"
 }

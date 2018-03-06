@@ -1,6 +1,6 @@
 {
     "uuid": "inac-A0134-13-0012",
-    "vendorName": "SKILLSOFT CANADA LTD  BANK OF AMERICA",
+    "vendorName": "SKILLSOFT CANADA LTD BANK OF AMERICA",
     "referenceNumber": "A0134-13-0012",
     "contractDate": "3\/11\/2014",
     "description": "0812 - COMPUTER SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 20824.44,
+    "originalValue": 0,
     "contractValue": 20824.44,
     "comments": "Annual database renewal\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/b54bf3d2cd4474fdfaa55d36b5c472fe.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct294-eng.asp",
-    "vendorClean": "SKILLSOFT CANADA  BANK OF AMERICA"
+    "vendorClean": "SKILLSOFT CANADA BANK OF AMERICA"
 }

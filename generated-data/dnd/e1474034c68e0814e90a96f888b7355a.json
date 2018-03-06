@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-e1474034c68e0814e90a96f888b7355a",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "e1474034c68e0814e90a96f888b7355a",
     "contractDate": "6-12-2011",
     "description": "Vehicular Power Transmission Components",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "6-7-2012",
-    "originalValue": 443610,
+    "originalValue": 0,
     "contractValue": 443610,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/e1474034c68e0814e90a96f888b7355a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id108049",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

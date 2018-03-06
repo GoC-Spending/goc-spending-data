@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 23457.53,
+    "originalValue": 0,
     "contractValue": 23457.53,
     "comments": "Original Amount $0.00",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q3",
     "sourceFilename": "ec\/8f4eb73d84db301d15faa8aa463ad9e1.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=62725&quarter=3&fiscal=2016%2C%202017",
-    "vendorClean": "ACE GLASSORPORATED"
+    "vendorClean": "ACE GLASS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55529",
-    "vendorName": "Pacific Blasting &  Demolition Ltd.",
+    "vendorName": "Pacific Blasting & Demolition Ltd.",
     "referenceNumber": "55529",
     "contractDate": "16-1-2014",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 263726,
+    "originalValue": 0,
     "contractValue": 263726,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/bd7690a0e726f46a34bda2b882e3e2fb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id146616",
-    "vendorClean": "PACIFIC BLASTING &  DEMOLITION"
+    "vendorClean": "PACIFIC BLASTING & DEMOLITION"
 }

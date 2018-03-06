@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-094251\/002\/GRK",
-    "vendorName": "SCHROEDER AUGUST GMBH U CO    KG",
+    "vendorName": "SCHROEDER AUGUST GMBH U CO KG",
     "referenceNumber": "W8486-094251\/002\/GRK",
     "contractDate": "28-1-2009",
     "description": "Engine Cooling System Components, Non-Aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "28-1-2010",
-    "originalValue": 37806,
+    "originalValue": 0,
     "contractValue": 37806,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/35a4d23e39d10a8f862e0579e728faaf.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id53255",
-    "vendorClean": "SCHROEDER AUGUST GMBH U CO    KG"
+    "vendorClean": "SCHROEDER AUGUST GMBH U CO  KG"
 }

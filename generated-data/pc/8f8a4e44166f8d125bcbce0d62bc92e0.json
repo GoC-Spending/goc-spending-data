@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "2014\/09\/23",
-    "originalValue": 11108.24,
+    "originalValue": 0,
     "contractValue": 11108.24,
     "comments": "432 Garlock Vee Packing",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "pc\/8f8a4e44166f8d125bcbce0d62bc92e0.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2014-2015&oqQUARTER=2&oqCONTRACT_ID=44717",
-    "vendorClean": "M&C HYDRAULICORPORATED"
+    "vendorClean": "M&C HYDRAULIC"
 }

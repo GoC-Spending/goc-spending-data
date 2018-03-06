@@ -1,6 +1,6 @@
 {
     "uuid": "inac-00-13-0030",
-    "vendorName": "UNIVERSITY OF WESTERN ONTARIO  THE",
+    "vendorName": "UNIVERSITY OF WESTERN ONTARIO THE",
     "referenceNumber": "00-13-0030",
     "contractDate": "1\/13\/2014",
     "description": "0430 - SCIENTIFIC SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 22600,
+    "originalValue": 0,
     "contractValue": 22600,
     "comments": "3D Geophysical Modelling\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/5e074ad476f60c56b3d437174bda442a.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct32-eng.asp",
-    "vendorClean": "UNIVERSITY OF WESTERN ONTARIO  THE"
+    "vendorClean": "UNIVERSITY OF WESTERN ONTARIO THE"
 }

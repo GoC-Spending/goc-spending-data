@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "12-1-2012",
-    "originalValue": 53130,
+    "originalValue": 0,
     "contractValue": 53130,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/08342e33ac54cc1c0ef327f59d3c3c84.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id88403",
-    "vendorClean": "FACTS ENGINEERINGORPORATED"
+    "vendorClean": "FACTS ENGINEERING"
 }

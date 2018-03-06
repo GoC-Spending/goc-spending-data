@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45226082",
-    "vendorName": "ACUTEST  LABORATORIES LTD.",
+    "vendorName": "ACUTEST LABORATORIES LTD.",
     "referenceNumber": "45226082",
     "contractDate": "2008\/02\/17",
     "description": "430 Scientific services",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2011,
     "deliveryDate": "2011\/03\/31",
-    "originalValue": 20699.43,
+    "originalValue": 0,
     "contractValue": 20699.43,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "pc\/a721f927f0917585200485dd788627b2.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=4&oqCONTRACT_ID=27424",
-    "vendorClean": "ACUTEST  LABORATORIES"
+    "vendorClean": "ACUTEST LABORATORIES"
 }

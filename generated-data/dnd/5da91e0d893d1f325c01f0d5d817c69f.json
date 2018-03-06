@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-54444",
-    "vendorName": "Vertex Environmental Inc.  (Cambridge)",
+    "vendorName": "Vertex Environmental Inc. (Cambridge)",
     "referenceNumber": "54444",
     "contractDate": "12-8-2013",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "20-12-2013",
-    "originalValue": 438923.6,
+    "originalValue": 0,
     "contractValue": 438923.6,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/5da91e0d893d1f325c01f0d5d817c69f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139413",
-    "vendorClean": "VERTEX ENVIRONMENTAL  (CAMBRIDGE)"
+    "vendorClean": "VERTEX ENVIRONMENTAL (CAMBRIDGE)"
 }

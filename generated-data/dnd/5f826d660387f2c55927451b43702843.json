@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0142-13C066\/002\/CAL",
-    "vendorName": "Nelson Lumber Co.  Ltd.",
+    "vendorName": "Nelson Lumber Co. Ltd.",
     "referenceNumber": "W0142-13C066\/002\/CAL",
     "contractDate": "1-11-2012",
     "description": "Lumber and Related Basic Wood Material",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "4-12-2012",
-    "originalValue": 43415,
+    "originalValue": 0,
     "contractValue": 43415,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "15-1-2006",
-    "originalValue": 535000,
+    "originalValue": 0,
     "contractValue": 535000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/7c5f34be22db9a2abf4c708c781dccd1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12177",
-    "vendorClean": "HYDROGENICS CORPORATIONORPORATED"
+    "vendorClean": "HYDROGENICS CORPORATION"
 }

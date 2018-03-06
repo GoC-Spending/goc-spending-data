@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0097",
-    "vendorName": "MITTON  PHOEBE",
+    "vendorName": "MITTON PHOEBE",
     "referenceNumber": "20-13-0097",
     "contractDate": "8\/9\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 21725,
+    "originalValue": 0,
     "contractValue": 21725,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/e63fce86482161186cc7f1293e6f78f9.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct134-eng.asp",
-    "vendorClean": "MITTON  PHOEBE"
+    "vendorClean": "MITTON PHOEBE"
 }

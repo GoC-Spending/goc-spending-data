@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 164509.92,
+    "originalValue": 0,
     "contractValue": 164509.92,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/dfe36743bbc49083f6d314b739ec43aa.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=14&qid=2012-Q1",
-    "vendorClean": "ATTACHMATEORPORATED CANADA"
+    "vendorClean": "ATTACHMATE CANADA"
 }

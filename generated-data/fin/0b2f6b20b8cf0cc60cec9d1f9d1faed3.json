@@ -1,9 +1,9 @@
 {
     "uuid": "fin-8023673",
-    "vendorName": "CANADA COUNCIL  FOR THE  ARTS",
+    "vendorName": "CANADA COUNCIL FOR THE ARTS",
     "referenceNumber": "8023673",
     "contractDate": "2009-04-01",
-    "description": "570  RENTAL - OTHER (SPECIFY)",
+    "description": "570 RENTAL - OTHER (SPECIFY)",
     "extraDescription": "",
     "objectCode": "0570",
     "contractPeriodStart": "2009-04-01",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 23184,
+    "originalValue": 0,
     "contractValue": 23184,
     "comments": "This contract is a multi-year contract.",
     "ownerAcronym": "fin",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "fin\/0b2f6b20b8cf0cc60cec9d1f9d1faed3.html",
     "sourceURL": "http:\/\/www.fin.gc.ca\/contracts-contrats\/details.aspx?r=c&refNum=8023673&q=1&yr=2009",
-    "vendorClean": "CANADA COUNCIL  FOR THE  ARTS"
+    "vendorClean": "CANADA COUNCIL FOR THE ARTS"
 }

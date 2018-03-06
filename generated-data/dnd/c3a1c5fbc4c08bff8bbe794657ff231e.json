@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "31-3-2006",
-    "originalValue": 50000,
+    "originalValue": 0,
     "contractValue": 50000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/c3a1c5fbc4c08bff8bbe794657ff231e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id13365",
-    "vendorClean": "LBJVORPORATED"
+    "vendorClean": "LBJV"
 }

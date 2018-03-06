@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-62850",
-    "vendorName": "Z l A l F l M Group  (Quebec)",
+    "vendorName": "Z l A l F l M Group (Quebec)",
     "referenceNumber": "62850",
     "contractDate": "9-8-2016",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "3-3-2017",
-    "originalValue": 196506.71,
+    "originalValue": 0,
     "contractValue": 196506.71,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/6c2c863042ca3779aa3e0d81ce33b5bd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id198838",
-    "vendorClean": "Z L A L F L M GROUP  (QUEBEC)"
+    "vendorClean": "Z L A L F L M GROUP (QUEBEC)"
 }

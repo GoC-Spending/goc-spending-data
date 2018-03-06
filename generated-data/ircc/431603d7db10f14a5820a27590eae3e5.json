@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 204647.53,
+    "originalValue": 0,
     "contractValue": 204647.53,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/431603d7db10f14a5820a27590eae3e5.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=156&qid=2012-Q1",
-    "vendorClean": "SCALAR DECISIONSORPORATED"
+    "vendorClean": "SCALAR DECISIONS"
 }

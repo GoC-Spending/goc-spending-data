@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0046-06Q158\/001\/KIN",
-    "vendorName": "\"Autoclave Engineers Division of Snap-tite, Inc.                       \"",
+    "vendorName": "\"Autoclave Engineers Division of Snap-tite, Inc.      \"",
     "referenceNumber": "W0046-06Q158\/001\/KIN",
     "contractDate": "27-3-2008",
     "description": "\"Optical Instruments, Test Equipment, Components and Accessories \"",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "26-5-2008",
-    "originalValue": 12240,
+    "originalValue": 0,
     "contractValue": 12240,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/089c557737637cd71d589cfd71e1d05d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38098",
-    "vendorClean": "\"AUTOCLAVE ENGINEERS DIVISION OF SNAP-TITE                       \""
+    "vendorClean": "\"AUTOCLAVE ENGINEERS DIVISION OF SNAP-TITE            \""
 }

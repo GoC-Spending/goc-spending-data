@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 15499,
+    "originalValue": 0,
     "contractValue": 15499,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/246a094686aa0e82b566437fbba0794e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id52369",
-    "vendorClean": "CANAL GEOMATICSORPORATED"
+    "vendorClean": "CANAL GEOMATICS"
 }

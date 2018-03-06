@@ -3,7 +3,7 @@
     "vendorName": "BURNTEDGE INCORPORATED",
     "referenceNumber": "6004722",
     "contractDate": "2004-05-19",
-    "description": "499  Other professional services not otherwise specified",
+    "description": "499 Other professional services not otherwise specified",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2004-05-19",
@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2004,
     "deliveryDate": "",
-    "originalValue": 88943.75,
+    "originalValue": 0,
     "contractValue": 88943.75,
     "comments": "",
     "ownerAcronym": "tbs",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q2",
     "sourceFilename": "tbs\/705249d7f6ade6f7b35fa0b095cdad54.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=6004722&q=2&yr=2004&d=",
-    "vendorClean": "BURNTEDGEORPORATED"
+    "vendorClean": "BURNTEDGE"
 }

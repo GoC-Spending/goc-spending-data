@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-08AD03\/001\/HL",
-    "vendorName": "PYROX  ENERGIES  INC",
+    "vendorName": "PYROX ENERGIES INC",
     "referenceNumber": "W8486-08AD03\/001\/HL",
     "contractDate": "22-10-2008",
     "description": "Waste Disposal Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "15-4-2009",
-    "originalValue": 167975,
+    "originalValue": 0,
     "contractValue": 167975,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/85f6c91a659aa55468f15d3e74d1a96e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id50553",
-    "vendorClean": "PYROX  ENERGIES"
+    "vendorClean": "PYROX ENERGIES"
 }

@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 12799,
+    "originalValue": 0,
     "contractValue": 12799,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "ic\/1471feb6b2d44415196a638ae2445b90.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=9075",
-    "vendorClean": "ELECTROSONICORPORATED"
+    "vendorClean": "ELECTROSONIC"
 }

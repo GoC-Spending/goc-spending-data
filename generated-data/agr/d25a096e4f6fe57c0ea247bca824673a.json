@@ -1,6 +1,6 @@
 {
     "uuid": "agr-3000581987",
-    "vendorName": "AC NIELSEN  COMPANY OF CANADA",
+    "vendorName": "AC NIELSEN COMPANY OF CANADA",
     "referenceNumber": "3000581987",
     "contractDate": "2015-06-01",
     "description": "491 Management Consulting",
@@ -13,12 +13,12 @@
     "deliveryDate": "",
     "originalValue": 11946.36,
     "contractValue": 11946.36,
-    "comments": "This contract was sole-sourced.  Data Analysis - Other Than Scientific",
+    "comments": "This contract was sole-sourced. Data Analysis - Other Than Scientific",
     "ownerAcronym": "agr",
     "sourceYear": 2015,
     "sourceQuarter": 1,
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "agr\/d25a096e4f6fe57c0ea247bca824673a.html",
     "sourceURL": "\/eng\/?id=1438183911461",
-    "vendorClean": "AC NIELSEN  COMPANY OF CANADA"
+    "vendorClean": "AC NIELSEN COMPANY OF CANADA"
 }

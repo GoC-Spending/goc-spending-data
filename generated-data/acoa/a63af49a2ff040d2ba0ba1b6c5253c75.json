@@ -1,9 +1,9 @@
 {
     "uuid": "acoa-CP15443",
-    "vendorName": "SHEPPARD,  BARRY W.",
+    "vendorName": "SHEPPARD, BARRY W.",
     "referenceNumber": "CP15443",
     "contractDate": "2009-04-02",
-    "description": "0491  Management Consulting",
+    "description": "0491 Management Consulting",
     "extraDescription": "",
     "objectCode": "0491",
     "contractPeriodStart": "2009-04-02",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 22600,
+    "originalValue": 0,
     "contractValue": 22600,
     "comments": "",
     "ownerAcronym": "acoa",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "acoa\/a63af49a2ff040d2ba0ba1b6c5253c75.html",
     "sourceURL": "http:\/\/www.acoa-apeca.gc.ca\/eng\/Accountability\/ProactiveDisclosure\/Contracts\/Pages\/Details.aspx?cid=1651&rty=2010&rtp=1",
-    "vendorClean": "SHEPPARD  BARRY W"
+    "vendorClean": "SHEPPARD BARRY W"
 }

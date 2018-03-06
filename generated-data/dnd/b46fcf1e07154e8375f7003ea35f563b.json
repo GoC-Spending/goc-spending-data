@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-52240",
-    "vendorName": "Genivar Inc.   (Timmins)",
+    "vendorName": "Genivar Inc. (Timmins)",
     "referenceNumber": "52240",
     "contractDate": "19-9-2012",
     "description": "A&E Services related to Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "26-2-2013",
-    "originalValue": 14800,
+    "originalValue": 0,
     "contractValue": 14800,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/b46fcf1e07154e8375f7003ea35f563b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id125011",
-    "vendorClean": "GENIVAR   (TIMMINS)"
+    "vendorClean": "GENIVAR  (TIMMINS)"
 }

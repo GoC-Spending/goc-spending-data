@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-098540\/001\/BF",
-    "vendorName": "ROCKWELL COLLINS, INC.  COLLINS AVIATION SERVICES",
+    "vendorName": "ROCKWELL COLLINS, INC. COLLINS AVIATION SERVICES",
     "referenceNumber": "W8485-098540\/001\/BF",
     "contractDate": "31-8-2012",
     "description": "Engineering and Technical Services - Aerospace Related, Military",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-9-2012",
-    "originalValue": 402982,
+    "originalValue": 0,
     "contractValue": 402982,
     "comments": "This item contains one or more amendments.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/6dc053ec4f51aa63204a8d9c34794038.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id124496",
-    "vendorClean": "ROCKWELL COLLINS  COLLINS AVIATION SERVICES"
+    "vendorClean": "ROCKWELL COLLINS COLLINS AVIATION SERVICES"
 }

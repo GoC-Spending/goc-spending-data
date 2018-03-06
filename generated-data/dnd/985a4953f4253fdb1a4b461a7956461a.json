@@ -1,9 +1,9 @@
 {
     "uuid": "dnd-MD069P",
-    "vendorName": "WEATHERHAVEN              000509",
+    "vendorName": "WEATHERHAVEN    000509",
     "referenceNumber": "MD069P",
     "contractDate": "2-3-2005",
-    "description": "PRODUCT OF  TEXTILE,  (Op athena kabul )",
+    "description": "PRODUCT OF TEXTILE, (Op athena kabul )",
     "extraDescription": "",
     "objectCode": "",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2-3-2005",
-    "originalValue": 21220.04,
+    "originalValue": 0,
     "contractValue": 21220.04,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/985a4953f4253fdb1a4b461a7956461a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id11312",
-    "vendorClean": "WEATHERHAVEN              000509"
+    "vendorClean": "WEATHERHAVEN       000509"
 }

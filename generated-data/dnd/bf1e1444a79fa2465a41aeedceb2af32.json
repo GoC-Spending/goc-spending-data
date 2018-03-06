@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0113-07Q331\/001\/BOR",
-    "vendorName": "\"International Binding & Laminating Systems, Inc.                      \"",
+    "vendorName": "\"International Binding & Laminating Systems, Inc.      \"",
     "referenceNumber": "W0113-07Q331\/001\/BOR",
     "contractDate": "4-3-2008",
     "description": "Bookbinding Machinery",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 12036,
+    "originalValue": 0,
     "contractValue": 12036,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/bf1e1444a79fa2465a41aeedceb2af32.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38073",
-    "vendorClean": "\"INTERNATIONAL BINDING & LAMINATING SYSTEMS                      \""
+    "vendorClean": "\"INTERNATIONAL BINDING & LAMINATING SYSTEMS           \""
 }

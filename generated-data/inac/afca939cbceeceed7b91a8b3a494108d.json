@@ -1,6 +1,6 @@
 {
     "uuid": "inac-09-12-6001\/15",
-    "vendorName": "GOODGER  LAURA ELIZABETH MARY",
+    "vendorName": "GOODGER LAURA ELIZABETH MARY",
     "referenceNumber": "09-12-6001\/15",
     "contractDate": "5\/12\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 17482.5,
+    "originalValue": 0,
     "contractValue": 17482.5,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/afca939cbceeceed7b91a8b3a494108d.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct151-eng.asp",
-    "vendorClean": "GOODGER  LAURA ELIZABETH MARY"
+    "vendorClean": "GOODGER LAURA ELIZABETH MARY"
 }

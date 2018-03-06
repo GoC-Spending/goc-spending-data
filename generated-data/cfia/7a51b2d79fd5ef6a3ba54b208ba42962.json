@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000492761",
-    "vendorName": "PARSONS BRINKERHOFF  HALSALL INC",
+    "vendorName": "PARSONS BRINKERHOFF HALSALL INC",
     "referenceNumber": "3000492761",
     "contractDate": "2012-10-05",
-    "description": "Other Professional Services                                                                                                                                                                                           499 - Other Professional Services not Elsewhere Specified",
+    "description": "Other Professional Services                                               499 - Other Professional Services not Elsewhere Specified",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 10017,
+    "originalValue": 0,
     "contractValue": 10017,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "cfia\/7a51b2d79fd5ef6a3ba54b208ba42962.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=3&contraID=11899&yid=9",
-    "vendorClean": "PARSONS BRINKERHOFF  HALSALL"
+    "vendorClean": "PARSONS BRINKERHOFF HALSALL"
 }

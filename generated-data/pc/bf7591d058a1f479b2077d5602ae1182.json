@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "2015\/03\/31",
-    "originalValue": 23974.08,
+    "originalValue": 0,
     "contractValue": 23974.08,
     "comments": "Valve Cylinder As Per Drawing",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "pc\/bf7591d058a1f479b2077d5602ae1182.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2014-2015&oqQUARTER=4&oqCONTRACT_ID=46334",
-    "vendorClean": "M&C HYDRAULICORPORATED"
+    "vendorClean": "M&C HYDRAULIC"
 }

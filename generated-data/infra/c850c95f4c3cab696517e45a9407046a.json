@@ -1,6 +1,6 @@
 {
     "uuid": "infra-3514029",
-    "vendorName": "CORADIX TECHNOLOGY  CONSULTING INC.",
+    "vendorName": "CORADIX TECHNOLOGY CONSULTING INC.",
     "referenceNumber": "3514029",
     "contractDate": "2015-04-01",
     "description": "Information technology consultants",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 339000,
+    "originalValue": 0,
     "contractValue": 339000,
     "comments": "Data Warehouse Architecture and Business Intelligence Support. This contract was created using a Public Works and Government Services procurement tool.",
     "ownerAcronym": "infra",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "infra\/c850c95f4c3cab696517e45a9407046a.html",
     "sourceURL": "\/pd-dp\/pdc-dpm\/reports-rapports-eng.html?year=2015&quarter=1&contractId=1079",
-    "vendorClean": "CORADIX TECHNOLOGY  CONSULTING"
+    "vendorClean": "CORADIX TECHNOLOGY CONSULTING"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0118-07X038\/001\/WPG",
-    "vendorName": "\"Traffic Guard Direct, Inc.                                            \"",
+    "vendorName": "\"Traffic Guard Direct, Inc.           \"",
     "referenceNumber": "W0118-07X038\/001\/WPG",
     "contractDate": "7-3-2008",
     "description": "Traffic and Transit Signal Systems",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 12037,
+    "originalValue": 0,
     "contractValue": 12037,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/689a2bc78597c9690359145f1b53ae47.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38074",
-    "vendorClean": "\"TRAFFIC GUARD DIRECT                                            \""
+    "vendorClean": "\"TRAFFIC GUARD DIRECT                      \""
 }

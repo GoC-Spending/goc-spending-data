@@ -1,6 +1,6 @@
 {
     "uuid": "sc-7417-07-0007",
-    "vendorName": "DARCI LANG -  XL ENTERPRISES",
+    "vendorName": "DARCI LANG - XL ENTERPRISES",
     "referenceNumber": "7417-07-0007",
     "contractDate": "2007-06-12",
     "description": "491 Management Consulting",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "N\/A",
-    "originalValue": 12720,
+    "originalValue": 0,
     "contractValue": 12720,
     "comments": "N\/A",
     "ownerAcronym": "sc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "sc\/8cd0cc686a18958a132edb5362b6d353.html",
     "sourceURL": "http:\/\/disclosure.servicecanada.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=5238&employeepositionid=null&site=3&startdate=2007-04-01&enddate=2007-06-30&quarterid=5#place99",
-    "vendorClean": "DARCI LANG  XL ENTERPRISES"
+    "vendorClean": "DARCI LANG XL ENTERPRISES"
 }

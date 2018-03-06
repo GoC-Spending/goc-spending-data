@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/11",
-    "vendorName": "HERFST  ANDREW",
+    "vendorName": "HERFST ANDREW",
     "referenceNumber": "20-09-6088\/11",
     "contractDate": "4\/17\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 27407.1,
+    "originalValue": 0,
     "contractValue": 27407.1,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/5a724a85273dcde87b416394428c5c83.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct78-eng.asp",
-    "vendorClean": "HERFST  ANDREW"
+    "vendorClean": "HERFST ANDREW"
 }

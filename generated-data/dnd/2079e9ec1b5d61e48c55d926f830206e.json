@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W355B-100709\/001\/HAL",
-    "vendorName": "3D datacomm (Div. of  Dobbelsteyn Electric)",
+    "vendorName": "3D datacomm (Div. of Dobbelsteyn Electric)",
     "referenceNumber": "W355B-100709\/001\/HAL",
     "contractDate": "18-12-2009",
     "description": "Electronic Message Signs (LED,LCD,etc.)",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 20770,
+    "originalValue": 0,
     "contractValue": 20770,
     "comments": "This contract was sole sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/2079e9ec1b5d61e48c55d926f830206e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67582",
-    "vendorClean": "3D DATACOMM (DIV OF  DOBBELSTEYN ELECTRIC)"
+    "vendorClean": "3D DATACOMM (DIV OF DOBBELSTEYN ELECTRIC)"
 }

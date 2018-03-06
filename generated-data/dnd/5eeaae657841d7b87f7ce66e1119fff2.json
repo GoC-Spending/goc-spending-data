@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2017,
     "deliveryDate": "31-3-2017",
-    "originalValue": 259815,
+    "originalValue": 0,
     "contractValue": 259815,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q4",
     "sourceFilename": "dnd\/5eeaae657841d7b87f7ce66e1119fff2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2015&id=id181799",
-    "vendorClean": "HYPERION CONSULTING SERVICESORPORATED"
+    "vendorClean": "HYPERION CONSULTING SERVICES"
 }

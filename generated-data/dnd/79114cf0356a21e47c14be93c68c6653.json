@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 40924,
+    "originalValue": 0,
     "contractValue": 40924,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/79114cf0356a21e47c14be93c68c6653.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id137153",
-    "vendorClean": "XTECHS SERVICESORPORATED"
+    "vendorClean": "XTECHS SERVICES"
 }

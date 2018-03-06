@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 12000,
+    "originalValue": 0,
     "contractValue": 12000,
     "comments": "This contract includes one or more amendments.",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "ec\/01ff64deef93a677d454e1b0e7d00d6e.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=26933&quarter=3&fiscal=2009%2C%202010",
-    "vendorClean": "CENTRAL VALLEY AIRCRAFTORPORATED"
+    "vendorClean": "CENTRAL VALLEY AIRCRAFT"
 }

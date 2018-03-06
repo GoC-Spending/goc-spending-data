@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "25-1-2012",
-    "originalValue": 55212,
+    "originalValue": 0,
     "contractValue": 55212,
     "comments": "THIS CONTRACT IS A RESULT OF AN ADVANCE CONTRACT AWARD NOTICE. THIS CONTRACT WAS SOLE SOURCED. THIS CONTRACT IS A CALL-UP AGAINST A PUBLIC WORKS AND GOVERNMENT SERVICES PROCUREMENT TOOL.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/8f93b920d6462dd3b593c14bc90e0825.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id89200",
-    "vendorClean": "ADOBE SYSTEMSORPORATED"
+    "vendorClean": "ADOBE SYSTEMS"
 }

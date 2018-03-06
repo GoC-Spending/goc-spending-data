@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-86b762306b8437e8d22e71a35788b19b",
-    "vendorName": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA       FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "86b762306b8437e8d22e71a35788b19b",
     "contractDate": "21-12-2011",
     "description": "Guns, 75 mm through 125 mm",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "21-11-2012",
-    "originalValue": 137458,
+    "originalValue": 0,
     "contractValue": 137458,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/86b762306b8437e8d22e71a35788b19b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106969",
-    "vendorClean": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA             FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

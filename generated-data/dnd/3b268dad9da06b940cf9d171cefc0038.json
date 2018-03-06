@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-094168\/001\/GRK",
-    "vendorName": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT",
+    "vendorName": "GENTASS GMBH     INDUSTRIAL EQUIPMENT",
     "referenceNumber": "W8486-094168\/001\/GRK",
     "contractDate": "2-12-2008",
     "description": "Liquid and Gas Flow, Liquid Level and Mechanical Motion Measuring Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "2-12-2009",
-    "originalValue": 48713,
+    "originalValue": 0,
     "contractValue": 48713,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/3b268dad9da06b940cf9d171cefc0038.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id49523",
-    "vendorClean": "GENTASS GMBH                  INDUSTRIAL EQUIPMENT"
+    "vendorClean": "GENTASS GMBH         INDUSTRIAL EQUIPMENT"
 }

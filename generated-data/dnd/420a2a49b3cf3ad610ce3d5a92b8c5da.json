@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "31-12-2011",
-    "originalValue": 53805,
+    "originalValue": 0,
     "contractValue": 53805,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/420a2a49b3cf3ad610ce3d5a92b8c5da.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90073",
-    "vendorClean": "ADVANTAGE FITNESS SALESORPORATED"
+    "vendorClean": "ADVANTAGE FITNESS SALES"
 }

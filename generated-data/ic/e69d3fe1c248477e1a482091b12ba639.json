@@ -1,6 +1,6 @@
 {
     "uuid": "ic-5020801",
-    "vendorName": "ACTON WHITE  ASSOCIATES INC.",
+    "vendorName": "ACTON WHITE ASSOCIATES INC.",
     "referenceNumber": "5020801",
     "contractDate": "2008-02-14",
     "description": "Management consulting",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 49770,
+    "originalValue": 0,
     "contractValue": 49770,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "ic\/e69d3fe1c248477e1a482091b12ba639.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=8932",
-    "vendorClean": "ACTON WHITE  ASSOCIATES"
+    "vendorClean": "ACTON WHITE ASSOCIATES"
 }

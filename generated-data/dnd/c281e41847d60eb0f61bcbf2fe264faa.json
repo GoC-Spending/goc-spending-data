@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2101967701",
-    "vendorName": "Irving  Oil Commercial G.P.",
+    "vendorName": "Irving Oil Commercial G.P.",
     "referenceNumber": "2101967701",
     "contractDate": "14-9-2013",
     "description": "Liquid Propellants and Fuels, Petroleum Base",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "14-9-2013",
-    "originalValue": 16274.22,
+    "originalValue": 0,
     "contractValue": 16274.22,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/c281e41847d60eb0f61bcbf2fe264faa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id145924",
-    "vendorClean": "IRVING  OIL COMMERCIAL GP"
+    "vendorClean": "IRVING OIL COMMERCIAL GP"
 }

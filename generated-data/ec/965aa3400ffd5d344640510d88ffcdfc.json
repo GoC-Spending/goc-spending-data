@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 10200,
+    "originalValue": 0,
     "contractValue": 10200,
     "comments": "Geocoding component for Bird Mortality Database System",
     "ownerAcronym": "ec",

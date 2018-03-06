@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-55828",
-    "vendorName": "1499954  Ontario Ltd o\/a Bay Electric",
+    "vendorName": "1499954 Ontario Ltd o\/a Bay Electric",
     "referenceNumber": "55828",
     "contractDate": "10-3-2014",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "5-5-2014",
-    "originalValue": 27000,
+    "originalValue": 0,
     "contractValue": 27000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "dnd\/4a1a4039a362b6534ba71ab90c889457.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2013&id=id148948",
-    "vendorClean": "1499954  ONTARIO O\/A BAY ELECTRIC"
+    "vendorClean": "1499954 ONTARIO O\/A BAY ELECTRIC"
 }

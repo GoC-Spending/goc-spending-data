@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4500967350",
-    "vendorName": "INDUSPAC PACKAGING  GROUP",
+    "vendorName": "INDUSPAC PACKAGING GROUP",
     "referenceNumber": "4500967350",
     "contractDate": "10-9-2012",
     "description": "Bags and Sacks",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "25-9-2012",
-    "originalValue": 15394,
+    "originalValue": 0,
     "contractValue": 15394,
     "comments": "This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/5782e8f7acbf5bfc75b921493397e70b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id124708",
-    "vendorClean": "INDUSPAC PACKAGING  GROUP"
+    "vendorClean": "INDUSPAC PACKAGING GROUP"
 }

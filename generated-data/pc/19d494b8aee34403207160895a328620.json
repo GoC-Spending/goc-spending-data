@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45164680",
-    "vendorName": "TRANE CANADA  T42324C",
+    "vendorName": "TRANE CANADA T42324C",
     "referenceNumber": "45164680",
     "contractDate": "2005\/10\/13",
     "description": "656 Heating, air-conditioning and refrigeration equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "2005\/10\/13",
-    "originalValue": 11212.5,
+    "originalValue": 0,
     "contractValue": 11212.5,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "pc\/19d494b8aee34403207160895a328620.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2005-2006&oqQUARTER=3&oqCONTRACT_ID=16958",
-    "vendorClean": "TRANE CANADA  T42324C"
+    "vendorClean": "TRANE CANADA T42324C"
 }

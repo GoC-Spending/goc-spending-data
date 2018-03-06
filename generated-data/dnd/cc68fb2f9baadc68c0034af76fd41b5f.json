@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 39513,
+    "originalValue": 0,
     "contractValue": 39513,
     "comments": "This contract was sole sourced.This contract is a result of an advance contract award notice.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/cc68fb2f9baadc68c0034af76fd41b5f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id53353",
-    "vendorClean": "FACTS ENGINEERINGORPORATED"
+    "vendorClean": "FACTS ENGINEERING"
 }

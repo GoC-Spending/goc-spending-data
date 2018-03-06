@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3380-052920\/001\/MTA",
-    "vendorName": "Communication  Radiotech Inc.",
+    "vendorName": "Communication Radiotech Inc.",
     "referenceNumber": "W3380-052920\/001\/MTA",
     "contractDate": "16-3-2005",
     "description": "Miscellaneous Communications Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "17-3-2005",
-    "originalValue": 41857,
+    "originalValue": 0,
     "contractValue": 41857,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/8a0c446a0fea06e78bc7ed77e3f490ba.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9697",
-    "vendorClean": "COMMUNICATION  RADIOTECH"
+    "vendorClean": "COMMUNICATION RADIOTECH"
 }

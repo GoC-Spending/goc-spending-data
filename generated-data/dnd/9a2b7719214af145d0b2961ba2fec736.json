@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-116631\/001\/QD",
-    "vendorName": "RF COMMUNICATIONS  - PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS",
+    "vendorName": "RF COMMUNICATIONS - PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS",
     "referenceNumber": "W8484-116631\/001\/QD",
     "contractDate": "21-9-2010",
     "description": "Headsets, Handsets, Microphones and Speakers",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-3-2011",
-    "originalValue": 80777,
+    "originalValue": 0,
     "contractValue": 80777,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/9a2b7719214af145d0b2961ba2fec736.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id79485",
-    "vendorClean": "RF COMMUNICATIONS  PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS"
+    "vendorClean": "RF COMMUNICATIONS PUBLIC SAFETY AND (&) PROFESSIONAL COMMUNICATIONS"
 }

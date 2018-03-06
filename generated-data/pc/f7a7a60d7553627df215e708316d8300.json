@@ -11,7 +11,7 @@
     "startYear": 2004,
     "endYear": 2006,
     "deliveryDate": "2006\/03\/31",
-    "originalValue": 24336.54,
+    "originalValue": 0,
     "contractValue": 24336.54,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q1",
     "sourceFilename": "pc\/f7a7a60d7553627df215e708316d8300.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2004-2005&oqQUARTER=1&oqCONTRACT_ID=11831",
-    "vendorClean": "ALERT PROTECTIONORPORATED"
+    "vendorClean": "ALERT PROTECTION"
 }

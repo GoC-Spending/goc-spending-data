@@ -1,6 +1,6 @@
 {
     "uuid": "fja-C2012-164",
-    "vendorName": "Pierre R.  Gaudet Consulting",
+    "vendorName": "Pierre R. Gaudet Consulting",
     "referenceNumber": "C2012-164",
     "contractDate": "2012-09-11",
     "description": "3718-Suspense Account (credit balance)-Other Government Departments",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 52305,
+    "originalValue": 0,
     "contractValue": 52305,
     "comments": "",
     "ownerAcronym": "fja",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "fja\/aedd7772e5a90f5fd756d2a92603bb35.html",
     "sourceURL": "http:\/\/www.fja-cmf.gc.ca\/pd-dp\/contracts-contrats\/2012-2013_2\/ctrt10-eng.html",
-    "vendorClean": "PIERRE R  GAUDET CONSULTING"
+    "vendorClean": "PIERRE R GAUDET CONSULTING"
 }

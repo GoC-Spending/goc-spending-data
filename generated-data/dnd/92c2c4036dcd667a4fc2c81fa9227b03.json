@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-098172\/051\/GRK",
-    "vendorName": "MARSHALL OF CAMBRIDGE         ENGINEERING LTD",
+    "vendorName": "MARSHALL OF CAMBRIDGE   ENGINEERING LTD",
     "referenceNumber": "W8485-098172\/051\/GRK",
     "contractDate": "17-10-2008",
     "description": "Hardware, Commercial",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "17-10-2009",
-    "originalValue": 12267,
+    "originalValue": 0,
     "contractValue": 12267,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/92c2c4036dcd667a4fc2c81fa9227b03.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id51815",
-    "vendorClean": "MARSHALL OF CAMBRIDGE         ENGINEERING"
+    "vendorClean": "MARSHALL OF CAMBRIDGE     ENGINEERING"
 }

@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "30-11-2011",
-    "originalValue": 676356,
+    "originalValue": 0,
     "contractValue": 676356,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/6cd9111a220e5850961bf0f8c490eb5a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id84148",
-    "vendorClean": "NRNSORPORATED"
+    "vendorClean": "NRNS"
 }

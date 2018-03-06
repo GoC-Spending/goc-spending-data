@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-2100678450-2",
-    "vendorName": "953731 NWT Ltd.  South Camp Inn",
+    "vendorName": "953731 NWT Ltd. South Camp Inn",
     "referenceNumber": "2100678450-2",
     "contractDate": "8-4-2011",
     "description": "Ground Handling Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "8-4-2011",
-    "originalValue": 10395,
+    "originalValue": 0,
     "contractValue": 10395,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/8a8382bfaea30e185bd453952700da88.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id96062",
-    "vendorClean": "953731 NWT  SOUTH CAMP INN"
+    "vendorClean": "953731 NWT SOUTH CAMP INN"
 }

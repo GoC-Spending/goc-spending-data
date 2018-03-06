@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 41236,
+    "originalValue": 0,
     "contractValue": 41236,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "ec\/a2628da6c2b0a148b35f8cfd09c96224.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=14959&quarter=2&fiscal=2007%2C%202008",
-    "vendorClean": "ERGONOMIC SYSTEMS ASSOCIATESORPORATED"
+    "vendorClean": "ERGONOMIC SYSTEMS ASSOCIATES"
 }

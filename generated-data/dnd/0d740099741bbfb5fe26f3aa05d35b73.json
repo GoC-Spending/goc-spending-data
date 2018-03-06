@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3537-09E010\/001\/CAL",
-    "vendorName": "Markos  R  Winkle",
+    "vendorName": "Markos R Winkle",
     "referenceNumber": "W3537-09E010\/001\/CAL",
     "contractDate": "2-9-2009",
     "description": "Doors Metal Overhead, Installation and Repair",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "30-9-2011",
-    "originalValue": 10000,
+    "originalValue": 0,
     "contractValue": 10000,
     "comments": "This item contains one or more amendment. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/0d740099741bbfb5fe26f3aa05d35b73.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id64789",
-    "vendorClean": "MARKOS  R  WINKLE"
+    "vendorClean": "MARKOS R WINKLE"
 }

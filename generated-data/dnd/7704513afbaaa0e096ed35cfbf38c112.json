@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8486-097774\/003\/GRK",
-    "vendorName": "HERKULES FAHRZEUGLOGISTIK     GMBH",
+    "vendorName": "HERKULES FAHRZEUGLOGISTIK  GMBH",
     "referenceNumber": "W8486-097774\/003\/GRK",
     "contractDate": "27-5-2009",
     "description": "Vehicular Brake, Steering, Axle, Wheel and Track Components",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "27-5-2010",
-    "originalValue": 49802,
+    "originalValue": 0,
     "contractValue": 49802,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/7704513afbaaa0e096ed35cfbf38c112.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id60072",
-    "vendorClean": "HERKULES FAHRZEUGLOGISTIK     GMBH"
+    "vendorClean": "HERKULES FAHRZEUGLOGISTIK   GMBH"
 }

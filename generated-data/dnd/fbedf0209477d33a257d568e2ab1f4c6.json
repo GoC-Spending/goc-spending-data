@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "31-3-2014",
-    "originalValue": 2547466,
+    "originalValue": 0,
     "contractValue": 2547466,
     "comments": "THIS CONTRACT WAS SOLE SOURCED.THIS CONTRACT IS A RESULT OF AN ADVANCE CONTRACT AWARD NOTICE.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/fbedf0209477d33a257d568e2ab1f4c6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id131353",
-    "vendorClean": "MEAL KIT SUPPLY CANADAORPORATED"
+    "vendorClean": "MEAL KIT SUPPLY CANADA"
 }

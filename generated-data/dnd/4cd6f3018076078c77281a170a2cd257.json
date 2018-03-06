@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3555-155112\/001\/VIC",
-    "vendorName": "SIFCO SELECTIVE PLATING DIV   SIFCO INDUSTRIES",
+    "vendorName": "SIFCO SELECTIVE PLATING DIV SIFCO INDUSTRIES",
     "referenceNumber": "W3555-155112\/001\/VIC",
     "contractDate": "3-12-2014",
     "description": "Preservative and Sealing Compounds",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "31-3-2015",
-    "originalValue": 35636,
+    "originalValue": 0,
     "contractValue": 35636,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/4cd6f3018076078c77281a170a2cd257.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id160062",
-    "vendorClean": "SIFCO SELECTIVE PLATING DIV   SIFCO INDUSTRIES"
+    "vendorClean": "SIFCO SELECTIVE PLATING DIV  SIFCO INDUSTRIES"
 }

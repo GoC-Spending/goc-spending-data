@@ -1,6 +1,6 @@
 {
     "uuid": "ic-9201573201",
-    "vendorName": "PIERS GLOBAL  INTELLIGENCE",
+    "vendorName": "PIERS GLOBAL INTELLIGENCE",
     "referenceNumber": "9201573201",
     "contractDate": "2009-03-30",
     "description": "Computer software",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 21030,
+    "originalValue": 0,
     "contractValue": 21030,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "ic\/25d61a8ed08bdf626504b8c63702a5e5.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=10024",
-    "vendorClean": "PIERS GLOBAL  INTELLIGENCE"
+    "vendorClean": "PIERS GLOBAL INTELLIGENCE"
 }

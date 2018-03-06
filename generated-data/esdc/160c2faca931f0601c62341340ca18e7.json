@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "2016-09-30",
-    "originalValue": 162720,
+    "originalValue": 0,
     "contractValue": 162720,
     "comments": "Request for goods or services.",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q3",
     "sourceFilename": "esdc\/160c2faca931f0601c62341340ca18e7.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=21391&employeepositionid=null&site=1&startdate=2015-10-01&enddate=2015-12-31&quarterid=50#place85",
-    "vendorClean": "GCSTRATEGIESORPORATED"
+    "vendorClean": "GCSTRATEGIES"
 }

@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2012,
     "deliveryDate": "6-3-2012",
-    "originalValue": 36975,
+    "originalValue": 0,
     "contractValue": 36975,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/766eab622b9ea99219b1048f39a26deb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id55609",
-    "vendorClean": "BENTLEY SYSTEMSORPORATED"
+    "vendorClean": "BENTLEY SYSTEMS"
 }

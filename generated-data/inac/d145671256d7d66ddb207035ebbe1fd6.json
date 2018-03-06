@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-10-6001\/2",
-    "vendorName": "MASHA KRUPP TRANSLATION GROUP  THELIMIT",
+    "vendorName": "MASHA KRUPP TRANSLATION GROUP THELIMIT",
     "referenceNumber": "20-10-6001\/2",
     "contractDate": "5\/2\/2013",
     "description": "0494 - TRANSLATION SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 30000,
+    "originalValue": 0,
     "contractValue": 30000,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "inac\/d145671256d7d66ddb207035ebbe1fd6.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q1\/ct117-eng.asp",
-    "vendorClean": "MASHA KRUPP TRANSLATION GROUP  THELIMIT"
+    "vendorClean": "MASHA KRUPP TRANSLATION GROUP THELIMIT"
 }

@@ -11,14 +11,14 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24999,
+    "originalValue": 0,
     "contractValue": 24999,
-    "comments": "Original Amount $22123.00   Study of tier 3 gasoline to the Canadian refining industry",
+    "comments": "Original Amount $22123.00 Study of tier 3 gasoline to the Canadian refining industry",
     "ownerAcronym": "ec",
     "sourceYear": 2013,
     "sourceQuarter": 3,
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "ec\/7367567bbb3dc23cb8f7d0a5f223d211.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=49724&quarter=3&fiscal=2013%2C%202014",
-    "vendorClean": "BAKER & OBRIENORPORATED"
+    "vendorClean": "BAKER & OBRIEN"
 }

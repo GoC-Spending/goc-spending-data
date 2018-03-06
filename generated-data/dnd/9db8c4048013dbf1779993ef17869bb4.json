@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-Woodline-2009-006",
-    "vendorName": "Artemp Personnel  Services Inc",
+    "vendorName": "Artemp Personnel Services Inc",
     "referenceNumber": "Woodline-2009-006",
     "contractDate": "15-4-2009",
     "description": "Business Systems",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-10-2009",
-    "originalValue": 27882.23,
+    "originalValue": 0,
     "contractValue": 27882.23,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/9db8c4048013dbf1779993ef17869bb4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id58409",
-    "vendorClean": "ARTEMP PERSONNEL  SERVICES"
+    "vendorClean": "ARTEMP PERSONNEL SERVICES"
 }

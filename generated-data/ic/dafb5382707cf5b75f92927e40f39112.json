@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 74694,
+    "originalValue": 0,
     "contractValue": 74694,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "ic\/dafb5382707cf5b75f92927e40f39112.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=10037",
-    "vendorClean": "BUSHTEKORPORATED"
+    "vendorClean": "BUSHTEK"
 }

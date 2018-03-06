@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "2009\/02\/19",
-    "originalValue": 10342.5,
+    "originalValue": 0,
     "contractValue": 10342.5,
     "comments": "Template Design as per RFP and SOW",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "pc\/02786a22382bef19cdf1e0c3bccf4eb4.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2008-2009&oqQUARTER=4&oqCONTRACT_ID=31686",
-    "vendorClean": "TETRO DESIGNORPORATED"
+    "vendorClean": "TETRO DESIGN"
 }

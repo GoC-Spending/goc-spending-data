@@ -1,6 +1,6 @@
 {
     "uuid": "pc-2008089600",
-    "vendorName": "RALPH  MCKINNON",
+    "vendorName": "RALPH MCKINNON",
     "referenceNumber": "2008089600",
     "contractDate": "2009\/01\/30",
     "description": "1121 Salt, sulphur, ores, earth and stone",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2011,
     "deliveryDate": "2011\/03\/31",
-    "originalValue": 194250,
+    "originalValue": 0,
     "contractValue": 194250,
     "comments": "Firewood for Niblock 08\/09",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "pc\/aaae621e44efda59aa8acf21e60588b7.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=4&oqCONTRACT_ID=36687",
-    "vendorClean": "RALPH  MCKINNON"
+    "vendorClean": "RALPH MCKINNON"
 }

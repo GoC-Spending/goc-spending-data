@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-3000500213",
-    "vendorName": "HAWORTH  LTD.",
+    "vendorName": "HAWORTH LTD.",
     "referenceNumber": "3000500213",
     "contractDate": "2012-12-19",
     "description": "859 Other Business Services not Elsewhere Specified",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 22670.63,
+    "originalValue": 0,
     "contractValue": 22670.63,
     "comments": "Call-up against a PWGSC procurement tool. This contract was competitively sourced.",
     "ownerAcronym": "nrcan",

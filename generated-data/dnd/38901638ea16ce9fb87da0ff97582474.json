@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-59994",
-    "vendorName": "Hydro-Quebec  (Montreal)",
+    "vendorName": "Hydro-Quebec (Montreal)",
     "referenceNumber": "59994",
     "contractDate": "5-8-2015",
     "description": "Utilities",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "4-10-2015",
-    "originalValue": 11871.87,
+    "originalValue": 0,
     "contractValue": 11871.87,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q2",
     "sourceFilename": "dnd\/38901638ea16ce9fb87da0ff97582474.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2015&id=id201003",
-    "vendorClean": "HYDRO-QUEBEC  (MONTREAL)"
+    "vendorClean": "HYDRO-QUEBEC (MONTREAL)"
 }

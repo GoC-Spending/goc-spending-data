@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K4B20-12-0196",
-    "vendorName": "ROSBOROUGH  BOATS",
+    "vendorName": "ROSBOROUGH BOATS",
     "referenceNumber": "K4B20-12-0196",
     "contractDate": "2012-11-21",
     "description": "1256 Ships and boats - Acquisition",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "2013-03-15",
-    "originalValue": 243700,
+    "originalValue": 0,
     "contractValue": 243700,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "ec\/95e75656bbcb9bf45ccb05fff3fc2400.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=45408&quarter=3&fiscal=2012%2C%202013",
-    "vendorClean": "ROSBOROUGH  BOATS"
+    "vendorClean": "ROSBOROUGH BOATS"
 }

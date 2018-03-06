@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000493868",
-    "vendorName": "ALERE INC  (CANADA)",
+    "vendorName": "ALERE INC (CANADA)",
     "referenceNumber": "3000493868",
     "contractDate": "2012-10-18",
-    "description": "Acquisition of Equipment and Furniture including Parts                                                                                                                                                                        1243 - Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
+    "description": "Acquisition of Equipment and Furniture including Parts                                          1243 - Measuring, Controlling, Laboratory, Medical and Optical Equipment and Parts",
     "extraDescription": "",
     "objectCode": "1243",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 15531,
+    "originalValue": 0,
     "contractValue": 15531,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "cfia\/f34ee40b46631ca43e67c89cf4377782.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=3&contraID=11933&yid=9",
-    "vendorClean": "ALERE  (CANADA)"
+    "vendorClean": "ALERE (CANADA)"
 }

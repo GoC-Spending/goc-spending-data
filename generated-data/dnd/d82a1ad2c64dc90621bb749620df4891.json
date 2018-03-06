@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-3-2005",
-    "originalValue": 227676,
+    "originalValue": 0,
     "contractValue": 227676,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/d82a1ad2c64dc90621bb749620df4891.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9310",
-    "vendorClean": "DRS EW & NETWORK SYSTEMSORPORATED"
+    "vendorClean": "DRS EW & NETWORK SYSTEMS"
 }

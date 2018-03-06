@@ -1,6 +1,6 @@
 {
     "uuid": "inac-40-13-0020",
-    "vendorName": "SWINDLEHURST  KARI-LYNN",
+    "vendorName": "SWINDLEHURST KARI-LYNN",
     "referenceNumber": "40-13-0020",
     "contractDate": "12\/19\/2013",
     "description": "0401 - ACCOUNTING AND AUDIT SERVICES",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 10017,
+    "originalValue": 0,
     "contractValue": 10017,
     "comments": "ROYALTY RECONCILIATION SERVICES\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/8d7fcafe83cef5cb143957a0914e3319.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct222-eng.asp",
-    "vendorClean": "SWINDLEHURST  KARI-LYNN"
+    "vendorClean": "SWINDLEHURST KARI-LYNN"
 }

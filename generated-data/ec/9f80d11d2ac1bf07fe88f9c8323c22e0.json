@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 12520,
+    "originalValue": 0,
     "contractValue": 12520,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "ec\/9f80d11d2ac1bf07fe88f9c8323c22e0.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=21993&quarter=3&fiscal=2008%2C%202009",
-    "vendorClean": "ENVIRON CANADAORPORATED"
+    "vendorClean": "ENVIRON CANADA"
 }

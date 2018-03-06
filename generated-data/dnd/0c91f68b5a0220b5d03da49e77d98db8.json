@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3132-08CE75\/001\/GRK",
-    "vendorName": "ESSERS PAUL                   MALERBETRIEB BODENBELAGE GMBH",
+    "vendorName": "ESSERS PAUL     MALERBETRIEB BODENBELAGE GMBH",
     "referenceNumber": "W3132-08CE75\/001\/GRK",
     "contractDate": "23-9-2010",
     "description": "Painting Services - Interior",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "23-9-2011",
-    "originalValue": 40000,
+    "originalValue": 0,
     "contractValue": 40000,
     "comments": "This item contains one or more amendment. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/0c91f68b5a0220b5d03da49e77d98db8.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id79580",
-    "vendorClean": "ESSERS PAUL                   MALERBETRIEB BODENBELAGE GMBH"
+    "vendorClean": "ESSERS PAUL          MALERBETRIEB BODENBELAGE GMBH"
 }

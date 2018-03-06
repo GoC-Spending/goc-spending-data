@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W6369-11-P5PY",
-    "vendorName": "MAXSYS STAFFING  AND CONSULTING",
+    "vendorName": "MAXSYS STAFFING AND CONSULTING",
     "referenceNumber": "W6369-11-P5PY",
     "contractDate": "4-3-2011",
     "description": "BUSINESS SYSTEMS",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-12-2011",
-    "originalValue": 43471.67,
+    "originalValue": 0,
     "contractValue": 43471.67,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/d84de8329cdd0fd4c4b097e42ed9ad99.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id91638",
-    "vendorClean": "MAXSYS STAFFING  AND CONSULTING"
+    "vendorClean": "MAXSYS STAFFING AND CONSULTING"
 }

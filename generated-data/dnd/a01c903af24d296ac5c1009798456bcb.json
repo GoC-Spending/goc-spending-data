@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47807",
-    "vendorName": "LVM Inc.  (Quebec)",
+    "vendorName": "LVM Inc. (Quebec)",
     "referenceNumber": "47807",
     "contractDate": "25-8-2011",
     "description": "Equipment & Materials Testing",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "23-12-2011",
-    "originalValue": 21460.85,
+    "originalValue": 0,
     "contractValue": 21460.85,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/a01c903af24d296ac5c1009798456bcb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id103023",
-    "vendorClean": "LVM  (QUEBEC)"
+    "vendorClean": "LVM (QUEBEC)"
 }

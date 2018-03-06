@@ -1,9 +1,9 @@
 {
     "uuid": "tbs-6013233",
-    "vendorName": "MORRIS SAMEL,  KETTY SAMEL",
+    "vendorName": "MORRIS SAMEL, KETTY SAMEL",
     "referenceNumber": "6013233",
     "contractDate": "2009-02-26",
-    "description": "499  OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
+    "description": "499 OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
     "extraDescription": "N\/A",
     "objectCode": "0499",
     "contractPeriodStart": "2009-02-26",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "",
-    "originalValue": 21000,
+    "originalValue": 0,
     "contractValue": 21000,
     "comments": "",
     "ownerAcronym": "tbs",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "tbs\/57530edfe7415b7a616593a01c9384af.html",
     "sourceURL": "http:\/\/www.tbs-sct.gc.ca\/scripts\/contracts-contrats\/reports-rapports-eng.asp?r=c&refNum=6013233&q=4&yr=2008&d=",
-    "vendorClean": "MORRIS SAMEL  KETTY SAMEL"
+    "vendorClean": "MORRIS SAMEL KETTY SAMEL"
 }

@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "30-4-2010",
-    "originalValue": 346500,
+    "originalValue": 0,
     "contractValue": 346500,
     "comments": "This item contains one or more amendment.This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q1",
     "sourceFilename": "dnd\/935a00e6fd1b10f3a3de31496903cd71.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2009&id=id58895",
-    "vendorClean": "3765342 CANADAORPORATED"
+    "vendorClean": "3765342 CANADA"
 }

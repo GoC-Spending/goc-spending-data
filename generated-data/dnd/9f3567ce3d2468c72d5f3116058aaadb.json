@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0125-090060\/001\/WPG",
-    "vendorName": "LES ATTENUATEURS DE SON  ET VIBRATION VIBRA-SIL INC",
+    "vendorName": "LES ATTENUATEURS DE SON ET VIBRATION VIBRA-SIL INC",
     "referenceNumber": "W0125-090060\/001\/WPG",
     "contractDate": "15-11-2010",
     "description": "CONTAINERS, CARGO HANDLING, METAL NON-REFRIGERATED (FOR CONTAINER SHIPPING METHOD)",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "30-6-2011",
-    "originalValue": 500000,
+    "originalValue": 0,
     "contractValue": 500000,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/9f3567ce3d2468c72d5f3116058aaadb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id84200",
-    "vendorClean": "LES ATTENUATEURS DE SON  ET VIBRATION VIBRA-SIL"
+    "vendorClean": "LES ATTENUATEURS DE SON ET VIBRATION VIBRA-SIL"
 }

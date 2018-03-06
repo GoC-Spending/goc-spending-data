@@ -1,6 +1,6 @@
 {
     "uuid": "irccpc-2010-0330",
-    "vendorName": "ORACLE  CANADA ULC",
+    "vendorName": "ORACLE CANADA ULC",
     "referenceNumber": "2010-0330",
     "contractDate": "2010-11-18",
     "description": "1228 Computer software",
@@ -11,14 +11,14 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 31584.65,
+    "originalValue": 0,
     "contractValue": 31584.65,
-    "comments": "This contract was sole-sourced \/  \/",
+    "comments": "This contract was sole-sourced \/ \/",
     "ownerAcronym": "irccpc",
     "sourceYear": 2010,
     "sourceQuarter": 3,
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "irccpc\/4e039a9f783f6edb5076d4d42880b88b.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=2&yr=2010-2011-3&ref=2010-0330",
-    "vendorClean": "ORACLE  CANADA ULC"
+    "vendorClean": "ORACLE CANADA"
 }

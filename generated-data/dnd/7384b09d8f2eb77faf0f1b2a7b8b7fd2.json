@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W2689-057188\/001\/ET",
-    "vendorName": "EM  Software & Systems (USA), INC.",
+    "vendorName": "EM Software & Systems (USA), INC.",
     "referenceNumber": "W2689-057188\/001\/ET",
     "contractDate": "10-3-2005",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "31-3-2006",
-    "originalValue": 11980,
+    "originalValue": 0,
     "contractValue": 11980,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/7384b09d8f2eb77faf0f1b2a7b8b7fd2.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9592",
-    "vendorClean": "EM  SOFTWARE & SYSTEMS (USA)"
+    "vendorClean": "EM SOFTWARE & SYSTEMS (USA)"
 }

@@ -1,9 +1,9 @@
 {
     "uuid": "ircc-7079299",
-    "vendorName": "Telus Communications    Company",
+    "vendorName": "Telus Communications Company",
     "referenceNumber": "7079299",
     "contractDate": "2011\u00e2\u0080\u009101\u00e2\u0080\u009113",
-    "description": "472 Information    technology consultants",
+    "description": "472 Information technology consultants",
     "extraDescription": "",
     "objectCode": "0472",
     "contractPeriodStart": "2011-01-13",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 99440,
+    "originalValue": 0,
     "contractValue": 99440,
-    "comments": "This    contract was sole-sourced",
+    "comments": "This contract was sole-sourced",
     "ownerAcronym": "ircc",
     "sourceYear": 2011,
     "sourceQuarter": 0,
     "sourceFiscal": "",
     "sourceFilename": "ircc\/52ea865dc22ba413f6b28182078ea35d.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=838&qid=2011-Q1",
-    "vendorClean": "TELUS COMMUNICATIONS    COMPANY"
+    "vendorClean": "TELUS COMMUNICATIONS  COMPANY"
 }

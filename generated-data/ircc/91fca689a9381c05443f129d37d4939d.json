@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 15219.69,
+    "originalValue": 0,
     "contractValue": 15219.69,
     "comments": "This contract was competitively sourced. This contract includes one or more amendments.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/91fca689a9381c05443f129d37d4939d.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=167",
-    "vendorClean": "DLT SOLUTIONS CANADAORPORATED"
+    "vendorClean": "DLT SOLUTIONS CANADA"
 }

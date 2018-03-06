@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6001\/9",
-    "vendorName": "CHARTRAND  BARBEAU ET ASSOCIES INC.",
+    "vendorName": "CHARTRAND BARBEAU ET ASSOCIES INC.",
     "referenceNumber": "20-09-6001\/9",
     "contractDate": "9\/13\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 35453.75,
+    "originalValue": 0,
     "contractValue": 35453.75,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/2d0bfad31e6f81cbde97af56f1a73d64.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct208-eng.asp",
-    "vendorClean": "CHARTRAND  BARBEAU ET ASSOCIES"
+    "vendorClean": "CHARTRAND BARBEAU ET ASSOCIES"
 }

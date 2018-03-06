@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W010S-09D288\/001\/HAL",
-    "vendorName": "3D datacomm (Div. of  Dobbelsteyn Electric)",
+    "vendorName": "3D datacomm (Div. of Dobbelsteyn Electric)",
     "referenceNumber": "W010S-09D288\/001\/HAL",
     "contractDate": "23-2-2009",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "30-4-2009",
-    "originalValue": 29175,
+    "originalValue": 0,
     "contractValue": 29175,
     "comments": "This contract was sole sourced.This contract is a result of an advance contract award notice.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q4",
     "sourceFilename": "dnd\/defa44427601697cb497f474ecc9d384.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2008&id=id54788",
-    "vendorClean": "3D DATACOMM (DIV OF  DOBBELSTEYN ELECTRIC)"
+    "vendorClean": "3D DATACOMM (DIV OF DOBBELSTEYN ELECTRIC)"
 }

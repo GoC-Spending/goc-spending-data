@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "31-12-2011",
-    "originalValue": 42448,
+    "originalValue": 0,
     "contractValue": 42448,
     "comments": "THIS ITEM CONTAINS ONE OR MORE AMENDMENT. THIS CONTRACT IS A RESULT OF AN ADVANCE CONTRACT AWARD NOTICE. THIS CONTRACT WAS SOLE SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q3",
     "sourceFilename": "dnd\/97496caf2b3bf1fe6c43a9cece38d13c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2010&id=id85442",
-    "vendorClean": "CENTRAL VALLEY AIRCRAFTORPORATED"
+    "vendorClean": "CENTRAL VALLEY AIRCRAFT"
 }

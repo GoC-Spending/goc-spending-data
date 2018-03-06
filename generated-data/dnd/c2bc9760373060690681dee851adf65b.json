@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0130-040071\/001\/MTA",
-    "vendorName": "CHARIOTS ELEVATEURS T C V  INC \/ T C V LIFT TRUCK INC",
+    "vendorName": "CHARIOTS ELEVATEURS T C V INC \/ T C V LIFT TRUCK INC",
     "referenceNumber": "W0130-040071\/001\/MTA",
     "contractDate": "14-2-2005",
     "description": "Floor Polishers and Vacuum Cleaning Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "15-2-2005",
-    "originalValue": 17938,
+    "originalValue": 0,
     "contractValue": 17938,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/c2bc9760373060690681dee851adf65b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id9251",
-    "vendorClean": "CHARIOTS ELEVATEURS T C V  T C V LIFT TRUCK"
+    "vendorClean": "CHARIOTS ELEVATEURS T C V T C V LIFT TRUCK"
 }

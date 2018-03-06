@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "2012\/07\/13",
-    "originalValue": 19408.88,
+    "originalValue": 0,
     "contractValue": 19408.88,
     "comments": "Compound Flooring - TNNP",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "pc\/ab552a3e999b3fa26b03d38cebe991f9.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2012-2013&oqQUARTER=1&oqCONTRACT_ID=39032",
-    "vendorClean": "CENTRAL FLOORINGORPORATED"
+    "vendorClean": "CENTRAL FLOORING"
 }

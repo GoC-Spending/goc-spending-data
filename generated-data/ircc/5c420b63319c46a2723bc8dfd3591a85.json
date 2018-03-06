@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 28956.25,
+    "originalValue": 0,
     "contractValue": 28956.25,
     "comments": "This contract was competitively sourced",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "",
     "sourceFilename": "ircc\/5c420b63319c46a2723bc8dfd3591a85.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=304&qid=2011-Q4",
-    "vendorClean": "PAYSTATIONSORPORATED"
+    "vendorClean": "PAYSTATIONS"
 }

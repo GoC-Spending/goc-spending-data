@@ -1,9 +1,9 @@
 {
     "uuid": "ircc-7079371",
-    "vendorName": "Dasco    Data Products Ltd.",
+    "vendorName": "Dasco Data Products Ltd.",
     "referenceNumber": "7079371",
     "contractDate": "2011\u00e2\u0080\u009101\u00e2\u0080\u009118",
-    "description": "1231 Office    furniture and furnishings, including parts",
+    "description": "1231 Office furniture and furnishings, including parts",
     "extraDescription": "",
     "objectCode": "1231",
     "contractPeriodStart": "2011-01-18",
@@ -11,14 +11,14 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "",
-    "originalValue": 28151.2,
+    "originalValue": 0,
     "contractValue": 28151.2,
-    "comments": "This contract is a call-up against a Public    Works and Goverment Services Canada procurement tool.",
+    "comments": "This contract is a call-up against a Public Works and Goverment Services Canada procurement tool.",
     "ownerAcronym": "ircc",
     "sourceYear": 2011,
     "sourceQuarter": 0,
     "sourceFiscal": "",
     "sourceFilename": "ircc\/fa9e229ceb6c2e35aa43d86be392d3fb.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/contract-contrat-eng.aspx?dept=1&id=684&qid=2011-Q1",
-    "vendorClean": "DASCO    DATA PRODUCTS"
+    "vendorClean": "DASCO  DATA PRODUCTS"
 }

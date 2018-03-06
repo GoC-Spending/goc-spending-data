@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "2013\/07\/31",
-    "originalValue": 20443.5,
+    "originalValue": 0,
     "contractValue": 20443.5,
     "comments": "RADON MITIGATION\/REMEDIATION",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "pc\/6523fa93df701d3458b55e971f8efe98.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=1&oqCONTRACT_ID=40918",
-    "vendorClean": "RADONMATTERSORPORATED"
+    "vendorClean": "RADONMATTERS"
 }

@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "31-12-2005",
-    "originalValue": 17250,
+    "originalValue": 0,
     "contractValue": 17250,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200405-Q4",
     "sourceFilename": "dnd\/c7b96cd7e615398e1a6cf94c63a48612.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2004&id=id10139",
-    "vendorClean": "WEATHERVANE SCIENTIFICORPORATED"
+    "vendorClean": "WEATHERVANE SCIENTIFIC"
 }

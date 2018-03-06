@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2006,
     "deliveryDate": "15-2-2006",
-    "originalValue": 75703,
+    "originalValue": 0,
     "contractValue": 75703,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q3",
     "sourceFilename": "dnd\/91a1f3379a50d7d5448636734270730f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2005&id=id15970",
-    "vendorClean": "NORTHERN TRANSFORMERORPORATED"
+    "vendorClean": "NORTHERN TRANSFORMER"
 }

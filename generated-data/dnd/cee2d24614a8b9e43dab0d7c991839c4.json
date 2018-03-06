@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2007,
     "deliveryDate": "6-1-2007",
-    "originalValue": 25519,
+    "originalValue": 0,
     "contractValue": 25519,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200607-Q3",
     "sourceFilename": "dnd\/cee2d24614a8b9e43dab0d7c991839c4.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2006&id=id21805",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

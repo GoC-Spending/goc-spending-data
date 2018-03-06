@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 22123.89,
+    "originalValue": 0,
     "contractValue": 22123.89,
     "comments": "development and testing of Iceberg ensemble model is required to be used as an operational forecast system.",
     "ownerAcronym": "ec",

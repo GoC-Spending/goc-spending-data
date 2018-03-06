@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W7714-125577\/001\/PD",
-    "vendorName": "AMERICAN METEOROLOGICAL       SOCIETY",
+    "vendorName": "AMERICAN METEOROLOGICAL  SOCIETY",
     "referenceNumber": "W7714-125577\/001\/PD",
     "contractDate": "23-12-2011",
     "description": "Information Products",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "31-12-2012",
-    "originalValue": 11040,
+    "originalValue": 0,
     "contractValue": 11040,
     "comments": "This item contains one or more amendments.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/92b8ba34671efb3dd8ef19f46dabc72f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id117148",
-    "vendorClean": "AMERICAN METEOROLOGICAL       SOCIETY"
+    "vendorClean": "AMERICAN METEOROLOGICAL    SOCIETY"
 }

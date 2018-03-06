@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "2013\/03\/31",
-    "originalValue": 14206.5,
+    "originalValue": 0,
     "contractValue": 14206.5,
     "comments": "Janitorial Services - KNPR OFFICES",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "pc\/5fbab149dc025da69a7244fc6a4a6cbc.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2012-2013&oqQUARTER=1&oqCONTRACT_ID=38942",
-    "vendorClean": "15042 YUKONORPORATED"
+    "vendorClean": "15042 YUKON"
 }

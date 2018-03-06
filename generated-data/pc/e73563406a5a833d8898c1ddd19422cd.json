@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45340343",
-    "vendorName": "IMI  MANUFACTURING INC.",
+    "vendorName": "IMI MANUFACTURING INC.",
     "referenceNumber": "45340343",
     "contractDate": "2014\/03\/21",
     "description": "1179 Miscellaneous manufactured articles",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "2014\/03\/31",
-    "originalValue": 24995.57,
+    "originalValue": 0,
     "contractValue": 24995.57,
     "comments": "Shipping Rack",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "pc\/e73563406a5a833d8898c1ddd19422cd.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=4&oqCONTRACT_ID=43548",
-    "vendorClean": "IMI  MANUFACTURING"
+    "vendorClean": "IMI MANUFACTURING"
 }

@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 700166.77,
+    "originalValue": 0,
     "contractValue": 700166.77,
     "comments": "This contract contains one or more amendments.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/f0e0e949141f3f00f9cf5cb6e51f1e7c.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=85",
-    "vendorClean": "IDENTITY SYSTEMSORPORATED"
+    "vendorClean": "IDENTITY SYSTEMS"
 }

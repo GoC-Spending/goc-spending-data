@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-125344\/001\/GRK",
-    "vendorName": "MARTIN BAKER AIRCRAFT         CORPORATION",
+    "vendorName": "MARTIN BAKER AIRCRAFT   CORPORATION",
     "referenceNumber": "W8485-125344\/001\/GRK",
     "contractDate": "15-6-2011",
     "description": "Parachutes, Aerial Pick-Up Delivery, Recovery Systems, and Cargo Tie Down Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "15-6-2012",
-    "originalValue": 20044,
+    "originalValue": 0,
     "contractValue": 20044,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/8385ebb0ab1b45208878d4ac1f48dd85.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id95665",
-    "vendorClean": "MARTIN BAKER AIRCRAFT         CORPORATION"
+    "vendorClean": "MARTIN BAKER AIRCRAFT     CORPORATION"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-47956",
-    "vendorName": "J.G. Fitzgerald & Son's Ltd  (Pembroke)",
+    "vendorName": "J.G. Fitzgerald & Son's Ltd (Pembroke)",
     "referenceNumber": "47956",
     "contractDate": "7-9-2011",
     "description": "",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2014,
     "deliveryDate": "6-9-2014",
-    "originalValue": 78576,
+    "originalValue": 0,
     "contractValue": 78576,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/f966e02151b4e3a5cb337fb78dee6f24.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id116274",
-    "vendorClean": "JG FITZGERALD & SONS  (PEMBROKE)"
+    "vendorClean": "JG FITZGERALD & SONS (PEMBROKE)"
 }

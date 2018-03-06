@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "16-3-2015",
-    "originalValue": 43279,
+    "originalValue": 0,
     "contractValue": 43279,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/fda18011545df0fdde773c1f7e576777.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id163818",
-    "vendorClean": "RETICLE VENTURES CANADAORPORATED"
+    "vendorClean": "RETICLE VENTURES CANADA"
 }

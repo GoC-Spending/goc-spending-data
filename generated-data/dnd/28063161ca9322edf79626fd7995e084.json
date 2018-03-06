@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0114-06Q775\/001\/KIN",
-    "vendorName": "\"Bill,s Boatworks                                                      \"",
+    "vendorName": "\"Bill,s Boatworks              \"",
     "referenceNumber": "W0114-06Q775\/001\/KIN",
     "contractDate": "6-2-2008",
     "description": "Ship and Marine Miscellaneous Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-5-2008",
-    "originalValue": 17464,
+    "originalValue": 0,
     "contractValue": 17464,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/28063161ca9322edf79626fd7995e084.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id38574",
-    "vendorClean": "\"BILLS BOATWORKS                                                      \""
+    "vendorClean": "\"BILLS BOATWORKS                           \""
 }

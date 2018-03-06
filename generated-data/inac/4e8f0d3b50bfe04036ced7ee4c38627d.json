@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0247",
-    "vendorName": "STAPLETON  JOHN",
+    "vendorName": "STAPLETON JOHN",
     "referenceNumber": "20-13-0247",
     "contractDate": "3\/4\/2014",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 24569.03,
+    "originalValue": 0,
     "contractValue": 24569.03,
     "comments": "EXPERT ON POLICY AND IMPLEMENTATION OF INCOME ASSISTANCE ENHANCED SERVICE DELIVERY\/This contract was sole-sourced.\/This contract is a multi-year contract.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/4e8f0d3b50bfe04036ced7ee4c38627d.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct254-eng.asp",
-    "vendorClean": "STAPLETON  JOHN"
+    "vendorClean": "STAPLETON JOHN"
 }

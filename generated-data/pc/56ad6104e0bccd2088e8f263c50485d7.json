@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "2010\/12\/15",
-    "originalValue": 840194.25,
+    "originalValue": 0,
     "contractValue": 840194.25,
     "comments": "Recap Swift Rapids Lock 43",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "pc\/56ad6104e0bccd2088e8f263c50485d7.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2009-2010&oqQUARTER=4&oqCONTRACT_ID=33865",
-    "vendorClean": "ALL SERVICESORPORATED"
+    "vendorClean": "ALL SERVICES"
 }

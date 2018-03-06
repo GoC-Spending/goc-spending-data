@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 47392.2,
+    "originalValue": 0,
     "contractValue": 47392.2,
     "comments": "Professional services of a Senior Programmer Analyst working to provide SharePoint support. This contract includes one or more amendments.",
     "ownerAcronym": "cnsc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q1",
     "sourceFilename": "cnsc\/0e260c8816b8517c51ac3e1ec5e32fa6.html",
     "sourceURL": "http:\/\/nuclearsafety.gc.ca\/eng\/transparency\/contracts-details.cfm?contract=8423",
-    "vendorClean": "PRECISIONITORPORATED"
+    "vendorClean": "PRECISIONIT"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-04QH44\/001\/BF",
-    "vendorName": "LOCKHEED MARTIN  AERONAUTICS COMPANY",
+    "vendorName": "LOCKHEED MARTIN AERONAUTICS COMPANY",
     "referenceNumber": "W8485-04QH44\/001\/BF",
     "contractDate": "5-12-2014",
     "description": "Aircraft, Fixed Wing",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2017,
     "deliveryDate": "31-12-2017",
-    "originalValue": 1000000,
+    "originalValue": 0,
     "contractValue": 1000000,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "dnd\/adbd56d261419141eb02d03334253fda.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2014&id=id160175",
-    "vendorClean": "LOCKHEED MARTIN  AERONAUTICS COMPANY"
+    "vendorClean": "LOCKHEED MARTIN AERONAUTICS COMPANY"
 }

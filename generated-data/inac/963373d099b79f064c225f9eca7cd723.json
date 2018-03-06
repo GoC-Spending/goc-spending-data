@@ -1,6 +1,6 @@
 {
     "uuid": "inac-4500325331",
-    "vendorName": "PCI GEOMATICS  ENTERPRISES INC.",
+    "vendorName": "PCI GEOMATICS ENTERPRISES INC.",
     "referenceNumber": "4500325331",
     "contractDate": "11\/27\/2014",
     "description": "582 - Lic\/Maint fees Client Software",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2016,
     "deliveryDate": "",
-    "originalValue": 11451.51,
+    "originalValue": 0,
     "contractValue": 11451.51,
     "comments": "This contract was competitively sourced. This contract is pursuant to a supply arrangement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q3",
     "sourceFilename": "inac\/963373d099b79f064c225f9eca7cd723.html",
     "sourceURL": "\/prodis\/cntrcts\/14-15-q3\/ct201-eng.asp",
-    "vendorClean": "PCI GEOMATICS  ENTERPRISES"
+    "vendorClean": "PCI GEOMATICS ENTERPRISES"
 }

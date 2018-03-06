@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 641251,
+    "originalValue": 0,
     "contractValue": 641251,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/098a50cdefb0a0d6989459f67066e8dd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id13527",
-    "vendorClean": "MANAGEMENT SYSTEMS RESOURCESORPORATED"
+    "vendorClean": "MANAGEMENT SYSTEMS RESOURCES"
 }

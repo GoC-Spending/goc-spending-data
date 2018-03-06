@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0133-13N002\/001\/VIC",
-    "vendorName": "Viking Fire Protection Inc.\/  Protection Incendie Viking Inc.",
+    "vendorName": "Viking Fire Protection Inc.\/ Protection Incendie Viking Inc.",
     "referenceNumber": "W0133-13N002\/001\/VIC",
     "contractDate": "27-7-2016",
     "description": "Fire Protection Services - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2016,
     "endYear": 2016,
     "deliveryDate": "31-8-2016",
-    "originalValue": 250000,
+    "originalValue": 0,
     "contractValue": 250000,
     "comments": "This contract contains one or more amendments. This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201617-Q2",
     "sourceFilename": "dnd\/371352c63c1fc59ca14686ad952b3f77.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2016&id=id198469",
-    "vendorClean": "VIKING FIRE PROTECTION\/  PROTECTIONENDIE VIKING"
+    "vendorClean": "VIKING FIRE PROTECTION\/ PROTECTIONENDIE VIKING"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3132-10CE89\/001\/GRK",
-    "vendorName": "TIVOLI  EISSPORTHALLEN  BETREIBERGESELLSCHAFT MGH",
+    "vendorName": "TIVOLI EISSPORTHALLEN BETREIBERGESELLSCHAFT MGH",
     "referenceNumber": "W3132-10CE89\/001\/GRK",
     "contractDate": "9-7-2010",
     "description": "Leasing of Other Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "9-7-2011",
-    "originalValue": 24795,
+    "originalValue": 0,
     "contractValue": 24795,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q2",
     "sourceFilename": "dnd\/07c24facc53e5384c5c80bf366244fc1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2010&id=id76970",
-    "vendorClean": "TIVOLI  EISSPORTHALLEN  BETREIBERGESELLSCHAFT MGH"
+    "vendorClean": "TIVOLI EISSPORTHALLEN BETREIBERGESELLSCHAFT MGH"
 }

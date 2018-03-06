@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-07ES08\/001\/EE",
-    "vendorName": "\"JEPPESEN SANDERSON, INC.                                              \"",
+    "vendorName": "\"JEPPESEN SANDERSON, INC.            \"",
     "referenceNumber": "W8484-07ES08\/001\/EE",
     "contractDate": "31-3-2008",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 657319,
+    "originalValue": 0,
     "contractValue": 657319,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/5c4402cfde88b3b41c0c1ee1e928429e.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40377",
-    "vendorClean": "\"JEPPESEN SANDERSON                                              \""
+    "vendorClean": "\"JEPPESEN SANDERSON                       \""
 }

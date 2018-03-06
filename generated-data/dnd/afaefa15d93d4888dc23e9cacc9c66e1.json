@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-4500744781",
-    "vendorName": "GLESCO  EQUIPMENT",
+    "vendorName": "GLESCO EQUIPMENT",
     "referenceNumber": "W8485-4500744781",
     "contractDate": "14-10-2009",
     "description": "Bearings, Plain, Unmounted",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2009,
     "deliveryDate": "7-12-2009",
-    "originalValue": 21937.75,
+    "originalValue": 0,
     "contractValue": 21937.75,
     "comments": "This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/afaefa15d93d4888dc23e9cacc9c66e1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67517",
-    "vendorClean": "GLESCO  EQUIPMENT"
+    "vendorClean": "GLESCO EQUIPMENT"
 }

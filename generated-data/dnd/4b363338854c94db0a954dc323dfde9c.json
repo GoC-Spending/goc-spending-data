@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-I372800041",
-    "vendorName": "Shurwood  Forest  Professional Tree Service Ltd.",
+    "vendorName": "Shurwood Forest Professional Tree Service Ltd.",
     "referenceNumber": "I372800041",
     "contractDate": "31-7-2008",
     "description": "Building Services - Handyman Services",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 13130.36,
+    "originalValue": 0,
     "contractValue": 13130.36,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "dnd\/4b363338854c94db0a954dc323dfde9c.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2008&id=id43422",
-    "vendorClean": "SHURWOOD  FOREST  PROFESSIONAL TREE SERVICE"
+    "vendorClean": "SHURWOOD FOREST PROFESSIONAL TREE SERVICE"
 }

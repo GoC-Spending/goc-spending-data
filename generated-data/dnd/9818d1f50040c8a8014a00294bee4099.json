@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-PG414CKSAV",
-    "vendorName": "Modis \/  Ajilon",
+    "vendorName": "Modis \/ Ajilon",
     "referenceNumber": "PG414CKSAV",
     "contractDate": "11-1-2011",
     "description": "Communication Support Services",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "30-6-2011",
-    "originalValue": 18148,
+    "originalValue": 0,
     "contractValue": 18148,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/9818d1f50040c8a8014a00294bee4099.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id115712",
-    "vendorClean": "MODIS  AJILON"
+    "vendorClean": "MODIS AJILON"
 }

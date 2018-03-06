@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-3fc6139598dde7f465d20bc9af6945d3",
-    "vendorName": "Commander Pacific Fleet  (COMPACFLT)",
+    "vendorName": "Commander Pacific Fleet (COMPACFLT)",
     "referenceNumber": "3fc6139598dde7f465d20bc9af6945d3",
     "contractDate": "27-2-2015",
     "description": "Educational Services, N.E.S.",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "28-2-2015",
-    "originalValue": 18561000,
+    "originalValue": 0,
     "contractValue": 18561000,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/3fc6139598dde7f465d20bc9af6945d3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id164447",
-    "vendorClean": "COMMANDER PACIFIC FLEET  (COMPACFLT)"
+    "vendorClean": "COMMANDER PACIFIC FLEET (COMPACFLT)"
 }

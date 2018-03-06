@@ -1,6 +1,6 @@
 {
     "uuid": "nrcan-20150011A",
-    "vendorName": "MICROSOFT CANADA  CO.",
+    "vendorName": "MICROSOFT CANADA CO.",
     "referenceNumber": "20150011A",
     "contractDate": "2014-05-08",
     "description": "1285 Application Software (including COTS) and Application Development and Delivery Software",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "",
-    "originalValue": 61952.25,
+    "originalValue": 0,
     "contractValue": 61952.25,
     "comments": "Contract awarded by PWGSC. This contract is a result of an advanced contract award notice.",
     "ownerAcronym": "nrcan",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "nrcan\/b957ecef12aad160da413a92aa5a2371.html",
     "sourceURL": "http:\/\/www2.nrcan-rncan.gc.ca\/dc-dpm\/index.cfm?fuseaction=r.d&lang=eng&fisc=2014-2015&qrt=01&id=38554",
-    "vendorClean": "MICROSOFT CANADA  CO"
+    "vendorClean": "MICROSOFT CANADA"
 }

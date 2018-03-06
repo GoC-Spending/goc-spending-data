@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-11e46a0332b26c3706888c93cdccc1d3",
-    "vendorName": "GILCRON CORPORATION           A SUBSIDIARY OF ITT",
+    "vendorName": "GILCRON CORPORATION   A SUBSIDIARY OF ITT",
     "referenceNumber": "11e46a0332b26c3706888c93cdccc1d3",
     "contractDate": "26-10-2011",
     "description": "Antennas, Waveguides and Related Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "25-10-2012",
-    "originalValue": 269344,
+    "originalValue": 0,
     "contractValue": 269344,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/11e46a0332b26c3706888c93cdccc1d3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106463",
-    "vendorClean": "GILCRON CORPORATION           A SUBSIDIARY OF ITT"
+    "vendorClean": "GILCRON CORPORATION      A SUBSIDIARY OF ITT"
 }

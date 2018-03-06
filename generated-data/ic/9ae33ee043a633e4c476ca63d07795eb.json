@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "",
-    "originalValue": 14052,
+    "originalValue": 0,
     "contractValue": 14052,
     "comments": "",
     "ownerAcronym": "ic",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q2",
     "sourceFilename": "ic\/9ae33ee043a633e4c476ca63d07795eb.html",
     "sourceURL": "\/app\/scr\/ic\/cr\/contract.html?id=9222",
-    "vendorClean": "OPINION SEARCHORPORATED"
+    "vendorClean": "OPINION SEARCH"
 }

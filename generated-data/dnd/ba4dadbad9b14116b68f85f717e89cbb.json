@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-54064",
-    "vendorName": "Bird Construction Group  (Winnipeg)",
+    "vendorName": "Bird Construction Group (Winnipeg)",
     "referenceNumber": "54064",
     "contractDate": "16-7-2013",
     "description": "Construction Works - Buildings",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2016,
     "deliveryDate": "27-1-2016",
-    "originalValue": 6085000,
+    "originalValue": 0,
     "contractValue": 6085000,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "dnd\/ba4dadbad9b14116b68f85f717e89cbb.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2013&id=id139241",
-    "vendorClean": "BIRD CONSTRUCTION GROUP  (WINNIPEG)"
+    "vendorClean": "BIRD CONSTRUCTION GROUP (WINNIPEG)"
 }

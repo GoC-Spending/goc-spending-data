@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-46881",
-    "vendorName": "LVM  Inc. (Laval)",
+    "vendorName": "LVM Inc. (Laval)",
     "referenceNumber": "46881",
     "contractDate": "12-4-2011",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "7-6-2011",
-    "originalValue": 84613.8,
+    "originalValue": 0,
     "contractValue": 84613.8,
     "comments": "This item contains one or more amendments.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q1",
     "sourceFilename": "dnd\/149aa1937cdacd647416dc447a84a80d.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2011&id=id97986",
-    "vendorClean": "LVM  (LAVAL)"
+    "vendorClean": "LVM (LAVAL)"
 }

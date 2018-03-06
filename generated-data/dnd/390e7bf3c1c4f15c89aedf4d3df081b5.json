@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8483-086438\/001\/PY",
-    "vendorName": "Jerome & Francis  Co. Ltd",
+    "vendorName": "Jerome & Francis Co. Ltd",
     "referenceNumber": "W8483-086438\/001\/PY",
     "contractDate": "27-9-2007",
     "description": "Electrical and Electronic Assemblies, Boards, Cards and Associated Hardware",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2008,
     "deliveryDate": "31-12-2008",
-    "originalValue": 16098,
+    "originalValue": 0,
     "contractValue": 16098,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q2",
     "sourceFilename": "dnd\/390e7bf3c1c4f15c89aedf4d3df081b5.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2007&id=id26061",
-    "vendorClean": "JEROME & FRANCIS  CO"
+    "vendorClean": "JEROME & FRANCIS CO"
 }

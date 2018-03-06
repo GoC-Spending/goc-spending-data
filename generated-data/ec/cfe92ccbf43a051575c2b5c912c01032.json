@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 35342.5,
+    "originalValue": 0,
     "contractValue": 35342.5,
     "comments": "",
     "ownerAcronym": "ec",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ec\/cfe92ccbf43a051575c2b5c912c01032.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=43689&quarter=1&fiscal=2012%2C%202013",
-    "vendorClean": "WEATHER INNOVATIONSORPORATED"
+    "vendorClean": "WEATHER INNOVATIONS"
 }

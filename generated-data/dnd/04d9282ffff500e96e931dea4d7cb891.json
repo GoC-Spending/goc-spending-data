@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-104116\/002\/GRK",
-    "vendorName": "C S COMPONENTS                SOUTHFIELD HOUSE",
+    "vendorName": "C S COMPONENTS    SOUTHFIELD HOUSE",
     "referenceNumber": "W8482-104116\/002\/GRK",
     "contractDate": "26-3-2010",
     "description": "Electrical Contact Brushes and Electrodes",
@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2011,
     "deliveryDate": "26-3-2011",
-    "originalValue": 11659,
+    "originalValue": 0,
     "contractValue": 11659,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "dnd\/04d9282ffff500e96e931dea4d7cb891.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2009&id=id72341",
-    "vendorClean": "C S COMPONENTS                SOUTHFIELD HOUSE"
+    "vendorClean": "C S COMPONENTS        SOUTHFIELD HOUSE"
 }

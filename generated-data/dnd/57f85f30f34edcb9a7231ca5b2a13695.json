@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51534",
-    "vendorName": "Dessau Inc.   (Longueuil)",
+    "vendorName": "Dessau Inc. (Longueuil)",
     "referenceNumber": "51534",
     "contractDate": "30-7-2012",
     "description": "A&E Services Gen Non-Const.",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "27-12-2013",
-    "originalValue": 40231,
+    "originalValue": 0,
     "contractValue": 40231,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/57f85f30f34edcb9a7231ca5b2a13695.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123313",
-    "vendorClean": "DESSAU   (LONGUEUIL)"
+    "vendorClean": "DESSAU  (LONGUEUIL)"
 }

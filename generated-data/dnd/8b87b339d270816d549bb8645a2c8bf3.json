@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 29538,
+    "originalValue": 0,
     "contractValue": 29538,
     "comments": "This item contains one or more amendment.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q3",
     "sourceFilename": "dnd\/8b87b339d270816d549bb8645a2c8bf3.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2009&id=id67199",
-    "vendorClean": "ADVANCED SUBSONICSORPORATED"
+    "vendorClean": "ADVANCED SUBSONICS"
 }

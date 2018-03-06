@@ -1,6 +1,6 @@
 {
     "uuid": "pc-2012062300",
-    "vendorName": "FLEET - CHRYSLER  CANADA INC",
+    "vendorName": "FLEET - CHRYSLER CANADA INC",
     "referenceNumber": "2012062300",
     "contractDate": "2013\/05\/28",
     "description": "1261 Road motor vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "2013\/05\/28",
-    "originalValue": 27479.03,
+    "originalValue": 0,
     "contractValue": 27479.03,
     "comments": "Camion Dodge RAM1500 -DS6L98 23A",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "pc\/f6df9ee8955c6b96c923846d58c395fe.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2013-2014&oqQUARTER=1&oqCONTRACT_ID=40564",
-    "vendorClean": "FLEET CHRYSLER  CANADA"
+    "vendorClean": "FLEET CHRYSLER CANADA"
 }

@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "31-3-2015",
-    "originalValue": 81757,
+    "originalValue": 0,
     "contractValue": 81757,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/32f4a678266cf60ac9eb5b28882237ec.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id162615",
-    "vendorClean": "DOALL CANADAORPORATED"
+    "vendorClean": "DOALL CANADA"
 }

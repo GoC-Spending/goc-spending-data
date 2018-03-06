@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45245466",
-    "vendorName": "BMR  MATCO RAVARY",
+    "vendorName": "BMR MATCO RAVARY",
     "referenceNumber": "45245466",
     "contractDate": "2008\/11\/19",
     "description": "1141 Wood and articles of wood",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "2008\/12\/31",
-    "originalValue": 12391.98,
+    "originalValue": 0,
     "contractValue": 12391.98,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "pc\/eafe57bab890bd54db1137c42d858424.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2008-2009&oqQUARTER=3&oqCONTRACT_ID=7449",
-    "vendorClean": "BMR  MATCO RAVARY"
+    "vendorClean": "BMR MATCO RAVARY"
 }

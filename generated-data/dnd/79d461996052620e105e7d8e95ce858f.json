@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W010C5A801",
-    "vendorName": "TJ  Nolan",
+    "vendorName": "TJ Nolan",
     "referenceNumber": "W010C5A801",
     "contractDate": "22-8-2014",
     "description": "Ground Effect Vehicles",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "27-11-2014",
-    "originalValue": 28462.69,
+    "originalValue": 0,
     "contractValue": 28462.69,
     "comments": "This item was not reported previously. This contract was competitively sourced. This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/79d461996052620e105e7d8e95ce858f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id161326",
-    "vendorClean": "TJ  NOLAN"
+    "vendorClean": "TJ NOLAN"
 }

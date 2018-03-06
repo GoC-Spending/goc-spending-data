@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-48783",
-    "vendorName": "LVM inc  (Chicoutimi)",
+    "vendorName": "LVM inc (Chicoutimi)",
     "referenceNumber": "48783",
     "contractDate": "28-2-2012",
     "description": "Natural Resources Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "10-6-2012",
-    "originalValue": 267060.11,
+    "originalValue": 0,
     "contractValue": 267060.11,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/48d94564dcfc600d27baec56d31688ab.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id113770",
-    "vendorClean": "LVM  (CHICOUTIMI)"
+    "vendorClean": "LVM (CHICOUTIMI)"
 }

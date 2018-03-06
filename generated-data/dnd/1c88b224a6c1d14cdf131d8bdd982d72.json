@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0105-127493\/001\/MCT",
-    "vendorName": "hardeen patram  savitri patram",
+    "vendorName": "hardeen patram savitri patram",
     "referenceNumber": "W0105-127493\/001\/MCT",
     "contractDate": "15-3-2012",
     "description": "Household Furniture",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "30-3-2012",
-    "originalValue": 24953,
+    "originalValue": 0,
     "contractValue": 24953,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/1c88b224a6c1d14cdf131d8bdd982d72.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114686",
-    "vendorClean": "HARDEEN PATRAM  SAVITRI PATRAM"
+    "vendorClean": "HARDEEN PATRAM SAVITRI PATRAM"
 }

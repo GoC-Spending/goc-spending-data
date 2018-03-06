@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45215843",
-    "vendorName": "HY - RIDGE  HELICOPTERS LTD.",
+    "vendorName": "HY - RIDGE HELICOPTERS LTD.",
     "referenceNumber": "45215843",
     "contractDate": "2007\/10\/02",
     "description": "561 Rental of aircraft",
@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2007,
     "deliveryDate": "2007\/10\/02",
-    "originalValue": 13689.9,
+    "originalValue": 0,
     "contractValue": 13689.9,
     "comments": "",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q3",
     "sourceFilename": "pc\/12f691ce5e3637e3a4eee61cd1098655.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2007-2008&oqQUARTER=3&oqCONTRACT_ID=26861",
-    "vendorClean": "HY RIDGE  HELICOPTERS"
+    "vendorClean": "HY RIDGE HELICOPTERS"
 }

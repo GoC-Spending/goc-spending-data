@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "11-1-2013",
-    "originalValue": 31027,
+    "originalValue": 0,
     "contractValue": 31027,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q3",
     "sourceFilename": "dnd\/89efb8fd44fc2e6d0de8ecedd6bf5675.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2012&id=id129182",
-    "vendorClean": "OEA TECHNOLOGIESORPORATED"
+    "vendorClean": "OEA TECHNOLOGIES"
 }

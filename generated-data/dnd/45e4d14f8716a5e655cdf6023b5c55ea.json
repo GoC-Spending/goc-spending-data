@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53111",
-    "vendorName": "DESSAU INC.   (LONGUEUIL)",
+    "vendorName": "DESSAU INC. (LONGUEUIL)",
     "referenceNumber": "53111",
     "contractDate": "8-1-2013",
     "description": "ENGINEERING STUDIES",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "29-3-2013",
-    "originalValue": 45267,
+    "originalValue": 0,
     "contractValue": 45267,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/45e4d14f8716a5e655cdf6023b5c55ea.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id132836",
-    "vendorClean": "DESSAU   (LONGUEUIL)"
+    "vendorClean": "DESSAU  (LONGUEUIL)"
 }

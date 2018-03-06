@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000490740",
-    "vendorName": "Parsons Brinkerhoff  Halsall Inc",
+    "vendorName": "Parsons Brinkerhoff Halsall Inc",
     "referenceNumber": "3000490740",
     "contractDate": "2012-09-14",
-    "description": "Other Professional Services                                                                                                                                                                                           499 - Other Professional Services not Elsewhere Specified",
+    "description": "Other Professional Services                                               499 - Other Professional Services not Elsewhere Specified",
     "extraDescription": "",
     "objectCode": "0499",
     "contractPeriodStart": "",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 36578,
+    "originalValue": 0,
     "contractValue": 36578,
     "comments": "This contracts was competitively sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "cfia\/c71c4e33139e883e70ebd453536580a2.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=2&contraID=11797&yid=9",
-    "vendorClean": "PARSONS BRINKERHOFF  HALSALL"
+    "vendorClean": "PARSONS BRINKERHOFF HALSALL"
 }

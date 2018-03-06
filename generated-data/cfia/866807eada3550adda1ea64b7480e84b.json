@@ -1,9 +1,9 @@
 {
     "uuid": "cfia-3000547782",
-    "vendorName": "LYNDA NAVEDA  CONSULTING LTD",
+    "vendorName": "LYNDA NAVEDA CONSULTING LTD",
     "referenceNumber": "3000547782",
     "contractDate": "2014-04-04",
-    "description": "Other Professional Services                                                                                                                                                                                           499 - Other Professional Services not Elsewhere Specified",
+    "description": "Other Professional Services                                               499 - Other Professional Services not Elsewhere Specified",
     "extraDescription": "Executive Recruitment Services Consultant for the Corporate Management Branch",
     "objectCode": "0499",
     "contractPeriodStart": "2014-06-25",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q1",
     "sourceFilename": "cfia\/866807eada3550adda1ea64b7480e84b.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2014-2015&q=1&contraID=14910&yid=11",
-    "vendorClean": "LYNDA NAVEDA  CONSULTING"
+    "vendorClean": "LYNDA NAVEDA CONSULTING"
 }

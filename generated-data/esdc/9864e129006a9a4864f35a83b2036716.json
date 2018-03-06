@@ -11,7 +11,7 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "N\/A",
-    "originalValue": 20000,
+    "originalValue": 0,
     "contractValue": 20000,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "esdc\/9864e129006a9a4864f35a83b2036716.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=11160&employeepositionid=null&site=1&startdate=2010-01-01&enddate=2010-03-31&quarterid=29#place503",
-    "vendorClean": "INDUSTRIAL ECONOMICSORPORATED"
+    "vendorClean": "INDUSTRIAL ECONOMICS"
 }

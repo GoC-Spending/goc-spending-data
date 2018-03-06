@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-51481",
-    "vendorName": "WESA Inc.   (Carp)",
+    "vendorName": "WESA Inc. (Carp)",
     "referenceNumber": "51481",
     "contractDate": "15-8-2012",
     "description": "Environmental Studies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "25-12-2012",
-    "originalValue": 20887.5,
+    "originalValue": 0,
     "contractValue": 20887.5,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q2",
     "sourceFilename": "dnd\/13b5e1c31930e5bb80d1c6e98aaf81da.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2012&id=id123833",
-    "vendorClean": "WESA   (CARP)"
+    "vendorClean": "WESA  (CARP)"
 }

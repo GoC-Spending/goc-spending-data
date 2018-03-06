@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45305998",
-    "vendorName": "FS PARTNERS   FLESHERTON",
+    "vendorName": "FS PARTNERS FLESHERTON",
     "referenceNumber": "45305998",
     "contractDate": "2011\/09\/27",
     "description": "1122 Gasoline",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "2011\/09\/27",
-    "originalValue": 10195.1,
+    "originalValue": 0,
     "contractValue": 10195.1,
     "comments": "Gasoline - Cyprus",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "pc\/0483a739ad3b4d032e78c0be4394a43a.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=2&oqCONTRACT_ID=37699",
-    "vendorClean": "FS PARTNERS   FLESHERTON"
+    "vendorClean": "FS PARTNERS  FLESHERTON"
 }

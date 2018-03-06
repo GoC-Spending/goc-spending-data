@@ -1,6 +1,6 @@
 {
     "uuid": "inac-03-13-0002",
-    "vendorName": "PLEIADES ASSOCIEES  LES",
+    "vendorName": "PLEIADES ASSOCIEES LES",
     "referenceNumber": "03-13-0002",
     "contractDate": "11\/8\/2013",
     "description": "0499 - OTHER PROFESSIONAL SERVICES NOT ELSEWHERE SPECIFIED",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 23308.31,
+    "originalValue": 0,
     "contractValue": 23308.31,
     "comments": "Impact assessment and process evaluation of Abri centre activities\/This contract was competitively sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "inac\/33bffc0877cd8ec3880679954d8599ce.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q3\/ct96-eng.asp",
-    "vendorClean": "PLEIADES ASSOCIEES  LES"
+    "vendorClean": "PLEIADES ASSOCIEES LES"
 }

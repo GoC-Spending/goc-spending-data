@@ -11,7 +11,7 @@
     "startYear": 2006,
     "endYear": 2007,
     "deliveryDate": "August 6, 2007",
-    "originalValue": 21200,
+    "originalValue": 0,
     "contractValue": 21200,
     "comments": "To develop a prototype to generate textual descriptions of charts published in the Daily.",
     "ownerAcronym": "stats",

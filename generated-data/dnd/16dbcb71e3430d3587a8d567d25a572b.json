@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "19-2-2014",
-    "originalValue": 15875.82,
+    "originalValue": 0,
     "contractValue": 15875.82,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED. THIS CONTRACT IS A CALL-UP AGAINST A PUBLIC WORKS AND GOVERNMENT SERVICES PROCUREMENT TOOL.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q4",
     "sourceFilename": "dnd\/16dbcb71e3430d3587a8d567d25a572b.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2012&id=id134148",
-    "vendorClean": "VMWAREORPORATED"
+    "vendorClean": "VMWARE"
 }

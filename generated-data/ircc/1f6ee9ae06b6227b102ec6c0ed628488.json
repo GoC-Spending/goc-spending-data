@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2013,
     "deliveryDate": "",
-    "originalValue": 539845.66,
+    "originalValue": 0,
     "contractValue": 539845.66,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "ircc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "ircc\/1f6ee9ae06b6227b102ec6c0ed628488.html",
     "sourceURL": "http:\/\/www.cic.gc.ca\/disclosure-divulgation\/index-eng.aspx?dept=1&lang=eng&p=4&r=33&c=106",
-    "vendorClean": "ORACLE CORPORATION CANADAORPORATED"
+    "vendorClean": "ORACLE CANADA"
 }

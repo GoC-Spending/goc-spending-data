@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45308942",
-    "vendorName": "CHRIS TOSSELL,  ARCHITECT",
+    "vendorName": "CHRIS TOSSELL, ARCHITECT",
     "referenceNumber": "45308942",
     "contractDate": "2011\/12\/01",
     "description": "422 Engineering consultants - construction",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "2012\/03\/31",
-    "originalValue": 15130.7,
+    "originalValue": 0,
     "contractValue": 15130.7,
     "comments": "SSM De-commissioning of PH Washroom",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "pc\/78afdff2f4378a991a08cf081f3be6c2.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2011-2012&oqQUARTER=3&oqCONTRACT_ID=38133",
-    "vendorClean": "CHRIS TOSSELL  ARCHITECT"
+    "vendorClean": "CHRIS TOSSELL ARCHITECT"
 }

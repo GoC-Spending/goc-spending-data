@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501100585",
-    "vendorName": "AREO-FEU  Ltee",
+    "vendorName": "AREO-FEU Ltee",
     "referenceNumber": "4501100585",
     "contractDate": "25-10-2013",
     "description": "Marine Lifesaving and Diving Equipment",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "12-11-2013",
-    "originalValue": 10748.79,
+    "originalValue": 0,
     "contractValue": 10748.79,
     "comments": "This contract was competitively sourced.This contract is a call-up against a Public Works and Government Services procurement tool.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q3",
     "sourceFilename": "dnd\/16444bc39ea3b452b6d3ce306b2e02e0.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2013&id=id143801",
-    "vendorClean": "AREO-FEU  LTEE"
+    "vendorClean": "AREO-FEU LTEE"
 }

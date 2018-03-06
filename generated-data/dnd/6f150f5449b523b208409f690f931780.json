@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8482-116033\/001\/GRK",
-    "vendorName": "REPAIRCRAFT LTD               THE COMMON",
+    "vendorName": "REPAIRCRAFT LTD    THE COMMON",
     "referenceNumber": "W8482-116033\/001\/GRK",
     "contractDate": "8-2-2011",
     "description": "HOSE AND FLEXIBLE TUBING",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "8-2-2012",
-    "originalValue": 11269,
+    "originalValue": 0,
     "contractValue": 11269,
     "comments": "THIS CONTRACT WAS COMPETITIVELY SOURCED.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q4",
     "sourceFilename": "dnd\/6f150f5449b523b208409f690f931780.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2010&id=id90046",
-    "vendorClean": "REPAIRCRAFT               THE COMMON"
+    "vendorClean": "REPAIRCRAFT        THE COMMON"
 }

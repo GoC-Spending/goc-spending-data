@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45260417",
-    "vendorName": "ROWSWELL & ASSOCIATES  ENGINEERS LT",
+    "vendorName": "ROWSWELL & ASSOCIATES ENGINEERS LT",
     "referenceNumber": "45260417",
     "contractDate": "2009\/10\/02",
     "description": "422 Engineering consultants - construction",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "2010\/09\/30",
-    "originalValue": 279090,
+    "originalValue": 0,
     "contractValue": 279090,
     "comments": "Design, Construction Management. This contract contains one or more amendments.",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201011-Q1",
     "sourceFilename": "pc\/0665c4cda68968fbbdbe593df9504c87.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2010-2011&oqQUARTER=1&oqCONTRACT_ID=34672",
-    "vendorClean": "ROWSWELL & ASSOCIATES  ENGINEERS LT"
+    "vendorClean": "ROWSWELL & ASSOCIATES ENGINEERS LT"
 }

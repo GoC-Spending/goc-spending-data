@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/15",
-    "vendorName": "SHERBANIUK  MARTHA",
+    "vendorName": "SHERBANIUK MARTHA",
     "referenceNumber": "20-09-6088\/15",
     "contractDate": "9\/19\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 43318.8,
+    "originalValue": 0,
     "contractValue": 43318.8,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/676717459d57329be1dc28561c67c1e2.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct252-eng.asp",
-    "vendorClean": "SHERBANIUK  MARTHA"
+    "vendorClean": "SHERBANIUK MARTHA"
 }

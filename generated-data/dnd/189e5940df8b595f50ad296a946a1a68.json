@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8485-058767\/003\/BY",
-    "vendorName": "ROCKWELL INTL.  COLLINS AIR TRANSPORT DIV.",
+    "vendorName": "ROCKWELL INTL. COLLINS AIR TRANSPORT DIV.",
     "referenceNumber": "W8485-058767\/003\/BY",
     "contractDate": "19-5-2005",
     "description": "Resistors",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "20-12-2005",
-    "originalValue": 21309,
+    "originalValue": 0,
     "contractValue": 21309,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/189e5940df8b595f50ad296a946a1a68.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id12662",
-    "vendorClean": "ROCKWELL INTL  COLLINS AIR TRANSPORT DIV"
+    "vendorClean": "ROCKWELL INTL COLLINS AIR TRANSPORT DIV"
 }

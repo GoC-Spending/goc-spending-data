@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-28d4f36a64279105d77e38a0e98a957a",
-    "vendorName": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH",
+    "vendorName": "JOWA       FAHRZEUGTEILE-VERTRIEBS GMBH",
     "referenceNumber": "28d4f36a64279105d77e38a0e98a957a",
     "contractDate": "24-10-2011",
     "description": "Liquid and Gas Flow, Liquid Level and Mechanical Motion Measuring Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2012,
     "deliveryDate": "1-8-2012",
-    "originalValue": 16616,
+    "originalValue": 0,
     "contractValue": 16616,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q3",
     "sourceFilename": "dnd\/28d4f36a64279105d77e38a0e98a957a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2011&id=id106968",
-    "vendorClean": "JOWA                          FAHRZEUGTEILE-VERTRIEBS GMBH"
+    "vendorClean": "JOWA             FAHRZEUGTEILE-VERTRIEBS GMBH"
 }

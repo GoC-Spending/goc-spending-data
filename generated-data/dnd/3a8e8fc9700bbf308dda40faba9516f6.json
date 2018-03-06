@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "31-3-2009",
-    "originalValue": 104625,
+    "originalValue": 0,
     "contractValue": 104625,
     "comments": "This contract was competitively sourced. This contract is a result of an advance contract award notice.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200809-Q3",
     "sourceFilename": "dnd\/3a8e8fc9700bbf308dda40faba9516f6.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=3&y=2008&id=id51176",
-    "vendorClean": "TSIORPORATED"
+    "vendorClean": "TSI"
 }

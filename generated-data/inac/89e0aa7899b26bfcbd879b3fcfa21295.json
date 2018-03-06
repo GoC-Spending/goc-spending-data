@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-09-6088\/14",
-    "vendorName": "O CONNOR  CATHARINE",
+    "vendorName": "O CONNOR CATHARINE",
     "referenceNumber": "20-09-6088\/14",
     "contractDate": "9\/18\/2013",
     "description": "0492 - RESEARCH CONTRACTS",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 54254.13,
+    "originalValue": 0,
     "contractValue": 54254.13,
     "comments": "This contract was competitively sourced.\/This contract is a call-up against a departmental Standing Offer Agreement.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q2",
     "sourceFilename": "inac\/89e0aa7899b26bfcbd879b3fcfa21295.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q2\/ct229-eng.asp",
-    "vendorClean": "O CONNOR  CATHARINE"
+    "vendorClean": "O CONNOR CATHARINE"
 }

@@ -11,7 +11,7 @@
     "startYear": 2011,
     "endYear": 2011,
     "deliveryDate": "15-9-2011",
-    "originalValue": 10917.2,
+    "originalValue": 0,
     "contractValue": 10917.2,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q2",
     "sourceFilename": "dnd\/9aaac80898d478344303ae1b32c3998a.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2011&id=id102768",
-    "vendorClean": "1 X 1 ARCHITECTUREORPORATED"
+    "vendorClean": "1 X 1 ARCHITECTURE"
 }

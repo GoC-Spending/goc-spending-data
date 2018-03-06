@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-56684",
-    "vendorName": "CIMA+   (Quebec)",
+    "vendorName": "CIMA+ (Quebec)",
     "referenceNumber": "56684",
     "contractDate": "29-9-2014",
     "description": "Engineering Studies",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2015,
     "deliveryDate": "17-8-2015",
-    "originalValue": 279170,
+    "originalValue": 0,
     "contractValue": 279170,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q2",
     "sourceFilename": "dnd\/a8d601ac495c74053f486ff80745fbef.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2014&id=id156893",
-    "vendorClean": "CIMA+   (QUEBEC)"
+    "vendorClean": "CIMA+  (QUEBEC)"
 }

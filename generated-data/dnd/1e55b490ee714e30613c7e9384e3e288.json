@@ -11,7 +11,7 @@
     "startYear": 2007,
     "endYear": 2010,
     "deliveryDate": "31-3-2010",
-    "originalValue": 169600,
+    "originalValue": 0,
     "contractValue": 169600,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q1",
     "sourceFilename": "dnd\/1e55b490ee714e30613c7e9384e3e288.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2007&id=id24514",
-    "vendorClean": "ADVANCED SUBSONICSORPORATED"
+    "vendorClean": "ADVANCED SUBSONICS"
 }

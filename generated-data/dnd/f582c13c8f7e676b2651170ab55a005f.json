@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-4501254340",
-    "vendorName": "ECSCASE Protect  _ Composites",
+    "vendorName": "ECSCASE Protect _ Composites",
     "referenceNumber": "4501254340",
     "contractDate": "15-1-2015",
     "description": "Specialized Shipping and Storage Containers",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "15-1-2015",
-    "originalValue": 12871.78,
+    "originalValue": 0,
     "contractValue": 12871.78,
     "comments": "This contract was competitively sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/f582c13c8f7e676b2651170ab55a005f.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id162124",
-    "vendorClean": "ECSCASE PROTECT  _ COMPOSITES"
+    "vendorClean": "ECSCASE PROTECT _ COMPOSITES"
 }

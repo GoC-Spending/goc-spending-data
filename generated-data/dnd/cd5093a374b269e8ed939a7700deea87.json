@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-59104",
-    "vendorName": "LVM a division of EnGlobe      (Quebec)",
+    "vendorName": "LVM a division of EnGlobe  (Quebec)",
     "referenceNumber": "59104",
     "contractDate": "8-5-2015",
     "description": "Environmental Services",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "9-12-2015",
-    "originalValue": 186432.49,
+    "originalValue": 0,
     "contractValue": 186432.49,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "dnd\/cd5093a374b269e8ed939a7700deea87.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2015&id=id168093",
-    "vendorClean": "LVM A DIVISION OF ENGLOBE      (QUEBEC)"
+    "vendorClean": "LVM A DIVISION OF ENGLOBE   (QUEBEC)"
 }

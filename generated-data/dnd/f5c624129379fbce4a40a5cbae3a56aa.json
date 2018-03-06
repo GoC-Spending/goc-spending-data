@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W0125-12Q428\/001\/KIN",
-    "vendorName": "AMERICAN CHAMPION AIRCRAFT    CORP",
+    "vendorName": "AMERICAN CHAMPION AIRCRAFT CORP",
     "referenceNumber": "W0125-12Q428\/001\/KIN",
     "contractDate": "9-1-2012",
     "description": "Miscellaneous Aircraft Accessories and Components",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "9-3-2012",
-    "originalValue": 21469,
+    "originalValue": 0,
     "contractValue": 21469,
     "comments": "This item contains one or more amendments.This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/f5c624129379fbce4a40a5cbae3a56aa.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id110661",
-    "vendorClean": "AMERICAN CHAMPION AIRCRAFT    CORP"
+    "vendorClean": "AMERICAN CHAMPION AIRCRAFT  CORP"
 }

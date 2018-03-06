@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-53796",
-    "vendorName": "Mario  Deneigement Desaulniers",
+    "vendorName": "Mario Deneigement Desaulniers",
     "referenceNumber": "53796",
     "contractDate": "14-5-2013",
     "description": "Custodial Services",
@@ -11,7 +11,7 @@
     "startYear": 2013,
     "endYear": 2013,
     "deliveryDate": "30-9-2013",
-    "originalValue": 17525,
+    "originalValue": 0,
     "contractValue": 17525,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q1",
     "sourceFilename": "dnd\/2df6ef9f8224e248b95d2e57f42e7c07.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2013&id=id137479",
-    "vendorClean": "MARIO  DENEIGEMENT DESAULNIERS"
+    "vendorClean": "MARIO DENEIGEMENT DESAULNIERS"
 }

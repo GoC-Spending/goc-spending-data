@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-dd00a2ed9544177250c2e873eb265264",
-    "vendorName": "Eagle Vision  Leadership and Training Solutions",
+    "vendorName": "Eagle Vision Leadership and Training Solutions",
     "referenceNumber": "dd00a2ed9544177250c2e873eb265264",
     "contractDate": "7-1-2015",
     "description": "Cross-Cultural Training",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "14-2-2015",
-    "originalValue": 24273.87,
+    "originalValue": 0,
     "contractValue": 24273.87,
     "comments": "This item contains one or more amendments. This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201415-Q4",
     "sourceFilename": "dnd\/dd00a2ed9544177250c2e873eb265264.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2014&id=id161761",
-    "vendorClean": "EAGLE VISION  LEADERSHIP AND TRAINING SOLUTIONS"
+    "vendorClean": "EAGLE VISION LEADERSHIP AND TRAINING SOLUTIONS"
 }

@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8484-08MT71\/001\/HN",
-    "vendorName": "\"Faro Technologies, Inc.                                               \"",
+    "vendorName": "\"Faro Technologies, Inc.            \"",
     "referenceNumber": "W8484-08MT71\/001\/HN",
     "contractDate": "8-2-2008",
     "description": "Electrical and Electronic Properties Measuring and Testing Instruments",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2009,
     "deliveryDate": "8-2-2009",
-    "originalValue": 130690,
+    "originalValue": 0,
     "contractValue": 130690,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/390ef88c775ae4410659cf9d4139a8dd.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40052",
-    "vendorClean": "\"FARO TECHNOLOGIES                                               \""
+    "vendorClean": "\"FARO TECHNOLOGIES                        \""
 }

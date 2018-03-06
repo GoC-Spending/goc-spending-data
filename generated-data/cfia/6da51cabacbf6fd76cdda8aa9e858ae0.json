@@ -1,6 +1,6 @@
 {
     "uuid": "cfia-3000481714",
-    "vendorName": "MAX DIGITAL  BROADCASTING",
+    "vendorName": "MAX DIGITAL BROADCASTING",
     "referenceNumber": "3000481714",
     "contractDate": "2012-05-23",
     "description": "Telecommunications Services 227 - Other Communications Services",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "",
-    "originalValue": 10117,
+    "originalValue": 0,
     "contractValue": 10117,
     "comments": "This contract was sole-sourced.",
     "ownerAcronym": "cfia",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201213-Q1",
     "sourceFilename": "cfia\/6da51cabacbf6fd76cdda8aa9e858ae0.html",
     "sourceURL": "http:\/\/www.inspection.gc.ca\/active\/scripts\/agen\/proactive\/contra\/contrarport.asp?lang=e&yr=2012-2013&q=1&contraID=11581&yid=9",
-    "vendorClean": "MAX DIGITAL  BROADCASTING"
+    "vendorClean": "MAX DIGITAL BROADCASTING"
 }

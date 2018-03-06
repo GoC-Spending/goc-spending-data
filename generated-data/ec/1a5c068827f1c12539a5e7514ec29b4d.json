@@ -1,6 +1,6 @@
 {
     "uuid": "ec-K7A41-09-0062",
-    "vendorName": "ANDREW MAZEIKIS,  ANDREW LEE",
+    "vendorName": "ANDREW MAZEIKIS, ANDREW LEE",
     "referenceNumber": "K7A41-09-0062",
     "contractDate": "2010-02-19",
     "description": "0491 Other Prof. Serv. - Management consulting - OGD or programs",
@@ -11,14 +11,14 @@
     "startYear": 2010,
     "endYear": 2010,
     "deliveryDate": "",
-    "originalValue": 31490,
+    "originalValue": 0,
     "contractValue": 31490,
-    "comments": "Original Amount $23450.00  This contract includes one or more amendments.",
+    "comments": "Original Amount $23450.00 This contract includes one or more amendments.",
     "ownerAcronym": "ec",
     "sourceYear": 2009,
     "sourceQuarter": 4,
     "sourceFiscal": "200910-Q4",
     "sourceFilename": "ec\/1a5c068827f1c12539a5e7514ec29b4d.html",
     "sourceURL": "http:\/\/www.ec.gc.ca\/contracts-contrats\/index.cfm?lang=En&state=detail&id=28740&quarter=4&fiscal=2009%2C%202010",
-    "vendorClean": "ANDREW MAZEIKIS  ANDREW LEE"
+    "vendorClean": "ANDREW MAZEIKIS ANDREW LEE"
 }

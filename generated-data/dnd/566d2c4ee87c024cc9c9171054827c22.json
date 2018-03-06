@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-MH0023",
-    "vendorName": "NOCO LUBRICANTS           059369",
+    "vendorName": "NOCO LUBRICANTS   059369",
     "referenceNumber": "MH0023",
     "contractDate": "20-6-2005",
     "description": "7410 V1 TOOLS & EQP'T INCLUDING HAND TOOLS & CUTTING INS",
@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "22-6-2005",
-    "originalValue": 11689,
+    "originalValue": 0,
     "contractValue": 11689,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q1",
     "sourceFilename": "dnd\/566d2c4ee87c024cc9c9171054827c22.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=1&y=2005&id=id13020",
-    "vendorClean": "NOCO LUBRICANTS           059369"
+    "vendorClean": "NOCO LUBRICANTS      059369"
 }

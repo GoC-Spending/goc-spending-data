@@ -11,7 +11,7 @@
     "startYear": 2005,
     "endYear": 2005,
     "deliveryDate": "21-10-2005",
-    "originalValue": 18733,
+    "originalValue": 0,
     "contractValue": 18733,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200506-Q2",
     "sourceFilename": "dnd\/d0a07a4787983dd320433bf267ec1875.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2005&id=id13816",
-    "vendorClean": "CANTWELL CULLEN & COMPANYORPORATED"
+    "vendorClean": "CANTWELL CULLEN & COMPANY"
 }

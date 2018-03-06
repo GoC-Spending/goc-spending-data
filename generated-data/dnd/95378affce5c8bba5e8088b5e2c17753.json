@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W8474-099136\/001\/EE",
-    "vendorName": "NATO MAINTENANCE AND SUPPLY   AGENCY (NAMSA)",
+    "vendorName": "NATO MAINTENANCE AND SUPPLY AGENCY (NAMSA)",
     "referenceNumber": "W8474-099136\/001\/EE",
     "contractDate": "12-8-2009",
     "description": "ADP Software",
@@ -11,7 +11,7 @@
     "startYear": 2009,
     "endYear": 2010,
     "deliveryDate": "11-8-2010",
-    "originalValue": 11697,
+    "originalValue": 0,
     "contractValue": 11697,
     "comments": "This contract was sole sourced.",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200910-Q2",
     "sourceFilename": "dnd\/95378affce5c8bba5e8088b5e2c17753.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=2&y=2009&id=id63989",
-    "vendorClean": "NATO MAINTENANCE AND SUPPLY   AGENCY (NAMSA)"
+    "vendorClean": "NATO MAINTENANCE AND SUPPLY  AGENCY (NAMSA)"
 }

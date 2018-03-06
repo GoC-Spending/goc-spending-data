@@ -1,6 +1,6 @@
 {
     "uuid": "esdc-7417-07-0018",
-    "vendorName": "DARCI LANG -  XL ENTERPRISES",
+    "vendorName": "DARCI LANG - XL ENTERPRISES",
     "referenceNumber": "7417-07-0018",
     "contractDate": "2008-01-15",
     "description": "491 Management Consulting",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "N\/A",
-    "originalValue": 31250,
+    "originalValue": 0,
     "contractValue": 31250,
     "comments": "N\/A",
     "ownerAcronym": "esdc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "esdc\/6a6a0cbcaa080c5bbefbf0686b1d5037.html",
     "sourceURL": "http:\/\/disclosure.esdc.gc.ca\/dp-pd\/dtlcdn-eng.jsp?section=2&id=2668&employeepositionid=null&site=1&startdate=2008-01-01&enddate=2008-03-31&quarterid=8#place52",
-    "vendorClean": "DARCI LANG  XL ENTERPRISES"
+    "vendorClean": "DARCI LANG XL ENTERPRISES"
 }

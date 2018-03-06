@@ -1,6 +1,6 @@
 {
     "uuid": "pc-45357941",
-    "vendorName": "GREENLAND WASTE  DISPOSAL",
+    "vendorName": "GREENLAND WASTE DISPOSAL",
     "referenceNumber": "45357941",
     "contractDate": "2015\/05\/27",
     "description": "705 Waste Disposal",
@@ -11,7 +11,7 @@
     "startYear": 2015,
     "endYear": 2015,
     "deliveryDate": "2015\/09\/30",
-    "originalValue": 12600,
+    "originalValue": 0,
     "contractValue": 12600,
     "comments": "Roll off container services",
     "ownerAcronym": "pc",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201516-Q1",
     "sourceFilename": "pc\/10ad14a2044a04f98626d698c011bda5.html",
     "sourceURL": "http:\/\/www.pc.gc.ca\/apps\/pdc\/index_E.asp?oqYEAR=2015-2016&oqQUARTER=1&oqCONTRACT_ID=47032",
-    "vendorClean": "GREENLAND WASTE  DISPOSAL"
+    "vendorClean": "GREENLAND WASTE DISPOSAL"
 }

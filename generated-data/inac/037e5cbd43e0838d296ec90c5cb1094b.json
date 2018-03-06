@@ -1,6 +1,6 @@
 {
     "uuid": "inac-20-13-0192",
-    "vendorName": "ABORIGINAL AFFAIRS GROUP INC  THE",
+    "vendorName": "ABORIGINAL AFFAIRS GROUP INC THE",
     "referenceNumber": "20-13-0192",
     "contractDate": "2\/11\/2014",
     "description": "0491 - MANAGEMENT CONSULTING",
@@ -11,7 +11,7 @@
     "startYear": 2014,
     "endYear": 2014,
     "deliveryDate": "",
-    "originalValue": 24931.21,
+    "originalValue": 0,
     "contractValue": 24931.21,
     "comments": "PROFESSIONAL SERVICES\/This contract was sole-sourced.",
     "ownerAcronym": "inac",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201314-Q4",
     "sourceFilename": "inac\/037e5cbd43e0838d296ec90c5cb1094b.html",
     "sourceURL": "\/prodis\/cntrcts\/13-14-q4\/ct154-eng.asp",
-    "vendorClean": "ABORIGINAL AFFAIRS GROUP  THE"
+    "vendorClean": "ABORIGINAL AFFAIRS GROUP THE"
 }

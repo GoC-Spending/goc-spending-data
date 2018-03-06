@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-50291",
-    "vendorName": "Genivar Inc.    (Dartmouth)",
+    "vendorName": "Genivar Inc. (Dartmouth)",
     "referenceNumber": "50291",
     "contractDate": "9-3-2012",
     "description": "Environmental Studies",
@@ -11,7 +11,7 @@
     "startYear": 2012,
     "endYear": 2012,
     "deliveryDate": "31-3-2012",
-    "originalValue": 16995,
+    "originalValue": 0,
     "contractValue": 16995,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "201112-Q4",
     "sourceFilename": "dnd\/51645d148cf88449d52b84067504c465.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2011&id=id114425",
-    "vendorClean": "GENIVAR    (DARTMOUTH)"
+    "vendorClean": "GENIVAR  (DARTMOUTH)"
 }

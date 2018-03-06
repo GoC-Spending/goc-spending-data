@@ -1,6 +1,6 @@
 {
     "uuid": "dnd-W3999-08M549\/001\/VIC",
-    "vendorName": "\"Advanced Interactive Systems,                                         \"",
+    "vendorName": "\"Advanced Interactive Systems,           \"",
     "referenceNumber": "W3999-08M549\/001\/VIC",
     "contractDate": "5-3-2008",
     "description": "Training Aids",
@@ -11,7 +11,7 @@
     "startYear": 2008,
     "endYear": 2008,
     "deliveryDate": "31-3-2008",
-    "originalValue": 538336,
+    "originalValue": 0,
     "contractValue": 538336,
     "comments": "",
     "ownerAcronym": "dnd",
@@ -20,5 +20,5 @@
     "sourceFiscal": "200708-Q4",
     "sourceFilename": "dnd\/1aec81cda22c8ed0f92a3e4cfd8f03e1.html",
     "sourceURL": "http:\/\/www.admfincs.forces.gc.ca\/apps\/dc\/contract-contrat-eng.asp?q=4&y=2007&id=id40359",
-    "vendorClean": "\"ADVANCED INTERACTIVE SYSTEMS                                         \""
+    "vendorClean": "\"ADVANCED INTERACTIVE SYSTEMS                     \""
 }
